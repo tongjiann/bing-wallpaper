@@ -4,8 +4,7 @@
 name: Java CI with Maven
 
 on:
-  push:
-    branches: [ main ]
+  workflow_dispatch:
   schedule:
     - cron:  '2 7 * * *'
     # 每天中国时间0点2分 (UTC时间前一天16点2分)
@@ -32,8 +31,8 @@ jobs:
       run: java -jar target/bing-wallpaper-jar-with-dependencies.jar
     - name: Commit files
       run: |
-         git config --local user.email "niumoo@126.com"
-         git config --local user.name "niumoo"
+         git config --local user.email "tongjiann@gmail.com"
+         git config --local user.name "tongjiann"
          git pull
          git add README.md
          git add bing-wallpaper.md

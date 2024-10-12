@@ -22,6 +22,9 @@ import java.util.stream.Collectors;
 public class BingFileUtils {
 
     public static Path README_PATH = Paths.get("README.md");
+
+    public static Path FEED_PATH = Paths.get("docs/FEED");
+
     public static Path BING_PATH = Paths.get("bing-wallpaper.md");
 
     public static Path MONTH_PATH = Paths.get("picture/");
@@ -223,6 +226,64 @@ public class BingFileUtils {
         if (i % 3 != 1) {
             Files.write(path, "|".getBytes(), StandardOpenOption.APPEND);
         }
+    }
+
+    public static void writeFeed(List<Images> imgList) throws IOException {
+        if (!Files.exists(FEED_PATH)) {
+            Files.createFile(FEED_PATH);
+        }
+        StringBuilder rssBuilder = new StringBuilder();
+        String baseUrl = "https://cn.bing.com";
+
+        // RSS header
+        rssBuilder.append("<?xml version=\"1.0\" encoding=\"UTF-8\"?>").append(System.lineSeparator());
+        rssBuilder.append("<rss version=\"2.0\">").append(System.lineSeparator());
+        rssBuilder.append("  <channel>").append(System.lineSeparator());
+        rssBuilder.append("    <title>Bing Wallpapers</title>").append(System.lineSeparator());
+        rssBuilder.append("    <link>").append(baseUrl).append("</link>").append(System.lineSeparator());
+        rssBuilder.append("    <lastBuildDate>").append(imgList.get(0).getDate()).append("</lastBuildDate>").append(System.lineSeparator());
+        rssBuilder.append("    <description>Latest Bing Wallpapers</description>").append(System.lineSeparator());
+
+        // Loop through images and add each as an RSS item
+        for (Images image : imgList) {
+            rssBuilder.append("    <item>").append(System.lineSeparator());
+            rssBuilder.append("      <title>")
+                    .append(image.getDesc())
+                    .append("</title>")
+                    .append(System.lineSeparator());
+            String photoUrl = image.getUrl().replaceAll("(.*?_UHD.jpg)&.*", "$1");
+            rssBuilder.append("      <link>")
+                    .append(photoUrl)
+                    .append("</link>")
+                    .append(System.lineSeparator());
+            rssBuilder.append("      <enclosure url=\"")
+                    .append(photoUrl)
+                    .append("\" type=\"image/jpeg\"/>")
+                    .append(System.lineSeparator());
+            rssBuilder.append("      <enclosure url=\"")
+                    .append(photoUrl)
+                    .append("\" type=\"image/jpg\"/>")
+                    .append(System.lineSeparator());
+
+            rssBuilder.append("      <description>")
+                    .append(image.getDesc())
+                    .append("</description>")
+                    .append(System.lineSeparator());
+            rssBuilder.append("      <pubDate>")
+                    .append(image.getDate())
+                    .append("</pubDate>")
+                    .append(System.lineSeparator());
+            rssBuilder.append("    </item>").append(System.lineSeparator());
+        }
+
+        // RSS footer
+        rssBuilder.append("  </channel>").append(System.lineSeparator());
+        rssBuilder.append("</rss>");
+
+        // Write the RSS content to the file
+        Files.write(FEED_PATH, rssBuilder.toString().getBytes(), StandardOpenOption.TRUNCATE_EXISTING);
+
+        LogUtils.log("write RSS feed,path:%s,size:%d", FEED_PATH.toString(), imgList.size());
     }
 
 }

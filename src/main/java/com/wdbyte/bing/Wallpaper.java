@@ -58,6 +58,7 @@ public class Wallpaper {
             BingFileUtils.writeBing(imagesList);
             BingFileUtils.writeReadme(imagesList);
             BingFileUtils.writeMonthInfo(imagesList);
+            BingFileUtils.writeFeed(imagesList);
             new WebSiteGenerator().htmlGenerator();
         }
     }
