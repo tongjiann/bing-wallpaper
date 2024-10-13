@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Bing Wallpapers</title>
+    <link>https://cn.bing.com</link>
+    <lastBuildDate>2024-10-13</lastBuildDate>
+    <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>Wood duck, Quebec, Canada (© Maxime Riendeau/Getty Images)</title>
+      <link>https://cn.bing.com/th?id=OHR.QuebecDuck_EN-US9387855720_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.QuebecDuck_EN-US9387855720_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.QuebecDuck_EN-US9387855720_UHD.jpg" type="image/jpg"/>
+      <description>Wood duck, Quebec, Canada (© Maxime Riendeau/Getty Images)</description>
+      <pubDate>2024-10-13</pubDate>
+    </item>
+  </channel>
+</rss>
