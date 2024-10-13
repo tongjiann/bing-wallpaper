@@ -96,15 +96,15 @@ public class BingFileUtils {
         for (int i = 3; i < allLines.size(); i++) {
             String content = allLines.get(i);
             Arrays.stream(content.split("\\|"))
-                .filter(s -> !s.isEmpty())
-                .map(s -> {
-                    int dateStartIndex = s.indexOf("[", 3) + 1;
-                    int urlStartIndex = s.indexOf("(", 4) + 1;
-                    String date = s.substring(dateStartIndex, dateStartIndex + 10);
-                    String url = s.substring(urlStartIndex, s.length() - 1);
-                    return new Images(null, date, url);
-                })
-                .forEach(imgList::add);
+                    .filter(s -> !s.isEmpty())
+                    .map(s -> {
+                        int dateStartIndex = s.indexOf("[", 3) + 1;
+                        int urlStartIndex = s.indexOf("(", 4) + 1;
+                        String date = s.substring(dateStartIndex, dateStartIndex + 10);
+                        String url = s.substring(urlStartIndex, s.length() - 1);
+                        return new Images(null, date, url);
+                    })
+                    .forEach(imgList::add);
         }
         return imgList;
     }
@@ -132,10 +132,10 @@ public class BingFileUtils {
         Files.write(README_PATH, "### 历史归档：".getBytes(), StandardOpenOption.APPEND);
         Files.write(README_PATH, System.lineSeparator().getBytes(), StandardOpenOption.APPEND);
         List<String> dateList = imgList.stream()
-            .map(Images::getDate)
-            .map(date -> date.substring(0, 7))
-            .distinct()
-            .collect(Collectors.toList());
+                .map(Images::getDate)
+                .map(date -> date.substring(0, 7))
+                .distinct()
+                .collect(Collectors.toList());
         int i = 0;
         for (String date : dateList) {
             String link = String.format("[%s](/%s/%s/) | ", date, MONTH_PATH.toString(), date);
@@ -248,7 +248,7 @@ public class BingFileUtils {
         for (Images image : imgList) {
             rssBuilder.append("    <item>").append(System.lineSeparator());
             rssBuilder.append("      <title>")
-                    .append(image.getDesc())
+                    .append(image.getDesc().replace("&","&amp;"))
                     .append("</title>")
                     .append(System.lineSeparator());
             String photoUrl = image.getUrl().replaceAll("(.*?_UHD.jpg)&.*", "$1");
@@ -266,7 +266,7 @@ public class BingFileUtils {
                     .append(System.lineSeparator());
 
             rssBuilder.append("      <description>")
-                    .append(image.getDesc())
+                    .append(image.getDesc().replace("&","&amp;"))
                     .append("</description>")
                     .append(System.lineSeparator());
             rssBuilder.append("      <pubDate>")
