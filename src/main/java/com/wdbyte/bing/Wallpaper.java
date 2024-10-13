@@ -23,7 +23,6 @@ public class Wallpaper {
 
     // BING API
     private static final String BING_API_TEMPLATE = "https://global.bing.com/HPImageArchive.aspx?format=js&idx=0&n=9&pid=hp&FORM=BEHPTB&uhd=1&uhdwidth=3840&uhdheight=2160&setmkt=%s&setlang=en";
-    private static String BING_API = "https://cn.bing.com/HPImageArchive.aspx?format=js&idx=0&n=10&nc=1612409408851&pid=hp&FORM=BEHPTB&uhd=1&uhdwidth=3840&uhdheight=2160";
 
     private static String BING_URL = "https://cn.bing.com";
 
@@ -65,15 +64,17 @@ public class Wallpaper {
 
     public static void changeConfig(String region) {
         region = region.toLowerCase();
-        if ("en-us".equalsIgnoreCase(region)) {
+        if ("zh-cn".equalsIgnoreCase(region)) {
             BingFileUtils.README_PATH = Paths.get("README.md");
             BingFileUtils.BING_PATH = Paths.get("bing-wallpaper.md");
             BingFileUtils.MONTH_PATH = Paths.get("picture/");
+            BingFileUtils.FEED_PATH = Paths.get("docs/wp_feed.xml");
             HtmlFileUtils.BING_HTML_ROOT = Paths.get("docs/");
         } else {
             BingFileUtils.README_PATH = Paths.get(region + "/README.md");
             BingFileUtils.BING_PATH = Paths.get(region + "/bing-wallpaper.md");
             BingFileUtils.MONTH_PATH = Paths.get(region + "/picture/");
+            BingFileUtils.FEED_PATH = Paths.get("docs/" + region + "/wp_feed");
             HtmlFileUtils.BING_HTML_ROOT = Paths.get("docs/" + region + "/");
         }
     }

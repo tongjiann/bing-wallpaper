@@ -23,7 +23,7 @@ public class BingFileUtils {
 
     public static Path README_PATH = Paths.get("README.md");
 
-    public static Path FEED_PATH = Paths.get("docs/FEED");
+    public static Path FEED_PATH = Paths.get("docs/wp_feed.xml");
 
     public static Path BING_PATH = Paths.get("bing-wallpaper.md");
 
