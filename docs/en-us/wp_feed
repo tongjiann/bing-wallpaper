@@ -3,15 +3,15 @@
   <channel>
     <title>Bing Wallpapers</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2024-10-14</lastBuildDate>
+    <lastBuildDate>2024-10-15</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
     <item>
-      <title>Courtyard of the Maidens, Alcázar of Seville, Spain (© Danny Lehman/Getty Images)</title>
-      <link>https://cn.bing.com/th?id=OHR.AlcazarSeville_EN-US9523655289_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.AlcazarSeville_EN-US9523655289_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.AlcazarSeville_EN-US9523655289_UHD.jpg" type="image/jpg"/>
-      <description>Courtyard of the Maidens, Alcázar of Seville, Spain (© Danny Lehman/Getty Images)</description>
-      <pubDate>2024-10-14</pubDate>
+      <title>Ancestral Pueblo granaries at Nankoweap, Grand Canyon National Park, Arizona (© Andrew Peacock/Tandem Stills + Motion)</title>
+      <link>https://cn.bing.com/th?id=OHR.PuebloNankoweap_EN-US9631367700_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.PuebloNankoweap_EN-US9631367700_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.PuebloNankoweap_EN-US9631367700_UHD.jpg" type="image/jpg"/>
+      <description>Ancestral Pueblo granaries at Nankoweap, Grand Canyon National Park, Arizona (© Andrew Peacock/Tandem Stills + Motion)</description>
+      <pubDate>2024-10-15</pubDate>
     </item>
   </channel>
 </rss>
