@@ -3,15 +3,15 @@
   <channel>
     <title>Bing Wallpapers</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2024-10-18</lastBuildDate>
+    <lastBuildDate>2024-10-19</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
     <item>
-      <title>Frost-covered dunes on the surface of Mars (© NASA/JPL-Caltech/UArizona)</title>
-      <link>https://cn.bing.com/th?id=OHR.MarsDunes_EN-US3465209450_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.MarsDunes_EN-US3465209450_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.MarsDunes_EN-US3465209450_UHD.jpg" type="image/jpg"/>
-      <description>Frost-covered dunes on the surface of Mars (© NASA/JPL-Caltech/UArizona)</description>
-      <pubDate>2024-10-18</pubDate>
+      <title>Autumn in Central Park, Manhattan, New York (© mapman/Shutterstock)</title>
+      <link>https://cn.bing.com/th?id=OHR.CentralParkAutumn_EN-US2354288950_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.CentralParkAutumn_EN-US2354288950_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.CentralParkAutumn_EN-US2354288950_UHD.jpg" type="image/jpg"/>
+      <description>Autumn in Central Park, Manhattan, New York (© mapman/Shutterstock)</description>
+      <pubDate>2024-10-19</pubDate>
     </item>
   </channel>
 </rss>
