@@ -3,15 +3,15 @@
   <channel>
     <title>Bing Wallpapers</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2024-10-19</lastBuildDate>
+    <lastBuildDate>2024-10-20</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
     <item>
-      <title>Autumn in Central Park, Manhattan, New York (© mapman/Shutterstock)</title>
-      <link>https://cn.bing.com/th?id=OHR.CentralParkAutumn_EN-US2354288950_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.CentralParkAutumn_EN-US2354288950_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.CentralParkAutumn_EN-US2354288950_UHD.jpg" type="image/jpg"/>
-      <description>Autumn in Central Park, Manhattan, New York (© mapman/Shutterstock)</description>
-      <pubDate>2024-10-19</pubDate>
+      <title>Temple of Hathor, Dendera Temple Complex, Qena, Egypt (© Nick Brundle Photography/Getty Images)</title>
+      <link>https://cn.bing.com/th?id=OHR.DenderaTemple_EN-US2605709637_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.DenderaTemple_EN-US2605709637_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.DenderaTemple_EN-US2605709637_UHD.jpg" type="image/jpg"/>
+      <description>Temple of Hathor, Dendera Temple Complex, Qena, Egypt (© Nick Brundle Photography/Getty Images)</description>
+      <pubDate>2024-10-20</pubDate>
     </item>
   </channel>
 </rss>
