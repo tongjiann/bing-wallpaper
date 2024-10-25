@@ -239,12 +239,16 @@ public class BingFileUtils {
         rssBuilder.append("<?xml version=\"1.0\" encoding=\"UTF-8\"?>").append(System.lineSeparator());
         rssBuilder.append("<rss version=\"2.0\">").append(System.lineSeparator());
         rssBuilder.append("  <channel>").append(System.lineSeparator());
-        rssBuilder.append("    <title>Bing Wallpapers</title>").append(System.lineSeparator());
+        rssBuilder.append("    <title>近30日Bing超高清壁纸</title>").append(System.lineSeparator());
         rssBuilder.append("    <link>").append(baseUrl).append("</link>").append(System.lineSeparator());
         rssBuilder.append("    <lastBuildDate>").append(imgList.get(0).getDate()).append("</lastBuildDate>").append(System.lineSeparator());
         rssBuilder.append("    <description>Latest Bing Wallpapers</description>").append(System.lineSeparator());
 
         // Loop through images and add each as an RSS item
+        int size = imgList.size();
+        if (size > 20) {
+            imgList = imgList.subList(0, 20);
+        }
         for (Images image : imgList) {
             rssBuilder.append("    <item>").append(System.lineSeparator());
             rssBuilder.append("      <title>")
@@ -283,7 +287,7 @@ public class BingFileUtils {
         // Write the RSS content to the file
         Files.write(FEED_PATH, rssBuilder.toString().getBytes(), StandardOpenOption.TRUNCATE_EXISTING);
 
-        LogUtils.log("write RSS feed,path:%s,size:%d", FEED_PATH.toString(), imgList.size());
+        LogUtils.log("write RSS feed,path:%s,size:%d", FEED_PATH.toString(), size);
     }
 
 }
