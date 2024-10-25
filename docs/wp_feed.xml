@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2024-10-25</lastBuildDate>
+    <lastBuildDate>2024-10-26</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>幽灵森林，宁哈根，梅克伦堡-西波美拉尼亚，德国 (© mauritius images GmbH/Alamy Stock Photo)</title>
+      <link>https://cn.bing.com/th?id=OHR.GhostForest_ZH-CN9648216213_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.GhostForest_ZH-CN9648216213_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.GhostForest_ZH-CN9648216213_UHD.jpg" type="image/jpg"/>
+      <description>幽灵森林，宁哈根，梅克伦堡-西波美拉尼亚，德国 (© mauritius images GmbH/Alamy Stock Photo)</description>
+      <pubDate>2024-10-26</pubDate>
+    </item>
     <item>
       <title>沙��尼的勃朗峰，法国 (© Simon Schöpf/Getty Images)</title>
       <link>https://cn.bing.com/th?id=OHR.MontBlancMassif_ZH-CN9172264924_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.AspensColorado_ZH-CN0132780533_UHD.jpg" type="image/jpg"/>
       <description>马布尔附近的白杨树，科罗拉多州，美国 (© Jason Hatfield/TANDEM Stills + Motion)</description>
       <pubDate>2024-10-09</pubDate>
-    </item>
-    <item>
-      <title>莫托提两鳍蛸，蓝碧海峡，印度尼西亚 (© Howard Chew/Alamy Stock Photo)</title>
-      <link>https://cn.bing.com/th?id=OHR.MototiOctopus_ZH-CN5778894536_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.MototiOctopus_ZH-CN5778894536_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.MototiOctopus_ZH-CN5778894536_UHD.jpg" type="image/jpg"/>
-      <description>莫托提两鳍蛸，蓝碧海峡，印度尼西亚 (© Howard Chew/Alamy Stock Photo)</description>
-      <pubDate>2024-10-08</pubDate>
     </item>
   </channel>
 </rss>
