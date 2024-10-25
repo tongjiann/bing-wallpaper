@@ -3,15 +3,15 @@
   <channel>
     <title>Bing Wallpapers</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2024-10-25</lastBuildDate>
+    <lastBuildDate>2024-10-26</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
     <item>
-      <title>Bodie State Historic Park, Mono County, California (© Julien McRoberts/Tetra Images, LLC/Alamy)</title>
-      <link>https://cn.bing.com/th?id=OHR.BodieCalifornia_EN-US3185568116_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.BodieCalifornia_EN-US3185568116_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.BodieCalifornia_EN-US3185568116_UHD.jpg" type="image/jpg"/>
-      <description>Bodie State Historic Park, Mono County, California (© Julien McRoberts/Tetra Images, LLC/Alamy)</description>
-      <pubDate>2024-10-25</pubDate>
+      <title>The Mont Blanc massif, near Chamonix, France (© Simon Schöpf/Getty Images)</title>
+      <link>https://cn.bing.com/th?id=OHR.MontBlancMassif_EN-US3284638409_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.MontBlancMassif_EN-US3284638409_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.MontBlancMassif_EN-US3284638409_UHD.jpg" type="image/jpg"/>
+      <description>The Mont Blanc massif, near Chamonix, France (© Simon Schöpf/Getty Images)</description>
+      <pubDate>2024-10-26</pubDate>
     </item>
   </channel>
 </rss>
