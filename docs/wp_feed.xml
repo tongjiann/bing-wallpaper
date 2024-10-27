@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2024-10-27</lastBuildDate>
+    <lastBuildDate>2024-10-28</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>南瓜田，维多利亚，不列颠哥伦比亚省，加拿大 (© Shaun Cunningham/Alamy Stock Photo)</title>
+      <link>https://cn.bing.com/th?id=OHR.PumpkinMist_ZH-CN0898655859_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.PumpkinMist_ZH-CN0898655859_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.PumpkinMist_ZH-CN0898655859_UHD.jpg" type="image/jpg"/>
+      <description>南瓜田，维多利亚，不列颠哥伦比亚省，加拿大 (© Shaun Cunningham/Alamy Stock Photo)</description>
+      <pubDate>2024-10-28</pubDate>
+    </item>
     <item>
       <title>北极熊与幼崽，丘吉尔，曼尼托巴，加拿大 (© Design Pics/plainpicture)</title>
       <link>https://cn.bing.com/th?id=OHR.PolarBearHug_ZH-CN0696077546_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.Chongyang2024_ZH-CN4180097837_UHD.jpg" type="image/jpg"/>
       <description>黄山云海，安徽省，中国 (© yangyang1991/Getty Images)</description>
       <pubDate>2024-10-11</pubDate>
-    </item>
-    <item>
-      <title>索拉诺，托斯卡纳，意大利 (© Luigi Vaccarella/eStock Photo)</title>
-      <link>https://cn.bing.com/th?id=OHR.SoranoItaly_ZH-CN5842160079_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.SoranoItaly_ZH-CN5842160079_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.SoranoItaly_ZH-CN5842160079_UHD.jpg" type="image/jpg"/>
-      <description>索拉诺，托斯卡纳，意大利 (© Luigi Vaccarella/eStock Photo)</description>
-      <pubDate>2024-10-10</pubDate>
     </item>
   </channel>
 </rss>
