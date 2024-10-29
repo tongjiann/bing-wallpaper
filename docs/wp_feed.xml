@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2024-10-29</lastBuildDate>
+    <lastBuildDate>2024-10-30</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>从苏格兰教堂墓地眺望爱丁堡城堡，英国 (© Chris Dorney/Alamy Stock Photo)</title>
+      <link>https://cn.bing.com/th?id=OHR.HauntedEdinburgh_ZH-CN1461834159_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.HauntedEdinburgh_ZH-CN1461834159_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.HauntedEdinburgh_ZH-CN1461834159_UHD.jpg" type="image/jpg"/>
+      <description>从苏格兰教堂墓地眺望爱丁堡城堡，英国 (© Chris Dorney/Alamy Stock Photo)</description>
+      <pubDate>2024-10-30</pubDate>
+    </item>
     <item>
       <title>大雕鸮 (© Mark Newman/Getty Images)</title>
       <link>https://cn.bing.com/th?id=OHR.GreatOwl_ZH-CN1259534922_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.AlcazarSeville_ZH-CN5581795099_UHD.jpg" type="image/jpg"/>
       <description>塞维利亚王宫少女庭院，西班牙 (© Danny Lehman/Getty Images)</description>
       <pubDate>2024-10-13</pubDate>
-    </item>
-    <item>
-      <title>林鸳鸯，魁北克省，加拿大 (© Maxime Riendeau/Getty Images)</title>
-      <link>https://cn.bing.com/th?id=OHR.QuebecDuck_ZH-CN0588954873_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.QuebecDuck_ZH-CN0588954873_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.QuebecDuck_ZH-CN0588954873_UHD.jpg" type="image/jpg"/>
-      <description>林鸳鸯，魁北克省，加拿大 (© Maxime Riendeau/Getty Images)</description>
-      <pubDate>2024-10-12</pubDate>
     </item>
   </channel>
 </rss>
