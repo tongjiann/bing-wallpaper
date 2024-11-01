@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2024-11-01</lastBuildDate>
+    <lastBuildDate>2024-11-02</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>黄石国家公园的美洲野牛，怀俄明州，美国 (© Ian Shive/TANDEM Stills + Motion)</title>
+      <link>https://cn.bing.com/th?id=OHR.BisonYellowstone_ZH-CN7320887379_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.BisonYellowstone_ZH-CN7320887379_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.BisonYellowstone_ZH-CN7320887379_UHD.jpg" type="image/jpg"/>
+      <description>黄石国家公园的美洲野牛，怀俄明州，美国 (© Ian Shive/TANDEM Stills + Motion)</description>
+      <pubDate>2024-11-02</pubDate>
+    </item>
     <item>
       <title>秋季葡萄园的鸟瞰图，瓦恩哈尔特，黑森林，德国 (© Sabine Gerold/Amazing Aerial Agency)</title>
       <link>https://cn.bing.com/th?id=OHR.VineyardsBlackForestFall_ZH-CN6767078591_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.FossilsDorset_ZH-CN8722623801_UHD.jpg" type="image/jpg"/>
       <description>侏罗纪海岸的箭石和菊石化石，多塞特郡，英国 (© Nature Picture Library/Alamy Stock Photo)</description>
       <pubDate>2024-10-16</pubDate>
-    </item>
-    <item>
-      <title>马拉河的角马大迁徙，肯尼亚 (© Ayzenstayn/Getty Images)</title>
-      <link>https://cn.bing.com/th?id=OHR.MaraMigration_ZH-CN8215566853_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.MaraMigration_ZH-CN8215566853_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.MaraMigration_ZH-CN8215566853_UHD.jpg" type="image/jpg"/>
-      <description>马拉河的角马大迁徙，肯尼亚 (© Ayzenstayn/Getty Images)</description>
-      <pubDate>2024-10-15</pubDate>
     </item>
   </channel>
 </rss>
