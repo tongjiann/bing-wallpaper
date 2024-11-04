@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2024-11-04</lastBuildDate>
+    <lastBuildDate>2024-11-05</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>马拉赫塞斯国家公园，马拉尼昂州,巴西 (© thanosquest/Shutterstock)</title>
+      <link>https://cn.bing.com/th?id=OHR.LencoisMaranhao_ZH-CN8194406488_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.LencoisMaranhao_ZH-CN8194406488_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.LencoisMaranhao_ZH-CN8194406488_UHD.jpg" type="image/jpg"/>
+      <description>马拉赫塞斯国家公园，马拉尼昂州,巴西 (© thanosquest/Shutterstock)</description>
+      <pubDate>2024-11-05</pubDate>
+    </item>
     <item>
       <title>坎布里亚湖区，格拉斯米尔，英格兰 (© Thomas Molyneux/Getty Images)</title>
       <link>https://cn.bing.com/th?id=OHR.CumbriaAutumn_ZH-CN7697251216_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.DenderaTemple_ZH-CN3097745887_UHD.jpg" type="image/jpg"/>
       <description>哈索尔神庙，邓德拉神庙群，基纳，埃及 (© Nick Brundle Photography/Getty Images)</description>
       <pubDate>2024-10-19</pubDate>
-    </item>
-    <item>
-      <title>曼哈顿中央公园的秋天，纽约，美国 (© mapman/Shutterstock)</title>
-      <link>https://cn.bing.com/th?id=OHR.CentralParkAutumn_ZH-CN2757358246_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.CentralParkAutumn_ZH-CN2757358246_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.CentralParkAutumn_ZH-CN2757358246_UHD.jpg" type="image/jpg"/>
-      <description>曼哈顿中央公园的秋天，纽约，美国 (© mapman/Shutterstock)</description>
-      <pubDate>2024-10-18</pubDate>
     </item>
   </channel>
 </rss>
