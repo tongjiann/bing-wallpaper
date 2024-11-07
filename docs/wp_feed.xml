@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2024-11-07</lastBuildDate>
+    <lastBuildDate>2024-11-08</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>冰岛冰川河流鸟瞰图 (© rybarmarekk/Shutterstock)</title>
+      <link>https://cn.bing.com/th?id=OHR.GlacialRivers_ZH-CN0260507556_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.GlacialRivers_ZH-CN0260507556_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.GlacialRivers_ZH-CN0260507556_UHD.jpg" type="image/jpg"/>
+      <description>冰岛冰川河流鸟瞰图 (© rybarmarekk/Shutterstock)</description>
+      <pubDate>2024-11-08</pubDate>
+    </item>
     <item>
       <title>金色的松树，坝上草原，中国 (© MelindaChan/Getty Images)</title>
       <link>https://cn.bing.com/th?id=OHR.LiDong2024_ZH-CN9944723194_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.AutumnCypress_ZH-CN5099875619_UHD.jpg" type="image/jpg"/>
       <description>乔治·史密斯州立公园的柏树，佐治亚州，美国 (© Chris Moore/TANDEM Stills + Motion)</description>
       <pubDate>2024-10-21</pubDate>
-    </item>
-    <item>
-      <title>哥斯���黎加的三趾树懒 (© Harry Collins/Getty Images)</title>
-      <link>https://cn.bing.com/th?id=OHR.SmilingSloth_ZH-CN4646662964_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.SmilingSloth_ZH-CN4646662964_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.SmilingSloth_ZH-CN4646662964_UHD.jpg" type="image/jpg"/>
-      <description>哥斯���黎加的三趾树懒 (© Harry Collins/Getty Images)</description>
-      <pubDate>2024-10-20</pubDate>
     </item>
   </channel>
 </rss>
