@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2024-11-09</lastBuildDate>
+    <lastBuildDate>2024-11-10</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>加勒比火烈鸟，尤卡坦半岛，墨西哥 (© Claudio Contreras/NPL/Minden Pictures)</title>
+      <link>https://cn.bing.com/th?id=OHR.YucatanFlamingos_ZH-CN0721673752_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.YucatanFlamingos_ZH-CN0721673752_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.YucatanFlamingos_ZH-CN0721673752_UHD.jpg" type="image/jpg"/>
+      <description>加勒比火烈鸟，尤卡坦半岛，墨西哥 (© Claudio Contreras/NPL/Minden Pictures)</description>
+      <pubDate>2024-11-10</pubDate>
+    </item>
     <item>
       <title>银河，阿伊特本哈杜杜，摩洛哥 (© Cavan Images/Getty Images)</title>
       <link>https://cn.bing.com/th?id=OHR.MoroccoMilkyWay_ZH-CN3544344290_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.MadameSherriCastle_ZH-CN8101580548_UHD.jpg" type="image/jpg"/>
       <description>雪莉夫人森林和古堡遗迹，新罕布什尔州，美国 (© yggdrasill/Shutterstock)</description>
       <pubDate>2024-10-23</pubDate>
-    </item>
-    <item>
-      <title>祖卡里宫，罗马，意大利 (© Photon-Photos/Getty Images)</title>
-      <link>https://cn.bing.com/th?id=OHR.MonsterDoor_ZH-CN6613337019_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.MonsterDoor_ZH-CN6613337019_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.MonsterDoor_ZH-CN6613337019_UHD.jpg" type="image/jpg"/>
-      <description>祖卡里宫，罗马，意大利 (© Photon-Photos/Getty Images)</description>
-      <pubDate>2024-10-22</pubDate>
     </item>
   </channel>
 </rss>
