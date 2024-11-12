@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2024-11-11</lastBuildDate>
+    <lastBuildDate>2024-11-12</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>透过海湾拱门看到双拱门，拱门国家公园，犹他州，美国 (© Jeff Foott/Minden Pictures)</title>
+      <link>https://cn.bing.com/th?id=OHR.CoveArch_ZH-CN1281140578_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.CoveArch_ZH-CN1281140578_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.CoveArch_ZH-CN1281140578_UHD.jpg" type="image/jpg"/>
+      <description>透过海湾拱门看到双拱门，拱门国家公园，犹他州，美国 (© Jeff Foott/Minden Pictures)</description>
+      <pubDate>2024-11-12</pubDate>
+    </item>
     <item>
       <title>班夫国家公园的日落，阿尔伯塔省，加拿大 (© fywPhoto 云卷云舒/Getty Images)</title>
       <link>https://cn.bing.com/th?id=OHR.Banff24_ZH-CN1156176817_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.MontBlancMassif_ZH-CN9172264924_UHD.jpg" type="image/jpg"/>
       <description>沙莫尼的勃朗峰，法国 (© Simon Schöpf/Getty Images)</description>
       <pubDate>2024-10-25</pubDate>
-    </item>
-    <item>
-      <title>博迪州立历史公园，莫诺县，加利福尼亚州，美国 (© Julien McRoberts/Tetra Images, LLC/Alamy Stock Photo)</title>
-      <link>https://cn.bing.com/th?id=OHR.BodieCalifornia_ZH-CN8941360519_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.BodieCalifornia_ZH-CN8941360519_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.BodieCalifornia_ZH-CN8941360519_UHD.jpg" type="image/jpg"/>
-      <description>博迪州立历史公园，莫诺县，加利福尼亚州，美国 (© Julien McRoberts/Tetra Images, LLC/Alamy Stock Photo)</description>
-      <pubDate>2024-10-24</pubDate>
     </item>
   </channel>
 </rss>
