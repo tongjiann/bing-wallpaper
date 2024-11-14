@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2024-11-14</lastBuildDate>
+    <lastBuildDate>2024-11-15</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>义蓬灯节 ，清迈，泰国 (© tampatra/Getty Images)</title>
+      <link>https://cn.bing.com/th?id=OHR.YiPengLanterns_ZH-CN5613043353_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.YiPengLanterns_ZH-CN5613043353_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.YiPengLanterns_ZH-CN5613043353_UHD.jpg" type="image/jpg"/>
+      <description>义蓬灯节 ，清迈，泰国 (© tampatra/Getty Images)</description>
+      <pubDate>2024-11-15</pubDate>
+    </item>
     <item>
       <title>马纳罗拉，五渔村国家公园，利古里亚，意大利 (© John_Silver/Shutterstock)</title>
       <link>https://cn.bing.com/th?id=OHR.ManarolaItaly_ZH-CN2837915120_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.PolarBearHug_ZH-CN0696077546_UHD.jpg" type="image/jpg"/>
       <description>北极熊与幼崽，丘吉尔，曼尼托巴，加拿大 (© Design Pics/plainpicture)</description>
       <pubDate>2024-10-27</pubDate>
-    </item>
-    <item>
-      <title>幽灵森林，宁哈根，梅克伦堡-西波美拉尼亚，德国 (© mauritius images GmbH/Alamy Stock Photo)</title>
-      <link>https://cn.bing.com/th?id=OHR.GhostForest_ZH-CN9648216213_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.GhostForest_ZH-CN9648216213_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.GhostForest_ZH-CN9648216213_UHD.jpg" type="image/jpg"/>
-      <description>幽灵森林，宁哈根，梅克伦堡-西波美拉尼亚，德国 (© mauritius images GmbH/Alamy Stock Photo)</description>
-      <pubDate>2024-10-26</pubDate>
     </item>
   </channel>
 </rss>
