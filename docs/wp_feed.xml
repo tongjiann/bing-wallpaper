@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2024-11-15</lastBuildDate>
+    <lastBuildDate>2024-11-16</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>瓦登海沿岸，莫德加特附近，弗里斯兰，荷兰 (© Ron ter Burg/Minden Pictures)</title>
+      <link>https://cn.bing.com/th?id=OHR.FrieslandNetherlands_ZH-CN5952456898_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.FrieslandNetherlands_ZH-CN5952456898_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.FrieslandNetherlands_ZH-CN5952456898_UHD.jpg" type="image/jpg"/>
+      <description>瓦登海沿岸，莫德加特附近，弗里斯兰，荷兰 (© Ron ter Burg/Minden Pictures)</description>
+      <pubDate>2024-11-16</pubDate>
+    </item>
     <item>
       <title>义蓬灯节 ，清迈，泰国 (© tampatra/Getty Images)</title>
       <link>https://cn.bing.com/th?id=OHR.YiPengLanterns_ZH-CN5613043353_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.PumpkinMist_ZH-CN0898655859_UHD.jpg" type="image/jpg"/>
       <description>南瓜田，维多利亚，不列颠哥伦比亚省，加拿大 (© Shaun Cunningham/Alamy Stock Photo)</description>
       <pubDate>2024-10-28</pubDate>
-    </item>
-    <item>
-      <title>北极熊与幼崽，丘吉尔，曼尼托巴，加拿大 (© Design Pics/plainpicture)</title>
-      <link>https://cn.bing.com/th?id=OHR.PolarBearHug_ZH-CN0696077546_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.PolarBearHug_ZH-CN0696077546_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.PolarBearHug_ZH-CN0696077546_UHD.jpg" type="image/jpg"/>
-      <description>北极熊与幼崽，丘吉尔，曼尼托巴，加拿大 (© Design Pics/plainpicture)</description>
-      <pubDate>2024-10-27</pubDate>
     </item>
   </channel>
 </rss>
