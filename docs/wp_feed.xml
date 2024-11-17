@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2024-11-17</lastBuildDate>
+    <lastBuildDate>2024-11-18</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>波斯考尔灯塔，南威尔士，英国 (© Leighton Collins/Alamy)</title>
+      <link>https://cn.bing.com/th?id=OHR.PorthcawlLighthouse_ZH-CN6655235820_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.PorthcawlLighthouse_ZH-CN6655235820_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.PorthcawlLighthouse_ZH-CN6655235820_UHD.jpg" type="image/jpg"/>
+      <description>波斯考尔灯塔，南威尔士，英国 (© Leighton Collins/Alamy)</description>
+      <pubDate>2024-11-18</pubDate>
+    </item>
     <item>
       <title>加里东林中的马鹿，阿夫力谷，苏格兰高地 (© Terry Whittaker/Alamy)</title>
       <link>https://cn.bing.com/th?id=OHR.RedStag_ZH-CN6403546321_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.HauntedEdinburgh_ZH-CN1461834159_UHD.jpg" type="image/jpg"/>
       <description>从苏格兰教堂墓地眺望爱丁堡城堡，英国 (© Chris Dorney/Alamy Stock Photo)</description>
       <pubDate>2024-10-30</pubDate>
-    </item>
-    <item>
-      <title>大雕鸮 (© Mark Newman/Getty Images)</title>
-      <link>https://cn.bing.com/th?id=OHR.GreatOwl_ZH-CN1259534922_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.GreatOwl_ZH-CN1259534922_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.GreatOwl_ZH-CN1259534922_UHD.jpg" type="image/jpg"/>
-      <description>大雕鸮 (© Mark Newman/Getty Images)</description>
-      <pubDate>2024-10-29</pubDate>
     </item>
   </channel>
 </rss>
