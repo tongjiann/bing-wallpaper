@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2024-11-18</lastBuildDate>
+    <lastBuildDate>2024-11-19</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>塔斯曼拱门，塔斯马尼亚州，澳大利亚 (© Gary Bell/Minden Pictures)</title>
+      <link>https://cn.bing.com/th?id=OHR.TasmansArch_ZH-CN7062784426_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.TasmansArch_ZH-CN7062784426_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.TasmansArch_ZH-CN7062784426_UHD.jpg" type="image/jpg"/>
+      <description>塔斯曼拱门，塔斯马尼亚州，澳大利亚 (© Gary Bell/Minden Pictures)</description>
+      <pubDate>2024-11-19</pubDate>
+    </item>
     <item>
       <title>波斯考尔灯塔，南威尔士，英国 (© Leighton Collins/Alamy)</title>
       <link>https://cn.bing.com/th?id=OHR.PorthcawlLighthouse_ZH-CN6655235820_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.GargoyleParis_ZH-CN1668628241_UHD.jpg" type="image/jpg"/>
       <description>巴黎圣母院的奇美拉，法国 (© scaliger/Getty Images)</description>
       <pubDate>2024-10-31</pubDate>
-    </item>
-    <item>
-      <title>从苏格兰教堂墓地眺望爱丁堡城堡，英国 (© Chris Dorney/Alamy Stock Photo)</title>
-      <link>https://cn.bing.com/th?id=OHR.HauntedEdinburgh_ZH-CN1461834159_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.HauntedEdinburgh_ZH-CN1461834159_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.HauntedEdinburgh_ZH-CN1461834159_UHD.jpg" type="image/jpg"/>
-      <description>从苏格兰教堂墓地眺望爱丁堡城堡，英国 (© Chris Dorney/Alamy Stock Photo)</description>
-      <pubDate>2024-10-30</pubDate>
     </item>
   </channel>
 </rss>
