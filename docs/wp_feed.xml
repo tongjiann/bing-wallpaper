@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2024-11-19</lastBuildDate>
+    <lastBuildDate>2024-11-20</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>皮埃尔桥，波尔多，法国 (© SergiyN/Getty Images)</title>
+      <link>https://cn.bing.com/th?id=OHR.PontBordeaux_ZH-CN7656263575_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.PontBordeaux_ZH-CN7656263575_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.PontBordeaux_ZH-CN7656263575_UHD.jpg" type="image/jpg"/>
+      <description>皮埃尔桥，波尔多，法国 (© SergiyN/Getty Images)</description>
+      <pubDate>2024-11-20</pubDate>
+    </item>
     <item>
       <title>塔斯曼拱门，塔斯马尼亚州，澳大利亚 (© Gary Bell/Minden Pictures)</title>
       <link>https://cn.bing.com/th?id=OHR.TasmansArch_ZH-CN7062784426_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.VineyardsBlackForestFall_ZH-CN6767078591_UHD.jpg" type="image/jpg"/>
       <description>秋季葡萄园的鸟瞰图，瓦恩哈尔特，黑森林，德国 (© Sabine Gerold/Amazing Aerial Agency)</description>
       <pubDate>2024-11-01</pubDate>
-    </item>
-    <item>
-      <title>巴黎圣母院的奇美拉，法国 (© scaliger/Getty Images)</title>
-      <link>https://cn.bing.com/th?id=OHR.GargoyleParis_ZH-CN1668628241_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.GargoyleParis_ZH-CN1668628241_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.GargoyleParis_ZH-CN1668628241_UHD.jpg" type="image/jpg"/>
-      <description>巴黎圣母院的奇美拉，法国 (© scaliger/Getty Images)</description>
-      <pubDate>2024-10-31</pubDate>
     </item>
   </channel>
 </rss>
