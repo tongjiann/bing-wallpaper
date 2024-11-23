@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2024-11-23</lastBuildDate>
+    <lastBuildDate>2024-11-24</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>州立公园，索诺玛海岸，美国加利福尼亚州 (© Rachid Dahnoun/Tandem Stills + Motion)</title>
+      <link>https://cn.bing.com/th?id=OHR.SonomaCoast_ZH-CN9187330701_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.SonomaCoast_ZH-CN9187330701_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.SonomaCoast_ZH-CN9187330701_UHD.jpg" type="image/jpg"/>
+      <description>州立公园，索诺玛海岸，美国加利福尼亚州 (© Rachid Dahnoun/Tandem Stills + Motion)</description>
+      <pubDate>2024-11-24</pubDate>
+    </item>
     <item>
       <title>多叶芦荟，袋鼠岛，澳大利亚 (© Michael Melford/Alamy)</title>
       <link>https://cn.bing.com/th?id=OHR.FibonacciAloe_ZH-CN8974137481_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.LencoisMaranhao_ZH-CN8194406488_UHD.jpg" type="image/jpg"/>
       <description>马拉赫塞斯国家公园，马拉尼昂州,巴西 (© thanosquest/Shutterstock)</description>
       <pubDate>2024-11-05</pubDate>
-    </item>
-    <item>
-      <title>坎布里亚湖区，格拉斯米尔，英格兰 (© Thomas Molyneux/Getty Images)</title>
-      <link>https://cn.bing.com/th?id=OHR.CumbriaAutumn_ZH-CN7697251216_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.CumbriaAutumn_ZH-CN7697251216_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.CumbriaAutumn_ZH-CN7697251216_UHD.jpg" type="image/jpg"/>
-      <description>坎布里亚湖区，格拉斯米尔，英格兰 (© Thomas Molyneux/Getty Images)</description>
-      <pubDate>2024-11-04</pubDate>
     </item>
   </channel>
 </rss>
