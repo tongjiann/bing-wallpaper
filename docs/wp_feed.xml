@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2024-11-24</lastBuildDate>
+    <lastBuildDate>2024-11-25</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>马赛长颈鹿，安波塞利国家公园，肯尼亚 (© Art Wolfe/DanitaDelimont.com)</title>
+      <link>https://cn.bing.com/th?id=OHR.AmboseliGiraffes_ZH-CN9276085602_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.AmboseliGiraffes_ZH-CN9276085602_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.AmboseliGiraffes_ZH-CN9276085602_UHD.jpg" type="image/jpg"/>
+      <description>马赛长颈鹿，安波塞利国家公园，肯尼亚 (© Art Wolfe/DanitaDelimont.com)</description>
+      <pubDate>2024-11-25</pubDate>
+    </item>
     <item>
       <title>州立公园，索诺玛海岸，美国加利福尼亚州 (© Rachid Dahnoun/Tandem Stills + Motion)</title>
       <link>https://cn.bing.com/th?id=OHR.SonomaCoast_ZH-CN9187330701_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.ShiShiBeach_ZH-CN8685799566_UHD.jpg" type="image/jpg"/>
       <description>奥林匹克国家公园石狮海滩，华盛顿州，美国 (© T.M. Schultze/TANDEM Stills + Motion)</description>
       <pubDate>2024-11-06</pubDate>
-    </item>
-    <item>
-      <title>马拉赫塞斯国家公园，马拉尼昂州,巴西 (© thanosquest/Shutterstock)</title>
-      <link>https://cn.bing.com/th?id=OHR.LencoisMaranhao_ZH-CN8194406488_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.LencoisMaranhao_ZH-CN8194406488_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.LencoisMaranhao_ZH-CN8194406488_UHD.jpg" type="image/jpg"/>
-      <description>马拉赫塞斯国家公园，马拉尼昂州,巴西 (© thanosquest/Shutterstock)</description>
-      <pubDate>2024-11-05</pubDate>
     </item>
   </channel>
 </rss>
