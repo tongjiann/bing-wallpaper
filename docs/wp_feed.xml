@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2024-11-25</lastBuildDate>
+    <lastBuildDate>2024-11-26</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>橄榄树林，伊特里亚山谷，普利亚，意大利 (© Massimo Santi/Shutterstock)</title>
+      <link>https://cn.bing.com/th?id=OHR.TrulliGrove_ZH-CN9519400567_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.TrulliGrove_ZH-CN9519400567_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.TrulliGrove_ZH-CN9519400567_UHD.jpg" type="image/jpg"/>
+      <description>橄榄树林，伊特里亚山谷，普利亚，意大利 (© Massimo Santi/Shutterstock)</description>
+      <pubDate>2024-11-26</pubDate>
+    </item>
     <item>
       <title>马赛长颈鹿，安波塞利国家公园，肯尼亚 (© Art Wolfe/DanitaDelimont.com)</title>
       <link>https://cn.bing.com/th?id=OHR.AmboseliGiraffes_ZH-CN9276085602_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.LiDong2024_ZH-CN9944723194_UHD.jpg" type="image/jpg"/>
       <description>金色的松树，坝上草原，中国 (© MelindaChan/Getty Images)</description>
       <pubDate>2024-11-07</pubDate>
-    </item>
-    <item>
-      <title>奥林匹克国家公园石狮海滩，华盛顿州，美国 (© T.M. Schultze/TANDEM Stills + Motion)</title>
-      <link>https://cn.bing.com/th?id=OHR.ShiShiBeach_ZH-CN8685799566_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.ShiShiBeach_ZH-CN8685799566_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.ShiShiBeach_ZH-CN8685799566_UHD.jpg" type="image/jpg"/>
-      <description>奥林匹克国家公园石狮海滩，华盛顿州，美国 (© T.M. Schultze/TANDEM Stills + Motion)</description>
-      <pubDate>2024-11-06</pubDate>
     </item>
   </channel>
 </rss>
