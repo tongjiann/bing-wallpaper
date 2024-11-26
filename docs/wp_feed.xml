@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2024-11-26</lastBuildDate>
+    <lastBuildDate>2024-11-27</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>秋天的巨人之墓，布永市，比利时 (© David Briard/Getty)</title>
+      <link>https://cn.bing.com/th?id=OHR.SemoisRiver_ZH-CN0801669014_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.SemoisRiver_ZH-CN0801669014_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.SemoisRiver_ZH-CN0801669014_UHD.jpg" type="image/jpg"/>
+      <description>秋天的巨人之墓，布永市，比利时 (© David Briard/Getty)</description>
+      <pubDate>2024-11-27</pubDate>
+    </item>
     <item>
       <title>橄榄树林，伊特里亚山谷，普利亚，意大利 (© Massimo Santi/Shutterstock)</title>
       <link>https://cn.bing.com/th?id=OHR.TrulliGrove_ZH-CN9519400567_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.GlacialRivers_ZH-CN0260507556_UHD.jpg" type="image/jpg"/>
       <description>冰岛冰川河流鸟瞰图 (© rybarmarekk/Shutterstock)</description>
       <pubDate>2024-11-08</pubDate>
-    </item>
-    <item>
-      <title>金色的松树，坝上草原，中国 (© MelindaChan/Getty Images)</title>
-      <link>https://cn.bing.com/th?id=OHR.LiDong2024_ZH-CN9944723194_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.LiDong2024_ZH-CN9944723194_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.LiDong2024_ZH-CN9944723194_UHD.jpg" type="image/jpg"/>
-      <description>金色的松树，坝上草原，中国 (© MelindaChan/Getty Images)</description>
-      <pubDate>2024-11-07</pubDate>
     </item>
   </channel>
 </rss>
