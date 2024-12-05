@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2024-12-05</lastBuildDate>
+    <lastBuildDate>2024-12-06</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>鸟瞰冰封的大海和悬崖上的灯塔，大连泊霞湾公园，辽宁省，中国 (© zhengshun tang/Getty Images)</title>
+      <link>https://cn.bing.com/th?id=OHR.GreaterSnow2024_ZH-CN5929129591_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.GreaterSnow2024_ZH-CN5929129591_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.GreaterSnow2024_ZH-CN5929129591_UHD.jpg" type="image/jpg"/>
+      <description>鸟瞰冰封的大海和悬崖上的灯塔，大连泊霞湾公园，辽宁省，中国 (© zhengshun tang/Getty Images)</description>
+      <pubDate>2024-12-06</pubDate>
+    </item>
     <item>
       <title>莫诺湖的石灰华地层，加利福尼亚州，美国 (© Susanna Patras/TANDEM Stills + Motion)</title>
       <link>https://cn.bing.com/th?id=OHR.MonoTufa_ZH-CN4998806540_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.RedStag_ZH-CN6403546321_UHD.jpg" type="image/jpg"/>
       <description>加里东林中的马鹿，阿夫力谷，苏格兰高地 (© Terry Whittaker/Alamy)</description>
       <pubDate>2024-11-17</pubDate>
-    </item>
-    <item>
-      <title>瓦登海沿岸，莫德加特附近，弗里斯兰，荷兰 (© Ron ter Burg/Minden Pictures)</title>
-      <link>https://cn.bing.com/th?id=OHR.FrieslandNetherlands_ZH-CN5952456898_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.FrieslandNetherlands_ZH-CN5952456898_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.FrieslandNetherlands_ZH-CN5952456898_UHD.jpg" type="image/jpg"/>
-      <description>瓦登海沿岸，莫德加特附近，弗里斯兰，荷兰 (© Ron ter Burg/Minden Pictures)</description>
-      <pubDate>2024-11-16</pubDate>
     </item>
   </channel>
 </rss>
