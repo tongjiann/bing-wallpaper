@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2024-12-06</lastBuildDate>
+    <lastBuildDate>2024-12-07</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>里约热内卢州的阿拉亚尔多卡博，巴西 (© Derson Santana/Shutterstock)</title>
+      <link>https://cn.bing.com/th?id=OHR.ArraialdoCabo_ZH-CN6202620711_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.ArraialdoCabo_ZH-CN6202620711_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.ArraialdoCabo_ZH-CN6202620711_UHD.jpg" type="image/jpg"/>
+      <description>里约热内卢州的阿拉亚尔多卡博，巴西 (© Derson Santana/Shutterstock)</description>
+      <pubDate>2024-12-07</pubDate>
+    </item>
     <item>
       <title>鸟瞰冰封的大海和悬崖上的灯塔，大连泊霞湾公园，辽宁省，中国 (© zhengshun tang/Getty Images)</title>
       <link>https://cn.bing.com/th?id=OHR.GreaterSnow2024_ZH-CN5929129591_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.PorthcawlLighthouse_ZH-CN6655235820_UHD.jpg" type="image/jpg"/>
       <description>波斯考尔灯塔，南威尔士，英国 (© Leighton Collins/Alamy)</description>
       <pubDate>2024-11-18</pubDate>
-    </item>
-    <item>
-      <title>加里东林中的马鹿，阿夫力谷，苏格兰高地 (© Terry Whittaker/Alamy)</title>
-      <link>https://cn.bing.com/th?id=OHR.RedStag_ZH-CN6403546321_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.RedStag_ZH-CN6403546321_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.RedStag_ZH-CN6403546321_UHD.jpg" type="image/jpg"/>
-      <description>加里东林中的马鹿，阿夫力谷，苏格兰高地 (© Terry Whittaker/Alamy)</description>
-      <pubDate>2024-11-17</pubDate>
     </item>
   </channel>
 </rss>
