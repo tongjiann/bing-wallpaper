@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2024-12-08</lastBuildDate>
+    <lastBuildDate>2024-12-09</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>两只原驼,托雷斯德尔帕恩国家公园 , 智利 (© Floris van Breugel/NPL/Minden Pictures)</title>
+      <link>https://cn.bing.com/th?id=OHR.GuanacosChile_ZH-CN7011761081_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.GuanacosChile_ZH-CN7011761081_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.GuanacosChile_ZH-CN7011761081_UHD.jpg" type="image/jpg"/>
+      <description>两只原驼,托雷斯德尔帕恩国家公园 , 智利 (© Floris van Breugel/NPL/Minden Pictures)</description>
+      <pubDate>2024-12-09</pubDate>
+    </item>
     <item>
       <title>巴黎圣母院，巴黎，法国 (© Julien Fromentin/Getty Images)</title>
       <link>https://cn.bing.com/th?id=OHR.ReopeningNotreDame_ZH-CN6512133762_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.PontBordeaux_ZH-CN7656263575_UHD.jpg" type="image/jpg"/>
       <description>皮埃尔桥，波尔多，法国 (© SergiyN/Getty Images)</description>
       <pubDate>2024-11-20</pubDate>
-    </item>
-    <item>
-      <title>塔斯曼拱门，塔斯马尼亚州，澳大利亚 (© Gary Bell/Minden Pictures)</title>
-      <link>https://cn.bing.com/th?id=OHR.TasmansArch_ZH-CN7062784426_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.TasmansArch_ZH-CN7062784426_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.TasmansArch_ZH-CN7062784426_UHD.jpg" type="image/jpg"/>
-      <description>塔斯曼拱门，塔斯马尼亚州，澳大利亚 (© Gary Bell/Minden Pictures)</description>
-      <pubDate>2024-11-19</pubDate>
     </item>
   </channel>
 </rss>
