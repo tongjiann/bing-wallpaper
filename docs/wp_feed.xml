@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2024-12-10</lastBuildDate>
+    <lastBuildDate>2024-12-11</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>拉瓦雷多三峰山,意大利 (© Daniel Maran/Getty Images)</title>
+      <link>https://cn.bing.com/th?id=OHR.DolomitesSky_ZH-CN9299967785_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.DolomitesSky_ZH-CN9299967785_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.DolomitesSky_ZH-CN9299967785_UHD.jpg" type="image/jpg"/>
+      <description>拉瓦雷多三峰山,意大利 (© Daniel Maran/Getty Images)</description>
+      <pubDate>2024-12-11</pubDate>
+    </item>
     <item>
       <title>被雪覆盖的康沃尔天涯海角小径，康沃尔郡兰德恩德，英格兰 (© Josef FitzGerald-Patrick/Getty Images)</title>
       <link>https://cn.bing.com/th?id=OHR.CornwallSnow_ZH-CN8407245245_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.ZafraCastle_ZH-CN8791148758_UHD.jpg" type="image/jpg"/>
       <description>萨夫拉城堡，瓜达拉哈拉省，西班牙 (© Eduard Gene/Getty Images)</description>
       <pubDate>2024-11-22</pubDate>
-    </item>
-    <item>
-      <title>日出时的两只小狮子，南非 (© Ruan Springorum/Getty Images)</title>
-      <link>https://cn.bing.com/th?id=OHR.LionCubs_ZH-CN8538754038_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.LionCubs_ZH-CN8538754038_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.LionCubs_ZH-CN8538754038_UHD.jpg" type="image/jpg"/>
-      <description>日出时的两只小狮子，南非 (© Ruan Springorum/Getty Images)</description>
-      <pubDate>2024-11-21</pubDate>
     </item>
   </channel>
 </rss>
