@@ -7,6 +7,14 @@
     <description>Latest Bing Wallpapers</description>
     <item>
       <title>一品红或圣诞花 (© David Hosking/NPL/Minden Pictures)</title>
+      <link>https://cn.bing.com/th?id=OHR.WildPoinsettia_ZH-CN7984548709_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.WildPoinsettia_ZH-CN7984548709_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.WildPoinsettia_ZH-CN7984548709_UHD.jpg" type="image/jpg"/>
+      <description>一品红或圣诞花 (© David Hosking/NPL/Minden Pictures)</description>
+      <pubDate>2024-12-12</pubDate>
+    </item>
+    <item>
+      <title>一品红或圣诞花 (© David Hosking/NPL/Minden Pictures)</title>
       <link>https://cn.bing.com/th?id=OHR.WildPoinsettia_ZH-CN9570708784_UHD.jpg</link>
       <enclosure url="https://cn.bing.com/th?id=OHR.WildPoinsettia_ZH-CN9570708784_UHD.jpg" type="image/jpeg"/>
       <enclosure url="https://cn.bing.com/th?id=OHR.WildPoinsettia_ZH-CN9570708784_UHD.jpg" type="image/jpg"/>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.SonomaCoast_ZH-CN9187330701_UHD.jpg" type="image/jpg"/>
       <description>州立公园，索诺玛海岸，美国加利福尼亚州 (© Rachid Dahnoun/Tandem Stills + Motion)</description>
       <pubDate>2024-11-24</pubDate>
-    </item>
-    <item>
-      <title>多叶芦荟，袋鼠岛，澳大利亚 (© Michael Melford/Alamy)</title>
-      <link>https://cn.bing.com/th?id=OHR.FibonacciAloe_ZH-CN8974137481_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.FibonacciAloe_ZH-CN8974137481_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.FibonacciAloe_ZH-CN8974137481_UHD.jpg" type="image/jpg"/>
-      <description>多叶芦荟，袋鼠岛，澳大利亚 (© Michael Melford/Alamy)</description>
-      <pubDate>2024-11-23</pubDate>
     </item>
   </channel>
 </rss>
