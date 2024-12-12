@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2024-12-12</lastBuildDate>
+    <lastBuildDate>2024-12-13</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>圣诞市场，圣斯蒂芬大教堂，布达佩斯，匈牙利 (© Calin Stan/Shutterstock)</title>
+      <link>https://cn.bing.com/th?id=OHR.ChristmasBudapest_ZH-CN8197439971_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.ChristmasBudapest_ZH-CN8197439971_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.ChristmasBudapest_ZH-CN8197439971_UHD.jpg" type="image/jpg"/>
+      <description>圣诞市场，圣斯蒂芬大教堂，布达佩斯，匈牙利 (© Calin Stan/Shutterstock)</description>
+      <pubDate>2024-12-13</pubDate>
+    </item>
     <item>
       <title>一品红或圣诞花 (© David Hosking/NPL/Minden Pictures)</title>
       <link>https://cn.bing.com/th?id=OHR.WildPoinsettia_ZH-CN7984548709_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.AmboseliGiraffes_ZH-CN9276085602_UHD.jpg" type="image/jpg"/>
       <description>马赛长颈鹿，安波塞利国家公园，肯尼亚 (© Art Wolfe/DanitaDelimont.com)</description>
       <pubDate>2024-11-25</pubDate>
-    </item>
-    <item>
-      <title>州立公园，索诺玛海岸，美国加利福尼亚州 (© Rachid Dahnoun/Tandem Stills + Motion)</title>
-      <link>https://cn.bing.com/th?id=OHR.SonomaCoast_ZH-CN9187330701_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.SonomaCoast_ZH-CN9187330701_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.SonomaCoast_ZH-CN9187330701_UHD.jpg" type="image/jpg"/>
-      <description>州立公园，索诺玛海岸，美国加利福尼亚州 (© Rachid Dahnoun/Tandem Stills + Motion)</description>
-      <pubDate>2024-11-24</pubDate>
     </item>
   </channel>
 </rss>
