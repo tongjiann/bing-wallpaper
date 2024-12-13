@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2024-12-13</lastBuildDate>
+    <lastBuildDate>2024-12-14</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>猛鸮，加拿大 (© pchoui/Getty Images)</title>
+      <link>https://cn.bing.com/th?id=OHR.NorthernHawkOwl_ZH-CN8408027305_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.NorthernHawkOwl_ZH-CN8408027305_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.NorthernHawkOwl_ZH-CN8408027305_UHD.jpg" type="image/jpg"/>
+      <description>猛鸮，加拿大 (© pchoui/Getty Images)</description>
+      <pubDate>2024-12-14</pubDate>
+    </item>
     <item>
       <title>圣诞市场，圣斯蒂芬大教堂，布达佩斯，匈牙利 (© Calin Stan/Shutterstock)</title>
       <link>https://cn.bing.com/th?id=OHR.ChristmasBudapest_ZH-CN8197439971_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.TrulliGrove_ZH-CN9519400567_UHD.jpg" type="image/jpg"/>
       <description>橄榄树林，伊特里亚山谷，普利亚，意大利 (© Massimo Santi/Shutterstock)</description>
       <pubDate>2024-11-26</pubDate>
-    </item>
-    <item>
-      <title>马赛长颈鹿，安波塞利国家公园，肯尼亚 (© Art Wolfe/DanitaDelimont.com)</title>
-      <link>https://cn.bing.com/th?id=OHR.AmboseliGiraffes_ZH-CN9276085602_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.AmboseliGiraffes_ZH-CN9276085602_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.AmboseliGiraffes_ZH-CN9276085602_UHD.jpg" type="image/jpg"/>
-      <description>马赛长颈鹿，安波塞利国家公园，肯尼亚 (© Art Wolfe/DanitaDelimont.com)</description>
-      <pubDate>2024-11-25</pubDate>
     </item>
   </channel>
 </rss>
