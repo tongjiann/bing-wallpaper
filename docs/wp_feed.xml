@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2024-12-15</lastBuildDate>
+    <lastBuildDate>2024-12-16</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>萨尔茨堡，奥地利 (© bluejayphoto/Getty Images)</title>
+      <link>https://cn.bing.com/th?id=OHR.SalzburgSnow_ZH-CN0964131994_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.SalzburgSnow_ZH-CN0964131994_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.SalzburgSnow_ZH-CN0964131994_UHD.jpg" type="image/jpg"/>
+      <description>萨尔茨堡，奥地利 (© bluejayphoto/Getty Images)</description>
+      <pubDate>2024-12-16</pubDate>
+    </item>
     <item>
       <title>米苏里纳湖，多洛米蒂山脉，意大利 (© Marco Bottigelli/Getty Images)</title>
       <link>https://cn.bing.com/th?id=OHR.MisurinaLake_ZH-CN0744434715_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.AssiniboineTS_ZH-CN9936042562_UHD.jpg" type="image/jpg"/>
       <description>日落时分风暴渐渐消散，阿西尼博因山省立公园，加拿大 (© Jeff Lewis/TANDEM Stills + Motion)</description>
       <pubDate>2024-11-28</pubDate>
-    </item>
-    <item>
-      <title>秋天的巨人之墓，布永市，比利时 (© David Briard/Getty)</title>
-      <link>https://cn.bing.com/th?id=OHR.SemoisRiver_ZH-CN0801669014_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.SemoisRiver_ZH-CN0801669014_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.SemoisRiver_ZH-CN0801669014_UHD.jpg" type="image/jpg"/>
-      <description>秋天的巨人之墓，布永市，比利时 (© David Briard/Getty)</description>
-      <pubDate>2024-11-27</pubDate>
     </item>
   </channel>
 </rss>
