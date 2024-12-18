@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2024-12-18</lastBuildDate>
+    <lastBuildDate>2024-12-19</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>锡比乌圣诞市场，罗马尼亚 (© Calin Stan/Alamy Stock Photo)</title>
+      <link>https://cn.bing.com/th?id=OHR.SibiuRomania_ZH-CN1631942857_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.SibiuRomania_ZH-CN1631942857_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.SibiuRomania_ZH-CN1631942857_UHD.jpg" type="image/jpg"/>
+      <description>锡比乌圣诞市场，罗马尼亚 (© Calin Stan/Alamy Stock Photo)</description>
+      <pubDate>2024-12-19</pubDate>
+    </item>
     <item>
       <title>印度吉姆科比特国家公园的大象，印度 (© ABHILASH VISWA PICASSO/Shutterstock)</title>
       <link>https://cn.bing.com/th?id=OHR.MorningElephants_ZH-CN1418579765_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.IcebergsAntarctica_ZH-CN2942178295_UHD.jpg" type="image/jpg"/>
       <description>南极洲的冰山 (© Art Wolfe/DanitaDelimont.com)</description>
       <pubDate>2024-12-01</pubDate>
-    </item>
-    <item>
-      <title>基尔亨城堡倒映在奥湖中，阿盖尔-比特郡，苏格兰 (© Tom Mackie/plainpicture)</title>
-      <link>https://cn.bing.com/th?id=OHR.KilchurnAutumn_ZH-CN2547959725_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.KilchurnAutumn_ZH-CN2547959725_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.KilchurnAutumn_ZH-CN2547959725_UHD.jpg" type="image/jpg"/>
-      <description>基尔亨城堡倒映在奥湖中，阿盖尔-比特郡，苏格兰 (© Tom Mackie/plainpicture)</description>
-      <pubDate>2024-11-30</pubDate>
     </item>
   </channel>
 </rss>
