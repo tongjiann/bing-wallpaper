@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2024-12-20</lastBuildDate>
+    <lastBuildDate>2024-12-21</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>满拉水库的雪景，日喀则，中国西藏自治区 (© Zhang Zhenqi/VCG via Getty Images)</title>
+      <link>https://cn.bing.com/th?id=OHR.WinterSolstice2024_ZH-CN2045153949_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.WinterSolstice2024_ZH-CN2045153949_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.WinterSolstice2024_ZH-CN2045153949_UHD.jpg" type="image/jpg"/>
+      <description>满拉水库的雪景，日喀则，中国西藏自治区 (© Zhang Zhenqi/VCG via Getty Images)</description>
+      <pubDate>2024-12-21</pubDate>
+    </item>
     <item>
       <title>罗瓦涅米圣诞老人村，拉普兰，芬兰 (© Smelov/Shutterstock)</title>
       <link>https://cn.bing.com/th?id=OHR.SantaClausVillage_ZH-CN1839275027_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.JaipurFort_ZH-CN3891828158_UHD.jpg" type="image/jpg"/>
       <description>Sattais Katcheri，琥珀堡，拉贾斯坦邦，印度 (© Yury Taranik/Shutterstock)</description>
       <pubDate>2024-12-03</pubDate>
-    </item>
-    <item>
-      <title>雌性驼鹿，德纳里国家公园，阿拉斯加州，美国 (© Cavan Images/Alamy Stock Photo)</title>
-      <link>https://cn.bing.com/th?id=OHR.SnowMoose_ZH-CN3364979952_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.SnowMoose_ZH-CN3364979952_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.SnowMoose_ZH-CN3364979952_UHD.jpg" type="image/jpg"/>
-      <description>雌性驼鹿，德纳里国家公园，阿拉斯加州，美国 (© Cavan Images/Alamy Stock Photo)</description>
-      <pubDate>2024-12-02</pubDate>
     </item>
   </channel>
 </rss>
