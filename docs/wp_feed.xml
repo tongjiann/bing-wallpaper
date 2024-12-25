@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2024-12-25</lastBuildDate>
+    <lastBuildDate>2024-12-26</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>莫斯霍尔港的圣诞灯饰，康沃尔，英格兰 (© ianwool/Getty Images)</title>
+      <link>https://cn.bing.com/th?id=OHR.MouseholeXmas_ZH-CN3079184443_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.MouseholeXmas_ZH-CN3079184443_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.MouseholeXmas_ZH-CN3079184443_UHD.jpg" type="image/jpg"/>
+      <description>莫斯霍尔港的圣诞灯饰，康沃尔，英格兰 (© ianwool/Getty Images)</description>
+      <pubDate>2024-12-26</pubDate>
+    </item>
     <item>
       <title>科瓦东加湖，阿斯图里亚斯，西班牙 (© Carlos Fernandez/Getty Images)</title>
       <link>https://cn.bing.com/th?id=OHR.CovadongaWinter_ZH-CN2873340163_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.ReopeningNotreDame_ZH-CN6512133762_UHD.jpg" type="image/jpg"/>
       <description>巴黎圣母院，巴黎，法国 (© Julien Fromentin/Getty Images)</description>
       <pubDate>2024-12-08</pubDate>
-    </item>
-    <item>
-      <title>里约热内卢州的阿拉亚尔多卡博，巴西 (© Derson Santana/Shutterstock)</title>
-      <link>https://cn.bing.com/th?id=OHR.ArraialdoCabo_ZH-CN6202620711_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.ArraialdoCabo_ZH-CN6202620711_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.ArraialdoCabo_ZH-CN6202620711_UHD.jpg" type="image/jpg"/>
-      <description>里约热内卢州的阿拉亚尔多卡博，巴西 (© Derson Santana/Shutterstock)</description>
-      <pubDate>2024-12-07</pubDate>
     </item>
   </channel>
 </rss>
