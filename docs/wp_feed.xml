@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2024-12-26</lastBuildDate>
+    <lastBuildDate>2024-12-27</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>布莱德湖，斯洛文尼亚 (© Kesu01/Getty Images)</title>
+      <link>https://cn.bing.com/th?id=OHR.LakeBledSnow_ZH-CN4118056813_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.LakeBledSnow_ZH-CN4118056813_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.LakeBledSnow_ZH-CN4118056813_UHD.jpg" type="image/jpg"/>
+      <description>布莱德湖，斯洛文尼亚 (© Kesu01/Getty Images)</description>
+      <pubDate>2024-12-27</pubDate>
+    </item>
     <item>
       <title>莫斯霍尔港的圣诞灯饰，康沃尔，英格兰 (© ianwool/Getty Images)</title>
       <link>https://cn.bing.com/th?id=OHR.MouseholeXmas_ZH-CN3079184443_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.GuanacosChile_ZH-CN7011761081_UHD.jpg" type="image/jpg"/>
       <description>两只原驼,托雷斯德尔帕恩国家公园 , 智利 (© Floris van Breugel/NPL/Minden Pictures)</description>
       <pubDate>2024-12-09</pubDate>
-    </item>
-    <item>
-      <title>巴黎圣母院，巴黎，法国 (© Julien Fromentin/Getty Images)</title>
-      <link>https://cn.bing.com/th?id=OHR.ReopeningNotreDame_ZH-CN6512133762_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.ReopeningNotreDame_ZH-CN6512133762_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.ReopeningNotreDame_ZH-CN6512133762_UHD.jpg" type="image/jpg"/>
-      <description>巴黎圣母院，巴黎，法国 (© Julien Fromentin/Getty Images)</description>
-      <pubDate>2024-12-08</pubDate>
     </item>
   </channel>
 </rss>
