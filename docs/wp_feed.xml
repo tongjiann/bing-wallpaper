@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2024-12-29</lastBuildDate>
+    <lastBuildDate>2024-12-30</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>多布森湖附近的塔斯马尼亚雪胶和班达尼植物，费尔德山国家公园，塔斯马尼亚，澳大利亚 (© Whitworth Images/Getty Images)</title>
+      <link>https://cn.bing.com/th?id=OHR.MountFieldNP_ZH-CN6004420782_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.MountFieldNP_ZH-CN6004420782_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.MountFieldNP_ZH-CN6004420782_UHD.jpg" type="image/jpg"/>
+      <description>多布森湖附近的塔斯马尼亚雪胶和班达尼植物，费尔德山国家公园，塔斯马尼亚，澳大利亚 (© Whitworth Images/Getty Images)</description>
+      <pubDate>2024-12-30</pubDate>
+    </item>
     <item>
       <title>婆罗浮屠大佛寺，爪哇岛，印度尼西亚 (© Robertharding/Shutterstock)</title>
       <link>https://cn.bing.com/th?id=OHR.BorobudurBells_ZH-CN5291511365_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.WildPoinsettia_ZH-CN9570708784_UHD.jpg" type="image/jpg"/>
       <description>一品红或圣诞花 (© David Hosking/NPL/Minden Pictures)</description>
       <pubDate>2024-12-12</pubDate>
-    </item>
-    <item>
-      <title>拉瓦雷多三峰山,意大利 (© Daniel Maran/Getty Images)</title>
-      <link>https://cn.bing.com/th?id=OHR.DolomitesSky_ZH-CN9299967785_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.DolomitesSky_ZH-CN9299967785_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.DolomitesSky_ZH-CN9299967785_UHD.jpg" type="image/jpg"/>
-      <description>拉瓦雷多三峰山,意大利 (© Daniel Maran/Getty Images)</description>
-      <pubDate>2024-12-11</pubDate>
     </item>
   </channel>
 </rss>
