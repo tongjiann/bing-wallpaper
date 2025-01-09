@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2025-01-09</lastBuildDate>
+    <lastBuildDate>2025-01-10</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>亚伯拉罕湖，阿尔伯塔省，加拿大 (© Basic Elements Photography/Getty Images)</title>
+      <link>https://cn.bing.com/th?id=OHR.BubbleLake_ZH-CN7146244555_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.BubbleLake_ZH-CN7146244555_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.BubbleLake_ZH-CN7146244555_UHD.jpg" type="image/jpg"/>
+      <description>亚伯拉罕湖，阿尔伯塔省，加拿大 (© Basic Elements Photography/Getty Images)</description>
+      <pubDate>2025-01-10</pubDate>
+    </item>
     <item>
       <title>苏丝斯黎沙丘，纳米布沙漠，纳米比亚 (© Airpano/Amazing Aerial Agency)</title>
       <link>https://cn.bing.com/th?id=OHR.NamibiaDunes_ZH-CN5102483490_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.CrystalPier_ZH-CN2256372880_UHD.jpg" type="image/jpg"/>
       <description>水晶码头的圣诞树，太平洋海滩，加利福尼亚州，美国 (© SamAntonioPhotography/Getty Images)</description>
       <pubDate>2024-12-22</pubDate>
-    </item>
-    <item>
-      <title>满拉水库的雪景，日喀则，中国西藏自治区 (© Zhang Zhenqi/VCG via Getty Images)</title>
-      <link>https://cn.bing.com/th?id=OHR.WinterSolstice2024_ZH-CN2045153949_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.WinterSolstice2024_ZH-CN2045153949_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.WinterSolstice2024_ZH-CN2045153949_UHD.jpg" type="image/jpg"/>
-      <description>满拉水库的雪景，日喀则，中国西藏自治区 (© Zhang Zhenqi/VCG via Getty Images)</description>
-      <pubDate>2024-12-21</pubDate>
     </item>
   </channel>
 </rss>
