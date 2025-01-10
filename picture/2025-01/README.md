@@ -1,5 +1,5 @@
 ## Bing Wallpaper (2025-01)
-![](https://cn.bing.com/th?id=OHR.BubbleLake_ZH-CN7146244555_UHD.jpg&w=1000)Today: [亚伯拉罕湖，��尔伯塔省，加拿大 (© Basic Elements Photography/Getty Images)](https://cn.bing.com/th?id=OHR.BubbleLake_ZH-CN7146244555_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+![](https://cn.bing.com/th?id=OHR.BubbleLake_ZH-CN7146244555_UHD.jpg&w=1000)Today: [亚伯拉罕湖，阿尔伯塔省，加拿大 (© Basic Elements Photography/Getty Images)](https://cn.bing.com/th?id=OHR.BubbleLake_ZH-CN7146244555_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 |      |      |      |
 | :----: | :----: | :----: |
 |![](https://cn.bing.com/th?id=OHR.BubbleLake_ZH-CN7146244555_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2025-01-10 [download 4k](https://cn.bing.com/th?id=OHR.BubbleLake_ZH-CN7146244555_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)|![](https://cn.bing.com/th?id=OHR.BubbleLake_ZH-CN7146244555_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2025-01-10 [download 4k](https://cn.bing.com/th?id=OHR.BubbleLake_ZH-CN7146244555_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)|![](https://cn.bing.com/th?id=OHR.NamibiaDunes_ZH-CN5102483490_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2025-01-09 [download 4k](https://cn.bing.com/th?id=OHR.NamibiaDunes_ZH-CN5102483490_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)|
