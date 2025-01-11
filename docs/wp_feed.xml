@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2025-01-11</lastBuildDate>
+    <lastBuildDate>2025-01-12</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>大堡礁的宝石大眼鲷鱼，澳大利亚 (© Fred Bavendam/Minden Pictures)</title>
+      <link>https://cn.bing.com/th?id=OHR.CrescentTail_ZH-CN8283248964_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.CrescentTail_ZH-CN8283248964_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.CrescentTail_ZH-CN8283248964_UHD.jpg" type="image/jpg"/>
+      <description>大堡礁的宝石大眼鲷鱼，澳大利亚 (© Fred Bavendam/Minden Pictures)</description>
+      <pubDate>2025-01-12</pubDate>
+    </item>
     <item>
       <title>梅克内斯的Heri es-Swani，摩洛哥 (© Calin Stan/Shutterstock)</title>
       <link>https://cn.bing.com/th?id=OHR.MeknesMorocco_ZH-CN7953910585_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.CovadongaWinter_ZH-CN2873340163_UHD.jpg" type="image/jpg"/>
       <description>科瓦东加湖，阿斯图里亚斯，西班牙 (© Carlos Fernandez/Getty Images)</description>
       <pubDate>2024-12-25</pubDate>
-    </item>
-    <item>
-      <title>德国圣诞市场 (© Cyril Gosselin/Getty Images)</title>
-      <link>https://cn.bing.com/th?id=OHR.SantaSnowglobe_ZH-CN2671421527_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.SantaSnowglobe_ZH-CN2671421527_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.SantaSnowglobe_ZH-CN2671421527_UHD.jpg" type="image/jpg"/>
-      <description>德国圣诞市场 (© Cyril Gosselin/Getty Images)</description>
-      <pubDate>2024-12-24</pubDate>
     </item>
   </channel>
 </rss>
