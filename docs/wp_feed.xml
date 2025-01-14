@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2025-01-14</lastBuildDate>
+    <lastBuildDate>2025-01-15</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>Pointe du Diable，圣皮埃尔，留尼汪岛 (© MONTICO Lionel/Alamy)</title>
+      <link>https://cn.bing.com/th?id=OHR.PointeDiable_ZH-CN0610493136_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.PointeDiable_ZH-CN0610493136_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.PointeDiable_ZH-CN0610493136_UHD.jpg" type="image/jpg"/>
+      <description>Pointe du Diable，圣皮埃尔，留尼汪岛 (© MONTICO Lionel/Alamy)</description>
+      <pubDate>2025-01-15</pubDate>
+    </item>
     <item>
       <title>Village of Zahara de la Sierra, Cádiz province, Spain (© SEN LI/Getty Images)</title>
       <link>https://cn.bing.com/th?id=OHR.CadizSpain_ZH-CN0032172399_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.CoralTurtle_ZH-CN4771437860_UHD.jpg" type="image/jpg"/>
       <description>一只绿海龟在太平洋中游泳，法国海外属地新喀里多尼亚 (© Damsea/Shutterstock)</description>
       <pubDate>2024-12-28</pubDate>
-    </item>
-    <item>
-      <title>布莱德湖，斯洛文尼亚 (© Kesu01/Getty Images)</title>
-      <link>https://cn.bing.com/th?id=OHR.LakeBledSnow_ZH-CN4118056813_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.LakeBledSnow_ZH-CN4118056813_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.LakeBledSnow_ZH-CN4118056813_UHD.jpg" type="image/jpg"/>
-      <description>布莱德湖，斯洛文尼亚 (© Kesu01/Getty Images)</description>
-      <pubDate>2024-12-27</pubDate>
     </item>
   </channel>
 </rss>
