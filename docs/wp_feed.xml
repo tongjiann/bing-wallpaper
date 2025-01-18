@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2025-01-18</lastBuildDate>
+    <lastBuildDate>2025-01-19</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>海王星石窟，撒丁岛， 意大利 (© Carlo Murenu/Getty Images)</title>
+      <link>https://cn.bing.com/th?id=OHR.NeptunesGrotto_ZH-CN3092540170_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.NeptunesGrotto_ZH-CN3092540170_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.NeptunesGrotto_ZH-CN3092540170_UHD.jpg" type="image/jpg"/>
+      <description>海王星石窟，撒丁岛， 意大利 (© Carlo Murenu/Getty Images)</description>
+      <pubDate>2025-01-19</pubDate>
+    </item>
     <item>
       <title>白沙国家公园的日落，新墨西哥州，美国 (© Image Professionals GmbH/Alamy Stock Photo)</title>
       <link>https://cn.bing.com/th?id=OHR.WhiteSandsNP_ZH-CN2517618394_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.PolarBearSwim_ZH-CN1000349057_UHD.jpg" type="image/jpg"/>
       <description>在北极玩耍的北极熊 (© Ondrej Prosicky/Shutterstock)</description>
       <pubDate>2025-01-01</pubDate>
-    </item>
-    <item>
-      <title>国会山上空的烟花，渥太华，加拿大 (© naibank/Getty Images)</title>
-      <link>https://cn.bing.com/th?id=OHR.CANYE24_ZH-CN3884754296_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.CANYE24_ZH-CN3884754296_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.CANYE24_ZH-CN3884754296_UHD.jpg" type="image/jpg"/>
-      <description>国会山上空的烟花，渥太华，加拿大 (© naibank/Getty Images)</description>
-      <pubDate>2024-12-31</pubDate>
     </item>
   </channel>
 </rss>
