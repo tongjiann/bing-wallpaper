@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2025-01-23</lastBuildDate>
+    <lastBuildDate>2025-01-24</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>冰岛的史托克间歇泉 (© John and Tina Reid/Getty Images)</title>
+      <link>https://cn.bing.com/th?id=OHR.IcelandGeyser_ZH-CN2136665867_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.IcelandGeyser_ZH-CN2136665867_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.IcelandGeyser_ZH-CN2136665867_UHD.jpg" type="image/jpg"/>
+      <description>冰岛的史托克间歇泉 (© John and Tina Reid/Getty Images)</description>
+      <pubDate>2025-01-24</pubDate>
+    </item>
     <item>
       <title>黄昏时的鹿谷，帕克城，犹他州，美国 (© Adventure_Photo/Getty Images)</title>
       <link>https://cn.bing.com/th?id=OHR.DeerValley_ZH-CN6029262704_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.RavennaBasilica_ZH-CN1406474730_UHD.jpg" type="image/jpg"/>
       <description>被水淹没的地下室，圣弗朗西斯大教堂，拉文纳，意大利 (© Andrea Pucci/Getty Images)</description>
       <pubDate>2025-01-06</pubDate>
-    </item>
-    <item>
-      <title>希莫加的紫红头鹦鹉，卡纳塔克邦，印度 (© Hira Punjabi/Alamy Stock Photo)</title>
-      <link>https://cn.bing.com/th?id=OHR.PlumParakeet_ZH-CN0311942558_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.PlumParakeet_ZH-CN0311942558_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.PlumParakeet_ZH-CN0311942558_UHD.jpg" type="image/jpg"/>
-      <description>希莫加的紫红头鹦鹉，卡纳塔克邦，印度 (© Hira Punjabi/Alamy Stock Photo)</description>
-      <pubDate>2025-01-05</pubDate>
     </item>
   </channel>
 </rss>
