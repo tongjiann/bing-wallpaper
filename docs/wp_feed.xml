@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2025-01-25</lastBuildDate>
+    <lastBuildDate>2025-01-26</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>比利时的欧洲山毛榉森林 (© Philippe Moes/Minden Pictures)</title>
+      <link>https://cn.bing.com/th?id=OHR.FrostedBeech_ZH-CN2845716018_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.FrostedBeech_ZH-CN2845716018_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.FrostedBeech_ZH-CN2845716018_UHD.jpg" type="image/jpg"/>
+      <description>比利时的欧洲山毛榉森林 (© Philippe Moes/Minden Pictures)</description>
+      <pubDate>2025-01-26</pubDate>
+    </item>
     <item>
       <title>波尔图，葡萄牙 (© Starcevic/Getty Images)</title>
       <link>https://cn.bing.com/th?id=OHR.PortoSunset_ZH-CN2388246668_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.GreatWallStairs_ZH-CN4045949792_UHD.jpg" type="image/jpg"/>
       <description>被雪覆盖的长城，中国 (© View Stock/Alamy Stock Photo)</description>
       <pubDate>2025-01-08</pubDate>
-    </item>
-    <item>
-      <title>日落时的摩拉基大圆石，南岛，新西兰 (© Douglas Pearson/eStock Photo)</title>
-      <link>https://cn.bing.com/th?id=OHR.BouldersNZ_ZH-CN6750253580_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.BouldersNZ_ZH-CN6750253580_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.BouldersNZ_ZH-CN6750253580_UHD.jpg" type="image/jpg"/>
-      <description>日落时的摩拉基大圆石，南岛，新西兰 (© Douglas Pearson/eStock Photo)</description>
-      <pubDate>2025-01-07</pubDate>
     </item>
   </channel>
 </rss>
