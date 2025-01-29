@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2025-01-29</lastBuildDate>
+    <lastBuildDate>2025-01-30</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>罗兰多山口，奥德萨和佩迪多山国家公园，西班牙 (© Inaki Relanzon/Nature Picture Library/Alamy Stock Photo)</title>
+      <link>https://cn.bing.com/th?id=OHR.OrdesaSpain_ZH-CN1445868068_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.OrdesaSpain_ZH-CN1445868068_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.OrdesaSpain_ZH-CN1445868068_UHD.jpg" type="image/jpg"/>
+      <description>罗兰多山口，奥德萨和佩迪多山国家公园，西班牙 (© Inaki Relanzon/Nature Picture Library/Alamy Stock Photo)</description>
+      <pubDate>2025-01-30</pubDate>
+    </item>
     <item>
       <title>南京夫子庙的春节许愿牌，江苏省，中国 (© lazy dragon/Shutterstock)</title>
       <link>https://cn.bing.com/th?id=OHR.SpringFestival25Y_ZH-CN6133182159_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.CrescentTail_ZH-CN8283248964_UHD.jpg" type="image/jpg"/>
       <description>大堡礁的宝石大眼鲷鱼，澳大利亚 (© Fred Bavendam/Minden Pictures)</description>
       <pubDate>2025-01-12</pubDate>
-    </item>
-    <item>
-      <title>梅克内斯的Heri es-Swani，摩洛哥 (© Calin Stan/Shutterstock)</title>
-      <link>https://cn.bing.com/th?id=OHR.MeknesMorocco_ZH-CN7953910585_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.MeknesMorocco_ZH-CN7953910585_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.MeknesMorocco_ZH-CN7953910585_UHD.jpg" type="image/jpg"/>
-      <description>梅克内斯的Heri es-Swani，摩洛哥 (© Calin Stan/Shutterstock)</description>
-      <pubDate>2025-01-11</pubDate>
     </item>
   </channel>
 </rss>
