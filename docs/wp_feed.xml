@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2025-02-01</lastBuildDate>
+    <lastBuildDate>2025-02-02</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>年幼的高山土拨鼠 (© Jonas Fichtner-Pflaum/Getty Images)</title>
+      <link>https://cn.bing.com/th?id=OHR.AustriaMarmot_ZH-CN2303743586_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.AustriaMarmot_ZH-CN2303743586_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.AustriaMarmot_ZH-CN2303743586_UHD.jpg" type="image/jpg"/>
+      <description>年幼的高山土拨鼠 (© Jonas Fichtner-Pflaum/Getty Images)</description>
+      <pubDate>2025-02-02</pubDate>
+    </item>
     <item>
       <title>国王岩堡垒 , 瑞士撒克逊, 德国 (© Bildagentur-online/Exss/Alamy)</title>
       <link>https://cn.bing.com/th?id=OHR.FestungKonigsteinElbsandsteingebirge_ZH-CN2192655745_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.PointeDiable_ZH-CN0610493136_UHD.jpg" type="image/jpg"/>
       <description>Pointe du Diable，圣皮埃尔，留尼汪岛 (© MONTICO Lionel/Alamy)</description>
       <pubDate>2025-01-15</pubDate>
-    </item>
-    <item>
-      <title>Village of Zahara de la Sierra, Cádiz province, Spain (© SEN LI/Getty Images)</title>
-      <link>https://cn.bing.com/th?id=OHR.CadizSpain_ZH-CN0032172399_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.CadizSpain_ZH-CN0032172399_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.CadizSpain_ZH-CN0032172399_UHD.jpg" type="image/jpg"/>
-      <description>Village of Zahara de la Sierra, Cádiz province, Spain (© SEN LI/Getty Images)</description>
-      <pubDate>2025-01-14</pubDate>
     </item>
   </channel>
 </rss>
