@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2025-02-04</lastBuildDate>
+    <lastBuildDate>2025-02-05</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>拱门群岛，瓦拉里基海滩，南岛，新西兰 (© Francesco Vaninetti/AWL/plainpicture)</title>
+      <link>https://cn.bing.com/th?id=OHR.ScottishSheep_ZH-CN3051181797_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.ScottishSheep_ZH-CN3051181797_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.ScottishSheep_ZH-CN3051181797_UHD.jpg" type="image/jpg"/>
+      <description>拱门群岛，瓦拉里基海滩，南岛，新西兰 (© Francesco Vaninetti/AWL/plainpicture)</description>
+      <pubDate>2025-02-05</pubDate>
+    </item>
     <item>
       <title>金桥，巴拿山，岘港，越南 (© Hien Phung Thu/Shutterstock)</title>
       <link>https://cn.bing.com/th?id=OHR.GoldenBridge_ZH-CN2910740727_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.WhiteSandsNP_ZH-CN2517618394_UHD.jpg" type="image/jpg"/>
       <description>白沙国家公园的日落，新墨西哥州，美国 (© Image Professionals GmbH/Alamy Stock Photo)</description>
       <pubDate>2025-01-18</pubDate>
-    </item>
-    <item>
-      <title>褐鹈鹕，圣地亚哥，加利福尼亚州，美国 (© Arthur Morris/BIRDS AS ART/Getty Images)</title>
-      <link>https://cn.bing.com/th?id=OHR.PelicanPortrait_ZH-CN1928504597_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.PelicanPortrait_ZH-CN1928504597_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.PelicanPortrait_ZH-CN1928504597_UHD.jpg" type="image/jpg"/>
-      <description>褐鹈鹕，圣地亚哥，加利福尼亚州，美国 (© Arthur Morris/BIRDS AS ART/Getty Images)</description>
-      <pubDate>2025-01-17</pubDate>
     </item>
   </channel>
 </rss>
