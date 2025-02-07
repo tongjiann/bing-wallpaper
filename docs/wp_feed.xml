@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2025-02-07</lastBuildDate>
+    <lastBuildDate>2025-02-08</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>梅斯蒂亚的中世纪塔楼，上斯瓦涅季，格鲁吉亚 (© photoaliona/Getty Images)</title>
+      <link>https://cn.bing.com/th?id=OHR.SnowySvaneti_ZH-CN7626153023_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.SnowySvaneti_ZH-CN7626153023_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.SnowySvaneti_ZH-CN7626153023_UHD.jpg" type="image/jpg"/>
+      <description>梅斯蒂亚的中世纪塔楼，上斯瓦涅季，格鲁吉亚 (© photoaliona/Getty Images)</description>
+      <pubDate>2025-02-08</pubDate>
+    </item>
     <item>
       <title>特隆赫姆的蓝色时刻，挪威 (© Jeanny Mueller/Getty Images)</title>
       <link>https://cn.bing.com/th?id=OHR.BlueNorway_ZH-CN4865816873_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.PetraMonastery_ZH-CN5091189333_UHD.jpg" type="image/jpg"/>
       <description>代尔修道院，佩特拉，约旦 (© Punnawit Suwuttananun/Getty Images)</description>
       <pubDate>2025-01-22</pubDate>
-    </item>
-    <item>
-      <title>俯瞰那不勒斯湾和维苏威火山，意大利 (© ezypix/Getty Images)</title>
-      <link>https://cn.bing.com/th?id=OHR.NapoliPizza_ZH-CN4698906448_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.NapoliPizza_ZH-CN4698906448_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.NapoliPizza_ZH-CN4698906448_UHD.jpg" type="image/jpg"/>
-      <description>俯瞰那不勒斯湾和维苏威火山，意大利 (© ezypix/Getty Images)</description>
-      <pubDate>2025-01-21</pubDate>
     </item>
   </channel>
 </rss>
