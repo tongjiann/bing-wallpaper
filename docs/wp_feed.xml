@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2025-02-08</lastBuildDate>
+    <lastBuildDate>2025-02-09</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>阿尔斯特罗姆角，鲍威尔湖，犹他州，美国 (© T.M. Schultze/TANDEM Stills + Motion)</title>
+      <link>https://cn.bing.com/th?id=OHR.AlstromPoint_ZH-CN7844819126_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.AlstromPoint_ZH-CN7844819126_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.AlstromPoint_ZH-CN7844819126_UHD.jpg" type="image/jpg"/>
+      <description>阿尔斯特罗姆角，鲍威尔湖，犹他州，美国 (© T.M. Schultze/TANDEM Stills + Motion)</description>
+      <pubDate>2025-02-09</pubDate>
+    </item>
     <item>
       <title>梅斯蒂亚的中世纪塔楼，上斯瓦涅季，格鲁吉亚 (© photoaliona/Getty Images)</title>
       <link>https://cn.bing.com/th?id=OHR.SnowySvaneti_ZH-CN7626153023_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.DeerValley_ZH-CN6029262704_UHD.jpg" type="image/jpg"/>
       <description>黄昏时的鹿谷，帕克城，犹他州，美国 (© Adventure_Photo/Getty Images)</description>
       <pubDate>2025-01-23</pubDate>
-    </item>
-    <item>
-      <title>代尔修道院，佩特拉，约旦 (© Punnawit Suwuttananun/Getty Images)</title>
-      <link>https://cn.bing.com/th?id=OHR.PetraMonastery_ZH-CN5091189333_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.PetraMonastery_ZH-CN5091189333_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.PetraMonastery_ZH-CN5091189333_UHD.jpg" type="image/jpg"/>
-      <description>代尔修道院，佩特拉，约旦 (© Punnawit Suwuttananun/Getty Images)</description>
-      <pubDate>2025-01-22</pubDate>
     </item>
   </channel>
 </rss>
