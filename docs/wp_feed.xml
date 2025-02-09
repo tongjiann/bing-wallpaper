@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2025-02-09</lastBuildDate>
+    <lastBuildDate>2025-02-10</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>雨伞艺术装置，博罗市场，伦敦，英国 (© Malcolm P Chapman/Getty Images)</title>
+      <link>https://cn.bing.com/th?id=OHR.UmbrellaDay_ZH-CN8024305066_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.UmbrellaDay_ZH-CN8024305066_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.UmbrellaDay_ZH-CN8024305066_UHD.jpg" type="image/jpg"/>
+      <description>雨伞艺术装置，博罗市场，伦敦，英国 (© Malcolm P Chapman/Getty Images)</description>
+      <pubDate>2025-02-10</pubDate>
+    </item>
     <item>
       <title>阿尔斯特罗姆角，鲍威尔湖，犹他州，美国 (© T.M. Schultze/TANDEM Stills + Motion)</title>
       <link>https://cn.bing.com/th?id=OHR.AlstromPoint_ZH-CN7844819126_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.IcelandGeyser_ZH-CN2136665867_UHD.jpg" type="image/jpg"/>
       <description>冰岛的史托克间歇泉 (© John and Tina Reid/Getty Images)</description>
       <pubDate>2025-01-24</pubDate>
-    </item>
-    <item>
-      <title>黄昏时的鹿谷，帕克城，犹他州，美国 (© Adventure_Photo/Getty Images)</title>
-      <link>https://cn.bing.com/th?id=OHR.DeerValley_ZH-CN6029262704_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.DeerValley_ZH-CN6029262704_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.DeerValley_ZH-CN6029262704_UHD.jpg" type="image/jpg"/>
-      <description>黄昏时的鹿谷，帕克城，犹他州，美国 (© Adventure_Photo/Getty Images)</description>
-      <pubDate>2025-01-23</pubDate>
     </item>
   </channel>
 </rss>
