@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2025-02-10</lastBuildDate>
+    <lastBuildDate>2025-02-11</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>云冈石窟，大同，山西省，中国 (© Eric Yang/Getty Images)</title>
+      <link>https://cn.bing.com/th?id=OHR.YungangGrottoes_ZH-CN8275054060_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.YungangGrottoes_ZH-CN8275054060_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.YungangGrottoes_ZH-CN8275054060_UHD.jpg" type="image/jpg"/>
+      <description>云冈石窟，大同，山西省，中国 (© Eric Yang/Getty Images)</description>
+      <pubDate>2025-02-11</pubDate>
+    </item>
     <item>
       <title>雨伞艺术装置，博罗市场，伦敦，英国 (© Malcolm P Chapman/Getty Images)</title>
       <link>https://cn.bing.com/th?id=OHR.UmbrellaDay_ZH-CN8024305066_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.PortoSunset_ZH-CN2388246668_UHD.jpg" type="image/jpg"/>
       <description>波尔图，葡萄牙 (© Starcevic/Getty Images)</description>
       <pubDate>2025-01-25</pubDate>
-    </item>
-    <item>
-      <title>冰岛的史托克间歇泉 (© John and Tina Reid/Getty Images)</title>
-      <link>https://cn.bing.com/th?id=OHR.IcelandGeyser_ZH-CN2136665867_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.IcelandGeyser_ZH-CN2136665867_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.IcelandGeyser_ZH-CN2136665867_UHD.jpg" type="image/jpg"/>
-      <description>冰岛的史托克间歇泉 (© John and Tina Reid/Getty Images)</description>
-      <pubDate>2025-01-24</pubDate>
     </item>
   </channel>
 </rss>
