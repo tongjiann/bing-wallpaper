@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2025-02-14</lastBuildDate>
+    <lastBuildDate>2025-02-15</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>三十槌冰柱，秩父市，日本 (© watayu0821/shutterstock)</title>
+      <link>https://cn.bing.com/th?id=OHR.Misotsuchi2025_ZH-CN9260395680_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.Misotsuchi2025_ZH-CN9260395680_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.Misotsuchi2025_ZH-CN9260395680_UHD.jpg" type="image/jpg"/>
+      <description>三十槌冰柱，秩父市，日本 (© watayu0821/shutterstock)</description>
+      <pubDate>2025-02-15</pubDate>
+    </item>
     <item>
       <title>两只麦哲伦企鹅，福克兰群岛 (© Vicki Jauron, Babylon and Beyond Photography/Getty Images)</title>
       <link>https://cn.bing.com/th?id=OHR.PenguinLove_ZH-CN9124008164_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.SpringFestival25Y_ZH-CN6133182159_UHD.jpg" type="image/jpg"/>
       <description>南��夫子庙的春节许愿牌，江苏省，中国 (© lazy dragon/Shutterstock)</description>
       <pubDate>2025-01-29</pubDate>
-    </item>
-    <item>
-      <title>夜空中的烟花表演，长沙，湖南省，中国 (© Sino Images/Getty Images)</title>
-      <link>https://cn.bing.com/th?id=OHR.LunarNewYearEve25Y_ZH-CN6059625695_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.LunarNewYearEve25Y_ZH-CN6059625695_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.LunarNewYearEve25Y_ZH-CN6059625695_UHD.jpg" type="image/jpg"/>
-      <description>夜空中的烟花表演，长沙，湖南省，中国 (© Sino Images/Getty Images)</description>
-      <pubDate>2025-01-28</pubDate>
     </item>
   </channel>
 </rss>
