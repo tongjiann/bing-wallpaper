@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2025-02-18</lastBuildDate>
+    <lastBuildDate>2025-02-19</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>欧亚水獭，莱利斯塔德，荷兰 (© Ernst Dirksen/Minden Pictures)</title>
+      <link>https://cn.bing.com/th?id=OHR.IceHoleOtter_ZH-CN0106321041_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.IceHoleOtter_ZH-CN0106321041_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.IceHoleOtter_ZH-CN0106321041_UHD.jpg" type="image/jpg"/>
+      <description>欧亚水獭，莱利斯塔德，荷兰 (© Ernst Dirksen/Minden Pictures)</description>
+      <pubDate>2025-02-19</pubDate>
+    </item>
     <item>
       <title>大蓝洞，伯利兹 (© JamiesOnAMission/Shutterstock)</title>
       <link>https://cn.bing.com/th?id=OHR.BlueBelize_ZH-CN9875040666_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.FestungKonigsteinElbsandsteingebirge_ZH-CN2192655745_UHD.jpg" type="image/jpg"/>
       <description>国王岩堡垒 , 瑞士撒克逊, 德国 (© Bildagentur-online/Exss/Alamy)</description>
       <pubDate>2025-02-01</pubDate>
-    </item>
-    <item>
-      <title>日出时的平原斑马，莫卡拉国家公园，南非 (© EcoPrint/Shutterstock)</title>
-      <link>https://cn.bing.com/th?id=OHR.PlainsZebra_ZH-CN1989542307_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.PlainsZebra_ZH-CN1989542307_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.PlainsZebra_ZH-CN1989542307_UHD.jpg" type="image/jpg"/>
-      <description>日出时的平原斑马，莫卡拉国家公园，南非 (© EcoPrint/Shutterstock)</description>
-      <pubDate>2025-01-31</pubDate>
     </item>
   </channel>
 </rss>
