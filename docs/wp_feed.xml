@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2025-02-19</lastBuildDate>
+    <lastBuildDate>2025-02-20</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>马鹿，加拿大 (© Delbars/Getty Images)</title>
+      <link>https://cn.bing.com/th?id=OHR.CanadaDeer_ZH-CN0631345798_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.CanadaDeer_ZH-CN0631345798_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.CanadaDeer_ZH-CN0631345798_UHD.jpg" type="image/jpg"/>
+      <description>马鹿，加拿大 (© Delbars/Getty Images)</description>
+      <pubDate>2025-02-20</pubDate>
+    </item>
     <item>
       <title>欧亚水獭，莱利斯塔德，荷兰 (© Ernst Dirksen/Minden Pictures)</title>
       <link>https://cn.bing.com/th?id=OHR.IceHoleOtter_ZH-CN0106321041_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.AustriaMarmot_ZH-CN2303743586_UHD.jpg" type="image/jpg"/>
       <description>年幼的高山土拨鼠 (© Jonas Fichtner-Pflaum/Getty Images)</description>
       <pubDate>2025-02-02</pubDate>
-    </item>
-    <item>
-      <title>国王岩堡垒 , 瑞士撒克逊, 德国 (© Bildagentur-online/Exss/Alamy)</title>
-      <link>https://cn.bing.com/th?id=OHR.FestungKonigsteinElbsandsteingebirge_ZH-CN2192655745_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.FestungKonigsteinElbsandsteingebirge_ZH-CN2192655745_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.FestungKonigsteinElbsandsteingebirge_ZH-CN2192655745_UHD.jpg" type="image/jpg"/>
-      <description>国王岩堡垒 , 瑞士撒克逊, 德国 (© Bildagentur-online/Exss/Alamy)</description>
-      <pubDate>2025-02-01</pubDate>
     </item>
   </channel>
 </rss>
