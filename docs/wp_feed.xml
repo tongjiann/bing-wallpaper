@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2025-02-20</lastBuildDate>
+    <lastBuildDate>2025-02-21</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>希莫加附近的 Champaka Sarasi 池塘，卡纳塔克邦，印度 (© Amith Nag Photography/Getty Images)</title>
+      <link>https://cn.bing.com/th?id=OHR.ChampakaSarasi_ZH-CN0254940579_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.ChampakaSarasi_ZH-CN0254940579_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.ChampakaSarasi_ZH-CN0254940579_UHD.jpg" type="image/jpg"/>
+      <description>希莫加附近的 Champaka Sarasi 池塘，卡纳塔克邦，印度 (© Amith Nag Photography/Getty Images)</description>
+      <pubDate>2025-02-21</pubDate>
+    </item>
     <item>
       <title>马鹿，加拿大 (© Delbars/Getty Images)</title>
       <link>https://cn.bing.com/th?id=OHR.CanadaDeer_ZH-CN0631345798_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.BeginningofSpring25Y_ZH-CN7356156800_UHD.jpg" type="image/jpg"/>
       <description>盛开的樱花树上的红头长尾山雀 (© Haitong Yu/Getty Images)</description>
       <pubDate>2025-02-03</pubDate>
-    </item>
-    <item>
-      <title>年幼的高山土拨鼠 (© Jonas Fichtner-Pflaum/Getty Images)</title>
-      <link>https://cn.bing.com/th?id=OHR.AustriaMarmot_ZH-CN2303743586_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.AustriaMarmot_ZH-CN2303743586_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.AustriaMarmot_ZH-CN2303743586_UHD.jpg" type="image/jpg"/>
-      <description>年幼的高山土拨鼠 (© Jonas Fichtner-Pflaum/Getty Images)</description>
-      <pubDate>2025-02-02</pubDate>
     </item>
   </channel>
 </rss>
