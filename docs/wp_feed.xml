@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2025-02-22</lastBuildDate>
+    <lastBuildDate>2025-02-23</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>日出时分的富士山, 河口湖, 日本 (© Twenty47studio/Getty Images)</title>
+      <link>https://cn.bing.com/th?id=OHR.MtFujiSunrise_ZH-CN0567499176_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.MtFujiSunrise_ZH-CN0567499176_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.MtFujiSunrise_ZH-CN0567499176_UHD.jpg" type="image/jpg"/>
+      <description>日出时分的富士山, 河口湖, 日本 (© Twenty47studio/Getty Images)</description>
+      <pubDate>2025-02-23</pubDate>
+    </item>
     <item>
       <title>圣路易斯拱门, 密苏里州, 美国 (© f11photo/Getty Images)</title>
       <link>https://cn.bing.com/th?id=OHR.StLouisArch_ZH-CN0442955735_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.ScottishSheep_ZH-CN3051181797_UHD.jpg" type="image/jpg"/>
       <description>拱门群岛，瓦拉里基海滩，南岛，新西兰 (© Francesco Vaninetti/AWL/plainpicture)</description>
       <pubDate>2025-02-05</pubDate>
-    </item>
-    <item>
-      <title>金桥，巴拿山，岘港，越南 (© Hien Phung Thu/Shutterstock)</title>
-      <link>https://cn.bing.com/th?id=OHR.GoldenBridge_ZH-CN2910740727_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.GoldenBridge_ZH-CN2910740727_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.GoldenBridge_ZH-CN2910740727_UHD.jpg" type="image/jpg"/>
-      <description>金桥，巴拿山，岘港，越南 (© Hien Phung Thu/Shutterstock)</description>
-      <pubDate>2025-02-04</pubDate>
     </item>
   </channel>
 </rss>
