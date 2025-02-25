@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2025-02-24</lastBuildDate>
+    <lastBuildDate>2025-02-25</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>砂岩石柱，布莱斯峡谷国家公园，犹他州，美国 (© Stephen Matera/TANDEM Stills + Motion)</title>
+      <link>https://cn.bing.com/th?id=OHR.BryceHoodoos_ZH-CN0817211446_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.BryceHoodoos_ZH-CN0817211446_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.BryceHoodoos_ZH-CN0817211446_UHD.jpg" type="image/jpg"/>
+      <description>砂岩石柱，布莱斯峡谷国家公园，犹他州，美国 (© Stephen Matera/TANDEM Stills + Motion)</description>
+      <pubDate>2025-02-25</pubDate>
+    </item>
     <item>
       <title>斯潘塞湾的一群伞膜乌贼, 怀阿拉,南澳大利亚 (© Gary Bell/Minden Pictures)</title>
       <link>https://cn.bing.com/th?id=OHR.GiantCuttlefish_ZH-CN0670915878_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.BlueNorway_ZH-CN7489077966_UHD.jpg" type="image/jpg"/>
       <description>特隆赫姆的蓝色时刻，挪威 (© Jeanny Mueller/Getty Images)</description>
       <pubDate>2025-02-07</pubDate>
-    </item>
-    <item>
-      <title>拱门群岛，瓦拉里基海滩，南岛，新西兰 (© Francesco Vaninetti/AWL/plainpicture)</title>
-      <link>https://cn.bing.com/th?id=OHR.WhararikiBeach_ZH-CN7232913389_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.WhararikiBeach_ZH-CN7232913389_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.WhararikiBeach_ZH-CN7232913389_UHD.jpg" type="image/jpg"/>
-      <description>拱门群岛，瓦拉里基海滩，南岛，新西兰 (© Francesco Vaninetti/AWL/plainpicture)</description>
-      <pubDate>2025-02-06</pubDate>
     </item>
   </channel>
 </rss>
