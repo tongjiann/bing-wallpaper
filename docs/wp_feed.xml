@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2025-02-26</lastBuildDate>
+    <lastBuildDate>2025-02-27</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>北极熊幼崽，丘吉尔，马尼托巴省，加拿大 (© Eric Baccega/NPL/Minden Pictures)</title>
+      <link>https://cn.bing.com/th?id=OHR.PolarCub_ZH-CN1179361319_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.PolarCub_ZH-CN1179361319_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.PolarCub_ZH-CN1179361319_UHD.jpg" type="image/jpg"/>
+      <description>北极熊幼崽，丘吉尔，马尼托巴省，加拿大 (© Eric Baccega/NPL/Minden Pictures)</description>
+      <pubDate>2025-02-27</pubDate>
+    </item>
     <item>
       <title>莱奇湖上的斯托克尔城堡，阿盖尔郡，苏格兰 (© WLDavies/Getty Images)</title>
       <link>https://cn.bing.com/th?id=OHR.ArgyllStalker_ZH-CN0970395078_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.SnowySvaneti_ZH-CN7626153023_UHD.jpg" type="image/jpg"/>
       <description>梅斯蒂亚的中世纪塔楼，上斯瓦涅季，格鲁吉亚 (© photoaliona/Getty Images)</description>
       <pubDate>2025-02-08</pubDate>
-    </item>
-    <item>
-      <title>特隆赫姆的蓝色时刻，挪威 (© Jeanny Mueller/Getty Images)</title>
-      <link>https://cn.bing.com/th?id=OHR.BlueNorway_ZH-CN4865816873_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.BlueNorway_ZH-CN4865816873_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.BlueNorway_ZH-CN4865816873_UHD.jpg" type="image/jpg"/>
-      <description>特隆赫姆的蓝色时刻，挪威 (© Jeanny Mueller/Getty Images)</description>
-      <pubDate>2025-02-07</pubDate>
     </item>
   </channel>
 </rss>
