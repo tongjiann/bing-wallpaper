@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2025-02-27</lastBuildDate>
+    <lastBuildDate>2025-02-28</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>虎穴寺，不丹 (© Baron Reznik/Getty Images)</title>
+      <link>https://cn.bing.com/th?id=OHR.BhutanMonastery_ZH-CN2469401011_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.BhutanMonastery_ZH-CN2469401011_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.BhutanMonastery_ZH-CN2469401011_UHD.jpg" type="image/jpg"/>
+      <description>虎穴寺，不丹 (© Baron Reznik/Getty Images)</description>
+      <pubDate>2025-02-28</pubDate>
+    </item>
     <item>
       <title>北极熊幼崽，丘吉尔，马尼托巴省，加拿大 (© Eric Baccega/NPL/Minden Pictures)</title>
       <link>https://cn.bing.com/th?id=OHR.PolarCub_ZH-CN1179361319_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.AlstromPoint_ZH-CN7844819126_UHD.jpg" type="image/jpg"/>
       <description>阿尔斯特罗姆角，鲍威尔湖，犹他州，美国 (© T.M. Schultze/TANDEM Stills + Motion)</description>
       <pubDate>2025-02-09</pubDate>
-    </item>
-    <item>
-      <title>梅斯蒂亚的中世纪塔楼，上斯瓦涅季，格鲁吉亚 (© photoaliona/Getty Images)</title>
-      <link>https://cn.bing.com/th?id=OHR.SnowySvaneti_ZH-CN7626153023_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.SnowySvaneti_ZH-CN7626153023_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.SnowySvaneti_ZH-CN7626153023_UHD.jpg" type="image/jpg"/>
-      <description>梅斯蒂亚的中世纪塔楼，上斯瓦涅季，格鲁吉亚 (© photoaliona/Getty Images)</description>
-      <pubDate>2025-02-08</pubDate>
     </item>
   </channel>
 </rss>
