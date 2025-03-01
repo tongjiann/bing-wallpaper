@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2025-03-01</lastBuildDate>
+    <lastBuildDate>2025-03-02</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>桉树，梅加龙谷，蓝山山脉国家公园，新南威尔士州，澳大利亚 (© Andrew Peacock/TANDEM Stills + Motion)</title>
+      <link>https://cn.bing.com/th?id=OHR.EucalyptusForest_ZH-CN3052498076_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.EucalyptusForest_ZH-CN3052498076_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.EucalyptusForest_ZH-CN3052498076_UHD.jpg" type="image/jpg"/>
+      <description>桉树，梅加龙谷，蓝山山脉国家公园，新南威尔士州，澳大利亚 (© Andrew Peacock/TANDEM Stills + Motion)</description>
+      <pubDate>2025-03-02</pubDate>
+    </item>
     <item>
       <title>玛琳湖精灵岛上空的北极光，贾斯珀国家公园，加拿大 (© Mumemories/Getty Images)</title>
       <link>https://cn.bing.com/th?id=OHR.MaligneLakeJasper_ZH-CN2664289451_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.YungangGrottoes_ZH-CN8275054060_UHD.jpg" type="image/jpg"/>
       <description>云冈石窟，大同，山西省，中国 (© Eric Yang/Getty Images)</description>
       <pubDate>2025-02-11</pubDate>
-    </item>
-    <item>
-      <title>雨伞艺术装置，博罗市场，伦敦，英国 (© Malcolm P Chapman/Getty Images)</title>
-      <link>https://cn.bing.com/th?id=OHR.UmbrellaDay_ZH-CN8024305066_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.UmbrellaDay_ZH-CN8024305066_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.UmbrellaDay_ZH-CN8024305066_UHD.jpg" type="image/jpg"/>
-      <description>雨伞艺术装置，博罗市场，伦敦，英国 (© Malcolm P Chapman/Getty Images)</description>
-      <pubDate>2025-02-10</pubDate>
     </item>
   </channel>
 </rss>
