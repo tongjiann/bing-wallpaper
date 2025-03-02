@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2025-03-02</lastBuildDate>
+    <lastBuildDate>2025-03-03</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>南黄弯嘴犀鸟，克鲁格国家公园 ，南非 (© Richard Du Toit/Minden Pictures)</title>
+      <link>https://cn.bing.com/th?id=OHR.HornbillPair_ZH-CN3380997666_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.HornbillPair_ZH-CN3380997666_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.HornbillPair_ZH-CN3380997666_UHD.jpg" type="image/jpg"/>
+      <description>南黄弯嘴犀鸟，克鲁格国家公园 ，南非 (© Richard Du Toit/Minden Pictures)</description>
+      <pubDate>2025-03-03</pubDate>
+    </item>
     <item>
       <title>桉树，梅加龙谷，蓝山山脉国家公园，新南威尔士州，澳大利亚 (© Andrew Peacock/TANDEM Stills + Motion)</title>
       <link>https://cn.bing.com/th?id=OHR.EucalyptusForest_ZH-CN3052498076_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.LanterFestival25Y_ZH-CN8547998003_UHD.jpg" type="image/jpg"/>
       <description>上海豫园的灯会，元宵节，上海市，中国 (© atiger/Shutterstock)</description>
       <pubDate>2025-02-12</pubDate>
-    </item>
-    <item>
-      <title>云冈石窟，大同，山西省，中国 (© Eric Yang/Getty Images)</title>
-      <link>https://cn.bing.com/th?id=OHR.YungangGrottoes_ZH-CN8275054060_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.YungangGrottoes_ZH-CN8275054060_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.YungangGrottoes_ZH-CN8275054060_UHD.jpg" type="image/jpg"/>
-      <description>云冈石窟，大同，山西省，中国 (© Eric Yang/Getty Images)</description>
-      <pubDate>2025-02-11</pubDate>
     </item>
   </channel>
 </rss>
