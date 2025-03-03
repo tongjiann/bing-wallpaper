@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2025-03-03</lastBuildDate>
+    <lastBuildDate>2025-03-04</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>杰克逊广场，新奥尔良，路易斯安那州，美国 (© SeanPavonePhoto/Getty Images)</title>
+      <link>https://cn.bing.com/th?id=OHR.MardiGrasJackson_ZH-CN3456301377_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.MardiGrasJackson_ZH-CN3456301377_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.MardiGrasJackson_ZH-CN3456301377_UHD.jpg" type="image/jpg"/>
+      <description>杰克逊广场，新奥尔良，路易斯安那州，美国 (© SeanPavonePhoto/Getty Images)</description>
+      <pubDate>2025-03-04</pubDate>
+    </item>
     <item>
       <title>南黄弯嘴犀鸟，克鲁格国家公园 ，南非 (© Richard Du Toit/Minden Pictures)</title>
       <link>https://cn.bing.com/th?id=OHR.HornbillPair_ZH-CN3380997666_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.LakeTyrrell_ZH-CN8860948292_UHD.jpg" type="image/jpg"/>
       <description>泰瑞尔湖，维多利亚州，澳大利亚 (© Monica Bertolazzi/Getty Images)</description>
       <pubDate>2025-02-13</pubDate>
-    </item>
-    <item>
-      <title>上海豫园的灯会，元宵节，上海市，中国 (© atiger/Shutterstock)</title>
-      <link>https://cn.bing.com/th?id=OHR.LanterFestival25Y_ZH-CN8547998003_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.LanterFestival25Y_ZH-CN8547998003_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.LanterFestival25Y_ZH-CN8547998003_UHD.jpg" type="image/jpg"/>
-      <description>上海豫园的灯会，元宵节，上海市，中国 (© atiger/Shutterstock)</description>
-      <pubDate>2025-02-12</pubDate>
     </item>
   </channel>
 </rss>
