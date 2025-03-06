@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2025-03-06</lastBuildDate>
+    <lastBuildDate>2025-03-07</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>中国的梅花 (© zhikun sun/Getty Images)</title>
+      <link>https://cn.bing.com/th?id=OHR.PlumBlossom_ZH-CN5888621119_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.PlumBlossom_ZH-CN5888621119_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.PlumBlossom_ZH-CN5888621119_UHD.jpg" type="image/jpg"/>
+      <description>中国的梅花 (© zhikun sun/Getty Images)</description>
+      <pubDate>2025-03-07</pubDate>
+    </item>
     <item>
       <title>沙漠大角羊，内华达州火焰谷州立公园，美国 (© Rachid Dahnoun/Cavan Images)</title>
       <link>https://cn.bing.com/th?id=OHR.NevadaBigHorns_ZH-CN5987046965_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.HumpbackMother_ZH-CN9453300759_UHD.jpg" type="image/jpg"/>
       <description>座头鲸妈妈和宝宝，汤加 (© Chase Dekker/Minden Pictures)</description>
       <pubDate>2025-02-16</pubDate>
-    </item>
-    <item>
-      <title>三十槌冰柱，秩父市，日本 (© watayu0821/shutterstock)</title>
-      <link>https://cn.bing.com/th?id=OHR.Misotsuchi2025_ZH-CN9260395680_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.Misotsuchi2025_ZH-CN9260395680_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.Misotsuchi2025_ZH-CN9260395680_UHD.jpg" type="image/jpg"/>
-      <description>三十槌冰柱，秩父市，日本 (© watayu0821/shutterstock)</description>
-      <pubDate>2025-02-15</pubDate>
     </item>
   </channel>
 </rss>
