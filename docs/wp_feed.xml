@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2025-03-08</lastBuildDate>
+    <lastBuildDate>2025-03-09</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>圣马可钟楼，威尼斯，意大利 (© scaliger/Getty Images)</title>
+      <link>https://cn.bing.com/th?id=OHR.ItalyClock_ZH-CN0846995743_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.ItalyClock_ZH-CN0846995743_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.ItalyClock_ZH-CN0846995743_UHD.jpg" type="image/jpg"/>
+      <description>圣马可钟楼，威尼斯，意大利 (© scaliger/Getty Images)</description>
+      <pubDate>2025-03-09</pubDate>
+    </item>
     <item>
       <title>石勒苏益格-荷尔斯泰因州瓦登海国家公园，德国 (© 3quarks/Getty Images)</title>
       <link>https://cn.bing.com/th?id=OHR.WaddenSeaBiosphereReserve_ZH-CN9012125146_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.BlueBelize_ZH-CN9875040666_UHD.jpg" type="image/jpg"/>
       <description>大蓝洞，伯利兹 (© JamiesOnAMission/Shutterstock)</description>
       <pubDate>2025-02-18</pubDate>
-    </item>
-    <item>
-      <title>Coll d'Ares，加泰罗尼亚比利牛斯​​山脉 (© CRISTIAN IONUT ZAHARIA/Shutterstock)</title>
-      <link>https://cn.bing.com/th?id=OHR.CatalanPyrenees_ZH-CN9699602584_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.CatalanPyrenees_ZH-CN9699602584_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.CatalanPyrenees_ZH-CN9699602584_UHD.jpg" type="image/jpg"/>
-      <description>Coll d'Ares，加泰罗尼亚比利牛斯​​山脉 (© CRISTIAN IONUT ZAHARIA/Shutterstock)</description>
-      <pubDate>2025-02-17</pubDate>
     </item>
   </channel>
 </rss>
