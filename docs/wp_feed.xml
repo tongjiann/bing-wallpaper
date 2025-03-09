@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2025-03-09</lastBuildDate>
+    <lastBuildDate>2025-03-10</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>在伊沙沙区里正在睡觉的狮子，伊丽莎白女王国家公园，乌干达 (© Gunter Nuyts/Getty Images)</title>
+      <link>https://cn.bing.com/th?id=OHR.NappingLion_ZH-CN1214312983_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.NappingLion_ZH-CN1214312983_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.NappingLion_ZH-CN1214312983_UHD.jpg" type="image/jpg"/>
+      <description>在伊沙沙区里正在睡觉的狮子，伊丽莎白女王国家公园，乌干达 (© Gunter Nuyts/Getty Images)</description>
+      <pubDate>2025-03-10</pubDate>
+    </item>
     <item>
       <title>圣马可钟楼，威尼斯，意大利 (© scaliger/Getty Images)</title>
       <link>https://cn.bing.com/th?id=OHR.ItalyClock_ZH-CN0846995743_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.IceHoleOtter_ZH-CN0106321041_UHD.jpg" type="image/jpg"/>
       <description>欧亚水獭，莱利斯塔德，荷兰 (© Ernst Dirksen/Minden Pictures)</description>
       <pubDate>2025-02-19</pubDate>
-    </item>
-    <item>
-      <title>大蓝洞，伯利兹 (© JamiesOnAMission/Shutterstock)</title>
-      <link>https://cn.bing.com/th?id=OHR.BlueBelize_ZH-CN9875040666_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.BlueBelize_ZH-CN9875040666_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.BlueBelize_ZH-CN9875040666_UHD.jpg" type="image/jpg"/>
-      <description>大蓝洞，伯利兹 (© JamiesOnAMission/Shutterstock)</description>
-      <pubDate>2025-02-18</pubDate>
     </item>
   </channel>
 </rss>
