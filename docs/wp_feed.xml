@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2025-03-19</lastBuildDate>
+    <lastBuildDate>2025-03-20</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>美丽盛开的樱花，杭州的春天，中国 (© zhang shuang/Getty Images)</title>
+      <link>https://cn.bing.com/th?id=OHR.SpringequinoxY25_ZH-CN1635828827_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.SpringequinoxY25_ZH-CN1635828827_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.SpringequinoxY25_ZH-CN1635828827_UHD.jpg" type="image/jpg"/>
+      <description>美丽盛开的樱花，杭州的春天，中国 (© zhang shuang/Getty Images)</description>
+      <pubDate>2025-03-20</pubDate>
+    </item>
     <item>
       <title>黑鹭捕鱼，乔贝国家公园，博茨瓦纳 (© Paul Souders/Minden PIctures)</title>
       <link>https://cn.bing.com/th?id=OHR.BlackHeron_ZH-CN6764711050_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.MaligneLakeJasper_ZH-CN2664289451_UHD.jpg" type="image/jpg"/>
       <description>玛琳湖精灵岛上空的北极光，贾斯珀国家公园，加拿大 (© Mumemories/Getty Images)</description>
       <pubDate>2025-03-01</pubDate>
-    </item>
-    <item>
-      <title>虎穴寺，不丹 (© Baron Reznik/Getty Images)</title>
-      <link>https://cn.bing.com/th?id=OHR.BhutanMonastery_ZH-CN2469401011_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.BhutanMonastery_ZH-CN2469401011_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.BhutanMonastery_ZH-CN2469401011_UHD.jpg" type="image/jpg"/>
-      <description>虎穴寺，不丹 (© Baron Reznik/Getty Images)</description>
-      <pubDate>2025-02-28</pubDate>
     </item>
   </channel>
 </rss>
