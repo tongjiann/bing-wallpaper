@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2025-03-20</lastBuildDate>
+    <lastBuildDate>2025-03-21</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>低地雨林上空的薄雾，丹浓谷，沙巴，婆罗洲，马来西亚 (© Nick Garbutt/Alamy)</title>
+      <link>https://cn.bing.com/th?id=OHR.DanumValley_ZH-CN5786482012_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.DanumValley_ZH-CN5786482012_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.DanumValley_ZH-CN5786482012_UHD.jpg" type="image/jpg"/>
+      <description>低地雨林上空的薄雾，丹浓谷，沙巴，婆罗洲，马来西亚 (© Nick Garbutt/Alamy)</description>
+      <pubDate>2025-03-21</pubDate>
+    </item>
     <item>
       <title>美丽盛开的樱花，杭州的春天，中国 (© zhang shuang/Getty Images)</title>
       <link>https://cn.bing.com/th?id=OHR.SpringequinoxY25_ZH-CN1635828827_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.EucalyptusForest_ZH-CN3052498076_UHD.jpg" type="image/jpg"/>
       <description>桉树，梅加龙谷，蓝山山脉国家公园，新南威尔士州，澳大利亚 (© Andrew Peacock/TANDEM Stills + Motion)</description>
       <pubDate>2025-03-02</pubDate>
-    </item>
-    <item>
-      <title>玛琳湖精灵岛上空的北极光，贾斯珀国家公园，加拿大 (© Mumemories/Getty Images)</title>
-      <link>https://cn.bing.com/th?id=OHR.MaligneLakeJasper_ZH-CN2664289451_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.MaligneLakeJasper_ZH-CN2664289451_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.MaligneLakeJasper_ZH-CN2664289451_UHD.jpg" type="image/jpg"/>
-      <description>玛琳湖精灵岛上空的北极光，贾斯珀国家公园，加拿大 (© Mumemories/Getty Images)</description>
-      <pubDate>2025-03-01</pubDate>
     </item>
   </channel>
 </rss>
