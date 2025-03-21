@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2025-03-21</lastBuildDate>
+    <lastBuildDate>2025-03-22</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>尼特哈天然井水面上的睡莲，图卢姆，墨西哥 (© Franco Banfi/NPL/Minden)</title>
+      <link>https://cn.bing.com/th?id=OHR.CenoteLilies_ZH-CN5915682591_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.CenoteLilies_ZH-CN5915682591_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.CenoteLilies_ZH-CN5915682591_UHD.jpg" type="image/jpg"/>
+      <description>尼特哈天然井水面上的睡莲，图卢姆，墨西哥 (© Franco Banfi/NPL/Minden)</description>
+      <pubDate>2025-03-22</pubDate>
+    </item>
     <item>
       <title>低地雨林上空的薄雾，丹浓谷，沙巴，婆罗洲，马来西亚 (© Nick Garbutt/Alamy)</title>
       <link>https://cn.bing.com/th?id=OHR.DanumValley_ZH-CN5786482012_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.HornbillPair_ZH-CN3380997666_UHD.jpg" type="image/jpg"/>
       <description>南黄弯嘴犀鸟，克鲁格国家公园 ，南非 (© Richard Du Toit/Minden Pictures)</description>
       <pubDate>2025-03-03</pubDate>
-    </item>
-    <item>
-      <title>桉树，梅加龙谷，蓝山山脉国家公园，新南威尔士州，澳大利亚 (© Andrew Peacock/TANDEM Stills + Motion)</title>
-      <link>https://cn.bing.com/th?id=OHR.EucalyptusForest_ZH-CN3052498076_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.EucalyptusForest_ZH-CN3052498076_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.EucalyptusForest_ZH-CN3052498076_UHD.jpg" type="image/jpg"/>
-      <description>桉树，梅加龙谷，蓝山山脉国家公园，新南威尔士州，澳大利亚 (© Andrew Peacock/TANDEM Stills + Motion)</description>
-      <pubDate>2025-03-02</pubDate>
     </item>
   </channel>
 </rss>
