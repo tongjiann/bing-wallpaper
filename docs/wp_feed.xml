@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2025-03-24</lastBuildDate>
+    <lastBuildDate>2025-03-25</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>向日葵田里的红额金翅雀，德国 (© Juniors Bildarchiv GmbH/Alamy)</title>
+      <link>https://cn.bing.com/th?id=OHR.GoldfinchSunflower_ZH-CN7276848190_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.GoldfinchSunflower_ZH-CN7276848190_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.GoldfinchSunflower_ZH-CN7276848190_UHD.jpg" type="image/jpg"/>
+      <description>向日葵田里的红额金翅雀，德国 (© Juniors Bildarchiv GmbH/Alamy)</description>
+      <pubDate>2025-03-25</pubDate>
+    </item>
     <item>
       <title>沙漠象与小象在高高的草丛中觅食，纳米比亚 (© Christophe Courteau/Minden Pictures)</title>
       <link>https://cn.bing.com/th?id=OHR.ElephantGrass_ZH-CN7110191053_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.NevadaBigHorns_ZH-CN5987046965_UHD.jpg" type="image/jpg"/>
       <description>沙漠大角羊，内华达州火焰谷州立公园，美国 (© Rachid Dahnoun/Cavan Images)</description>
       <pubDate>2025-03-06</pubDate>
-    </item>
-    <item>
-      <title>俯瞰拷索山林国家公园，素叻府，泰国 (© Peetatham Kongkapech/Getty Images)</title>
-      <link>https://cn.bing.com/th?id=OHR.SuratThani_ZH-CN4797096558_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.SuratThani_ZH-CN4797096558_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.SuratThani_ZH-CN4797096558_UHD.jpg" type="image/jpg"/>
-      <description>俯瞰拷索山林国家公园，素叻府，泰国 (© Peetatham Kongkapech/Getty Images)</description>
-      <pubDate>2025-03-05</pubDate>
     </item>
   </channel>
 </rss>
