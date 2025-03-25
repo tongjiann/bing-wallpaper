@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2025-03-25</lastBuildDate>
+    <lastBuildDate>2025-03-26</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>水晶河的海牛，佛罗里达州，美国 (© Stephen Frink/Getty Images)</title>
+      <link>https://cn.bing.com/th?id=OHR.CrystalManatee_ZH-CN7547286414_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.CrystalManatee_ZH-CN7547286414_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.CrystalManatee_ZH-CN7547286414_UHD.jpg" type="image/jpg"/>
+      <description>水晶河的海牛，佛罗里达州，美国 (© Stephen Frink/Getty Images)</description>
+      <pubDate>2025-03-26</pubDate>
+    </item>
     <item>
       <title>向日葵田里的红额金翅雀，德国 (© Juniors Bildarchiv GmbH/Alamy)</title>
       <link>https://cn.bing.com/th?id=OHR.GoldfinchSunflower_ZH-CN7276848190_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.PlumBlossom_ZH-CN5888621119_UHD.jpg" type="image/jpg"/>
       <description>中国的梅花 (© zhikun sun/Getty Images)</description>
       <pubDate>2025-03-07</pubDate>
-    </item>
-    <item>
-      <title>沙漠大角羊，内华达州火焰谷州立公园，美国 (© Rachid Dahnoun/Cavan Images)</title>
-      <link>https://cn.bing.com/th?id=OHR.NevadaBigHorns_ZH-CN5987046965_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.NevadaBigHorns_ZH-CN5987046965_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.NevadaBigHorns_ZH-CN5987046965_UHD.jpg" type="image/jpg"/>
-      <description>沙漠大角羊，内华达州火焰谷州立公园，美国 (© Rachid Dahnoun/Cavan Images)</description>
-      <pubDate>2025-03-06</pubDate>
     </item>
   </channel>
 </rss>
