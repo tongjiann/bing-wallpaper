@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2025-03-28</lastBuildDate>
+    <lastBuildDate>2025-03-29</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>卡里佐平原国家纪念碑的超级花期，加利福尼亚州，美国 (© Robb Hirsch/TANDEM Stills + Motion)</title>
+      <link>https://cn.bing.com/th?id=OHR.CarrizoBloom_ZH-CN7967467357_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.CarrizoBloom_ZH-CN7967467357_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.CarrizoBloom_ZH-CN7967467357_UHD.jpg" type="image/jpg"/>
+      <description>卡里佐平原国家纪念碑的超级花期，加利福尼亚州，美国 (© Robb Hirsch/TANDEM Stills + Motion)</description>
+      <pubDate>2025-03-29</pubDate>
+    </item>
     <item>
       <title>正在筑巢的雌性黑枕王鹟 (© komkrit tonusin/Alamy)</title>
       <link>https://cn.bing.com/th?id=OHR.NestingMonarch_ZH-CN7848166951_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.NappingLion_ZH-CN1214312983_UHD.jpg" type="image/jpg"/>
       <description>在伊沙沙区里正在睡觉的狮子，伊丽莎白女王国家公园，乌干达 (© Gunter Nuyts/Getty Images)</description>
       <pubDate>2025-03-10</pubDate>
-    </item>
-    <item>
-      <title>圣马可钟楼，威尼斯，意大利 (© scaliger/Getty Images)</title>
-      <link>https://cn.bing.com/th?id=OHR.ItalyClock_ZH-CN0846995743_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.ItalyClock_ZH-CN0846995743_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.ItalyClock_ZH-CN0846995743_UHD.jpg" type="image/jpg"/>
-      <description>圣马可钟楼，威尼斯，意大利 (© scaliger/Getty Images)</description>
-      <pubDate>2025-03-09</pubDate>
     </item>
   </channel>
 </rss>
