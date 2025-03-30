@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2025-03-30</lastBuildDate>
+    <lastBuildDate>2025-03-31</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>黄昏下的奥斯图尼, 普利亚, 意大利 (© Feng Wei Photography/Getty Images)</title>
+      <link>https://cn.bing.com/th?id=OHR.ItalyOstuni_ZH-CN8306220080_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.ItalyOstuni_ZH-CN8306220080_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.ItalyOstuni_ZH-CN8306220080_UHD.jpg" type="image/jpg"/>
+      <description>黄昏下的奥斯图尼, 普利亚, 意大利 (© Feng Wei Photography/Getty Images)</description>
+      <pubDate>2025-03-31</pubDate>
+    </item>
     <item>
       <title>悉尼港鸟瞰图，新南威尔士州，澳大利亚 (© jamenpercy/Getty Images)</title>
       <link>https://cn.bing.com/th?id=OHR.SydneyHarbour_ZH-CN8119451632_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.HoliColors_ZH-CN2177185823_UHD.jpg" type="image/jpg"/>
       <description>洒红节庆祝活动，斋浦尔，印度 (© powerofforever/Getty Images)</description>
       <pubDate>2025-03-13</pubDate>
-    </item>
-    <item>
-      <title>卢瓦尔河畔叙利城堡, 卢瓦尔中心省, 法国 (© StockPhotoAstur/Shutterstock)</title>
-      <link>https://cn.bing.com/th?id=OHR.ChateauLoire_ZH-CN5040147638_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.ChateauLoire_ZH-CN5040147638_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.ChateauLoire_ZH-CN5040147638_UHD.jpg" type="image/jpg"/>
-      <description>卢瓦尔河畔叙利城堡, 卢瓦尔中心省, 法国 (© StockPhotoAstur/Shutterstock)</description>
-      <pubDate>2025-03-12</pubDate>
     </item>
   </channel>
 </rss>
