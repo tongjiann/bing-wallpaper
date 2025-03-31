@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2025-03-31</lastBuildDate>
+    <lastBuildDate>2025-04-01</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>树蛙, 哥斯达黎加 (© Ondrej Prosicky/Shutterstock)</title>
+      <link>https://cn.bing.com/th?id=OHR.TicanFrog_ZH-CN8949758487_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.TicanFrog_ZH-CN8949758487_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.TicanFrog_ZH-CN8949758487_UHD.jpg" type="image/jpg"/>
+      <description>树蛙, 哥斯达黎加 (© Ondrej Prosicky/Shutterstock)</description>
+      <pubDate>2025-04-01</pubDate>
+    </item>
     <item>
       <title>黄昏下的奥斯图尼, 普利亚, 意大利 (© Feng Wei Photography/Getty Images)</title>
       <link>https://cn.bing.com/th?id=OHR.ItalyOstuni_ZH-CN8306220080_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.BasqueDolmen_ZH-CN2364777801_UHD.jpg" type="image/jpg"/>
       <description>索尔吉奈特克斯的巨石墓，巴斯克地区，阿拉瓦省，西班牙 (© David Herraez Calzada/plainpicture)</description>
       <pubDate>2025-03-14</pubDate>
-    </item>
-    <item>
-      <title>洒红节庆祝活动，斋浦尔，印度 (© powerofforever/Getty Images)</title>
-      <link>https://cn.bing.com/th?id=OHR.HoliColors_ZH-CN2177185823_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.HoliColors_ZH-CN2177185823_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.HoliColors_ZH-CN2177185823_UHD.jpg" type="image/jpg"/>
-      <description>洒红节庆祝活动，斋浦尔，印度 (© powerofforever/Getty Images)</description>
-      <pubDate>2025-03-13</pubDate>
     </item>
   </channel>
 </rss>
