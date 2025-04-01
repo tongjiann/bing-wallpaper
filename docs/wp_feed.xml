@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2025-04-01</lastBuildDate>
+    <lastBuildDate>2025-04-02</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>凯恩维尔附近荒地的砂岩地层, 犹他州, 美国 (© Chris Moore/TANDEM Stills + Motion)</title>
+      <link>https://cn.bing.com/th?id=OHR.UtahBadlands_ZH-CN9174002963_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.UtahBadlands_ZH-CN9174002963_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.UtahBadlands_ZH-CN9174002963_UHD.jpg" type="image/jpg"/>
+      <description>凯恩维尔附近荒地的砂岩地层, 犹他州, 美国 (© Chris Moore/TANDEM Stills + Motion)</description>
+      <pubDate>2025-04-02</pubDate>
+    </item>
     <item>
       <title>树蛙, 哥斯达黎加 (© Ondrej Prosicky/Shutterstock)</title>
       <link>https://cn.bing.com/th?id=OHR.TicanFrog_ZH-CN8949758487_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.ForumRomanum_ZH-CN5873120178_UHD.jpg" type="image/jpg"/>
       <description>罗马广场上的罗马萨图尔诺农神庙，罗马，意大利 (© Nico De Pasquale Photography/Getty Images)</description>
       <pubDate>2025-03-15</pubDate>
-    </item>
-    <item>
-      <title>索尔吉奈特克斯的巨石墓，巴斯克地区，阿拉瓦省，西班牙 (© David Herraez Calzada/plainpicture)</title>
-      <link>https://cn.bing.com/th?id=OHR.BasqueDolmen_ZH-CN2364777801_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.BasqueDolmen_ZH-CN2364777801_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.BasqueDolmen_ZH-CN2364777801_UHD.jpg" type="image/jpg"/>
-      <description>索尔吉奈特克斯的巨石墓，巴斯克地区，阿拉瓦省，西班牙 (© David Herraez Calzada/plainpicture)</description>
-      <pubDate>2025-03-14</pubDate>
     </item>
   </channel>
 </rss>
