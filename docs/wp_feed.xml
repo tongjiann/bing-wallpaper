@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2025-04-04</lastBuildDate>
+    <lastBuildDate>2025-04-05</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>日落时分的加兹特鲁加特岛 , 巴斯克地区, 西班牙 (© Eloi_Omella/Getty Images)</title>
+      <link>https://cn.bing.com/th?id=OHR.GaztelugatxeSunset_ZH-CN0553703567_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.GaztelugatxeSunset_ZH-CN0553703567_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.GaztelugatxeSunset_ZH-CN0553703567_UHD.jpg" type="image/jpg"/>
+      <description>日落时分的加兹特鲁加特岛 , 巴斯克地区, 西班牙 (© Eloi_Omella/Getty Images)</description>
+      <pubDate>2025-04-05</pubDate>
+    </item>
     <item>
       <title>苏州古镇风景，江苏省，中国 (© gyn9038/Getty Images)</title>
       <link>https://cn.bing.com/th?id=OHR.QingMingY25_ZH-CN9818431198_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.SedonaSpring_ZH-CN6305197600_UHD.jpg" type="image/jpg"/>
       <description>红色岩层，塞多纳，亚利桑那州，美国 (© Jim Ekstrand/Alamy Stock Photo)</description>
       <pubDate>2025-03-18</pubDate>
-    </item>
-    <item>
-      <title>塞缪尔·贝克特桥, 都柏林, 爱尔兰 (© Colm Keating/Tandem Stills + Motion)</title>
-      <link>https://cn.bing.com/th?id=OHR.BeckettBridge_ZH-CN6206942429_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.BeckettBridge_ZH-CN6206942429_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.BeckettBridge_ZH-CN6206942429_UHD.jpg" type="image/jpg"/>
-      <description>塞缪尔·贝克特桥, 都柏林, 爱尔兰 (© Colm Keating/Tandem Stills + Motion)</description>
-      <pubDate>2025-03-17</pubDate>
     </item>
   </channel>
 </rss>
