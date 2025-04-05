@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2025-04-05</lastBuildDate>
+    <lastBuildDate>2025-04-06</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>碎片大厦，伦敦 (© Dennis Fischer Photography/Moment/Getty Images)</title>
+      <link>https://cn.bing.com/th?id=OHR.ShardLondon2025_ZH-CN0722863055_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.ShardLondon2025_ZH-CN0722863055_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.ShardLondon2025_ZH-CN0722863055_UHD.jpg" type="image/jpg"/>
+      <description>碎片大厦，伦敦 (© Dennis Fischer Photography/Moment/Getty Images)</description>
+      <pubDate>2025-04-06</pubDate>
+    </item>
     <item>
       <title>日落时分的加兹特鲁加特岛 , 巴斯克地区, 西班牙 (© Eloi_Omella/Getty Images)</title>
       <link>https://cn.bing.com/th?id=OHR.GaztelugatxeSunset_ZH-CN0553703567_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.BlackHeron_ZH-CN6764711050_UHD.jpg" type="image/jpg"/>
       <description>黑鹭捕鱼，乔贝国家公园，博茨瓦纳 (© Paul Souders/Minden PIctures)</description>
       <pubDate>2025-03-19</pubDate>
-    </item>
-    <item>
-      <title>红色岩层，塞多纳，亚利桑那州，美国 (© Jim Ekstrand/Alamy Stock Photo)</title>
-      <link>https://cn.bing.com/th?id=OHR.SedonaSpring_ZH-CN6305197600_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.SedonaSpring_ZH-CN6305197600_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.SedonaSpring_ZH-CN6305197600_UHD.jpg" type="image/jpg"/>
-      <description>红色岩层，塞多纳，亚利桑那州，美国 (© Jim Ekstrand/Alamy Stock Photo)</description>
-      <pubDate>2025-03-18</pubDate>
     </item>
   </channel>
 </rss>
