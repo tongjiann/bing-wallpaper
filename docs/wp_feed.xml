@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2025-04-08</lastBuildDate>
+    <lastBuildDate>2025-04-09</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>纳克索斯岛的蓝色时刻，基克拉泽斯群岛，希腊 (© Sizun Eye/Getty Images)</title>
+      <link>https://cn.bing.com/th?id=OHR.BlueNaxos_ZH-CN7863097040_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.BlueNaxos_ZH-CN7863097040_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.BlueNaxos_ZH-CN7863097040_UHD.jpg" type="image/jpg"/>
+      <description>纳克索斯岛的蓝色时刻，基克拉泽斯群岛，希腊 (© Sizun Eye/Getty Images)</description>
+      <pubDate>2025-04-09</pubDate>
+    </item>
     <item>
       <title>春天的水仙花在清晨绽放 (© LedyX/Shutterstock)</title>
       <link>https://cn.bing.com/th?id=OHR.SpringDaffodils_ZH-CN6737270212_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.CenoteLilies_ZH-CN5915682591_UHD.jpg" type="image/jpg"/>
       <description>尼特哈天然井水面上的睡莲，图卢姆，墨西哥 (© Franco Banfi/NPL/Minden)</description>
       <pubDate>2025-03-22</pubDate>
-    </item>
-    <item>
-      <title>低地雨林上空的薄雾，丹浓谷，沙巴，婆罗洲，马来西亚 (© Nick Garbutt/Alamy)</title>
-      <link>https://cn.bing.com/th?id=OHR.DanumValley_ZH-CN5786482012_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.DanumValley_ZH-CN5786482012_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.DanumValley_ZH-CN5786482012_UHD.jpg" type="image/jpg"/>
-      <description>低地雨林上空的薄雾，丹浓谷，沙巴，婆罗洲，马来西亚 (© Nick Garbutt/Alamy)</description>
-      <pubDate>2025-03-21</pubDate>
     </item>
   </channel>
 </rss>
