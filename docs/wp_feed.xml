@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2025-04-15</lastBuildDate>
+    <lastBuildDate>2025-04-16</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>卡奇纳桥，天然桥国家区，犹他州，美国 (© Alan Majchrowicz/Getty Images)</title>
+      <link>https://cn.bing.com/th?id=OHR.KachinaBridge_ZH-CN3333793502_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.KachinaBridge_ZH-CN3333793502_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.KachinaBridge_ZH-CN3333793502_UHD.jpg" type="image/jpg"/>
+      <description>卡奇纳桥，天然桥国家区，犹他州，美国 (© Alan Majchrowicz/Getty Images)</description>
+      <pubDate>2025-04-16</pubDate>
+    </item>
     <item>
       <title>卡拉奥拉城堡，格拉纳达，西班牙 (© Ugo Mellone/eStock Photo)</title>
       <link>https://cn.bing.com/th?id=OHR.CerezoEnFlor_ZH-CN2951543796_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.CarrizoBloom_ZH-CN7967467357_UHD.jpg" type="image/jpg"/>
       <description>卡里佐平原国家纪念碑的超级花期，加利福尼亚州，美国 (© Robb Hirsch/TANDEM Stills + Motion)</description>
       <pubDate>2025-03-29</pubDate>
-    </item>
-    <item>
-      <title>正在筑巢的雌性黑枕王鹟 (© komkrit tonusin/Alamy)</title>
-      <link>https://cn.bing.com/th?id=OHR.NestingMonarch_ZH-CN7848166951_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.NestingMonarch_ZH-CN7848166951_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.NestingMonarch_ZH-CN7848166951_UHD.jpg" type="image/jpg"/>
-      <description>正在筑巢的雌性黑枕王鹟 (© komkrit tonusin/Alamy)</description>
-      <pubDate>2025-03-28</pubDate>
     </item>
   </channel>
 </rss>
