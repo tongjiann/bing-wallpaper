@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2025-04-19</lastBuildDate>
+    <lastBuildDate>2025-04-20</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>春天里的野生小兔子 (© Fiona McAllister Photography/Getty Images)</title>
+      <link>https://cn.bing.com/th?id=OHR.BunnyLove_ZH-CN1145897965_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.BunnyLove_ZH-CN1145897965_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.BunnyLove_ZH-CN1145897965_UHD.jpg" type="image/jpg"/>
+      <description>春天里的野生小兔子 (© Fiona McAllister Photography/Getty Images)</description>
+      <pubDate>2025-04-20</pubDate>
+    </item>
     <item>
       <title>锡安国家公园，犹他州，美国 (© Simon Dannhauer/Getty Images)</title>
       <link>https://cn.bing.com/th?id=OHR.ZionValley_ZH-CN0611524754_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.TicanFrog_ZH-CN8949758487_UHD.jpg" type="image/jpg"/>
       <description>树蛙, 哥斯达黎加 (© Ondrej Prosicky/Shutterstock)</description>
       <pubDate>2025-04-01</pubDate>
-    </item>
-    <item>
-      <title>黄昏下的奥斯图尼, 普利亚, 意大利 (© Feng Wei Photography/Getty Images)</title>
-      <link>https://cn.bing.com/th?id=OHR.ItalyOstuni_ZH-CN8306220080_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.ItalyOstuni_ZH-CN8306220080_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.ItalyOstuni_ZH-CN8306220080_UHD.jpg" type="image/jpg"/>
-      <description>黄昏下的奥斯图尼, 普利亚, 意大利 (© Feng Wei Photography/Getty Images)</description>
-      <pubDate>2025-03-31</pubDate>
     </item>
   </channel>
 </rss>
