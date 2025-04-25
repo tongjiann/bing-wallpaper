@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2025-04-25</lastBuildDate>
+    <lastBuildDate>2025-04-26</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>印第安头湾, 布鲁斯半岛国家公园, 安大略, 加拿大 (© Maurice Prokaziuk/Getty Images)</title>
+      <link>https://cn.bing.com/th?id=OHR.BrucePeninsula_ZH-CN3258296517_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.BrucePeninsula_ZH-CN3258296517_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.BrucePeninsula_ZH-CN3258296517_UHD.jpg" type="image/jpg"/>
+      <description>印第安头湾, 布鲁斯半岛国家公园, 安大略, 加拿大 (© Maurice Prokaziuk/Getty Images)</description>
+      <pubDate>2025-04-26</pubDate>
+    </item>
     <item>
       <title>麦哲伦企鹅, 志愿者角, 福克兰群岛 (© imageBROKER/Matthias Graben/Getty Images)</title>
       <link>https://cn.bing.com/th?id=OHR.MagellanicPenguin_ZH-CN3177950090_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.SpringDaffodils_ZH-CN6737270212_UHD.jpg" type="image/jpg"/>
       <description>春天的水仙花在清晨绽放 (© LedyX/Shutterstock)</description>
       <pubDate>2025-04-08</pubDate>
-    </item>
-    <item>
-      <title>美洲海狸, Moran, 怀俄明州, 美国 (© Enrique Aguirre Aves/Getty Images)</title>
-      <link>https://cn.bing.com/th?id=OHR.BeaverDay_ZH-CN2889563041_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.BeaverDay_ZH-CN2889563041_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.BeaverDay_ZH-CN2889563041_UHD.jpg" type="image/jpg"/>
-      <description>美洲海狸, Moran, 怀俄明州, 美国 (© Enrique Aguirre Aves/Getty Images)</description>
-      <pubDate>2025-04-07</pubDate>
     </item>
   </channel>
 </rss>
