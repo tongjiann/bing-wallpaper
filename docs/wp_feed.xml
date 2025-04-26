@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2025-04-26</lastBuildDate>
+    <lastBuildDate>2025-04-27</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>红木国家公园和州立公园, 加利福尼亚州, 美国 (© Bob Pool/Getty Images)</title>
+      <link>https://cn.bing.com/th?id=OHR.RedwoodGrove_ZH-CN3339576686_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.RedwoodGrove_ZH-CN3339576686_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.RedwoodGrove_ZH-CN3339576686_UHD.jpg" type="image/jpg"/>
+      <description>红木国家公园和州立公园, 加利福尼亚州, 美国 (© Bob Pool/Getty Images)</description>
+      <pubDate>2025-04-27</pubDate>
+    </item>
     <item>
       <title>印第安头湾, 布鲁斯半岛国家公园, 安大略, 加拿大 (© Maurice Prokaziuk/Getty Images)</title>
       <link>https://cn.bing.com/th?id=OHR.BrucePeninsula_ZH-CN3258296517_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.BlueNaxos_ZH-CN7863097040_UHD.jpg" type="image/jpg"/>
       <description>纳克索斯岛的蓝色时刻，基克拉泽斯群岛，希腊 (© Sizun Eye/Getty Images)</description>
       <pubDate>2025-04-09</pubDate>
-    </item>
-    <item>
-      <title>春天的水仙花在清晨绽放 (© LedyX/Shutterstock)</title>
-      <link>https://cn.bing.com/th?id=OHR.SpringDaffodils_ZH-CN6737270212_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.SpringDaffodils_ZH-CN6737270212_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.SpringDaffodils_ZH-CN6737270212_UHD.jpg" type="image/jpg"/>
-      <description>春天的水仙花在清晨绽放 (© LedyX/Shutterstock)</description>
-      <pubDate>2025-04-08</pubDate>
     </item>
   </channel>
 </rss>
