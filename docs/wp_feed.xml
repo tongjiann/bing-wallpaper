@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2025-04-27</lastBuildDate>
+    <lastBuildDate>2025-04-28</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>莫雷米野生动物保护区的高角羚，博茨瓦纳 (© Paul Souders/Getty Images)</title>
+      <link>https://cn.bing.com/th?id=OHR.OrangeImpala_ZH-CN3417660107_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.OrangeImpala_ZH-CN3417660107_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.OrangeImpala_ZH-CN3417660107_UHD.jpg" type="image/jpg"/>
+      <description>莫雷米野生动物保护区的高角羚，博茨瓦纳 (© Paul Souders/Getty Images)</description>
+      <pubDate>2025-04-28</pubDate>
+    </item>
     <item>
       <title>红木国家公园和州立公园, 加利福尼亚州, 美国 (© Bob Pool/Getty Images)</title>
       <link>https://cn.bing.com/th?id=OHR.RedwoodGrove_ZH-CN3339576686_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.LittleFoxes_ZH-CN8622806156_UHD.jpg" type="image/jpg"/>
       <description>靠近巢穴的红狐幼崽 (© WildMedia/Shutterstock)</description>
       <pubDate>2025-04-10</pubDate>
-    </item>
-    <item>
-      <title>纳克索斯岛的蓝色时刻，基克拉泽斯群岛，希腊 (© Sizun Eye/Getty Images)</title>
-      <link>https://cn.bing.com/th?id=OHR.BlueNaxos_ZH-CN7863097040_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.BlueNaxos_ZH-CN7863097040_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.BlueNaxos_ZH-CN7863097040_UHD.jpg" type="image/jpg"/>
-      <description>纳克索斯岛的蓝色时刻，基克拉泽斯群岛，希腊 (© Sizun Eye/Getty Images)</description>
-      <pubDate>2025-04-09</pubDate>
     </item>
   </channel>
 </rss>
