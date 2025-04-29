@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2025-04-29</lastBuildDate>
+    <lastBuildDate>2025-04-30</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>从巴拉那州看到的伊瓜苏瀑布, 巴西 (© agustavop/Getty Images)</title>
+      <link>https://cn.bing.com/th?id=OHR.FozdoIguacu2025_ZH-CN3781165595_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.FozdoIguacu2025_ZH-CN3781165595_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.FozdoIguacu2025_ZH-CN3781165595_UHD.jpg" type="image/jpg"/>
+      <description>从巴拉那州看到的伊瓜苏瀑布, 巴西 (© agustavop/Getty Images)</description>
+      <pubDate>2025-04-30</pubDate>
+    </item>
     <item>
       <title>维朗德里城堡，卢瓦尔河谷，法国 (© Mint Images/Getty Images)</title>
       <link>https://cn.bing.com/th?id=OHR.GardensVillandry_ZH-CN3660934263_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.SpaceFlight_ZH-CN0927394503_UHD.jpg" type="image/jpg"/>
       <description>从国际空间站穹顶俯瞰南太平洋 (© NASA)</description>
       <pubDate>2025-04-12</pubDate>
-    </item>
-    <item>
-      <title>郁金香，荷兰 (© 1111IESPDJ/Getty Images)</title>
-      <link>https://cn.bing.com/th?id=OHR.TulipsWindmill_ZH-CN0665142956_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.TulipsWindmill_ZH-CN0665142956_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.TulipsWindmill_ZH-CN0665142956_UHD.jpg" type="image/jpg"/>
-      <description>郁金香，荷兰 (© 1111IESPDJ/Getty Images)</description>
-      <pubDate>2025-04-11</pubDate>
     </item>
   </channel>
 </rss>
