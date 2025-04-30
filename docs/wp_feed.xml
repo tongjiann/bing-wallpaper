@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2025-04-30</lastBuildDate>
+    <lastBuildDate>2025-05-01</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>鸡蛋花，夏威夷，美国 (© Miranda Jans/Getty Images)</title>
+      <link>https://cn.bing.com/th?id=OHR.PinkPlumeria_ZH-CN3890147555_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.PinkPlumeria_ZH-CN3890147555_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.PinkPlumeria_ZH-CN3890147555_UHD.jpg" type="image/jpg"/>
+      <description>鸡蛋花，夏威夷，美国 (© Miranda Jans/Getty Images)</description>
+      <pubDate>2025-05-01</pubDate>
+    </item>
     <item>
       <title>从巴拉那州看到的伊瓜苏瀑布, 巴西 (© agustavop/Getty Images)</title>
       <link>https://cn.bing.com/th?id=OHR.FozdoIguacu2025_ZH-CN3781165595_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.ThailandPagodas_ZH-CN1143878296_UHD.jpg" type="image/jpg"/>
       <description>班克鲁特的唐赛寺，泰国 (© Ratnakorn Piyasirisorost/Getty Images)</description>
       <pubDate>2025-04-13</pubDate>
-    </item>
-    <item>
-      <title>从国际空间站穹顶俯瞰南太平洋 (© NASA)</title>
-      <link>https://cn.bing.com/th?id=OHR.SpaceFlight_ZH-CN0927394503_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.SpaceFlight_ZH-CN0927394503_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.SpaceFlight_ZH-CN0927394503_UHD.jpg" type="image/jpg"/>
-      <description>从国际空间站穹顶俯瞰南太平洋 (© NASA)</description>
-      <pubDate>2025-04-12</pubDate>
     </item>
   </channel>
 </rss>
