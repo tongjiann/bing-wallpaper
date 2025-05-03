@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2025-05-03</lastBuildDate>
+    <lastBuildDate>2025-05-04</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>西班牙广场，塞维利亚，西班牙 (© Horia Merla/Getty Images)</title>
+      <link>https://cn.bing.com/th?id=OHR.SevilleNaboo_ZH-CN1065227658_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.SevilleNaboo_ZH-CN1065227658_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.SevilleNaboo_ZH-CN1065227658_UHD.jpg" type="image/jpg"/>
+      <description>西班牙广场，塞维利亚，西班牙 (© Horia Merla/Getty Images)</description>
+      <pubDate>2025-05-04</pubDate>
+    </item>
     <item>
       <title>拱门国家公园双拱门映衬下的银河，犹他州，美国 (© Adventure_Photo/Getty Images)</title>
       <link>https://cn.bing.com/th?id=OHR.ArchesGalaxy_ZH-CN0954505086_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.KachinaBridge_ZH-CN3333793502_UHD.jpg" type="image/jpg"/>
       <description>卡奇纳桥，天然桥国家区，犹他州，美国 (© Alan Majchrowicz/Getty Images)</description>
       <pubDate>2025-04-16</pubDate>
-    </item>
-    <item>
-      <title>卡拉奥拉城堡，格拉纳达，西班牙 (© Ugo Mellone/eStock Photo)</title>
-      <link>https://cn.bing.com/th?id=OHR.CerezoEnFlor_ZH-CN2951543796_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.CerezoEnFlor_ZH-CN2951543796_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.CerezoEnFlor_ZH-CN2951543796_UHD.jpg" type="image/jpg"/>
-      <description>卡拉奥拉城堡，格拉纳达，西班牙 (© Ugo Mellone/eStock Photo)</description>
-      <pubDate>2025-04-15</pubDate>
     </item>
   </channel>
 </rss>
