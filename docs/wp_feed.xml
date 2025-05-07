@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2025-05-07</lastBuildDate>
+    <lastBuildDate>2025-05-08</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>Rhyolite附近山谷中的驴子，内华达州，美国 (© Moelyn Photos/Getty Images)</title>
+      <link>https://cn.bing.com/th?id=OHR.RhyoliteDonkeys_ZH-CN2626127533_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.RhyoliteDonkeys_ZH-CN2626127533_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.RhyoliteDonkeys_ZH-CN2626127533_UHD.jpg" type="image/jpg"/>
+      <description>Rhyolite附近山谷中的驴子，内华达州，美国 (© Moelyn Photos/Getty Images)</description>
+      <pubDate>2025-05-08</pubDate>
+    </item>
     <item>
       <title>邓路斯城堡，安特里姆郡，北爱尔兰 (© DieterMeyrl/Getty Images)</title>
       <link>https://cn.bing.com/th?id=OHR.DunluceIreland_ZH-CN2412229757_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.BunnyLove_ZH-CN1145897965_UHD.jpg" type="image/jpg"/>
       <description>春天里的野生小兔子 (© Fiona McAllister Photography/Getty Images)</description>
       <pubDate>2025-04-20</pubDate>
-    </item>
-    <item>
-      <title>锡安国家公园，犹他州，美国 (© Simon Dannhauer/Getty Images)</title>
-      <link>https://cn.bing.com/th?id=OHR.ZionValley_ZH-CN0611524754_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.ZionValley_ZH-CN0611524754_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.ZionValley_ZH-CN0611524754_UHD.jpg" type="image/jpg"/>
-      <description>锡安国家公园，犹他州，美国 (© Simon Dannhauer/Getty Images)</description>
-      <pubDate>2025-04-19</pubDate>
     </item>
   </channel>
 </rss>
