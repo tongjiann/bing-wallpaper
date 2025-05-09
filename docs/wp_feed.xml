@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2025-05-09</lastBuildDate>
+    <lastBuildDate>2025-05-10</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>巴尔德纳斯雷亚尔斯自然公园的卡斯蒂尔德蒂拉，纳瓦拉，西班牙 (© Eloi_Omella/Getty Images)</title>
+      <link>https://cn.bing.com/th?id=OHR.Castildetierra_ZH-CN6042529770_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.Castildetierra_ZH-CN6042529770_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.Castildetierra_ZH-CN6042529770_UHD.jpg" type="image/jpg"/>
+      <description>巴尔德纳斯雷亚尔斯自然公园的卡斯蒂尔德蒂拉，纳瓦拉，西班牙 (© Eloi_Omella/Getty Images)</description>
+      <pubDate>2025-05-10</pubDate>
+    </item>
     <item>
       <title>普通变色龙 (© Photostock-Israel/SPL/Getty Images)</title>
       <link>https://cn.bing.com/th?id=OHR.CuteChameleon_ZH-CN5029981236_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.YellowstoneSpring_ZH-CN2643482467_UHD.jpg" type="image/jpg"/>
       <description>大棱镜彩泉，黄石国家公园，怀俄明州，美国 (© Ajith Kumar/Getty Images)</description>
       <pubDate>2025-04-22</pubDate>
-    </item>
-    <item>
-      <title>银河下的约书亚树，加利福尼亚州，美国 (© Chao Zhang/Getty Images)</title>
-      <link>https://cn.bing.com/th?id=OHR.JoshuaStars_ZH-CN1375098210_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.JoshuaStars_ZH-CN1375098210_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.JoshuaStars_ZH-CN1375098210_UHD.jpg" type="image/jpg"/>
-      <description>银河下的约书亚树，加利福尼亚州，美国 (© Chao Zhang/Getty Images)</description>
-      <pubDate>2025-04-21</pubDate>
     </item>
   </channel>
 </rss>
