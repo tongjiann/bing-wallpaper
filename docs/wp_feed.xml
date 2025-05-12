@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2025-05-12</lastBuildDate>
+    <lastBuildDate>2025-05-13</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>百内国家公园, 巴塔哥尼亚, 智利 (© Marco Bottigelli/Getty Images)</title>
+      <link>https://cn.bing.com/th?id=OHR.TorresChile_ZH-CN6319613148_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.TorresChile_ZH-CN6319613148_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.TorresChile_ZH-CN6319613148_UHD.jpg" type="image/jpg"/>
+      <description>百内国家公园, 巴塔哥尼亚, 智利 (© Marco Bottigelli/Getty Images)</description>
+      <pubDate>2025-05-13</pubDate>
+    </item>
     <item>
       <title>东京的鸢尾花园, 日本 (© M.Arai/Getty Images)</title>
       <link>https://cn.bing.com/th?id=OHR.IrisGarden_ZH-CN6226448882_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.KenaiSpires_ZH-CN3045699778_UHD.jpg" type="image/jpg"/>
       <description>阿拉斯加基奈峡湾国家公园尖顶湾, 阿拉斯加州苏厄德, 美国 (© Wander Photography/Getty Images)</description>
       <pubDate>2025-04-24</pubDate>
-    </item>
-    <item>
-      <title>海利根港斯坦沃德海滩上的沙滩椅，石勒苏益格-荷尔斯泰因州，德国 (© Frank Lukasseck/eStock Photo)</title>
-      <link>https://cn.bing.com/th?id=OHR.BeachChairsSteinwarder_ZH-CN2947390092_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.BeachChairsSteinwarder_ZH-CN2947390092_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.BeachChairsSteinwarder_ZH-CN2947390092_UHD.jpg" type="image/jpg"/>
-      <description>海利根港斯坦沃德海滩上的沙滩椅，石勒苏益格-荷尔斯泰因州，德国 (© Frank Lukasseck/eStock Photo)</description>
-      <pubDate>2025-04-23</pubDate>
     </item>
   </channel>
 </rss>
