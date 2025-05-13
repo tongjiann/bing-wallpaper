@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2025-05-13</lastBuildDate>
+    <lastBuildDate>2025-05-14</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>弗拉维亚港, 苏尔西斯-伊格莱西恩特, 撒丁岛, 意大利 (© Marco Bottigelli/Getty Images)</title>
+      <link>https://cn.bing.com/th?id=OHR.SardiniaFlavia_ZH-CN6784449568_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.SardiniaFlavia_ZH-CN6784449568_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.SardiniaFlavia_ZH-CN6784449568_UHD.jpg" type="image/jpg"/>
+      <description>弗拉维亚港, 苏尔西斯-伊格莱西恩特, 撒丁岛, 意大利 (© Marco Bottigelli/Getty Images)</description>
+      <pubDate>2025-05-14</pubDate>
+    </item>
     <item>
       <title>百内国家公园, 巴塔哥尼亚, 智利 (© Marco Bottigelli/Getty Images)</title>
       <link>https://cn.bing.com/th?id=OHR.TorresChile_ZH-CN6319613148_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.MagellanicPenguin_ZH-CN3177950090_UHD.jpg" type="image/jpg"/>
       <description>麦哲伦企鹅, 志愿者角, 福克兰群岛 (© imageBROKER/Matthias Graben/Getty Images)</description>
       <pubDate>2025-04-25</pubDate>
-    </item>
-    <item>
-      <title>阿拉斯加基奈峡湾国家公园尖顶湾, 阿拉斯加州苏厄德, 美国 (© Wander Photography/Getty Images)</title>
-      <link>https://cn.bing.com/th?id=OHR.KenaiSpires_ZH-CN3045699778_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.KenaiSpires_ZH-CN3045699778_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.KenaiSpires_ZH-CN3045699778_UHD.jpg" type="image/jpg"/>
-      <description>阿拉斯加基奈峡湾国家公园尖顶湾, 阿拉斯加州苏厄德, 美国 (© Wander Photography/Getty Images)</description>
-      <pubDate>2025-04-24</pubDate>
     </item>
   </channel>
 </rss>
