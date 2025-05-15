@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2025-05-15</lastBuildDate>
+    <lastBuildDate>2025-05-16</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>大绿金刚鹦鹉, 墨西哥 (© Ondrej Prosicky/Shutterstock)</title>
+      <link>https://cn.bing.com/th?id=OHR.GreenMacaw_ZH-CN3451340204_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.GreenMacaw_ZH-CN3451340204_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.GreenMacaw_ZH-CN3451340204_UHD.jpg" type="image/jpg"/>
+      <description>大绿金刚鹦鹉, 墨西哥 (© Ondrej Prosicky/Shutterstock)</description>
+      <pubDate>2025-05-16</pubDate>
+    </item>
     <item>
       <title>大本钟和国会大厦, 威斯敏斯特宫, 伦敦, 英国 (© Puthipong Worasaran/Getty Images)</title>
       <link>https://cn.bing.com/th?id=OHR.LondonParliament_ZH-CN7089923691_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.RedwoodGrove_ZH-CN3339576686_UHD.jpg" type="image/jpg"/>
       <description>红木国家公园和州立公园, 加利福尼亚州, 美国 (© Bob Pool/Getty Images)</description>
       <pubDate>2025-04-27</pubDate>
-    </item>
-    <item>
-      <title>印第安头湾, 布鲁斯半岛国家公园, 安大略, 加拿大 (© Maurice Prokaziuk/Getty Images)</title>
-      <link>https://cn.bing.com/th?id=OHR.BrucePeninsula_ZH-CN3258296517_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.BrucePeninsula_ZH-CN3258296517_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.BrucePeninsula_ZH-CN3258296517_UHD.jpg" type="image/jpg"/>
-      <description>印第安头湾, 布鲁斯半岛国家公园, 安大略, 加拿大 (© Maurice Prokaziuk/Getty Images)</description>
-      <pubDate>2025-04-26</pubDate>
     </item>
   </channel>
 </rss>
