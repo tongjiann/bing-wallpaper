@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2025-05-17</lastBuildDate>
+    <lastBuildDate>2025-05-18</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>加龙河对面的圣皮埃尔桥，图卢兹，法国 (© Image Professionals GmbH/Alamy)</title>
+      <link>https://cn.bing.com/th?id=OHR.ToulouseBridge_ZH-CN3930246927_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.ToulouseBridge_ZH-CN3930246927_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.ToulouseBridge_ZH-CN3930246927_UHD.jpg" type="image/jpg"/>
+      <description>加龙河对面的圣皮埃尔桥，图卢兹，法国 (© Image Professionals GmbH/Alamy)</description>
+      <pubDate>2025-05-18</pubDate>
+    </item>
     <item>
       <title>威尼斯潟湖中的三角洲, 意大利 (© Dimitri Weber/Amazing Aerial Agency)</title>
       <link>https://cn.bing.com/th?id=OHR.VeniceLagoon_ZH-CN3791408491_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.GardensVillandry_ZH-CN3660934263_UHD.jpg" type="image/jpg"/>
       <description>维朗德里城堡，卢瓦尔河谷，法国 (© Mint Images/Getty Images)</description>
       <pubDate>2025-04-29</pubDate>
-    </item>
-    <item>
-      <title>莫雷米野生动物保护区的高角羚，博茨瓦纳 (© Paul Souders/Getty Images)</title>
-      <link>https://cn.bing.com/th?id=OHR.OrangeImpala_ZH-CN3417660107_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.OrangeImpala_ZH-CN3417660107_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.OrangeImpala_ZH-CN3417660107_UHD.jpg" type="image/jpg"/>
-      <description>莫雷米野生动物保护区的高角羚，博茨瓦纳 (© Paul Souders/Getty Images)</description>
-      <pubDate>2025-04-28</pubDate>
     </item>
   </channel>
 </rss>
