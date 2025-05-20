@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2025-05-20</lastBuildDate>
+    <lastBuildDate>2025-05-21</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>杨家塘村茶园，松阳县，中国 (© feng xu/Getty Images)</title>
+      <link>https://cn.bing.com/th?id=OHR.SongyangTeaGarden_ZH-CN4763170909_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.SongyangTeaGarden_ZH-CN4763170909_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.SongyangTeaGarden_ZH-CN4763170909_UHD.jpg" type="image/jpg"/>
+      <description>杨家塘村茶园，松阳县，中国 (© feng xu/Getty Images)</description>
+      <pubDate>2025-05-21</pubDate>
+    </item>
     <item>
       <title>薰衣草上的蜜蜂 (© Anthony Brown/Alamy Stock Photo)</title>
       <link>https://cn.bing.com/th?id=OHR.HoneyBeeLavender_ZH-CN4513594236_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.BrazilHeron_ZH-CN7200229300_UHD.jpg" type="image/jpg"/>
       <description>维多利亚睡莲上的绿鹭，潘塔纳尔 ，巴西 (© Gerald Corsi/Getty Images)</description>
       <pubDate>2025-05-02</pubDate>
-    </item>
-    <item>
-      <title>鸡蛋花，夏威夷，美国 (© Miranda Jans/Getty Images)</title>
-      <link>https://cn.bing.com/th?id=OHR.PinkPlumeria_ZH-CN3890147555_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.PinkPlumeria_ZH-CN3890147555_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.PinkPlumeria_ZH-CN3890147555_UHD.jpg" type="image/jpg"/>
-      <description>鸡蛋花，夏威夷，美国 (© Miranda Jans/Getty Images)</description>
-      <pubDate>2025-05-01</pubDate>
     </item>
   </channel>
 </rss>
