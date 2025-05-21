@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2025-05-21</lastBuildDate>
+    <lastBuildDate>2025-05-22</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>日落时分的猴面包树，猴面包树大道，马达加斯加 (© Framalicious/Shutterstock)</title>
+      <link>https://cn.bing.com/th?id=OHR.BaobabAvenue_ZH-CN5217451344_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.BaobabAvenue_ZH-CN5217451344_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.BaobabAvenue_ZH-CN5217451344_UHD.jpg" type="image/jpg"/>
+      <description>日落时分的猴面包树，猴面包树大道，马达加斯加 (© Framalicious/Shutterstock)</description>
+      <pubDate>2025-05-22</pubDate>
+    </item>
     <item>
       <title>杨家塘村茶园，松阳县，中国 (© feng xu/Getty Images)</title>
       <link>https://cn.bing.com/th?id=OHR.SongyangTeaGarden_ZH-CN4763170909_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.ArchesGalaxy_ZH-CN0954505086_UHD.jpg" type="image/jpg"/>
       <description>拱门国家公园双拱门映衬下的银河，犹他州，美国 (© Adventure_Photo/Getty Images)</description>
       <pubDate>2025-05-03</pubDate>
-    </item>
-    <item>
-      <title>维多利亚睡莲上的绿鹭，潘塔纳尔 ，巴西 (© Gerald Corsi/Getty Images)</title>
-      <link>https://cn.bing.com/th?id=OHR.BrazilHeron_ZH-CN7200229300_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.BrazilHeron_ZH-CN7200229300_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.BrazilHeron_ZH-CN7200229300_UHD.jpg" type="image/jpg"/>
-      <description>维多利亚睡莲上的绿鹭，潘塔纳尔 ，巴西 (© Gerald Corsi/Getty Images)</description>
-      <pubDate>2025-05-02</pubDate>
     </item>
   </channel>
 </rss>
