@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2025-05-22</lastBuildDate>
+    <lastBuildDate>2025-05-23</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>停在黄头侧颈龟鼻子上的茱莉亚蝶，亚马逊地区，厄瓜多尔 (© Westend61/Getty Images)</title>
+      <link>https://cn.bing.com/th?id=OHR.ButterflyTurtle_ZH-CN5706515924_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.ButterflyTurtle_ZH-CN5706515924_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.ButterflyTurtle_ZH-CN5706515924_UHD.jpg" type="image/jpg"/>
+      <description>停在黄头侧颈龟鼻子上的茱莉亚蝶，亚马逊地区，厄瓜多尔 (© Westend61/Getty Images)</description>
+      <pubDate>2025-05-23</pubDate>
+    </item>
     <item>
       <title>日落时分的猴面包树，猴面包树大道，马达加斯加 (© Framalicious/Shutterstock)</title>
       <link>https://cn.bing.com/th?id=OHR.BaobabAvenue_ZH-CN5217451344_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.SevilleNaboo_ZH-CN1065227658_UHD.jpg" type="image/jpg"/>
       <description>西班牙广场，塞维利亚，西班牙 (© Horia Merla/Getty Images)</description>
       <pubDate>2025-05-04</pubDate>
-    </item>
-    <item>
-      <title>拱门国家公园双拱门映衬下的银河，犹他州，美国 (© Adventure_Photo/Getty Images)</title>
-      <link>https://cn.bing.com/th?id=OHR.ArchesGalaxy_ZH-CN0954505086_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.ArchesGalaxy_ZH-CN0954505086_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.ArchesGalaxy_ZH-CN0954505086_UHD.jpg" type="image/jpg"/>
-      <description>拱门国家公园双拱门映衬下的银河，犹他州，美国 (© Adventure_Photo/Getty Images)</description>
-      <pubDate>2025-05-03</pubDate>
     </item>
   </channel>
 </rss>
