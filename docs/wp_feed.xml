@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2025-05-23</lastBuildDate>
+    <lastBuildDate>2025-05-24</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>挪威尤通黑门山国家公园 (© Marisa Estivill/Shutterstock)</title>
+      <link>https://cn.bing.com/th?id=OHR.JotunheimenPark_ZH-CN7417034574_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.JotunheimenPark_ZH-CN7417034574_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.JotunheimenPark_ZH-CN7417034574_UHD.jpg" type="image/jpg"/>
+      <description>挪威尤通黑门山国家公园 (© Marisa Estivill/Shutterstock)</description>
+      <pubDate>2025-05-24</pubDate>
+    </item>
     <item>
       <title>停在黄头侧颈龟鼻子上的茱莉亚蝶，亚马逊地区，厄瓜多尔 (© Westend61/Getty Images)</title>
       <link>https://cn.bing.com/th?id=OHR.ButterflyTurtle_ZH-CN5706515924_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.BeginningofSummer25Y_ZH-CN2000519236_UHD.jpg" type="image/jpg"/>
       <description>日出时分，美丽的喀斯特山脉鸟瞰图，中国桂林 (© zhaojiankang/Getty Images)</description>
       <pubDate>2025-05-05</pubDate>
-    </item>
-    <item>
-      <title>西班牙广场，塞维利亚，西班牙 (© Horia Merla/Getty Images)</title>
-      <link>https://cn.bing.com/th?id=OHR.SevilleNaboo_ZH-CN1065227658_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.SevilleNaboo_ZH-CN1065227658_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.SevilleNaboo_ZH-CN1065227658_UHD.jpg" type="image/jpg"/>
-      <description>西班牙广场，塞维利亚，西班牙 (© Horia Merla/Getty Images)</description>
-      <pubDate>2025-05-04</pubDate>
     </item>
   </channel>
 </rss>
