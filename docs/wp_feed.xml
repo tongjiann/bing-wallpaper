@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2025-05-25</lastBuildDate>
+    <lastBuildDate>2025-05-26</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>沿着岚山保津川行驶的火车，京都，日本 (© Alvin Huang/Getty Images)</title>
+      <link>https://cn.bing.com/th?id=OHR.Arashiyama2025_ZH-CN7836747321_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.Arashiyama2025_ZH-CN7836747321_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.Arashiyama2025_ZH-CN7836747321_UHD.jpg" type="image/jpg"/>
+      <description>沿着岚山保津川行驶的火车，京都，日本 (© Alvin Huang/Getty Images)</description>
+      <pubDate>2025-05-26</pubDate>
+    </item>
     <item>
       <title>布伦特伍德湾的布查特花园，不列颠哥伦比亚省，加拿大 (© 2009fotofriends/Shutterstock)</title>
       <link>https://cn.bing.com/th?id=OHR.ButchartFlowers_ZH-CN6692930571_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.DunluceIreland_ZH-CN2412229757_UHD.jpg" type="image/jpg"/>
       <description>邓路斯城堡，安特里姆郡，北爱尔兰 (© DieterMeyrl/Getty Images)</description>
       <pubDate>2025-05-07</pubDate>
-    </item>
-    <item>
-      <title>一架超轻型飞机飞越纳米比亚沙漠 (© Burt Johnson/Alamy Stock Photo)</title>
-      <link>https://cn.bing.com/th?id=OHR.FlyoverNamibia_ZH-CN2114171516_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.FlyoverNamibia_ZH-CN2114171516_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.FlyoverNamibia_ZH-CN2114171516_UHD.jpg" type="image/jpg"/>
-      <description>一架超轻型飞机飞越纳米比亚沙漠 (© Burt Johnson/Alamy Stock Photo)</description>
-      <pubDate>2025-05-06</pubDate>
     </item>
   </channel>
 </rss>
