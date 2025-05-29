@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2025-05-29</lastBuildDate>
+    <lastBuildDate>2025-05-30</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>小鸽子河，大雾山国家公园，田纳西州, 美国 (© GreenStock/Getty Images)</title>
+      <link>https://cn.bing.com/th?id=OHR.LittlePigeonRiver_ZH-CN6554251943_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.LittlePigeonRiver_ZH-CN6554251943_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.LittlePigeonRiver_ZH-CN6554251943_UHD.jpg" type="image/jpg"/>
+      <description>小鸽子河，大雾山国家公园，田纳西州, 美国 (© GreenStock/Getty Images)</description>
+      <pubDate>2025-05-30</pubDate>
+    </item>
     <item>
       <title>米拉韦特，埃布罗河，加泰罗尼亚塔，西班牙 (© Eloi_Omella/Getty Images)</title>
       <link>https://cn.bing.com/th?id=OHR.MiravetSpain_ZH-CN8584568741_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.LeopardMother_ZH-CN6134353524_UHD.jpg" type="image/jpg"/>
       <description>豹妈妈正在梳理她的幼崽，Jao保护区，博茨瓦纳 (© Suzi Eszterhas/Minden Pictures)</description>
       <pubDate>2025-05-11</pubDate>
-    </item>
-    <item>
-      <title>巴尔德纳斯雷亚尔斯自然公园的卡斯蒂尔德蒂拉，纳瓦拉，西班牙 (© Eloi_Omella/Getty Images)</title>
-      <link>https://cn.bing.com/th?id=OHR.Castildetierra_ZH-CN6042529770_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.Castildetierra_ZH-CN6042529770_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.Castildetierra_ZH-CN6042529770_UHD.jpg" type="image/jpg"/>
-      <description>巴尔德纳斯雷亚尔斯自然公园的卡斯蒂尔德蒂拉，纳瓦拉，西班牙 (© Eloi_Omella/Getty Images)</description>
-      <pubDate>2025-05-10</pubDate>
     </item>
   </channel>
 </rss>
