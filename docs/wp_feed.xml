@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2025-05-31</lastBuildDate>
+    <lastBuildDate>2025-06-01</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>格朗特尔岛附近的堡礁，法属新喀里多尼亚 (© Karsten Wrobel/Getty Images)</title>
+      <link>https://cn.bing.com/th?id=OHR.GrandeTerreReef_ZH-CN7463701309_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.GrandeTerreReef_ZH-CN7463701309_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.GrandeTerreReef_ZH-CN7463701309_UHD.jpg" type="image/jpg"/>
+      <description>格朗特尔岛附近的堡礁，法属新喀里多尼亚 (© Karsten Wrobel/Getty Images)</description>
+      <pubDate>2025-06-01</pubDate>
+    </item>
     <item>
       <title>用彩色丝线串成的香囊，端午节前夕的庙会上，吉林省吉林市，中国 (© Visual China Group/Getty Images)</title>
       <link>https://cn.bing.com/th?id=OHR.DuanwuFestivalY25_ZH-CN7343005503_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.TorresChile_ZH-CN6319613148_UHD.jpg" type="image/jpg"/>
       <description>百内国家公园, 巴塔哥尼亚, 智利 (© Marco Bottigelli/Getty Images)</description>
       <pubDate>2025-05-13</pubDate>
-    </item>
-    <item>
-      <title>东京的鸢尾花园, 日本 (© M.Arai/Getty Images)</title>
-      <link>https://cn.bing.com/th?id=OHR.IrisGarden_ZH-CN6226448882_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.IrisGarden_ZH-CN6226448882_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.IrisGarden_ZH-CN6226448882_UHD.jpg" type="image/jpg"/>
-      <description>东京的鸢尾花园, 日本 (© M.Arai/Getty Images)</description>
-      <pubDate>2025-05-12</pubDate>
     </item>
   </channel>
 </rss>
