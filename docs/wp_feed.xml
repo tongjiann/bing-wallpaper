@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2025-06-09</lastBuildDate>
+    <lastBuildDate>2025-06-10</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>大沼泽地国家公园的鸟瞰图，佛罗里达州，美国 (© Robert DelVecchio - OcuDrone/Getty Images)</title>
+      <link>https://cn.bing.com/th?id=OHR.AerialEverglades_ZH-CN3388982881_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.AerialEverglades_ZH-CN3388982881_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.AerialEverglades_ZH-CN3388982881_UHD.jpg" type="image/jpg"/>
+      <description>大沼泽地国家公园的鸟瞰图，佛罗里达州，美国 (© Robert DelVecchio - OcuDrone/Getty Images)</description>
+      <pubDate>2025-06-10</pubDate>
+    </item>
     <item>
       <title>达尔马提亚的杜布罗夫尼克古城，克罗地亚 (© bluejayphoto/Getty Images)</title>
       <link>https://cn.bing.com/th?id=OHR.DubrovnikTwilight_ZH-CN2981648854_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.BaobabAvenue_ZH-CN5217451344_UHD.jpg" type="image/jpg"/>
       <description>日落时分的猴面包树，猴面包树大道，马达加斯加 (© Framalicious/Shutterstock)</description>
       <pubDate>2025-05-22</pubDate>
-    </item>
-    <item>
-      <title>杨家塘村茶园，松阳县，中国 (© feng xu/Getty Images)</title>
-      <link>https://cn.bing.com/th?id=OHR.SongyangTeaGarden_ZH-CN4763170909_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.SongyangTeaGarden_ZH-CN4763170909_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.SongyangTeaGarden_ZH-CN4763170909_UHD.jpg" type="image/jpg"/>
-      <description>杨家塘村茶园，松阳县，中国 (© feng xu/Getty Images)</description>
-      <pubDate>2025-05-21</pubDate>
     </item>
   </channel>
 </rss>
