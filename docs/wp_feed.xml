@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2025-06-11</lastBuildDate>
+    <lastBuildDate>2025-06-12</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>奇索斯山脉，大弯国家公园，德克萨斯州，美国 (© Dean Fikar/Getty Images)</title>
+      <link>https://cn.bing.com/th?id=OHR.BigBendChisos_ZH-CN3794880768_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.BigBendChisos_ZH-CN3794880768_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.BigBendChisos_ZH-CN3794880768_UHD.jpg" type="image/jpg"/>
+      <description>奇索斯山脉，大弯国家公园，德克萨斯州，美国 (© Dean Fikar/Getty Images)</description>
+      <pubDate>2025-06-12</pubDate>
+    </item>
     <item>
       <title>���红鹳，吕德里茨，纳米比亚 (© Karine Aigner/TANDEM Stills + Motion)</title>
       <link>https://cn.bing.com/th?id=OHR.FlamingosNamibia_ZH-CN3639748956_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.ButchartFlowers_ZH-CN6692930571_UHD.jpg" type="image/jpg"/>
       <description>布伦特伍德湾的布查特花园，不列颠哥伦比亚省，加拿大 (© 2009fotofriends/Shutterstock)</description>
       <pubDate>2025-05-25</pubDate>
-    </item>
-    <item>
-      <title>挪威尤通黑门山国家公园 (© Marisa Estivill/Shutterstock)</title>
-      <link>https://cn.bing.com/th?id=OHR.JotunheimenPark_ZH-CN7417034574_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.JotunheimenPark_ZH-CN7417034574_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.JotunheimenPark_ZH-CN7417034574_UHD.jpg" type="image/jpg"/>
-      <description>挪威尤通黑门山国家公园 (© Marisa Estivill/Shutterstock)</description>
-      <pubDate>2025-05-24</pubDate>
     </item>
   </channel>
 </rss>
