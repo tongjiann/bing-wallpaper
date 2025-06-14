@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2025-06-14</lastBuildDate>
+    <lastBuildDate>2025-06-15</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>雄性小美洲鸵与幼鸟，托雷斯德尔潘恩国家公园，巴塔哥尼亚，智利 (© Ignacio Yufera/Minden Pictures)</title>
+      <link>https://cn.bing.com/th?id=OHR.RheaDad_ZH-CN6706868651_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.RheaDad_ZH-CN6706868651_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.RheaDad_ZH-CN6706868651_UHD.jpg" type="image/jpg"/>
+      <description>雄性小美洲鸵与幼鸟，托雷斯德尔潘恩国家公园，巴塔哥尼亚，智利 (© Ignacio Yufera/Minden Pictures)</description>
+      <pubDate>2025-06-15</pubDate>
+    </item>
     <item>
       <title>五塔峰，多洛米蒂山脉，科尔蒂纳丹佩佐，贝卢诺省，意大利威尼托大区 (© usabin/Getty Images)</title>
       <link>https://cn.bing.com/th?id=OHR.DolomitiEstate_ZH-CN6501271709_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.KelpOtter_ZH-CN8297228161_UHD.jpg" type="image/jpg"/>
       <description>一只海獭漂浮在阿拉斯加海洋国家野生动物保护区的海藻床上，美国 (© Gerry Ellis/Minden Pictures)</description>
       <pubDate>2025-05-28</pubDate>
-    </item>
-    <item>
-      <title>梦娜维尔岩池，悉尼，澳大利亚 (© jamenpercy/Getty Images)</title>
-      <link>https://cn.bing.com/th?id=OHR.MonaValePool_ZH-CN7968271596_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.MonaValePool_ZH-CN7968271596_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.MonaValePool_ZH-CN7968271596_UHD.jpg" type="image/jpg"/>
-      <description>梦娜维尔岩池，悉尼，澳大利亚 (© jamenpercy/Getty Images)</description>
-      <pubDate>2025-05-27</pubDate>
     </item>
   </channel>
 </rss>
