@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2025-06-20</lastBuildDate>
+    <lastBuildDate>2025-06-21</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>雾中莲花，中国佛山 (© huoguangliang/Getty Images)</title>
+      <link>https://cn.bing.com/th?id=OHR.SummerSolsticeY25_ZH-CN2728972774_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.SummerSolsticeY25_ZH-CN2728972774_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.SummerSolsticeY25_ZH-CN2728972774_UHD.jpg" type="image/jpg"/>
+      <description>雾中莲花，中国佛山 (© huoguangliang/Getty Images)</description>
+      <pubDate>2025-06-21</pubDate>
+    </item>
     <item>
       <title>一只马赛长颈鹿妈妈正在给小长颈鹿梳理毛发, 塞伦盖蒂,坦桑尼亚 (© Alberto Cassani/Getty Images)</title>
       <link>https://cn.bing.com/th?id=OHR.SerengetiGiraffe_ZH-CN2613013393_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.BicyclesUtrecht_ZH-CN8016028978_UHD.jpg" type="image/jpg"/>
       <description>乌得勒支桥上的自行车，荷兰 (© George Pachantouris/Getty Images)</description>
       <pubDate>2025-06-03</pubDate>
-    </item>
-    <item>
-      <title>一只停在紫锥菊上的灰蝶，洛克菲勒州立公园，纽约 (© Marianne A. Campolongo/Alamy)</title>
-      <link>https://cn.bing.com/th?id=OHR.EchinaceaButterfly_ZH-CN7877489878_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.EchinaceaButterfly_ZH-CN7877489878_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.EchinaceaButterfly_ZH-CN7877489878_UHD.jpg" type="image/jpg"/>
-      <description>一只停在紫锥菊上的灰蝶，洛克菲勒州立公园，纽约 (© Marianne A. Campolongo/Alamy)</description>
-      <pubDate>2025-06-02</pubDate>
     </item>
   </channel>
 </rss>
