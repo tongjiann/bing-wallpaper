@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2025-06-27</lastBuildDate>
+    <lastBuildDate>2025-06-28</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>曼海姆水塔, 德国 (© no limit pictures/Getty Images)</title>
+      <link>https://cn.bing.com/th?id=OHR.WatertowerMannheim_ZH-CN0692039329_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.WatertowerMannheim_ZH-CN0692039329_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.WatertowerMannheim_ZH-CN0692039329_UHD.jpg" type="image/jpg"/>
+      <description>曼海姆水塔, 德国 (© no limit pictures/Getty Images)</description>
+      <pubDate>2025-06-28</pubDate>
+    </item>
     <item>
       <title>Knuthöjdsmossen自然保护区, 海勒福什市, 瑞典 (© Sven Halling/DEEPOL/plainpicture)</title>
       <link>https://cn.bing.com/th?id=OHR.SwedenReserve_ZH-CN9963744170_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.AerialEverglades_ZH-CN3388982881_UHD.jpg" type="image/jpg"/>
       <description>大沼泽地国家公园的鸟瞰图，佛罗里达州，美国 (© Robert DelVecchio - OcuDrone/Getty Images)</description>
       <pubDate>2025-06-10</pubDate>
-    </item>
-    <item>
-      <title>达尔马提亚的杜布罗夫尼克古城，克罗地亚 (© bluejayphoto/Getty Images)</title>
-      <link>https://cn.bing.com/th?id=OHR.DubrovnikTwilight_ZH-CN2981648854_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.DubrovnikTwilight_ZH-CN2981648854_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.DubrovnikTwilight_ZH-CN2981648854_UHD.jpg" type="image/jpg"/>
-      <description>达尔马提亚的杜布罗夫尼克古城，克罗地亚 (© bluejayphoto/Getty Images)</description>
-      <pubDate>2025-06-09</pubDate>
     </item>
   </channel>
 </rss>
