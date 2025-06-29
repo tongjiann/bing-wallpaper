@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2025-06-29</lastBuildDate>
+    <lastBuildDate>2025-06-30</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>沃尔夫溪陨石坑, 澳大利亚 (© Abstract Aerial Art/Getty Images)</title>
+      <link>https://cn.bing.com/th?id=OHR.WolfeCrater_ZH-CN1652906326_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.WolfeCrater_ZH-CN1652906326_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.WolfeCrater_ZH-CN1652906326_UHD.jpg" type="image/jpg"/>
+      <description>沃尔夫溪陨石坑, 澳大利亚 (© Abstract Aerial Art/Getty Images)</description>
+      <pubDate>2025-06-30</pubDate>
+    </item>
     <item>
       <title>Pulau Ay蓝色泻湖, 班达群岛, 印度尼西亚 (© fabio lamanna/Alamy Stock Photo)</title>
       <link>https://cn.bing.com/th?id=OHR.BandaIsland_ZH-CN1145779264_UHD.jpg</link>
@@ -155,14 +163,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.FlamingosNamibia_ZH-CN3639748956_UHD.jpg" type="image/jpeg"/>
       <enclosure url="https://cn.bing.com/th?id=OHR.FlamingosNamibia_ZH-CN3639748956_UHD.jpg" type="image/jpg"/>
       <description>���红鹳，吕德里茨，纳米比亚 (© Karine Aigner/TANDEM Stills + Motion)</description>
-      <pubDate>2025-06-11</pubDate>
-    </item>
-    <item>
-      <title>大红鹳，吕德里茨，纳米比亚 (© Karine Aigner/TANDEM Stills + Motion)</title>
-      <link>https://cn.bing.com/th?id=OHR.FlamingosNamibia_ZH-CN3639748956_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.FlamingosNamibia_ZH-CN3639748956_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.FlamingosNamibia_ZH-CN3639748956_UHD.jpg" type="image/jpg"/>
-      <description>大红鹳，吕德里茨，纳米比亚 (© Karine Aigner/TANDEM Stills + Motion)</description>
       <pubDate>2025-06-11</pubDate>
     </item>
   </channel>
