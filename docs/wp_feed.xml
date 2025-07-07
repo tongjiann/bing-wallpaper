@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2025-07-07</lastBuildDate>
+    <lastBuildDate>2025-07-08</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>塞切达，多洛米蒂山脉的山峰，南蒂罗尔，意大利 (© Kalyakan/Adobe Stock)</title>
+      <link>https://cn.bing.com/th?id=OHR.SecedaPeak_ZH-CN7633793128_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.SecedaPeak_ZH-CN7633793128_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.SecedaPeak_ZH-CN7633793128_UHD.jpg" type="image/jpg"/>
+      <description>塞切达，多洛米蒂山脉的山峰，南蒂罗尔，意大利 (© Kalyakan/Adobe Stock)</description>
+      <pubDate>2025-07-08</pubDate>
+    </item>
     <item>
       <title>潜水捕鱼的北方鲣鸟，设得兰群岛，苏格兰 (© Richard Shucksmith/Minden Pictures)</title>
       <link>https://cn.bing.com/th?id=OHR.ShetlandGannets_ZH-CN7279521125_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.WinterBegins_ZH-CN7638411804_UHD.jpg" type="image/jpg"/>
       <description>圣卡塔琳娜州的海滩, 巴西 (© CaioCarvalhoPhotography/Getty Images)</description>
       <pubDate>2025-06-19</pubDate>
-    </item>
-    <item>
-      <title>红花石蒜上的柑橘凤蝶 (© lzh/Getty Images)</title>
-      <link>https://cn.bing.com/th?id=OHR.AsianSwallowtail_ZH-CN7442263508_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.AsianSwallowtail_ZH-CN7442263508_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.AsianSwallowtail_ZH-CN7442263508_UHD.jpg" type="image/jpg"/>
-      <description>红花石蒜上的柑橘凤蝶 (© lzh/Getty Images)</description>
-      <pubDate>2025-06-18</pubDate>
     </item>
   </channel>
 </rss>
