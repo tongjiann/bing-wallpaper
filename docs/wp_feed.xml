@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2025-07-08</lastBuildDate>
+    <lastBuildDate>2025-07-09</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>宪法火车站，布宜诺斯艾利斯，阿根廷 (© Grafissimo/Getty Images)</title>
+      <link>https://cn.bing.com/th?id=OHR.ConstitucionStation_ZH-CN7962568053_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.ConstitucionStation_ZH-CN7962568053_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.ConstitucionStation_ZH-CN7962568053_UHD.jpg" type="image/jpg"/>
+      <description>宪法火车站，布宜诺斯艾利斯，阿根廷 (© Grafissimo/Getty Images)</description>
+      <pubDate>2025-07-09</pubDate>
+    </item>
     <item>
       <title>塞切达，多洛米蒂山脉的山峰，南蒂罗尔，意大利 (© Kalyakan/Adobe Stock)</title>
       <link>https://cn.bing.com/th?id=OHR.SecedaPeak_ZH-CN7633793128_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.SerengetiGiraffe_ZH-CN2613013393_UHD.jpg" type="image/jpg"/>
       <description>一只马赛长颈鹿妈妈正在给小长颈鹿梳理毛发, 塞伦盖蒂,坦桑尼亚 (© Alberto Cassani/Getty Images)</description>
       <pubDate>2025-06-20</pubDate>
-    </item>
-    <item>
-      <title>圣卡塔琳娜州的海滩, 巴西 (© CaioCarvalhoPhotography/Getty Images)</title>
-      <link>https://cn.bing.com/th?id=OHR.WinterBegins_ZH-CN7638411804_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.WinterBegins_ZH-CN7638411804_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.WinterBegins_ZH-CN7638411804_UHD.jpg" type="image/jpg"/>
-      <description>圣卡塔琳娜州的海滩, 巴西 (© CaioCarvalhoPhotography/Getty Images)</description>
-      <pubDate>2025-06-19</pubDate>
     </item>
   </channel>
 </rss>
