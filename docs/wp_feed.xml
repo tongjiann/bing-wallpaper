@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2025-07-09</lastBuildDate>
+    <lastBuildDate>2025-07-10</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>巴哈马的绿松石色水域 (© BlueOrange Studio/Adobe Stock)</title>
+      <link>https://cn.bing.com/th?id=OHR.BahamaBlues_ZH-CN8134624828_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.BahamaBlues_ZH-CN8134624828_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.BahamaBlues_ZH-CN8134624828_UHD.jpg" type="image/jpg"/>
+      <description>巴哈马的绿松石色水域 (© BlueOrange Studio/Adobe Stock)</description>
+      <pubDate>2025-07-10</pubDate>
+    </item>
     <item>
       <title>宪法火车站，布宜诺斯艾利斯，阿根廷 (© Grafissimo/Getty Images)</title>
       <link>https://cn.bing.com/th?id=OHR.ConstitucionStation_ZH-CN7962568053_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.SummerSolsticeY25_ZH-CN2728972774_UHD.jpg" type="image/jpg"/>
       <description>雾中莲花，中国佛山 (© huoguangliang/Getty Images)</description>
       <pubDate>2025-06-21</pubDate>
-    </item>
-    <item>
-      <title>一只马赛长颈鹿妈妈正在给小长颈鹿梳理毛发, 塞伦盖蒂,坦桑尼亚 (© Alberto Cassani/Getty Images)</title>
-      <link>https://cn.bing.com/th?id=OHR.SerengetiGiraffe_ZH-CN2613013393_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.SerengetiGiraffe_ZH-CN2613013393_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.SerengetiGiraffe_ZH-CN2613013393_UHD.jpg" type="image/jpg"/>
-      <description>一只马赛长颈鹿妈妈正在给小长颈鹿梳理毛发, 塞伦盖蒂,坦桑尼亚 (© Alberto Cassani/Getty Images)</description>
-      <pubDate>2025-06-20</pubDate>
     </item>
   </channel>
 </rss>
