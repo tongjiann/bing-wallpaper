@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2025-07-11</lastBuildDate>
+    <lastBuildDate>2025-07-12</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>汤氏瞪羚母亲和小鹿，马赛马拉，肯尼亚 (© Gallo Images/DanitaDelimont.com)</title>
+      <link>https://cn.bing.com/th?id=OHR.ThomsonGazelle_ZH-CN0413171014_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.ThomsonGazelle_ZH-CN0413171014_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.ThomsonGazelle_ZH-CN0413171014_UHD.jpg" type="image/jpg"/>
+      <description>汤氏瞪羚母亲和小鹿，马赛马拉，肯尼亚 (© Gallo Images/DanitaDelimont.com)</description>
+      <pubDate>2025-07-12</pubDate>
+    </item>
     <item>
       <title>日出时的东京，日本 (© pongnathee kluaythong/Getty Images)</title>
       <link>https://cn.bing.com/th?id=OHR.TokyoSunrise_ZH-CN0091906710_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.DresdenElbe_ZH-CN8776977800_UHD.jpg" type="image/jpg"/>
       <description>德累斯顿易北河谷, 德国 (© Sean Pavone/Getty Images)</description>
       <pubDate>2025-06-23</pubDate>
-    </item>
-    <item>
-      <title>亚马逊雨林，厄瓜多尔 (© Mark Fox/Getty Images)</title>
-      <link>https://cn.bing.com/th?id=OHR.AmazonEcuador_ZH-CN2864991745_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.AmazonEcuador_ZH-CN2864991745_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.AmazonEcuador_ZH-CN2864991745_UHD.jpg" type="image/jpg"/>
-      <description>亚马逊雨林，厄瓜多尔 (© Mark Fox/Getty Images)</description>
-      <pubDate>2025-06-22</pubDate>
     </item>
   </channel>
 </rss>
