@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2025-07-12</lastBuildDate>
+    <lastBuildDate>2025-07-13</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>卡尔夫沙马尔斯��克湾玄武岩柱，斯卡吉半岛，冰岛 (© Arterra Picture Library/Alamy Stock Photo)</title>
+      <link>https://cn.bing.com/th?id=OHR.BasaltColumns_ZH-CN0743036217_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.BasaltColumns_ZH-CN0743036217_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.BasaltColumns_ZH-CN0743036217_UHD.jpg" type="image/jpg"/>
+      <description>卡尔夫沙马尔斯��克湾玄武岩柱，斯卡吉半岛，冰岛 (© Arterra Picture Library/Alamy Stock Photo)</description>
+      <pubDate>2025-07-13</pubDate>
+    </item>
     <item>
       <title>汤氏瞪羚母亲和小鹿，马赛马拉，肯尼亚 (© Gallo Images/DanitaDelimont.com)</title>
       <link>https://cn.bing.com/th?id=OHR.ThomsonGazelle_ZH-CN0413171014_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.DelicateArch_ZH-CN8971667580_UHD.jpg" type="image/jpg"/>
       <description>精致拱门, 拱门国家公园, 犹他州, 美国 (© mmac72/Getty Images)</description>
       <pubDate>2025-06-24</pubDate>
-    </item>
-    <item>
-      <title>德累斯顿易北河谷, 德国 (© Sean Pavone/Getty Images)</title>
-      <link>https://cn.bing.com/th?id=OHR.DresdenElbe_ZH-CN8776977800_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.DresdenElbe_ZH-CN8776977800_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.DresdenElbe_ZH-CN8776977800_UHD.jpg" type="image/jpg"/>
-      <description>德累斯顿易北河谷, 德国 (© Sean Pavone/Getty Images)</description>
-      <pubDate>2025-06-23</pubDate>
     </item>
   </channel>
 </rss>
