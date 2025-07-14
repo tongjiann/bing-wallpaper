@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2025-07-14</lastBuildDate>
+    <lastBuildDate>2025-07-15</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>英仙座流星雨和一棵古老刺果松，大盆地国家公园，内华达州，美国 (© Wirestock Creators/Shutterstock)</title>
+      <link>https://cn.bing.com/th?id=OHR.PerseidsPine_ZH-CN1081004815_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.PerseidsPine_ZH-CN1081004815_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.PerseidsPine_ZH-CN1081004815_UHD.jpg" type="image/jpg"/>
+      <description>英仙座流星雨和一棵古老刺果松，大盆地国家公园，内华达州，美国 (© Wirestock Creators/Shutterstock)</description>
+      <pubDate>2025-07-15</pubDate>
+    </item>
     <item>
       <title>加利西亚海域游弋的幼年大青鲨，西班牙 (© Damocean/Getty Images)</title>
       <link>https://cn.bing.com/th?id=OHR.YoungShark_ZH-CN0887374663_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.SwedenReserve_ZH-CN9963744170_UHD.jpg" type="image/jpg"/>
       <description>Knuthöjdsmossen自然保护区, 海勒福什市, 瑞典 (© Sven Halling/DEEPOL/plainpicture)</description>
       <pubDate>2025-06-27</pubDate>
-    </item>
-    <item>
-      <title>马头岩上空的银河, 新南威尔士州, 澳大利亚 (© Philip Thurston/Getty Images)</title>
-      <link>https://cn.bing.com/th?id=OHR.HorseheadRock_ZH-CN9319651125_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.HorseheadRock_ZH-CN9319651125_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.HorseheadRock_ZH-CN9319651125_UHD.jpg" type="image/jpg"/>
-      <description>马头岩上空的银河, 新南威尔士州, 澳大利亚 (© Philip Thurston/Getty Images)</description>
-      <pubDate>2025-06-26</pubDate>
     </item>
   </channel>
 </rss>
