@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2025-07-15</lastBuildDate>
+    <lastBuildDate>2025-07-16</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>菲莱神庙 (aka Temple of Isis), 阿斯旺, 埃及 (© Ratnakorn Piyasirisorost/Getty Images)</title>
+      <link>https://cn.bing.com/th?id=OHR.TemplePhilae_ZH-CN1232015188_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.TemplePhilae_ZH-CN1232015188_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.TemplePhilae_ZH-CN1232015188_UHD.jpg" type="image/jpg"/>
+      <description>菲莱神庙 (aka Temple of Isis), 阿斯旺, 埃及 (© Ratnakorn Piyasirisorost/Getty Images)</description>
+      <pubDate>2025-07-16</pubDate>
+    </item>
     <item>
       <title>英仙座流星雨和一棵古老刺果松，大盆地国家公园，内华达州，美国 (© Wirestock Creators/Shutterstock)</title>
       <link>https://cn.bing.com/th?id=OHR.PerseidsPine_ZH-CN1081004815_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.WatertowerMannheim_ZH-CN0692039329_UHD.jpg" type="image/jpg"/>
       <description>曼海姆水塔, 德国 (© no limit pictures/Getty Images)</description>
       <pubDate>2025-06-28</pubDate>
-    </item>
-    <item>
-      <title>Knuthöjdsmossen自然保护区, 海勒福什市, 瑞典 (© Sven Halling/DEEPOL/plainpicture)</title>
-      <link>https://cn.bing.com/th?id=OHR.SwedenReserve_ZH-CN9963744170_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.SwedenReserve_ZH-CN9963744170_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.SwedenReserve_ZH-CN9963744170_UHD.jpg" type="image/jpg"/>
-      <description>Knuthöjdsmossen自然保护区, 海勒福什市, 瑞典 (© Sven Halling/DEEPOL/plainpicture)</description>
-      <pubDate>2025-06-27</pubDate>
     </item>
   </channel>
 </rss>
