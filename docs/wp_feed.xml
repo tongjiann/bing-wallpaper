@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2025-07-16</lastBuildDate>
+    <lastBuildDate>2025-07-17</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>瓦朗索勒高原的薰衣草田，法国 (© zpagistock/Getty Images)</title>
+      <link>https://cn.bing.com/th?id=OHR.FranceLavender_ZH-CN1639602547_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.FranceLavender_ZH-CN1639602547_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.FranceLavender_ZH-CN1639602547_UHD.jpg" type="image/jpg"/>
+      <description>瓦朗索勒高原的薰衣草田，法国 (© zpagistock/Getty Images)</description>
+      <pubDate>2025-07-17</pubDate>
+    </item>
     <item>
       <title>菲莱神庙 (aka Temple of Isis), 阿斯旺, 埃及 (© Ratnakorn Piyasirisorost/Getty Images)</title>
       <link>https://cn.bing.com/th?id=OHR.TemplePhilae_ZH-CN1232015188_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.BandaIsland_ZH-CN1145779264_UHD.jpg" type="image/jpg"/>
       <description>Pulau Ay蓝色泻湖, 班达群岛, 印度尼西亚 (© fabio lamanna/Alamy Stock Photo)</description>
       <pubDate>2025-06-29</pubDate>
-    </item>
-    <item>
-      <title>曼海姆水塔, 德国 (© no limit pictures/Getty Images)</title>
-      <link>https://cn.bing.com/th?id=OHR.WatertowerMannheim_ZH-CN0692039329_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.WatertowerMannheim_ZH-CN0692039329_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.WatertowerMannheim_ZH-CN0692039329_UHD.jpg" type="image/jpg"/>
-      <description>曼海姆水塔, 德国 (© no limit pictures/Getty Images)</description>
-      <pubDate>2025-06-28</pubDate>
     </item>
   </channel>
 </rss>
