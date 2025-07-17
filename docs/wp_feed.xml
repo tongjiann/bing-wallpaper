@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2025-07-17</lastBuildDate>
+    <lastBuildDate>2025-07-18</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>塞里雅兰瀑布日落美景，冰岛 (© Tom Mackie/AWL/plainpicture)</title>
+      <link>https://cn.bing.com/th?id=OHR.IcelandSolstice_ZH-CN6073168622_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.IcelandSolstice_ZH-CN6073168622_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.IcelandSolstice_ZH-CN6073168622_UHD.jpg" type="image/jpg"/>
+      <description>塞里雅兰瀑布日落美景，冰岛 (© Tom Mackie/AWL/plainpicture)</description>
+      <pubDate>2025-07-18</pubDate>
+    </item>
     <item>
       <title>瓦朗索勒高原的薰衣草田，法国 (© zpagistock/Getty Images)</title>
       <link>https://cn.bing.com/th?id=OHR.FranceLavender_ZH-CN1639602547_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.WolfeCrater_ZH-CN1652906326_UHD.jpg" type="image/jpg"/>
       <description>沃尔夫溪陨石坑, 澳大利亚 (© Abstract Aerial Art/Getty Images)</description>
       <pubDate>2025-06-30</pubDate>
-    </item>
-    <item>
-      <title>Pulau Ay蓝色泻湖, 班达群岛, 印度尼西亚 (© fabio lamanna/Alamy Stock Photo)</title>
-      <link>https://cn.bing.com/th?id=OHR.BandaIsland_ZH-CN1145779264_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.BandaIsland_ZH-CN1145779264_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.BandaIsland_ZH-CN1145779264_UHD.jpg" type="image/jpg"/>
-      <description>Pulau Ay蓝色泻湖, 班达群岛, 印度尼西亚 (© fabio lamanna/Alamy Stock Photo)</description>
-      <pubDate>2025-06-29</pubDate>
     </item>
   </channel>
 </rss>
