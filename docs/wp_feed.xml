@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2025-07-20</lastBuildDate>
+    <lastBuildDate>2025-07-21</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>浅海中的鹿角珊瑚 (© blue-sea.cz/Shutterstock)</title>
+      <link>https://cn.bing.com/th?id=OHR.AcroporaReef_ZH-CN2622120276_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.AcroporaReef_ZH-CN2622120276_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.AcroporaReef_ZH-CN2622120276_UHD.jpg" type="image/jpg"/>
+      <description>浅海中的鹿角珊瑚 (© blue-sea.cz/Shutterstock)</description>
+      <pubDate>2025-07-21</pubDate>
+    </item>
     <item>
       <title>望远镜下的月球表面照片 (© Sergey Kuznetsov/Getty Images)</title>
       <link>https://cn.bing.com/th?id=OHR.BigMoon_ZH-CN2508603883_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.RainbowRiver_ZH-CN5320095849_UHD.jpg" type="image/jpg"/>
       <description>彩虹泉州立公园的彩虹河，佛罗里达州，美国 (© Michel Roggo/Minden Pictures)</description>
       <pubDate>2025-07-03</pubDate>
-    </item>
-    <item>
-      <title>被泡尖海葵包围的刺颊海葵鱼，米尔恩湾，巴布亚新几内亚 (© Fred Bavendam/Nature Picture Library)</title>
-      <link>https://cn.bing.com/th?id=OHR.MaroonClownfish_ZH-CN5071934692_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.MaroonClownfish_ZH-CN5071934692_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.MaroonClownfish_ZH-CN5071934692_UHD.jpg" type="image/jpg"/>
-      <description>被泡尖海葵包围的刺颊海葵鱼，米尔恩湾，巴布亚新几内亚 (© Fred Bavendam/Nature Picture Library)</description>
-      <pubDate>2025-07-02</pubDate>
     </item>
   </channel>
 </rss>
