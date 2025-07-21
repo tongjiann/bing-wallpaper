@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2025-07-21</lastBuildDate>
+    <lastBuildDate>2025-07-22</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>夏季的赛里木湖，博尔塔拉蒙古自治州博乐县, 中国新疆维吾尔自治区 (© Feng Wei Photography/Getty Images)</title>
+      <link>https://cn.bing.com/th?id=OHR.GreatHeatY25_ZH-CN8252122347_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.GreatHeatY25_ZH-CN8252122347_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.GreatHeatY25_ZH-CN8252122347_UHD.jpg" type="image/jpg"/>
+      <description>夏季的赛里木湖，博尔塔拉蒙古自治州博乐县, 中国新疆维吾尔自治区 (© Feng Wei Photography/Getty Images)</description>
+      <pubDate>2025-07-22</pubDate>
+    </item>
     <item>
       <title>浅海中的鹿角珊瑚 (© blue-sea.cz/Shutterstock)</title>
       <link>https://cn.bing.com/th?id=OHR.AcroporaReef_ZH-CN2622120276_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.OroseiSardegna_ZH-CN5789138034_UHD.jpg" type="image/jpg"/>
       <description>奥罗塞，撒丁岛，意大利 (© EyeEm Mobile GmbH/Getty Images)</description>
       <pubDate>2025-07-04</pubDate>
-    </item>
-    <item>
-      <title>彩虹泉州立公园的彩虹河，佛罗里达州，美国 (© Michel Roggo/Minden Pictures)</title>
-      <link>https://cn.bing.com/th?id=OHR.RainbowRiver_ZH-CN5320095849_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.RainbowRiver_ZH-CN5320095849_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.RainbowRiver_ZH-CN5320095849_UHD.jpg" type="image/jpg"/>
-      <description>彩虹泉州立公园的彩虹河，佛罗里达州，美国 (© Michel Roggo/Minden Pictures)</description>
-      <pubDate>2025-07-03</pubDate>
     </item>
   </channel>
 </rss>
