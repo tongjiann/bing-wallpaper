@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2025-07-23</lastBuildDate>
+    <lastBuildDate>2025-07-24</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>栖息在树枝上的灰燕鵙家族 (© Captain Skyhigh/Getty Images)</title>
+      <link>https://cn.bing.com/th?id=OHR.AshyWoodswallow_ZH-CN3224168805_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.AshyWoodswallow_ZH-CN3224168805_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.AshyWoodswallow_ZH-CN3224168805_UHD.jpg" type="image/jpg"/>
+      <description>栖息在树枝上的灰燕鵙家族 (© Captain Skyhigh/Getty Images)</description>
+      <pubDate>2025-07-24</pubDate>
+    </item>
     <item>
       <title>梵蒂冈城与圣彼得大教堂，罗马，意大利 (© RudyBalasko/Getty Images)</title>
       <link>https://cn.bing.com/th?id=OHR.VaticanCity_ZH-CN3075109504_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.MesquiteFlats_ZH-CN7152959188_UHD.jpg" type="image/jpg"/>
       <description>死亡谷国家公园的梅斯基特平原沙丘，加利福尼亚州，美国 (© Bryan Jolley/TANDEM Stills + Motion)</description>
       <pubDate>2025-07-06</pubDate>
-    </item>
-    <item>
-      <title>Cize-Bolozon viaduct crossing the Ain gorge, France (© Leonid Andronov/Getty Images)</title>
-      <link>https://cn.bing.com/th?id=OHR.BolozonViaduct_ZH-CN6408632524_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.BolozonViaduct_ZH-CN6408632524_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.BolozonViaduct_ZH-CN6408632524_UHD.jpg" type="image/jpg"/>
-      <description>Cize-Bolozon viaduct crossing the Ain gorge, France (© Leonid Andronov/Getty Images)</description>
-      <pubDate>2025-07-05</pubDate>
     </item>
   </channel>
 </rss>
