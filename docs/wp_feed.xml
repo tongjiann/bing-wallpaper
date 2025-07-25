@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2025-07-25</lastBuildDate>
+    <lastBuildDate>2025-07-26</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>黄昏时的红树林，瓦拉基里海滩，松巴岛，印度尼西亚 (© Boonchet Ch./Getty Images)</title>
+      <link>https://cn.bing.com/th?id=OHR.MangroveTwilight_ZH-CN3596666263_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.MangroveTwilight_ZH-CN3596666263_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.MangroveTwilight_ZH-CN3596666263_UHD.jpg" type="image/jpg"/>
+      <description>黄昏时的红树林，瓦拉基里海滩，松巴岛，印度尼西亚 (© Boonchet Ch./Getty Images)</description>
+      <pubDate>2025-07-26</pubDate>
+    </item>
     <item>
       <title>大加那利岛拉斯帕尔马斯色彩缤纷的房屋鸟瞰图，西班牙 (© Marco Bottigelli/Getty Images)</title>
       <link>https://cn.bing.com/th?id=OHR.LasPalmas_ZH-CN5993442425_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.SecedaPeak_ZH-CN7633793128_UHD.jpg" type="image/jpg"/>
       <description>塞切达，多洛米蒂山脉的山峰，南蒂罗尔，意大利 (© Kalyakan/Adobe Stock)</description>
       <pubDate>2025-07-08</pubDate>
-    </item>
-    <item>
-      <title>潜水捕鱼的北方鲣鸟，设得兰群岛，苏格兰 (© Richard Shucksmith/Minden Pictures)</title>
-      <link>https://cn.bing.com/th?id=OHR.ShetlandGannets_ZH-CN7279521125_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.ShetlandGannets_ZH-CN7279521125_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.ShetlandGannets_ZH-CN7279521125_UHD.jpg" type="image/jpg"/>
-      <description>潜水捕鱼的北方鲣鸟，设得兰群岛，苏格兰 (© Richard Shucksmith/Minden Pictures)</description>
-      <pubDate>2025-07-07</pubDate>
     </item>
   </channel>
 </rss>
