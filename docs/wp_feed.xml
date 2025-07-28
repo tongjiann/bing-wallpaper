@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2025-07-28</lastBuildDate>
+    <lastBuildDate>2025-07-29</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>雌性孟加拉虎，坎哈国家公园，印度 (© Axel Gomille/Nature Picture Library)</title>
+      <link>https://cn.bing.com/th?id=OHR.TigerDay_ZH-CN4359136631_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.TigerDay_ZH-CN4359136631_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.TigerDay_ZH-CN4359136631_UHD.jpg" type="image/jpg"/>
+      <description>雌性孟加拉虎，坎哈国家公园，印度 (© Axel Gomille/Nature Picture Library)</description>
+      <pubDate>2025-07-29</pubDate>
+    </item>
     <item>
       <title>蒙古草原上的蒙古包 (© Michel Arnault/Shutterstock)</title>
       <link>https://cn.bing.com/th?id=OHR.MongoliaYurts_ZH-CN4015475887_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.TokyoSunrise_ZH-CN0091906710_UHD.jpg" type="image/jpg"/>
       <description>日出时的东京，日本 (© pongnathee kluaythong/Getty Images)</description>
       <pubDate>2025-07-11</pubDate>
-    </item>
-    <item>
-      <title>巴哈马的绿松石色水域 (© BlueOrange Studio/Adobe Stock)</title>
-      <link>https://cn.bing.com/th?id=OHR.BahamaBlues_ZH-CN8134624828_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.BahamaBlues_ZH-CN8134624828_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.BahamaBlues_ZH-CN8134624828_UHD.jpg" type="image/jpg"/>
-      <description>巴哈马的绿松石色水域 (© BlueOrange Studio/Adobe Stock)</description>
-      <pubDate>2025-07-10</pubDate>
     </item>
   </channel>
 </rss>
