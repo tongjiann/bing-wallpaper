@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2025-08-01</lastBuildDate>
+    <lastBuildDate>2025-08-02</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>圆顶礁国家公园弗鲁塔附近的岩画, 犹他州, 美国 (© Nicolas VINCENT/Adobe Stock)</title>
+      <link>https://cn.bing.com/th?id=OHR.FruitaPetroglyphs_ZH-CN5423905955_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.FruitaPetroglyphs_ZH-CN5423905955_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.FruitaPetroglyphs_ZH-CN5423905955_UHD.jpg" type="image/jpg"/>
+      <description>圆顶礁国家公园弗鲁塔附近的岩画, 犹他州, 美国 (© Nicolas VINCENT/Adobe Stock)</description>
+      <pubDate>2025-08-02</pubDate>
+    </item>
     <item>
       <title>皇家英里大道, 爱丁堡, 苏格兰 (© MEDITERRANEAN/Getty Images)</title>
       <link>https://cn.bing.com/th?id=OHR.EdinburghFringe_ZH-CN5243292664_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.YoungShark_ZH-CN0887374663_UHD.jpg" type="image/jpg"/>
       <description>加利西亚海域游弋的幼年大青鲨，西班牙 (© Damocean/Getty Images)</description>
       <pubDate>2025-07-14</pubDate>
-    </item>
-    <item>
-      <title>卡尔夫沙马尔斯维克湾玄武岩柱，斯卡吉半岛，冰岛 (© Arterra Picture Library/Alamy Stock Photo)</title>
-      <link>https://cn.bing.com/th?id=OHR.BasaltColumns_ZH-CN0743036217_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.BasaltColumns_ZH-CN0743036217_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.BasaltColumns_ZH-CN0743036217_UHD.jpg" type="image/jpg"/>
-      <description>卡尔夫沙马尔斯维克湾玄武岩柱，斯卡吉半岛，冰岛 (© Arterra Picture Library/Alamy Stock Photo)</description>
-      <pubDate>2025-07-13</pubDate>
     </item>
   </channel>
 </rss>
