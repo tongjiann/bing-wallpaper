@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2025-08-03</lastBuildDate>
+    <lastBuildDate>2025-08-04</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>巢中的乌林鸮, 芬兰 (© imageBROKER.com/Alamy Stock Photo)</title>
+      <link>https://cn.bing.com/th?id=OHR.LaplandOwl_ZH-CN6070251232_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.LaplandOwl_ZH-CN6070251232_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.LaplandOwl_ZH-CN6070251232_UHD.jpg" type="image/jpg"/>
+      <description>巢中的乌林鸮, 芬兰 (© imageBROKER.com/Alamy Stock Photo)</description>
+      <pubDate>2025-08-04</pubDate>
+    </item>
     <item>
       <title>夏天田野里盛开的向日葵 (© Arsgera/Shutterstock)</title>
       <link>https://cn.bing.com/th?id=OHR.HappySunflower_ZH-CN5840993161_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.TemplePhilae_ZH-CN1232015188_UHD.jpg" type="image/jpg"/>
       <description>菲莱神庙 (aka Temple of Isis), 阿斯旺, 埃及 (© Ratnakorn Piyasirisorost/Getty Images)</description>
       <pubDate>2025-07-16</pubDate>
-    </item>
-    <item>
-      <title>英仙座流星雨和一棵古老刺果松，大盆地国家公园，内华达州，美国 (© Wirestock Creators/Shutterstock)</title>
-      <link>https://cn.bing.com/th?id=OHR.PerseidsPine_ZH-CN1081004815_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.PerseidsPine_ZH-CN1081004815_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.PerseidsPine_ZH-CN1081004815_UHD.jpg" type="image/jpg"/>
-      <description>英仙座流星雨和一棵古老刺果松，大盆地国家公园，内华达州，美国 (© Wirestock Creators/Shutterstock)</description>
-      <pubDate>2025-07-15</pubDate>
     </item>
   </channel>
 </rss>
