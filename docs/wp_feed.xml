@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2025-08-08</lastBuildDate>
+    <lastBuildDate>2025-08-09</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>陶波湖上的 Ngātoroirangi 矿湾毛利石刻, 新西兰 (© Joppi/Getty Images)</title>
+      <link>https://cn.bing.com/th?id=OHR.MaoriRock_ZH-CN5614685493_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.MaoriRock_ZH-CN5614685493_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.MaoriRock_ZH-CN5614685493_UHD.jpg" type="image/jpg"/>
+      <description>陶波湖上的 Ngātoroirangi 矿湾毛利石刻, 新西兰 (© Joppi/Getty Images)</description>
+      <pubDate>2025-08-09</pubDate>
+    </item>
     <item>
       <title>伊瓜苏瀑布的三火枪瀑布, 阿根廷 (© Mark Meredith/Getty Images)</title>
       <link>https://cn.bing.com/th?id=OHR.IguazuArgentina_ZH-CN4457051931_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.AcroporaReef_ZH-CN2622120276_UHD.jpg" type="image/jpg"/>
       <description>浅海中的鹿角珊瑚 (© blue-sea.cz/Shutterstock)</description>
       <pubDate>2025-07-21</pubDate>
-    </item>
-    <item>
-      <title>望远镜下的月球表面照片 (© Sergey Kuznetsov/Getty Images)</title>
-      <link>https://cn.bing.com/th?id=OHR.BigMoon_ZH-CN2508603883_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.BigMoon_ZH-CN2508603883_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.BigMoon_ZH-CN2508603883_UHD.jpg" type="image/jpg"/>
-      <description>望远镜下的月球表面照片 (© Sergey Kuznetsov/Getty Images)</description>
-      <pubDate>2025-07-20</pubDate>
     </item>
   </channel>
 </rss>
