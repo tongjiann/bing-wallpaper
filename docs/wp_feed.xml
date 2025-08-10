@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2025-08-10</lastBuildDate>
+    <lastBuildDate>2025-08-11</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>圣玛格达莱娜, 多洛米蒂山, 意大利 (© Sakrapee Nopparat/Getty Images)</title>
+      <link>https://cn.bing.com/th?id=OHR.SantaMaddalena_ZH-CN7421083295_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.SantaMaddalena_ZH-CN7421083295_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.SantaMaddalena_ZH-CN7421083295_UHD.jpg" type="image/jpg"/>
+      <description>圣玛格达莱娜, 多洛米蒂山, 意大利 (© Sakrapee Nopparat/Getty Images)</description>
+      <pubDate>2025-08-11</pubDate>
+    </item>
     <item>
       <title>马赛马拉国家保护区的雌狮,肯尼亚 (© Tandem Stock/Adobe Stock)</title>
       <link>https://cn.bing.com/th?id=OHR.LionessKenya_ZH-CN6791029673_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.VaticanCity_ZH-CN3075109504_UHD.jpg" type="image/jpg"/>
       <description>梵蒂冈城与圣彼得大教堂，罗马，意大利 (© RudyBalasko/Getty Images)</description>
       <pubDate>2025-07-23</pubDate>
-    </item>
-    <item>
-      <title>夏季的赛里木湖，博尔塔拉蒙古自治州博乐县, 中国新疆维吾尔自治区 (© Feng Wei Photography/Getty Images)</title>
-      <link>https://cn.bing.com/th?id=OHR.GreatHeatY25_ZH-CN8252122347_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.GreatHeatY25_ZH-CN8252122347_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.GreatHeatY25_ZH-CN8252122347_UHD.jpg" type="image/jpg"/>
-      <description>夏季的赛里木湖，博尔塔拉蒙古自治州博乐县, 中国新疆维吾尔自治区 (© Feng Wei Photography/Getty Images)</description>
-      <pubDate>2025-07-22</pubDate>
     </item>
   </channel>
 </rss>
