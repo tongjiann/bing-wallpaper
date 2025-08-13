@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2025-08-13</lastBuildDate>
+    <lastBuildDate>2025-08-14</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>皮兹奈尔山缆车站, 格劳宾登州, 瑞士 (© Roberto Moiola/Alamy)</title>
+      <link>https://cn.bing.com/th?id=OHR.PizNairPeak_ZH-CN8209144138_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.PizNairPeak_ZH-CN8209144138_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.PizNairPeak_ZH-CN8209144138_UHD.jpg" type="image/jpg"/>
+      <description>皮兹奈尔山缆车站, 格劳宾登州, 瑞士 (© Roberto Moiola/Alamy)</description>
+      <pubDate>2025-08-14</pubDate>
+    </item>
     <item>
       <title>一名男子从摩押附近的科罗纳拱门索降, 美国 (© Grant Ordelheide/TANDEM Stills + Motion)</title>
       <link>https://cn.bing.com/th?id=OHR.CoronaArch_ZH-CN5406267193_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.MangroveTwilight_ZH-CN3596666263_UHD.jpg" type="image/jpg"/>
       <description>黄昏时的红树林，瓦拉基里海滩，松巴岛，印度尼西亚 (© Boonchet Ch./Getty Images)</description>
       <pubDate>2025-07-26</pubDate>
-    </item>
-    <item>
-      <title>大加那利岛拉斯帕尔马斯色彩缤纷的房屋鸟瞰图，西班牙 (© Marco Bottigelli/Getty Images)</title>
-      <link>https://cn.bing.com/th?id=OHR.LasPalmas_ZH-CN5993442425_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.LasPalmas_ZH-CN5993442425_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.LasPalmas_ZH-CN5993442425_UHD.jpg" type="image/jpg"/>
-      <description>大加那利岛拉斯帕尔马斯色彩缤纷的房屋鸟瞰图，西班牙 (© Marco Bottigelli/Getty Images)</description>
-      <pubDate>2025-07-25</pubDate>
     </item>
   </channel>
 </rss>
