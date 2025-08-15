@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2025-08-15</lastBuildDate>
+    <lastBuildDate>2025-08-16</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>色彩斑斓的蜂巢, 意大利 (© Roberto Caucino/Shutterstock)</title>
+      <link>https://cn.bing.com/th?id=OHR.ColorfulBeehives_ZH-CN0180195770_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.ColorfulBeehives_ZH-CN0180195770_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.ColorfulBeehives_ZH-CN0180195770_UHD.jpg" type="image/jpg"/>
+      <description>色彩斑斓的蜂巢, 意大利 (© Roberto Caucino/Shutterstock)</description>
+      <pubDate>2025-08-16</pubDate>
+    </item>
     <item>
       <title>斑点鹞鲼，圣克里斯托瓦尔岛‌，‌加拉帕戈斯群岛，厄瓜多尔 (© Tui De Roy/Minden Pictures)</title>
       <link>https://cn.bing.com/th?id=OHR.SpottedEagleRay_ZH-CN9894613260_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.MongoliaYurts_ZH-CN4015475887_UHD.jpg" type="image/jpg"/>
       <description>蒙古草原上的蒙古包 (© Michel Arnault/Shutterstock)</description>
       <pubDate>2025-07-28</pubDate>
-    </item>
-    <item>
-      <title>黑鳍梭鱼群，鲨鱼礁，拉斯穆罕默德国家公园，西奈半岛，埃及 (© Alex Mustard/Nature Picture Library)</title>
-      <link>https://cn.bing.com/th?id=OHR.BlackfinBarracuda_ZH-CN3850642551_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.BlackfinBarracuda_ZH-CN3850642551_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.BlackfinBarracuda_ZH-CN3850642551_UHD.jpg" type="image/jpg"/>
-      <description>黑鳍梭鱼群，鲨鱼礁，拉斯穆罕默德国家公园，西奈半岛，埃及 (© Alex Mustard/Nature Picture Library)</description>
-      <pubDate>2025-07-27</pubDate>
     </item>
   </channel>
 </rss>
