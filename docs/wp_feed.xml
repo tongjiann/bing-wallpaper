@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2025-08-19</lastBuildDate>
+    <lastBuildDate>2025-08-20</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>博尼法乔城堡，科西嘉岛南部，法国 (© Marc Dozier/Getty Images)</title>
+      <link>https://cn.bing.com/th?id=OHR.CitadelBonifacio_ZH-CN2130899430_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.CitadelBonifacio_ZH-CN2130899430_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.CitadelBonifacio_ZH-CN2130899430_UHD.jpg" type="image/jpg"/>
+      <description>博尼法乔城堡，科西嘉岛南部，法国 (© Marc Dozier/Getty Images)</description>
+      <pubDate>2025-08-20</pubDate>
+    </item>
     <item>
       <title>祖马亚的复理层，巴斯克地区，西班牙 (© Eloi_Omella/Getty Images)</title>
       <link>https://cn.bing.com/th?id=OHR.GipuzcoaSummer_ZH-CN1926924422_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.EdinburghFringe_ZH-CN5243292664_UHD.jpg" type="image/jpg"/>
       <description>皇家英里大道, 爱丁堡, 苏格兰 (© MEDITERRANEAN/Getty Images)</description>
       <pubDate>2025-08-01</pubDate>
-    </item>
-    <item>
-      <title>纳帕利海岸的卡拉劳海滩, 可爱岛, 夏威夷, 美国 (© Russ Bishop/DanitaDelimont.com)</title>
-      <link>https://cn.bing.com/th?id=OHR.NaPaliKauai_ZH-CN5070149838_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.NaPaliKauai_ZH-CN5070149838_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.NaPaliKauai_ZH-CN5070149838_UHD.jpg" type="image/jpg"/>
-      <description>纳帕利海岸的卡拉劳海滩, 可爱岛, 夏威夷, 美国 (© Russ Bishop/DanitaDelimont.com)</description>
-      <pubDate>2025-07-31</pubDate>
     </item>
   </channel>
 </rss>
