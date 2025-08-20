@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2025-08-20</lastBuildDate>
+    <lastBuildDate>2025-08-21</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>穗䳭和盛开的帚石楠，峰区国家公园，英格兰 (© Ben Hall/Nature Picture Library)</title>
+      <link>https://cn.bing.com/th?id=OHR.WheatearBird_ZH-CN2663965839_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.WheatearBird_ZH-CN2663965839_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.WheatearBird_ZH-CN2663965839_UHD.jpg" type="image/jpg"/>
+      <description>穗䳭和盛开的帚石楠，峰区国家公园，英格兰 (© Ben Hall/Nature Picture Library)</description>
+      <pubDate>2025-08-21</pubDate>
+    </item>
     <item>
       <title>博尼法乔城堡，科西嘉岛南部，法国 (© Marc Dozier/Getty Images)</title>
       <link>https://cn.bing.com/th?id=OHR.CitadelBonifacio_ZH-CN2130899430_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.FruitaPetroglyphs_ZH-CN5423905955_UHD.jpg" type="image/jpg"/>
       <description>圆顶礁国家公园弗鲁塔附近的岩画, 犹他州, 美国 (© Nicolas VINCENT/Adobe Stock)</description>
       <pubDate>2025-08-02</pubDate>
-    </item>
-    <item>
-      <title>皇家英里大道, 爱丁堡, 苏格兰 (© MEDITERRANEAN/Getty Images)</title>
-      <link>https://cn.bing.com/th?id=OHR.EdinburghFringe_ZH-CN5243292664_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.EdinburghFringe_ZH-CN5243292664_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.EdinburghFringe_ZH-CN5243292664_UHD.jpg" type="image/jpg"/>
-      <description>皇家英里大道, 爱丁堡, 苏格兰 (© MEDITERRANEAN/Getty Images)</description>
-      <pubDate>2025-08-01</pubDate>
     </item>
   </channel>
 </rss>
