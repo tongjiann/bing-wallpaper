@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2025-08-23</lastBuildDate>
+    <lastBuildDate>2025-08-24</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>欧洲黇鹿‌，英格兰 (© Enrique Aguirre Aves/Getty Images)</title>
+      <link>https://cn.bing.com/th?id=OHR.CervusDama_ZH-CN3603505811_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.CervusDama_ZH-CN3603505811_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.CervusDama_ZH-CN3603505811_UHD.jpg" type="image/jpg"/>
+      <description>欧洲黇鹿‌，英格兰 (© Enrique Aguirre Aves/Getty Images)</description>
+      <pubDate>2025-08-24</pubDate>
+    </item>
     <item>
       <title>秋季九寨沟国家公园里的诺日朗瀑布, 四川省, 中国 (© tawatchaiprakobkit/Getty images)</title>
       <link>https://cn.bing.com/th?id=OHR.ChushuY25_ZH-CN0495086720_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.CaliforniaTidepool_ZH-CN6273815361_UHD.jpg" type="image/jpg"/>
       <description>拉霍亚的潮汐池‌, 加利福尼亚州, 美国 (© Andrew Shoemaker/DanitaDelimont.com)</description>
       <pubDate>2025-08-05</pubDate>
-    </item>
-    <item>
-      <title>巢中的乌林鸮, 芬兰 (© imageBROKER.com/Alamy Stock Photo)</title>
-      <link>https://cn.bing.com/th?id=OHR.LaplandOwl_ZH-CN6070251232_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.LaplandOwl_ZH-CN6070251232_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.LaplandOwl_ZH-CN6070251232_UHD.jpg" type="image/jpg"/>
-      <description>巢中的乌林鸮, 芬兰 (© imageBROKER.com/Alamy Stock Photo)</description>
-      <pubDate>2025-08-04</pubDate>
     </item>
   </channel>
 </rss>
