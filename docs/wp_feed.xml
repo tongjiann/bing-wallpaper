@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2025-08-24</lastBuildDate>
+    <lastBuildDate>2025-08-25</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>方解石温泉区和黄石河，黄石国家公园，怀俄明州，美国 (© Rebecca L. Latson/Getty Images)</title>
+      <link>https://cn.bing.com/th?id=OHR.YellowstoneRiver_ZH-CN3716808579_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.YellowstoneRiver_ZH-CN3716808579_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.YellowstoneRiver_ZH-CN3716808579_UHD.jpg" type="image/jpg"/>
+      <description>方解石温泉区和黄石河，黄石国家公园，怀俄明州，美国 (© Rebecca L. Latson/Getty Images)</description>
+      <pubDate>2025-08-25</pubDate>
+    </item>
     <item>
       <title>欧洲黇鹿‌，英格兰 (© Enrique Aguirre Aves/Getty Images)</title>
       <link>https://cn.bing.com/th?id=OHR.CervusDama_ZH-CN3603505811_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.BabyLemur_ZH-CN6617977758_UHD.jpg" type="image/jpg"/>
       <description>环尾狐猴幼崽在玩自己的尾巴‌, 马达加斯加 (© Andy Rouse/Nature Picture Library)</description>
       <pubDate>2025-08-06</pubDate>
-    </item>
-    <item>
-      <title>拉霍亚的潮汐池‌, 加利福尼亚州, 美国 (© Andrew Shoemaker/DanitaDelimont.com)</title>
-      <link>https://cn.bing.com/th?id=OHR.CaliforniaTidepool_ZH-CN6273815361_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.CaliforniaTidepool_ZH-CN6273815361_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.CaliforniaTidepool_ZH-CN6273815361_UHD.jpg" type="image/jpg"/>
-      <description>拉霍亚的潮汐池‌, 加利福尼亚州, 美国 (© Andrew Shoemaker/DanitaDelimont.com)</description>
-      <pubDate>2025-08-05</pubDate>
     </item>
   </channel>
 </rss>
