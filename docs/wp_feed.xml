@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2025-08-26</lastBuildDate>
+    <lastBuildDate>2025-08-27</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>瑟沃格湖，瓦加尔岛，法罗群岛 (© Anton Petrus/Getty Images)</title>
+      <link>https://cn.bing.com/th?id=OHR.FaroeLake_ZH-CN3977660997_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.FaroeLake_ZH-CN3977660997_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.FaroeLake_ZH-CN3977660997_UHD.jpg" type="image/jpg"/>
+      <description>瑟沃格湖，瓦加尔岛，法罗群岛 (© Anton Petrus/Getty Images)</description>
+      <pubDate>2025-08-27</pubDate>
+    </item>
     <item>
       <title>阿尔贝罗贝洛的特鲁洛建筑，普利亚大区，意大利 (© Feng Wei Photography/Getty Images)</title>
       <link>https://cn.bing.com/th?id=OHR.TrulliHouses_ZH-CN3856452406_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.IguazuArgentina_ZH-CN4457051931_UHD.jpg" type="image/jpg"/>
       <description>伊瓜苏瀑布的三火枪瀑布, 阿根廷 (© Mark Meredith/Getty Images)</description>
       <pubDate>2025-08-08</pubDate>
-    </item>
-    <item>
-      <title>加斯帕里拉岛灯塔后导标灯, 博卡格兰德, 佛罗里达州, 美国 (© Wiltser/Getty Images)</title>
-      <link>https://cn.bing.com/th?id=OHR.GasparillaLight_ZH-CN6855683859_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.GasparillaLight_ZH-CN6855683859_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.GasparillaLight_ZH-CN6855683859_UHD.jpg" type="image/jpg"/>
-      <description>加斯帕里拉岛灯塔后导标灯, 博卡格兰德, 佛罗里达州, 美国 (© Wiltser/Getty Images)</description>
-      <pubDate>2025-08-07</pubDate>
     </item>
   </channel>
 </rss>
