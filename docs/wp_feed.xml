@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2025-08-29</lastBuildDate>
+    <lastBuildDate>2025-08-30</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>阿里夫达鲁环礁海岸的鲸鲨, 马尔代夫 (© Bachir Moukarzel/Amazing Aerial Agency)</title>
+      <link>https://cn.bing.com/th?id=OHR.MaldivesWhaleShark_ZH-CN9975504316_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.MaldivesWhaleShark_ZH-CN9975504316_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.MaldivesWhaleShark_ZH-CN9975504316_UHD.jpg" type="image/jpg"/>
+      <description>阿里夫达鲁环礁海岸的鲸鲨, 马尔代夫 (© Bachir Moukarzel/Amazing Aerial Agency)</description>
+      <pubDate>2025-08-30</pubDate>
+    </item>
     <item>
       <title>马约尔广场鸟瞰图, 马德里, 西班牙 (© AirPano LLC/Amazing Aerial Agency)</title>
       <link>https://cn.bing.com/th?id=OHR.PlazaMayor_ZH-CN4576498488_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.SantaMaddalena_ZH-CN7421083295_UHD.jpg" type="image/jpg"/>
       <description>圣玛格达莱娜, 多洛米蒂山, 意大利 (© Sakrapee Nopparat/Getty Images)</description>
       <pubDate>2025-08-11</pubDate>
-    </item>
-    <item>
-      <title>马赛马拉国家保护区的雌狮,肯尼亚 (© Tandem Stock/Adobe Stock)</title>
-      <link>https://cn.bing.com/th?id=OHR.LionessKenya_ZH-CN6791029673_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.LionessKenya_ZH-CN6791029673_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.LionessKenya_ZH-CN6791029673_UHD.jpg" type="image/jpg"/>
-      <description>马赛马拉国家保护区的雌狮,肯尼亚 (© Tandem Stock/Adobe Stock)</description>
-      <pubDate>2025-08-10</pubDate>
     </item>
   </channel>
 </rss>
