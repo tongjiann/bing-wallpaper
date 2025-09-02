@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2025-09-02</lastBuildDate>
+    <lastBuildDate>2025-09-03</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>边界水域独木舟区荒野区, 明尼苏达州, 美国 (© s.tomas/Shutterstock)</title>
+      <link>https://cn.bing.com/th?id=OHR.MinnesotaWaters_ZH-CN6078521418_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.MinnesotaWaters_ZH-CN6078521418_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.MinnesotaWaters_ZH-CN6078521418_UHD.jpg" type="image/jpg"/>
+      <description>边界水域独木舟区荒野区, 明尼苏达州, 美国 (© s.tomas/Shutterstock)</description>
+      <pubDate>2025-09-03</pubDate>
+    </item>
     <item>
       <title>骆驼刺树, 死亡谷, 纳米布-诺克卢福国家公园, 纳米比亚 (© Inge Johnsson/Alamy Stock Photo)</title>
       <link>https://cn.bing.com/th?id=OHR.DeadvleiTrees_ZH-CN0967414858_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.SpottedEagleRay_ZH-CN9894613260_UHD.jpg" type="image/jpg"/>
       <description>斑点鹞鲼，圣克里斯托瓦尔岛‌，‌加拉帕戈斯群岛，厄瓜多尔 (© Tui De Roy/Minden Pictures)</description>
       <pubDate>2025-08-15</pubDate>
-    </item>
-    <item>
-      <title>皮兹奈尔山缆车站, 格劳宾登州, 瑞士 (© Roberto Moiola/Alamy)</title>
-      <link>https://cn.bing.com/th?id=OHR.PizNairPeak_ZH-CN8209144138_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.PizNairPeak_ZH-CN8209144138_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.PizNairPeak_ZH-CN8209144138_UHD.jpg" type="image/jpg"/>
-      <description>皮兹奈尔山缆车站, 格劳宾登州, 瑞士 (© Roberto Moiola/Alamy)</description>
-      <pubDate>2025-08-14</pubDate>
     </item>
   </channel>
 </rss>
