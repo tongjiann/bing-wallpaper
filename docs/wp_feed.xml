@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2025-09-08</lastBuildDate>
+    <lastBuildDate>2025-09-09</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>一只雌性欧亚红松鼠正在搬运苔藓，瑞士 (© Jean-Luc and Francoise Ziegler/Minden Pictures)</title>
+      <link>https://cn.bing.com/th?id=OHR.SwissSquirrel_ZH-CN1499344455_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.SwissSquirrel_ZH-CN1499344455_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.SwissSquirrel_ZH-CN1499344455_UHD.jpg" type="image/jpg"/>
+      <description>一只雌性欧亚红松鼠正在搬运苔藓，瑞士 (© Jean-Luc and Francoise Ziegler/Minden Pictures)</description>
+      <pubDate>2025-09-09</pubDate>
+    </item>
     <item>
       <title>乌节图书馆，新加坡 (© Darwin Fan/Getty Images)</title>
       <link>https://cn.bing.com/th?id=OHR.OrchardLibrary_ZH-CN3578982798_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.WheatearBird_ZH-CN2663965839_UHD.jpg" type="image/jpg"/>
       <description>穗䳭和盛开的帚石楠，峰区国家公园，英格兰 (© Ben Hall/Nature Picture Library)</description>
       <pubDate>2025-08-21</pubDate>
-    </item>
-    <item>
-      <title>博尼法乔城堡，科西嘉岛南部，法国 (© Marc Dozier/Getty Images)</title>
-      <link>https://cn.bing.com/th?id=OHR.CitadelBonifacio_ZH-CN2130899430_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.CitadelBonifacio_ZH-CN2130899430_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.CitadelBonifacio_ZH-CN2130899430_UHD.jpg" type="image/jpg"/>
-      <description>博尼法乔城堡，科西嘉岛南部，法国 (© Marc Dozier/Getty Images)</description>
-      <pubDate>2025-08-20</pubDate>
     </item>
   </channel>
 </rss>
