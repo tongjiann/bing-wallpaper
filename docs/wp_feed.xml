@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2025-09-09</lastBuildDate>
+    <lastBuildDate>2025-09-10</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>干草捆，北约克郡，英格兰 (© Nick Brundle Photography/Getty Images)</title>
+      <link>https://cn.bing.com/th?id=OHR.YorkshireHay_ZH-CN9097986997_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.YorkshireHay_ZH-CN9097986997_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.YorkshireHay_ZH-CN9097986997_UHD.jpg" type="image/jpg"/>
+      <description>干草捆，北约克郡，英格兰 (© Nick Brundle Photography/Getty Images)</description>
+      <pubDate>2025-09-10</pubDate>
+    </item>
     <item>
       <title>一只雌性欧亚红松鼠正在搬运苔藓，瑞士 (© Jean-Luc and Francoise Ziegler/Minden Pictures)</title>
       <link>https://cn.bing.com/th?id=OHR.SwissSquirrel_ZH-CN1499344455_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.PalouseWA_ZH-CN2552273820_UHD.jpg" type="image/jpg"/>
       <description>帕卢斯连绵起伏的丘陵，华盛顿州，美国 (© svetlana57/Getty Images)</description>
       <pubDate>2025-08-22</pubDate>
-    </item>
-    <item>
-      <title>穗䳭和盛开的帚石楠，峰区国家公园，英格兰 (© Ben Hall/Nature Picture Library)</title>
-      <link>https://cn.bing.com/th?id=OHR.WheatearBird_ZH-CN2663965839_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.WheatearBird_ZH-CN2663965839_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.WheatearBird_ZH-CN2663965839_UHD.jpg" type="image/jpg"/>
-      <description>穗䳭和盛开的帚石楠，峰区国家公园，英格兰 (© Ben Hall/Nature Picture Library)</description>
-      <pubDate>2025-08-21</pubDate>
     </item>
   </channel>
 </rss>
