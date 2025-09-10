@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2025-09-10</lastBuildDate>
+    <lastBuildDate>2025-09-11</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>蒙弗拉圭国家公园塔霍河畔的猎鹰岩，西班牙 (© Daniel Viñé Garcia/Getty Images)</title>
+      <link>https://cn.bing.com/th?id=OHR.ExtremaduraJamon_ZH-CN1559355133_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.ExtremaduraJamon_ZH-CN1559355133_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.ExtremaduraJamon_ZH-CN1559355133_UHD.jpg" type="image/jpg"/>
+      <description>蒙弗拉圭国家公园塔霍河畔的猎鹰岩，西班牙 (© Daniel Viñé Garcia/Getty Images)</description>
+      <pubDate>2025-09-11</pubDate>
+    </item>
     <item>
       <title>干草捆，北约克郡，英格兰 (© Nick Brundle Photography/Getty Images)</title>
       <link>https://cn.bing.com/th?id=OHR.YorkshireHay_ZH-CN9097986997_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.ChushuY25_ZH-CN0495086720_UHD.jpg" type="image/jpg"/>
       <description>秋季九寨沟国家公园里的诺日朗瀑布, 四川省, 中国 (© tawatchaiprakobkit/Getty images)</description>
       <pubDate>2025-08-23</pubDate>
-    </item>
-    <item>
-      <title>帕卢斯连绵起伏的丘陵，华盛顿州，美国 (© svetlana57/Getty Images)</title>
-      <link>https://cn.bing.com/th?id=OHR.PalouseWA_ZH-CN2552273820_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.PalouseWA_ZH-CN2552273820_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.PalouseWA_ZH-CN2552273820_UHD.jpg" type="image/jpg"/>
-      <description>帕卢斯连绵起伏的丘陵，华盛顿州，美国 (© svetlana57/Getty Images)</description>
-      <pubDate>2025-08-22</pubDate>
     </item>
   </channel>
 </rss>
