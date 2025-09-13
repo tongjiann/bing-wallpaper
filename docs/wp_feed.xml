@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2025-09-13</lastBuildDate>
+    <lastBuildDate>2025-09-14</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>奥林匹克国家公园的瀑布, 华盛顿, 美国 (© Chris Moore/TANDEM Stills + Motion)</title>
+      <link>https://cn.bing.com/th?id=OHR.HohWaterfall_ZH-CN0297269806_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.HohWaterfall_ZH-CN0297269806_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.HohWaterfall_ZH-CN0297269806_UHD.jpg" type="image/jpg"/>
+      <description>奥林匹克国家公园的瀑布, 华盛顿, 美国 (© Chris Moore/TANDEM Stills + Motion)</description>
+      <pubDate>2025-09-14</pubDate>
+    </item>
     <item>
       <title>烟囱岩, 雷斯岬国家海岸, 加利福尼亚州, 美国 (© Enrique Aguirre Aves/Getty Images)</title>
       <link>https://cn.bing.com/th?id=OHR.PointReyesSeashore_ZH-CN0076789582_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.TrulliHouses_ZH-CN3856452406_UHD.jpg" type="image/jpg"/>
       <description>阿尔贝罗贝洛的特鲁洛建筑，普利亚大区，意大利 (© Feng Wei Photography/Getty Images)</description>
       <pubDate>2025-08-26</pubDate>
-    </item>
-    <item>
-      <title>方解石温泉区和黄石河，黄石国家公园，怀俄明州，美国 (© Rebecca L. Latson/Getty Images)</title>
-      <link>https://cn.bing.com/th?id=OHR.YellowstoneRiver_ZH-CN3716808579_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.YellowstoneRiver_ZH-CN3716808579_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.YellowstoneRiver_ZH-CN3716808579_UHD.jpg" type="image/jpg"/>
-      <description>方解石温泉区和黄石河，黄石国家公园，怀俄明州，美国 (© Rebecca L. Latson/Getty Images)</description>
-      <pubDate>2025-08-25</pubDate>
     </item>
   </channel>
 </rss>
