@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2025-09-15</lastBuildDate>
+    <lastBuildDate>2025-09-16</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>从地球上空225英里处俯瞰墨西哥湾沿岸各州的夜间景象 (© Stocktrek Images/Getty Images)</title>
+      <link>https://cn.bing.com/th?id=OHR.OzoneEarth_ZH-CN0993915980_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.OzoneEarth_ZH-CN0993915980_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.OzoneEarth_ZH-CN0993915980_UHD.jpg" type="image/jpg"/>
+      <description>从地球上空225英里处俯瞰墨西哥湾沿岸各州的夜间景象 (© Stocktrek Images/Getty Images)</description>
+      <pubDate>2025-09-16</pubDate>
+    </item>
     <item>
       <title>黑翅长脚鹬, 法国 (© Antonio Sementa/500px/Getty Images)</title>
       <link>https://cn.bing.com/th?id=OHR.Echasse_ZH-CN0670369582_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.WhiteEgret_ZH-CN4425921150_UHD.jpg" type="image/jpg"/>
       <description>大白鹭，匈牙利 (© Markus Varesvuo/Nature Picture Library)</description>
       <pubDate>2025-08-28</pubDate>
-    </item>
-    <item>
-      <title>瑟沃格湖，瓦加尔岛，法罗群岛 (© Anton Petrus/Getty Images)</title>
-      <link>https://cn.bing.com/th?id=OHR.FaroeLake_ZH-CN3977660997_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.FaroeLake_ZH-CN3977660997_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.FaroeLake_ZH-CN3977660997_UHD.jpg" type="image/jpg"/>
-      <description>瑟沃格湖，瓦加尔岛，法罗群岛 (© Anton Petrus/Getty Images)</description>
-      <pubDate>2025-08-27</pubDate>
     </item>
   </channel>
 </rss>
