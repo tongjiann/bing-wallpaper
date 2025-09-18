@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2025-09-18</lastBuildDate>
+    <lastBuildDate>2025-09-19</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>千岛群岛地区，圣劳伦斯河，美加边境 (© benedek/Getty Images)</title>
+      <link>https://cn.bing.com/th?id=OHR.ThousandIslands_ZH-CN3197750437_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.ThousandIslands_ZH-CN3197750437_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.ThousandIslands_ZH-CN3197750437_UHD.jpg" type="image/jpg"/>
+      <description>千岛群岛地区，圣劳伦斯河，美加边境 (© benedek/Getty Images)</description>
+      <pubDate>2025-09-19</pubDate>
+    </item>
     <item>
       <title>邓金码头的蛇形楼梯, 凯里郡, 爱尔兰 (© Hugh O'Connor/Getty Images)</title>
       <link>https://cn.bing.com/th?id=OHR.DunquinIreland_ZH-CN1418844818_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.ScottsBluff_ZH-CN0292735112_UHD.jpg" type="image/jpg"/>
       <description>杰灵的斯科茨布拉夫国家纪念碑‌, 内布拉斯加州,美国 (© Hawk Buckman/Getty Images)</description>
       <pubDate>2025-08-31</pubDate>
-    </item>
-    <item>
-      <title>阿里夫达鲁环礁海岸的鲸鲨, 马尔代夫 (© Bachir Moukarzel/Amazing Aerial Agency)</title>
-      <link>https://cn.bing.com/th?id=OHR.MaldivesWhaleShark_ZH-CN9975504316_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.MaldivesWhaleShark_ZH-CN9975504316_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.MaldivesWhaleShark_ZH-CN9975504316_UHD.jpg" type="image/jpg"/>
-      <description>阿里夫达鲁环礁海岸的鲸鲨, 马尔代夫 (© Bachir Moukarzel/Amazing Aerial Agency)</description>
-      <pubDate>2025-08-30</pubDate>
     </item>
   </channel>
 </rss>
