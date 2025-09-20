@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2025-09-20</lastBuildDate>
+    <lastBuildDate>2025-09-21</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>海獭，威廉王子湾，阿拉斯加州，美国 (© Gerald Corsi/Getty Images)</title>
+      <link>https://cn.bing.com/th?id=OHR.IceOtters_ZH-CN5393791969_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.IceOtters_ZH-CN5393791969_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.IceOtters_ZH-CN5393791969_UHD.jpg" type="image/jpg"/>
+      <description>海獭，威廉王子湾，阿拉斯加州，美国 (© Gerald Corsi/Getty Images)</description>
+      <pubDate>2025-09-21</pubDate>
+    </item>
     <item>
       <title>慕尼黑啤酒节上的旋转木马，慕尼黑，巴伐利亚，德国 (© LOOK-foto/Alamy)</title>
       <link>https://cn.bing.com/th?id=OHR.OktoberfestSwing_ZH-CN5270146600_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.DeadvleiTrees_ZH-CN0967414858_UHD.jpg" type="image/jpg"/>
       <description>骆驼刺树, 死亡谷, 纳米布-诺克卢福国家公园, 纳米比亚 (© Inge Johnsson/Alamy Stock Photo)</description>
       <pubDate>2025-09-02</pubDate>
-    </item>
-    <item>
-      <title>凯撒施图尔，巴登-符腾堡，德国 (© EyeEM Mobile GmbH/Getty Images)</title>
-      <link>https://cn.bing.com/th?id=OHR.FieldKaiserstuhl_ZH-CN0467488834_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.FieldKaiserstuhl_ZH-CN0467488834_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.FieldKaiserstuhl_ZH-CN0467488834_UHD.jpg" type="image/jpg"/>
-      <description>凯撒施图尔，巴登-符腾堡，德国 (© EyeEM Mobile GmbH/Getty Images)</description>
-      <pubDate>2025-09-01</pubDate>
     </item>
   </channel>
 </rss>
