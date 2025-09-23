@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2025-09-23</lastBuildDate>
+    <lastBuildDate>2025-09-24</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>魔鬼塔国家纪念碑, 怀俄明州，美国 (© Laura Hedien/Getty Images)</title>
+      <link>https://cn.bing.com/th?id=OHR.BearLodge_ZH-CN5880511888_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.BearLodge_ZH-CN5880511888_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.BearLodge_ZH-CN5880511888_UHD.jpg" type="image/jpg"/>
+      <description>魔鬼塔国家纪念碑, 怀俄明州，美国 (© Laura Hedien/Getty Images)</description>
+      <pubDate>2025-09-24</pubDate>
+    </item>
     <item>
       <title>航拍中国江苏省常州翠竹公园 (© Xu Changyu/Getty images)</title>
       <link>https://cn.bing.com/th?id=OHR.AutumnalEquinoxY25_ZH-CN5692548297_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.SunsetPier_ZH-CN1202083395_UHD.jpg" type="image/jpg"/>
       <description>太平洋公园，圣莫妮卡州立海滩，加利福尼亚州，美国 (© EXTREME-PHOTOGRAPHER/Getty Images)</description>
       <pubDate>2025-09-05</pubDate>
-    </item>
-    <item>
-      <title>灰熊摔跤, 卡特迈国家公园及自然保护区, 阿拉斯加, 美国 (© Cavan Images/Adobe Stock)</title>
-      <link>https://cn.bing.com/th?id=OHR.WrestlingBears_ZH-CN6430637848_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.WrestlingBears_ZH-CN6430637848_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.WrestlingBears_ZH-CN6430637848_UHD.jpg" type="image/jpg"/>
-      <description>灰熊摔跤, 卡特迈国家公园及自然保护区, 阿拉斯加, 美国 (© Cavan Images/Adobe Stock)</description>
-      <pubDate>2025-09-04</pubDate>
     </item>
   </channel>
 </rss>
