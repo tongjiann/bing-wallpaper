@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2025-09-25</lastBuildDate>
+    <lastBuildDate>2025-09-26</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>最小花栗鼠, 库特奈国家公园, 蒙大拿州, 美国 (© Donald M. Jones/Minden Pictures)</title>
+      <link>https://cn.bing.com/th?id=OHR.AutumnChipmunk_ZH-CN6224482683_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.AutumnChipmunk_ZH-CN6224482683_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.AutumnChipmunk_ZH-CN6224482683_UHD.jpg" type="image/jpg"/>
+      <description>最小花栗鼠, 库特奈国家公园, 蒙大拿州, 美国 (© Donald M. Jones/Minden Pictures)</description>
+      <pubDate>2025-09-26</pubDate>
+    </item>
     <item>
       <title>奇陶尔加尔堡, 拉贾斯坦邦, 印度 (© chetansoni/Shutterstock)</title>
       <link>https://cn.bing.com/th?id=OHR.FortChittorgarh_ZH-CN5999553283_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.BlueGdansk_ZH-CN3328928509_UHD.jpg" type="image/jpg"/>
       <description>位于莫特拉瓦河河畔的格但斯克市，波兰 (© Oscar Dominguez/TANDEM Stills + Motion)</description>
       <pubDate>2025-09-07</pubDate>
-    </item>
-    <item>
-      <title>棕煌蜂鸟，旧金山金门公园，加利福尼亚州，美国 (© jeremyborkat/Getty Images)</title>
-      <link>https://cn.bing.com/th?id=OHR.RufousHummer_ZH-CN1777072350_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.RufousHummer_ZH-CN1777072350_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.RufousHummer_ZH-CN1777072350_UHD.jpg" type="image/jpg"/>
-      <description>棕煌蜂鸟，旧金山金门公园，加利福尼亚州，美国 (© jeremyborkat/Getty Images)</description>
-      <pubDate>2025-09-06</pubDate>
     </item>
   </channel>
 </rss>
