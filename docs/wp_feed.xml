@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2025-09-26</lastBuildDate>
+    <lastBuildDate>2025-09-27</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>坦克湖 (Tank Lakes), 高山湖泊荒野区, 华盛顿州, 美国 (© Austin Trigg/TANDEM Stills + Motion)</title>
+      <link>https://cn.bing.com/th?id=OHR.TankLakes_ZH-CN6402368934_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.TankLakes_ZH-CN6402368934_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.TankLakes_ZH-CN6402368934_UHD.jpg" type="image/jpg"/>
+      <description>坦克湖 (Tank Lakes), 高山湖泊荒野区, 华盛顿州, 美国 (© Austin Trigg/TANDEM Stills + Motion)</description>
+      <pubDate>2025-09-27</pubDate>
+    </item>
     <item>
       <title>最小花栗鼠, 库特奈国家公园, 蒙大拿州, 美国 (© Donald M. Jones/Minden Pictures)</title>
       <link>https://cn.bing.com/th?id=OHR.AutumnChipmunk_ZH-CN6224482683_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.OrchardLibrary_ZH-CN3578982798_UHD.jpg" type="image/jpg"/>
       <description>乌节图书馆，新加坡 (© Darwin Fan/Getty Images)</description>
       <pubDate>2025-09-08</pubDate>
-    </item>
-    <item>
-      <title>位于莫特拉瓦河河畔的格但斯克市，波兰 (© Oscar Dominguez/TANDEM Stills + Motion)</title>
-      <link>https://cn.bing.com/th?id=OHR.BlueGdansk_ZH-CN3328928509_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.BlueGdansk_ZH-CN3328928509_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.BlueGdansk_ZH-CN3328928509_UHD.jpg" type="image/jpg"/>
-      <description>位于莫特拉瓦河河畔的格但斯克市，波兰 (© Oscar Dominguez/TANDEM Stills + Motion)</description>
-      <pubDate>2025-09-07</pubDate>
     </item>
   </channel>
 </rss>
