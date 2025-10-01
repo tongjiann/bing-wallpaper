@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2025-10-01</lastBuildDate>
+    <lastBuildDate>2025-10-02</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>蛇河上的牛轭湖, 大提顿国家公园, 怀俄明州, 美国 (© DanitaDelimont.com/AWL Images/SuperStock)</title>
+      <link>https://cn.bing.com/th?id=OHR.OxbowBend_ZH-CN7211791969_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.OxbowBend_ZH-CN7211791969_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.OxbowBend_ZH-CN7211791969_UHD.jpg" type="image/jpg"/>
+      <description>蛇河上的牛轭湖, 大提顿国家公园, 怀俄明州, 美国 (© DanitaDelimont.com/AWL Images/SuperStock)</description>
+      <pubDate>2025-10-02</pubDate>
+    </item>
     <item>
       <title>克拉克山脉, 内华达山脉, 约塞米蒂国家公园, 加利福尼亚州, 美国 (© Robb Hirsch/TANDEM Stills + Motion)</title>
       <link>https://cn.bing.com/th?id=OHR.YosemiteClark_ZH-CN7179533292_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.PointReyesSeashore_ZH-CN0076789582_UHD.jpg" type="image/jpg"/>
       <description>烟囱岩, 雷斯岬国家海岸, 加利福尼亚州, 美国 (© Enrique Aguirre Aves/Getty Images)</description>
       <pubDate>2025-09-13</pubDate>
-    </item>
-    <item>
-      <title>红海中的飞旋海豚群, 阿拉姆港, 埃及 (© Franco Banfi/Nature Picture Library)</title>
-      <link>https://cn.bing.com/th?id=OHR.SpinnerDolphins_ZH-CN9731341241_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.SpinnerDolphins_ZH-CN9731341241_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.SpinnerDolphins_ZH-CN9731341241_UHD.jpg" type="image/jpg"/>
-      <description>红海中的飞旋海豚群, 阿拉姆港, 埃及 (© Franco Banfi/Nature Picture Library)</description>
-      <pubDate>2025-09-12</pubDate>
     </item>
   </channel>
 </rss>
