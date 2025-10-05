@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2025-10-05</lastBuildDate>
+    <lastBuildDate>2025-10-06</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>安顺桥中秋灯展，成都，中国 (© Philippe LEJEANVRE/Getty Images)</title>
+      <link>https://cn.bing.com/th?id=OHR.AnshunBridge_ZH-CN8392458102_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.AnshunBridge_ZH-CN8392458102_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.AnshunBridge_ZH-CN8392458102_UHD.jpg" type="image/jpg"/>
+      <description>安顺桥中秋灯展，成都，中国 (© Philippe LEJEANVRE/Getty Images)</description>
+      <pubDate>2025-10-06</pubDate>
+    </item>
     <item>
       <title>中欧森林里的鬼鸮 (© Ondrej Prosicky/Alamy)</title>
       <link>https://cn.bing.com/th?id=OHR.TeacherOwl_ZH-CN8289875605_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.YoungMoose_ZH-CN4639410217_UHD.jpg" type="image/jpg"/>
       <description>迪纳利国家公园中的一头年轻雄性驼鹿, 阿拉斯加, 美国 (© Grant Ordelheide/TANDEM Stills + Motion)</description>
       <pubDate>2025-09-17</pubDate>
-    </item>
-    <item>
-      <title>从地球上空225英里处俯瞰墨西哥湾沿岸各州的夜间景象 (© Stocktrek Images/Getty Images)</title>
-      <link>https://cn.bing.com/th?id=OHR.OzoneEarth_ZH-CN0993915980_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.OzoneEarth_ZH-CN0993915980_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.OzoneEarth_ZH-CN0993915980_UHD.jpg" type="image/jpg"/>
-      <description>从地球上空225英里处俯瞰墨西哥湾沿岸各州的夜间景象 (© Stocktrek Images/Getty Images)</description>
-      <pubDate>2025-09-16</pubDate>
     </item>
   </channel>
 </rss>
