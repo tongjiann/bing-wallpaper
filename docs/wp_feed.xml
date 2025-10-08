@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2025-10-08</lastBuildDate>
+    <lastBuildDate>2025-10-09</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>‌詹姆斯·韦伯太空望远镜观测的创生之柱 (© NASA)</title>
+      <link>https://cn.bing.com/th?id=OHR.WebbPillars_ZH-CN9054137596_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.WebbPillars_ZH-CN9054137596_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.WebbPillars_ZH-CN9054137596_UHD.jpg" type="image/jpg"/>
+      <description>‌詹姆斯·韦伯太空望远镜观测的创生之柱 (© NASA)</description>
+      <pubDate>2025-10-09</pubDate>
+    </item>
     <item>
       <title>白日章鱼, 毛伊岛, 夏威夷, 美国 (© Dave Fleetham/plainpicture)</title>
       <link>https://cn.bing.com/th?id=OHR.OctopusCyanea_ZH-CN8948609460_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.OktoberfestSwing_ZH-CN5270146600_UHD.jpg" type="image/jpg"/>
       <description>慕尼黑啤酒节上的旋转木马，慕尼黑，巴伐利亚，德国 (© LOOK-foto/Alamy)</description>
       <pubDate>2025-09-20</pubDate>
-    </item>
-    <item>
-      <title>千岛群岛地区，圣劳伦斯河，美加边境 (© benedek/Getty Images)</title>
-      <link>https://cn.bing.com/th?id=OHR.ThousandIslands_ZH-CN3197750437_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.ThousandIslands_ZH-CN3197750437_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.ThousandIslands_ZH-CN3197750437_UHD.jpg" type="image/jpg"/>
-      <description>千岛群岛地区，圣劳伦斯河，美加边境 (© benedek/Getty Images)</description>
-      <pubDate>2025-09-19</pubDate>
     </item>
   </channel>
 </rss>
