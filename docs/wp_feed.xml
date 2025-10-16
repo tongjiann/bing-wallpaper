@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2025-10-16</lastBuildDate>
+    <lastBuildDate>2025-10-17</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>罗克河瀑布，上半岛，密歇根州，美国 (© Matt Anderson Photography/Getty Images)</title>
+      <link>https://cn.bing.com/th?id=OHR.RockRiverFalls_ZH-CN6532185546_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.RockRiverFalls_ZH-CN6532185546_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.RockRiverFalls_ZH-CN6532185546_UHD.jpg" type="image/jpg"/>
+      <description>罗克河瀑布，上半岛，密歇根州，美国 (© Matt Anderson Photography/Getty Images)</description>
+      <pubDate>2025-10-17</pubDate>
+    </item>
     <item>
       <title>欧亚猞猁，西伯利亚 (© Mario Plechaty Photograph/Shutterstock)</title>
       <link>https://cn.bing.com/th?id=OHR.SiberianLynx_ZH-CN0749166653_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.PienzaItaly_ZH-CN6564335348_UHD.jpg" type="image/jpg"/>
       <description>托斯卡纳的皮恩扎镇, 意大利 (© zpagistock/Getty Images)</description>
       <pubDate>2025-09-28</pubDate>
-    </item>
-    <item>
-      <title>坦克湖 (Tank Lakes), 高山湖泊荒野区, 华盛顿州, 美国 (© Austin Trigg/TANDEM Stills + Motion)</title>
-      <link>https://cn.bing.com/th?id=OHR.TankLakes_ZH-CN6402368934_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.TankLakes_ZH-CN6402368934_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.TankLakes_ZH-CN6402368934_UHD.jpg" type="image/jpg"/>
-      <description>坦克湖 (Tank Lakes), 高山湖泊荒野区, 华盛顿州, 美国 (© Austin Trigg/TANDEM Stills + Motion)</description>
-      <pubDate>2025-09-27</pubDate>
     </item>
   </channel>
 </rss>
