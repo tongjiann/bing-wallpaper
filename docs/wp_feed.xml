@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2025-10-18</lastBuildDate>
+    <lastBuildDate>2025-10-19</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>即将收获的苹果，明尼苏达州，美国 (© Tammi Mild/Getty Images)</title>
+      <link>https://cn.bing.com/th?id=OHR.AppleHarvest_ZH-CN7317228007_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.AppleHarvest_ZH-CN7317228007_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.AppleHarvest_ZH-CN7317228007_UHD.jpg" type="image/jpg"/>
+      <description>即将收获的苹果，明尼苏达州，美国 (© Tammi Mild/Getty Images)</description>
+      <pubDate>2025-10-19</pubDate>
+    </item>
     <item>
       <title>西尔布利山的新石器时代遗址，蒂尔斯黑德，威尔特郡，英国 (© dbstockphotoa/Getty Images)</title>
       <link>https://cn.bing.com/th?id=OHR.SilburyHill_ZH-CN6666447580_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.EucalyptusKoala_ZH-CN6942451940_UHD.jpg" type="image/jpg"/>
       <description>桉树上的考拉, 大奥特维国家公园, 澳大利亚 (© Jamie Lamb - elusive-images.co.uk/Getty Images)</description>
       <pubDate>2025-09-30</pubDate>
-    </item>
-    <item>
-      <title>豪滕镇的彩虹屋, 荷兰 (© George Pachantouris/Getty Images)</title>
-      <link>https://cn.bing.com/th?id=OHR.HoutenHouses_ZH-CN6776452438_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.HoutenHouses_ZH-CN6776452438_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.HoutenHouses_ZH-CN6776452438_UHD.jpg" type="image/jpg"/>
-      <description>豪滕镇的彩虹屋, 荷兰 (© George Pachantouris/Getty Images)</description>
-      <pubDate>2025-09-29</pubDate>
     </item>
   </channel>
 </rss>
