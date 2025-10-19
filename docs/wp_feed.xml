@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2025-10-19</lastBuildDate>
+    <lastBuildDate>2025-10-20</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>霍氏树懒，厄瓜多尔 (© Murray Cooper/Minden Pictures)</title>
+      <link>https://cn.bing.com/th?id=OHR.HoffmansSloth_ZH-CN7563408641_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.HoffmansSloth_ZH-CN7563408641_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.HoffmansSloth_ZH-CN7563408641_UHD.jpg" type="image/jpg"/>
+      <description>霍氏树懒，厄瓜多尔 (© Murray Cooper/Minden Pictures)</description>
+      <pubDate>2025-10-20</pubDate>
+    </item>
     <item>
       <title>即将收获的苹果，明尼苏达州，美国 (© Tammi Mild/Getty Images)</title>
       <link>https://cn.bing.com/th?id=OHR.AppleHarvest_ZH-CN7317228007_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.YosemiteClark_ZH-CN7179533292_UHD.jpg" type="image/jpg"/>
       <description>克拉克山脉, 内华达山脉, 约塞米蒂国家公园, 加利福尼亚州, 美国 (© Robb Hirsch/TANDEM Stills + Motion)</description>
       <pubDate>2025-10-01</pubDate>
-    </item>
-    <item>
-      <title>桉树上的考拉, 大奥特维国家公园, 澳大利亚 (© Jamie Lamb - elusive-images.co.uk/Getty Images)</title>
-      <link>https://cn.bing.com/th?id=OHR.EucalyptusKoala_ZH-CN6942451940_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.EucalyptusKoala_ZH-CN6942451940_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.EucalyptusKoala_ZH-CN6942451940_UHD.jpg" type="image/jpg"/>
-      <description>桉树上的考拉, 大奥特维国家公园, 澳大利亚 (© Jamie Lamb - elusive-images.co.uk/Getty Images)</description>
-      <pubDate>2025-09-30</pubDate>
     </item>
   </channel>
 </rss>
