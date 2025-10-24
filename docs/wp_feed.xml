@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2025-10-24</lastBuildDate>
+    <lastBuildDate>2025-10-25</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>马蒂莫阿帕沼泽保护区泥炭地鸟瞰图, 芬兰 (© romikatarina/Shutterstock)</title>
+      <link>https://cn.bing.com/th?id=OHR.MartimoaapaFinland_ZH-CN1066271356_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.MartimoaapaFinland_ZH-CN1066271356_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.MartimoaapaFinland_ZH-CN1066271356_UHD.jpg" type="image/jpg"/>
+      <description>马蒂莫阿帕沼泽保护区泥炭地鸟瞰图, 芬兰 (© romikatarina/Shutterstock)</description>
+      <pubDate>2025-10-25</pubDate>
+    </item>
     <item>
       <title>玛丽皇后号邮轮的夜景, 长滩, 加利福尼亚州, 美国 (© Kit Leong/Shutterstock)</title>
       <link>https://cn.bing.com/th?id=OHR.QueenMary_ZH-CN0468294074_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.AnshunBridge_ZH-CN8392458102_UHD.jpg" type="image/jpg"/>
       <description>安顺桥中秋灯展，成都，中国 (© Philippe LEJEANVRE/Getty Images)</description>
       <pubDate>2025-10-06</pubDate>
-    </item>
-    <item>
-      <title>中欧森林里的鬼鸮 (© Ondrej Prosicky/Alamy)</title>
-      <link>https://cn.bing.com/th?id=OHR.TeacherOwl_ZH-CN8289875605_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.TeacherOwl_ZH-CN8289875605_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.TeacherOwl_ZH-CN8289875605_UHD.jpg" type="image/jpg"/>
-      <description>中欧森林里的鬼鸮 (© Ondrej Prosicky/Alamy)</description>
-      <pubDate>2025-10-05</pubDate>
     </item>
   </channel>
 </rss>
