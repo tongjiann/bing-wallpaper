@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2025-10-25</lastBuildDate>
+    <lastBuildDate>2025-10-26</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>北卡罗来纳州的南瓜农场, 美国 (© Matthew H Irvin/Getty Images)</title>
+      <link>https://cn.bing.com/th?id=OHR.PumpkinFarm_ZH-CN1232784365_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.PumpkinFarm_ZH-CN1232784365_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.PumpkinFarm_ZH-CN1232784365_UHD.jpg" type="image/jpg"/>
+      <description>北卡罗来纳州的南瓜农场, 美国 (© Matthew H Irvin/Getty Images)</description>
+      <pubDate>2025-10-26</pubDate>
+    </item>
     <item>
       <title>马蒂莫阿帕沼泽保护区泥炭地鸟瞰图, 芬兰 (© romikatarina/Shutterstock)</title>
       <link>https://cn.bing.com/th?id=OHR.MartimoaapaFinland_ZH-CN1066271356_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.RidgwayAspens_ZH-CN8735375502_UHD.jpg" type="image/jpg"/>
       <description>里奇韦附近斯内弗尔斯山脚下的秋色, 科罗拉多州, 美国 (© Grant Ordelheide/TANDEM Stills + Motion)</description>
       <pubDate>2025-10-07</pubDate>
-    </item>
-    <item>
-      <title>安顺桥中秋灯展，成都，中国 (© Philippe LEJEANVRE/Getty Images)</title>
-      <link>https://cn.bing.com/th?id=OHR.AnshunBridge_ZH-CN8392458102_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.AnshunBridge_ZH-CN8392458102_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.AnshunBridge_ZH-CN8392458102_UHD.jpg" type="image/jpg"/>
-      <description>安顺桥中秋灯展，成都，中国 (© Philippe LEJEANVRE/Getty Images)</description>
-      <pubDate>2025-10-06</pubDate>
     </item>
   </channel>
 </rss>
