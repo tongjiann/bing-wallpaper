@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2025-10-26</lastBuildDate>
+    <lastBuildDate>2025-10-27</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>被胡杨树围绕着的湖, 金塔县, 酒泉, 甘肃, 中国 (© Feng Wei Photography/Getty images)</title>
+      <link>https://cn.bing.com/th?id=OHR.AutumnColorY25_ZH-CN1551135398_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.AutumnColorY25_ZH-CN1551135398_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.AutumnColorY25_ZH-CN1551135398_UHD.jpg" type="image/jpg"/>
+      <description>被胡杨树围绕着的湖, 金塔县, 酒泉, 甘肃, 中国 (© Feng Wei Photography/Getty images)</description>
+      <pubDate>2025-10-27</pubDate>
+    </item>
     <item>
       <title>北卡罗来纳州的南瓜农场, 美国 (© Matthew H Irvin/Getty Images)</title>
       <link>https://cn.bing.com/th?id=OHR.PumpkinFarm_ZH-CN1232784365_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.OctopusCyanea_ZH-CN8948609460_UHD.jpg" type="image/jpg"/>
       <description>白日章鱼, 毛伊岛, 夏威夷, 美国 (© Dave Fleetham/plainpicture)</description>
       <pubDate>2025-10-08</pubDate>
-    </item>
-    <item>
-      <title>里奇韦附近斯内弗尔斯山脚下的秋色, 科罗拉多州, 美国 (© Grant Ordelheide/TANDEM Stills + Motion)</title>
-      <link>https://cn.bing.com/th?id=OHR.RidgwayAspens_ZH-CN8735375502_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.RidgwayAspens_ZH-CN8735375502_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.RidgwayAspens_ZH-CN8735375502_UHD.jpg" type="image/jpg"/>
-      <description>里奇韦附近斯内弗尔斯山脚下的秋色, 科罗拉多州, 美国 (© Grant Ordelheide/TANDEM Stills + Motion)</description>
-      <pubDate>2025-10-07</pubDate>
     </item>
   </channel>
 </rss>
