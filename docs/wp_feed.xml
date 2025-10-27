@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2025-10-27</lastBuildDate>
+    <lastBuildDate>2025-10-28</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>安德尔施帕赫-特普利采岩石林的哥特式拱门, 捷克 (© Kseniya_Milner/Getty Images)</title>
+      <link>https://cn.bing.com/th?id=OHR.TepliceRocks_ZH-CN1785316311_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.TepliceRocks_ZH-CN1785316311_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.TepliceRocks_ZH-CN1785316311_UHD.jpg" type="image/jpg"/>
+      <description>安德尔施帕赫-特普利采岩石林的哥特式拱门, 捷克 (© Kseniya_Milner/Getty Images)</description>
+      <pubDate>2025-10-28</pubDate>
+    </item>
     <item>
       <title>被胡杨树围绕着的湖, 金塔县, 酒泉, 甘肃, 中国 (© Feng Wei Photography/Getty images)</title>
       <link>https://cn.bing.com/th?id=OHR.AutumnColorY25_ZH-CN1551135398_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.WebbPillars_ZH-CN9054137596_UHD.jpg" type="image/jpg"/>
       <description>‌詹姆斯·韦伯太空望远镜观测的创生之柱 (© NASA)</description>
       <pubDate>2025-10-09</pubDate>
-    </item>
-    <item>
-      <title>白日章鱼, 毛伊岛, 夏威夷, 美国 (© Dave Fleetham/plainpicture)</title>
-      <link>https://cn.bing.com/th?id=OHR.OctopusCyanea_ZH-CN8948609460_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.OctopusCyanea_ZH-CN8948609460_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.OctopusCyanea_ZH-CN8948609460_UHD.jpg" type="image/jpg"/>
-      <description>白日章鱼, 毛伊岛, 夏威夷, 美国 (© Dave Fleetham/plainpicture)</description>
-      <pubDate>2025-10-08</pubDate>
     </item>
   </channel>
 </rss>
