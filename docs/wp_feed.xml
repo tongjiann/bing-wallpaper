@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2025-10-28</lastBuildDate>
+    <lastBuildDate>2025-10-29</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>法纳尔森林里的古老月桂树，马德拉群岛，葡萄牙 (© Lukas Jonaitis/Shutterstock)</title>
+      <link>https://cn.bing.com/th?id=OHR.FanalForest_ZH-CN2203572101_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.FanalForest_ZH-CN2203572101_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.FanalForest_ZH-CN2203572101_UHD.jpg" type="image/jpg"/>
+      <description>法纳尔森林里的古老月桂树，马德拉群岛，葡萄牙 (© Lukas Jonaitis/Shutterstock)</description>
+      <pubDate>2025-10-29</pubDate>
+    </item>
     <item>
       <title>安德尔施帕赫-特普利采岩石林的哥特式拱门, 捷克 (© Kseniya_Milner/Getty Images)</title>
       <link>https://cn.bing.com/th?id=OHR.TepliceRocks_ZH-CN1785316311_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.MonurikiFiji_ZH-CN9178115886_UHD.jpg" type="image/jpg"/>
       <description>莫努里基岛周边的珊瑚礁，玛玛努卡群岛，斐济 (© David Wall/SuperStock)</description>
       <pubDate>2025-10-10</pubDate>
-    </item>
-    <item>
-      <title>‌詹姆斯·韦伯太空望远镜观测的创生之柱 (© NASA)</title>
-      <link>https://cn.bing.com/th?id=OHR.WebbPillars_ZH-CN9054137596_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.WebbPillars_ZH-CN9054137596_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.WebbPillars_ZH-CN9054137596_UHD.jpg" type="image/jpg"/>
-      <description>‌詹姆斯·韦伯太空望远镜观测的创生之柱 (© NASA)</description>
-      <pubDate>2025-10-09</pubDate>
     </item>
   </channel>
 </rss>
