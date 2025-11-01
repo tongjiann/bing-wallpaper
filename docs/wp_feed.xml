@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2025-11-01</lastBuildDate>
+    <lastBuildDate>2025-11-02</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>岚山缤纷的枫叶与竹林, 京都, 日本 (© DoctorEgg/Getty Images)</title>
+      <link>https://cn.bing.com/th?id=OHR.KyotoMaple_ZH-CN4730358356_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.KyotoMaple_ZH-CN4730358356_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.KyotoMaple_ZH-CN4730358356_UHD.jpg" type="image/jpg"/>
+      <description>岚山缤纷的枫叶与竹林, 京都, 日本 (© DoctorEgg/Getty Images)</description>
+      <pubDate>2025-11-02</pubDate>
+    </item>
     <item>
       <title>野牛在温泉边吃草,  黄石国家公园, 怀俄明州, 美国 (© Cheryl Ramalho/Getty Images)</title>
       <link>https://cn.bing.com/th?id=OHR.BisonSprings_ZH-CN4419733534_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.AmethystLaccaria_ZH-CN0643667280_UHD.jpg" type="image/jpg"/>
       <description>紫蜡蘑，西贝克，华盛顿州，美国 (© Danita Delimont/Shutterstock)</description>
       <pubDate>2025-10-15</pubDate>
-    </item>
-    <item>
-      <title>伊亚镇，圣托里尼岛，希腊 (© f9photos/Getty Images)</title>
-      <link>https://cn.bing.com/th?id=OHR.OiaSantorini_ZH-CN0531650189_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.OiaSantorini_ZH-CN0531650189_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.OiaSantorini_ZH-CN0531650189_UHD.jpg" type="image/jpg"/>
-      <description>伊亚镇，圣托里尼岛，希腊 (© f9photos/Getty Images)</description>
-      <pubDate>2025-10-14</pubDate>
     </item>
   </channel>
 </rss>
