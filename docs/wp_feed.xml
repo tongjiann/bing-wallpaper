@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2025-11-04</lastBuildDate>
+    <lastBuildDate>2025-11-05</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>佩尼亚罗亚山毛榉森林, 蒙卡约自然公园, 萨拉戈萨, 阿拉贡, 西班牙 (© David Santiago Garcia/DEEPOL by plainpicture)</title>
+      <link>https://cn.bing.com/th?id=OHR.MoncayoAutumn_ZH-CN5187959516_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.MoncayoAutumn_ZH-CN5187959516_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.MoncayoAutumn_ZH-CN5187959516_UHD.jpg" type="image/jpg"/>
+      <description>佩尼亚罗亚山毛榉森林, 蒙卡约自然公园, 萨拉戈萨, 阿拉贡, 西班牙 (© David Santiago Garcia/DEEPOL by plainpicture)</description>
+      <pubDate>2025-11-05</pubDate>
+    </item>
     <item>
       <title>塔桥, 伦敦, 英格兰 (© Nick Brundle Photography/Getty Images)</title>
       <link>https://cn.bing.com/th?id=OHR.TowerBridgeUK_ZH-CN1846533186_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.SilburyHill_ZH-CN6666447580_UHD.jpg" type="image/jpg"/>
       <description>西尔布利山的新石器时代遗址，蒂尔斯黑德，威尔特郡，英国 (© dbstockphotoa/Getty Images)</description>
       <pubDate>2025-10-18</pubDate>
-    </item>
-    <item>
-      <title>罗克河瀑布，上半岛，密歇根州，美国 (© Matt Anderson Photography/Getty Images)</title>
-      <link>https://cn.bing.com/th?id=OHR.RockRiverFalls_ZH-CN6532185546_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.RockRiverFalls_ZH-CN6532185546_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.RockRiverFalls_ZH-CN6532185546_UHD.jpg" type="image/jpg"/>
-      <description>罗克河瀑布，上半岛，密歇根州，美国 (© Matt Anderson Photography/Getty Images)</description>
-      <pubDate>2025-10-17</pubDate>
     </item>
   </channel>
 </rss>
