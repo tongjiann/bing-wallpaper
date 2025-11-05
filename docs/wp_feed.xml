@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2025-11-05</lastBuildDate>
+    <lastBuildDate>2025-11-06</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>哈里朋柴佛塔寺的彩色灯笼, 南奔府, 泰国 (© MR. ANUJAK JAIMOOK/Getty Images)</title>
+      <link>https://cn.bing.com/th?id=OHR.LanternsThailand_ZH-CN3419382923_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.LanternsThailand_ZH-CN3419382923_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.LanternsThailand_ZH-CN3419382923_UHD.jpg" type="image/jpg"/>
+      <description>哈里朋柴佛塔寺的彩色灯笼, 南奔府, 泰国 (© MR. ANUJAK JAIMOOK/Getty Images)</description>
+      <pubDate>2025-11-06</pubDate>
+    </item>
     <item>
       <title>佩尼亚罗亚山毛榉森林, 蒙卡约自然公园, 萨拉戈萨, 阿拉贡, 西班牙 (© David Santiago Garcia/DEEPOL by plainpicture)</title>
       <link>https://cn.bing.com/th?id=OHR.MoncayoAutumn_ZH-CN5187959516_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.AppleHarvest_ZH-CN7317228007_UHD.jpg" type="image/jpg"/>
       <description>即将收获的苹果，明尼苏达州，美国 (© Tammi Mild/Getty Images)</description>
       <pubDate>2025-10-19</pubDate>
-    </item>
-    <item>
-      <title>西尔布利山的新石器时代遗址，蒂尔斯黑德，威尔特郡，英国 (© dbstockphotoa/Getty Images)</title>
-      <link>https://cn.bing.com/th?id=OHR.SilburyHill_ZH-CN6666447580_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.SilburyHill_ZH-CN6666447580_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.SilburyHill_ZH-CN6666447580_UHD.jpg" type="image/jpg"/>
-      <description>西尔布利山的新石器时代遗址，蒂尔斯黑德，威尔特郡，英国 (© dbstockphotoa/Getty Images)</description>
-      <pubDate>2025-10-18</pubDate>
     </item>
   </channel>
 </rss>
