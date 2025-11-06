@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2025-11-06</lastBuildDate>
+    <lastBuildDate>2025-11-07</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>丘吉尔的北极熊，曼尼托巴省，加拿大 (© karen crewe/Getty Images)</title>
+      <link>https://cn.bing.com/th?id=OHR.WillowBear_ZH-CN3501489210_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.WillowBear_ZH-CN3501489210_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.WillowBear_ZH-CN3501489210_UHD.jpg" type="image/jpg"/>
+      <description>丘吉尔的北极熊，曼尼托巴省，加拿大 (© karen crewe/Getty Images)</description>
+      <pubDate>2025-11-07</pubDate>
+    </item>
     <item>
       <title>哈里朋柴佛塔寺的彩色灯笼, 南奔府, 泰国 (© MR. ANUJAK JAIMOOK/Getty Images)</title>
       <link>https://cn.bing.com/th?id=OHR.LanternsThailand_ZH-CN3419382923_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.HoffmansSloth_ZH-CN7563408641_UHD.jpg" type="image/jpg"/>
       <description>霍氏树懒，厄瓜多尔 (© Murray Cooper/Minden Pictures)</description>
       <pubDate>2025-10-20</pubDate>
-    </item>
-    <item>
-      <title>即将收获的苹果，明尼苏达州，美国 (© Tammi Mild/Getty Images)</title>
-      <link>https://cn.bing.com/th?id=OHR.AppleHarvest_ZH-CN7317228007_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.AppleHarvest_ZH-CN7317228007_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.AppleHarvest_ZH-CN7317228007_UHD.jpg" type="image/jpg"/>
-      <description>即将收获的苹果，明尼苏达州，美国 (© Tammi Mild/Getty Images)</description>
-      <pubDate>2025-10-19</pubDate>
     </item>
   </channel>
 </rss>
