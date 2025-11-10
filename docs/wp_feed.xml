@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2025-11-10</lastBuildDate>
+    <lastBuildDate>2025-11-11</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>条顿堡森林的伊克斯坦岩石层，德国 (© Michael Sroka/Getty Images)</title>
+      <link>https://cn.bing.com/th?id=OHR.ExternsteineSunset_ZH-CN4190155102_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.ExternsteineSunset_ZH-CN4190155102_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.ExternsteineSunset_ZH-CN4190155102_UHD.jpg" type="image/jpg"/>
+      <description>条顿堡森林的伊克斯坦岩石层，德国 (© Michael Sroka/Getty Images)</description>
+      <pubDate>2025-11-11</pubDate>
+    </item>
     <item>
       <title>土拨鼠镇的黑尾土拨鼠，劣地国家公园，南达科他州，美国 (© Greg Vaughn/Getty Images)</title>
       <link>https://cn.bing.com/th?id=OHR.PrairieDogTown_ZH-CN3989288881_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.QueenMary_ZH-CN0468294074_UHD.jpg" type="image/jpg"/>
       <description>玛丽皇后号邮轮的夜景, 长滩, 加利福尼亚州, 美国 (© Kit Leong/Shutterstock)</description>
       <pubDate>2025-10-24</pubDate>
-    </item>
-    <item>
-      <title>雪豹和她的幼崽, 斯皮提谷, 寒冷沙漠生物圈保护区, 印度 (© Oriol Alamany/naturepl.com)</title>
-      <link>https://cn.bing.com/th?id=OHR.SnowLeopard_ZH-CN6644701381_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.SnowLeopard_ZH-CN6644701381_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.SnowLeopard_ZH-CN6644701381_UHD.jpg" type="image/jpg"/>
-      <description>雪豹和她的幼崽, 斯皮提谷, 寒冷沙漠生物圈保护区, 印度 (© Oriol Alamany/naturepl.com)</description>
-      <pubDate>2025-10-23</pubDate>
     </item>
   </channel>
 </rss>
