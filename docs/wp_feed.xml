@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2025-11-11</lastBuildDate>
+    <lastBuildDate>2025-11-12</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>斗兽场鸟瞰图，罗马，意大利 (© Nico De Pasquale Photography/Getty Images)</title>
+      <link>https://cn.bing.com/th?id=OHR.ColosseumRome_ZH-CN4305271578_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.ColosseumRome_ZH-CN4305271578_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.ColosseumRome_ZH-CN4305271578_UHD.jpg" type="image/jpg"/>
+      <description>斗兽场鸟瞰图，罗马，意大利 (© Nico De Pasquale Photography/Getty Images)</description>
+      <pubDate>2025-11-12</pubDate>
+    </item>
     <item>
       <title>条顿堡森林的伊克斯坦岩石层，德国 (© Michael Sroka/Getty Images)</title>
       <link>https://cn.bing.com/th?id=OHR.ExternsteineSunset_ZH-CN4190155102_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.MartimoaapaFinland_ZH-CN1066271356_UHD.jpg" type="image/jpg"/>
       <description>马蒂莫阿帕沼泽保护区泥炭地鸟瞰图, 芬兰 (© romikatarina/Shutterstock)</description>
       <pubDate>2025-10-25</pubDate>
-    </item>
-    <item>
-      <title>玛丽皇后号邮轮的夜景, 长滩, 加利福尼亚州, 美国 (© Kit Leong/Shutterstock)</title>
-      <link>https://cn.bing.com/th?id=OHR.QueenMary_ZH-CN0468294074_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.QueenMary_ZH-CN0468294074_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.QueenMary_ZH-CN0468294074_UHD.jpg" type="image/jpg"/>
-      <description>玛丽皇后号邮轮的夜景, 长滩, 加利福尼亚州, 美国 (© Kit Leong/Shutterstock)</description>
-      <pubDate>2025-10-24</pubDate>
     </item>
   </channel>
 </rss>
