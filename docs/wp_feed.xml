@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2025-11-12</lastBuildDate>
+    <lastBuildDate>2025-11-13</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>夜晚的箭袋树与银河，基特曼斯胡普，纳米比亚 (© Wim van den Heever/naturepl.com)</title>
+      <link>https://cn.bing.com/th?id=OHR.AloeDichotoma_ZH-CN4432972312_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.AloeDichotoma_ZH-CN4432972312_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.AloeDichotoma_ZH-CN4432972312_UHD.jpg" type="image/jpg"/>
+      <description>夜晚的箭袋树与银河，基特曼斯胡普，纳米比亚 (© Wim van den Heever/naturepl.com)</description>
+      <pubDate>2025-11-13</pubDate>
+    </item>
     <item>
       <title>斗兽场鸟瞰图，罗马，意大利 (© Nico De Pasquale Photography/Getty Images)</title>
       <link>https://cn.bing.com/th?id=OHR.ColosseumRome_ZH-CN4305271578_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.PumpkinFarm_ZH-CN1232784365_UHD.jpg" type="image/jpg"/>
       <description>北卡罗来纳州的南瓜农场, 美国 (© Matthew H Irvin/Getty Images)</description>
       <pubDate>2025-10-26</pubDate>
-    </item>
-    <item>
-      <title>马蒂莫阿帕沼泽保护区泥炭地鸟瞰图, 芬兰 (© romikatarina/Shutterstock)</title>
-      <link>https://cn.bing.com/th?id=OHR.MartimoaapaFinland_ZH-CN1066271356_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.MartimoaapaFinland_ZH-CN1066271356_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.MartimoaapaFinland_ZH-CN1066271356_UHD.jpg" type="image/jpg"/>
-      <description>马蒂莫阿帕沼泽保护区泥炭地鸟瞰图, 芬兰 (© romikatarina/Shutterstock)</description>
-      <pubDate>2025-10-25</pubDate>
     </item>
   </channel>
 </rss>
