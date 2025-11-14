@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2025-11-14</lastBuildDate>
+    <lastBuildDate>2025-11-15</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>秋天的伊吕波坂，日光市，栃木县，日本 (© oneinchpunch/Shutterstock)</title>
+      <link>https://cn.bing.com/th?id=OHR.IrohazakaAutumn_ZH-CN8146412245_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.IrohazakaAutumn_ZH-CN8146412245_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.IrohazakaAutumn_ZH-CN8146412245_UHD.jpg" type="image/jpg"/>
+      <description>秋天的伊吕波坂，日光市，栃木县，日本 (© oneinchpunch/Shutterstock)</description>
+      <pubDate>2025-11-15</pubDate>
+    </item>
     <item>
       <title>海牛妈妈和幼崽，水晶河，佛罗里达州，美国 (© Gregory Sweeney/Getty Images)</title>
       <link>https://cn.bing.com/th?id=OHR.ManateeBaby_ZH-CN7805040281_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.TepliceRocks_ZH-CN1785316311_UHD.jpg" type="image/jpg"/>
       <description>安德尔施帕赫-特普利采岩石林的哥特式拱门, 捷克 (© Kseniya_Milner/Getty Images)</description>
       <pubDate>2025-10-28</pubDate>
-    </item>
-    <item>
-      <title>被胡杨树围绕着的湖, 金塔县, 酒泉, 甘肃, 中国 (© Feng Wei Photography/Getty images)</title>
-      <link>https://cn.bing.com/th?id=OHR.AutumnColorY25_ZH-CN1551135398_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.AutumnColorY25_ZH-CN1551135398_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.AutumnColorY25_ZH-CN1551135398_UHD.jpg" type="image/jpg"/>
-      <description>被胡杨树围绕着的湖, 金塔县, 酒泉, 甘肃, 中国 (© Feng Wei Photography/Getty images)</description>
-      <pubDate>2025-10-27</pubDate>
     </item>
   </channel>
 </rss>
