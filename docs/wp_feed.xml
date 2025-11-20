@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2025-11-20</lastBuildDate>
+    <lastBuildDate>2025-11-21</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>罗伯特·摩西州立公园的港海豹, 长岛, 纽约, 美国 (© Vicki Jauron, Babylon and Beyond Photography/Getty Images)</title>
+      <link>https://cn.bing.com/th?id=OHR.SealWaving_ZH-CN2467723602_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.SealWaving_ZH-CN2467723602_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.SealWaving_ZH-CN2467723602_UHD.jpg" type="image/jpg"/>
+      <description>罗伯特·摩西州立公园的港海豹, 长岛, 纽约, 美国 (© Vicki Jauron, Babylon and Beyond Photography/Getty Images)</description>
+      <pubDate>2025-11-21</pubDate>
+    </item>
     <item>
       <title>查帕达迪亚曼蒂纳国家公园，巴伊亚州，巴西 (© Marcio Dufranc/Getty Images)</title>
       <link>https://cn.bing.com/th?id=OHR.PondCave_ZH-CN2304770650_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.KyotoMaple_ZH-CN4730358356_UHD.jpg" type="image/jpg"/>
       <description>岚山缤纷的枫叶与竹林, 京都, 日本 (© DoctorEgg/Getty Images)</description>
       <pubDate>2025-11-02</pubDate>
-    </item>
-    <item>
-      <title>野牛在温泉边吃草,  黄石国家公园, 怀俄明州, 美国 (© Cheryl Ramalho/Getty Images)</title>
-      <link>https://cn.bing.com/th?id=OHR.BisonSprings_ZH-CN4419733534_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.BisonSprings_ZH-CN4419733534_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.BisonSprings_ZH-CN4419733534_UHD.jpg" type="image/jpg"/>
-      <description>野牛在温泉边吃草,  黄石国家公园, 怀俄明州, 美国 (© Cheryl Ramalho/Getty Images)</description>
-      <pubDate>2025-11-01</pubDate>
     </item>
   </channel>
 </rss>
