@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2025-11-22</lastBuildDate>
+    <lastBuildDate>2025-11-23</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>马达加斯加菊石化石 (© ThomasLENNE/Shutterstock)</title>
+      <link>https://cn.bing.com/th?id=OHR.MadgascarAmmonite_ZH-CN6497276091_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.MadgascarAmmonite_ZH-CN6497276091_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.MadgascarAmmonite_ZH-CN6497276091_UHD.jpg" type="image/jpg"/>
+      <description>马达加斯加菊石化石 (© ThomasLENNE/Shutterstock)</description>
+      <pubDate>2025-11-23</pubDate>
+    </item>
     <item>
       <title>乐山大佛, 四川, 中国 (© www.anotherdayattheoffice.org/Getty Images)</title>
       <link>https://cn.bing.com/th?id=OHR.LeshanBuddha_ZH-CN2804271540_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.TowerBridgeUK_ZH-CN1846533186_UHD.jpg" type="image/jpg"/>
       <description>塔桥, 伦敦, 英格兰 (© Nick Brundle Photography/Getty Images)</description>
       <pubDate>2025-11-04</pubDate>
-    </item>
-    <item>
-      <title>在太平洋中游泳的水母, 格雷罗, 墨西哥 (© Christian Vizl/TANDEM Stills + Motion)</title>
-      <link>https://cn.bing.com/th?id=OHR.MexicoJelly_ZH-CN5266285518_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.MexicoJelly_ZH-CN5266285518_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.MexicoJelly_ZH-CN5266285518_UHD.jpg" type="image/jpg"/>
-      <description>在太平洋中游泳的水母, 格雷罗, 墨西哥 (© Christian Vizl/TANDEM Stills + Motion)</description>
-      <pubDate>2025-11-03</pubDate>
     </item>
   </channel>
 </rss>
