@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2025-11-23</lastBuildDate>
+    <lastBuildDate>2025-11-24</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>瓜廖尔堡, ‌中央邦, 印度 (© ImagesofIndia/Shutterstock)</title>
+      <link>https://cn.bing.com/th?id=OHR.GwailorFort_ZH-CN6731607002_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.GwailorFort_ZH-CN6731607002_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.GwailorFort_ZH-CN6731607002_UHD.jpg" type="image/jpg"/>
+      <description>瓜廖尔堡, ‌中央邦, 印度 (© ImagesofIndia/Shutterstock)</description>
+      <pubDate>2025-11-24</pubDate>
+    </item>
     <item>
       <title>马达加斯加菊石化石 (© ThomasLENNE/Shutterstock)</title>
       <link>https://cn.bing.com/th?id=OHR.MadgascarAmmonite_ZH-CN6497276091_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.MoncayoAutumn_ZH-CN5187959516_UHD.jpg" type="image/jpg"/>
       <description>佩尼亚罗亚山毛榉森林, 蒙卡约自然公园, 萨拉戈萨, 阿拉贡, 西班牙 (© David Santiago Garcia/DEEPOL by plainpicture)</description>
       <pubDate>2025-11-05</pubDate>
-    </item>
-    <item>
-      <title>塔桥, 伦敦, 英格兰 (© Nick Brundle Photography/Getty Images)</title>
-      <link>https://cn.bing.com/th?id=OHR.TowerBridgeUK_ZH-CN1846533186_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.TowerBridgeUK_ZH-CN1846533186_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.TowerBridgeUK_ZH-CN1846533186_UHD.jpg" type="image/jpg"/>
-      <description>塔桥, 伦敦, 英格兰 (© Nick Brundle Photography/Getty Images)</description>
-      <pubDate>2025-11-04</pubDate>
     </item>
   </channel>
 </rss>
