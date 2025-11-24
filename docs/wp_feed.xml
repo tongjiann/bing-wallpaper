@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2025-11-24</lastBuildDate>
+    <lastBuildDate>2025-11-25</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>罗马的特雷维喷泉, 意大利 (© Nico De Pasquale Photography/Getty Images)</title>
+      <link>https://cn.bing.com/th?id=OHR.TreviFountain_ZH-CN6892299520_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.TreviFountain_ZH-CN6892299520_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.TreviFountain_ZH-CN6892299520_UHD.jpg" type="image/jpg"/>
+      <description>罗马的特雷维喷泉, 意大利 (© Nico De Pasquale Photography/Getty Images)</description>
+      <pubDate>2025-11-25</pubDate>
+    </item>
     <item>
       <title>瓜廖尔堡, ‌中央邦, 印度 (© ImagesofIndia/Shutterstock)</title>
       <link>https://cn.bing.com/th?id=OHR.GwailorFort_ZH-CN6731607002_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.LanternsThailand_ZH-CN3419382923_UHD.jpg" type="image/jpg"/>
       <description>哈里朋柴佛塔寺的彩色灯笼, 南奔府, 泰国 (© MR. ANUJAK JAIMOOK/Getty Images)</description>
       <pubDate>2025-11-06</pubDate>
-    </item>
-    <item>
-      <title>佩尼亚罗亚山毛榉森林, 蒙卡约自然公园, 萨拉戈萨, 阿拉贡, 西班牙 (© David Santiago Garcia/DEEPOL by plainpicture)</title>
-      <link>https://cn.bing.com/th?id=OHR.MoncayoAutumn_ZH-CN5187959516_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.MoncayoAutumn_ZH-CN5187959516_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.MoncayoAutumn_ZH-CN5187959516_UHD.jpg" type="image/jpg"/>
-      <description>佩尼亚罗亚山毛榉森林, 蒙卡约自然公园, 萨拉戈萨, 阿拉贡, 西班牙 (© David Santiago Garcia/DEEPOL by plainpicture)</description>
-      <pubDate>2025-11-05</pubDate>
     </item>
   </channel>
 </rss>
