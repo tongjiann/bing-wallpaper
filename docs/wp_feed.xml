@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2025-11-26</lastBuildDate>
+    <lastBuildDate>2025-11-27</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>伊斯特本码头, 东萨塞克斯郡, 英格兰 (© Tolga_TEZCAN/Getty Images)</title>
+      <link>https://cn.bing.com/th?id=OHR.PierOfEastbourne2025_ZH-CN7178301269_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.PierOfEastbourne2025_ZH-CN7178301269_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.PierOfEastbourne2025_ZH-CN7178301269_UHD.jpg" type="image/jpg"/>
+      <description>伊斯特本码头, 东萨塞克斯郡, 英格兰 (© Tolga_TEZCAN/Getty Images)</description>
+      <pubDate>2025-11-27</pubDate>
+    </item>
     <item>
       <title>特拉蒙塔纳山脉的橄榄园, 马略卡岛, 巴利阿里群岛, 西班牙 (© cinoby/Getty Images)</title>
       <link>https://cn.bing.com/th?id=OHR.OliveGrove_ZH-CN7054006944_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.BandonBeach_ZH-CN3684356649_UHD.jpg" type="image/jpg"/>
       <description>班登海滩的海蚀柱，俄勒冈州，美国 (© Grant Ordelheide/TANDEM Stills + Motion)</description>
       <pubDate>2025-11-08</pubDate>
-    </item>
-    <item>
-      <title>丘吉尔的北极熊，曼尼托巴省，加拿大 (© karen crewe/Getty Images)</title>
-      <link>https://cn.bing.com/th?id=OHR.WillowBear_ZH-CN3501489210_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.WillowBear_ZH-CN3501489210_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.WillowBear_ZH-CN3501489210_UHD.jpg" type="image/jpg"/>
-      <description>丘吉尔的北极熊，曼尼托巴省，加拿大 (© karen crewe/Getty Images)</description>
-      <pubDate>2025-11-07</pubDate>
     </item>
   </channel>
 </rss>
