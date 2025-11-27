@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2025-11-27</lastBuildDate>
+    <lastBuildDate>2025-11-28</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>瓦尔·布兰德特, 布雷西亚, 伦巴第大区, 意大利 (© ClickAlps/Alamy)</title>
+      <link>https://cn.bing.com/th?id=OHR.InvernoItalia_ZH-CN1329490862_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.InvernoItalia_ZH-CN1329490862_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.InvernoItalia_ZH-CN1329490862_UHD.jpg" type="image/jpg"/>
+      <description>瓦尔·布兰德特, 布雷西亚, 伦巴第大区, 意大利 (© ClickAlps/Alamy)</description>
+      <pubDate>2025-11-28</pubDate>
+    </item>
     <item>
       <title>伊斯特本码头, 东萨塞克斯郡, 英格兰 (© Tolga_TEZCAN/Getty Images)</title>
       <link>https://cn.bing.com/th?id=OHR.PierOfEastbourne2025_ZH-CN7178301269_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.LagoonNebula_ZH-CN3890147543_UHD.jpg" type="image/jpg"/>
       <description>礁湖星云中的星际云，由哈勃太空望远镜拍摄 (© ESA/NASA)</description>
       <pubDate>2025-11-09</pubDate>
-    </item>
-    <item>
-      <title>班登海滩的海蚀柱，俄勒冈州，美国 (© Grant Ordelheide/TANDEM Stills + Motion)</title>
-      <link>https://cn.bing.com/th?id=OHR.BandonBeach_ZH-CN3684356649_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.BandonBeach_ZH-CN3684356649_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.BandonBeach_ZH-CN3684356649_UHD.jpg" type="image/jpg"/>
-      <description>班登海滩的海蚀柱，俄勒冈州，美国 (© Grant Ordelheide/TANDEM Stills + Motion)</description>
-      <pubDate>2025-11-08</pubDate>
     </item>
   </channel>
 </rss>
