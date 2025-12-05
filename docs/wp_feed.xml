@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2025-12-05</lastBuildDate>
+    <lastBuildDate>2025-12-06</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>大沼泽地国家公园的蜘蛛网，佛罗里达州，美国 (© Troy Harrison/Getty Images)</title>
+      <link>https://cn.bing.com/th?id=OHR.EvergladesSunrise_ZH-CN2298606730_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.EvergladesSunrise_ZH-CN2298606730_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.EvergladesSunrise_ZH-CN2298606730_UHD.jpg" type="image/jpg"/>
+      <description>大沼泽地国家公园的蜘蛛网，佛罗里达州，美国 (© Troy Harrison/Getty Images)</description>
+      <pubDate>2025-12-06</pubDate>
+    </item>
     <item>
       <title>科潘的玛雅遗址，洪都拉斯 (© diegograndi/Getty Images)</title>
       <link>https://cn.bing.com/th?id=OHR.CopanRuins_ZH-CN2157795324_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.ShenandoahTrail_ZH-CN8626326726_UHD.jpg" type="image/jpg"/>
       <description>谢南多厄国家公园的秋色，弗吉尼亚州，美国 (© Michael Ver Sprill/Getty Images)</description>
       <pubDate>2025-11-17</pubDate>
-    </item>
-    <item>
-      <title>里昂的一条穿廊，法国 (© TPopova/Getty Images) 法国</title>
-      <link>https://cn.bing.com/th?id=OHR.LyonTraboules_ZH-CN8476826325_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.LyonTraboules_ZH-CN8476826325_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.LyonTraboules_ZH-CN8476826325_UHD.jpg" type="image/jpg"/>
-      <description>里昂的一条穿廊，法国 (© TPopova/Getty Images) 法国</description>
-      <pubDate>2025-11-16</pubDate>
     </item>
   </channel>
 </rss>
