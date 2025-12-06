@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2025-12-06</lastBuildDate>
+    <lastBuildDate>2025-12-07</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>雪中的故宫，中国北京 (© Ian.CuiYi/Getty Images)</title>
+      <link>https://cn.bing.com/th?id=OHR.TheGreatSnowY25_ZH-CN2448918230_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.TheGreatSnowY25_ZH-CN2448918230_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.TheGreatSnowY25_ZH-CN2448918230_UHD.jpg" type="image/jpg"/>
+      <description>雪中的故宫，中国北京 (© Ian.CuiYi/Getty Images)</description>
+      <pubDate>2025-12-07</pubDate>
+    </item>
     <item>
       <title>大沼泽地国家公园的蜘蛛网，佛罗里达州，美国 (© Troy Harrison/Getty Images)</title>
       <link>https://cn.bing.com/th?id=OHR.EvergladesSunrise_ZH-CN2298606730_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.AutumnMerganser_ZH-CN1320438449_UHD.jpg" type="image/jpg"/>
       <description>雄性棕胁秋沙鸭，俄勒冈州，美国 (© Eric Vogt/TANDEM Stills + Motion)</description>
       <pubDate>2025-11-18</pubDate>
-    </item>
-    <item>
-      <title>谢南多厄国家公园的秋色，弗吉尼亚州，美国 (© Michael Ver Sprill/Getty Images)</title>
-      <link>https://cn.bing.com/th?id=OHR.ShenandoahTrail_ZH-CN8626326726_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.ShenandoahTrail_ZH-CN8626326726_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.ShenandoahTrail_ZH-CN8626326726_UHD.jpg" type="image/jpg"/>
-      <description>谢南多厄国家公园的秋色，弗吉尼亚州，美国 (© Michael Ver Sprill/Getty Images)</description>
-      <pubDate>2025-11-17</pubDate>
     </item>
   </channel>
 </rss>
