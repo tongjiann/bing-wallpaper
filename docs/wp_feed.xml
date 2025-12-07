@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2025-12-07</lastBuildDate>
+    <lastBuildDate>2025-12-08</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>多马索的建筑上的圣诞彩灯，科莫湖，意大利 (© Roberto Moiola/Getty Images)</title>
+      <link>https://cn.bing.com/th?id=OHR.ComoChristmas_ZH-CN2565627033_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.ComoChristmas_ZH-CN2565627033_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.ComoChristmas_ZH-CN2565627033_UHD.jpg" type="image/jpg"/>
+      <description>多马索的建筑上的圣诞彩灯，科莫湖，意大利 (© Roberto Moiola/Getty Images)</description>
+      <pubDate>2025-12-08</pubDate>
+    </item>
     <item>
       <title>雪中的故宫，中国北京 (© Ian.CuiYi/Getty Images)</title>
       <link>https://cn.bing.com/th?id=OHR.TheGreatSnowY25_ZH-CN2448918230_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.BudapestParliament_ZH-CN1607028780_UHD.jpg" type="image/jpg"/>
       <description>匈牙利国会大厦，布达佩斯，匈牙利 (© Alexander Spatari/Getty Images)</description>
       <pubDate>2025-11-19</pubDate>
-    </item>
-    <item>
-      <title>雄性棕胁秋沙鸭，俄勒冈州，美国 (© Eric Vogt/TANDEM Stills + Motion)</title>
-      <link>https://cn.bing.com/th?id=OHR.AutumnMerganser_ZH-CN1320438449_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.AutumnMerganser_ZH-CN1320438449_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.AutumnMerganser_ZH-CN1320438449_UHD.jpg" type="image/jpg"/>
-      <description>雄性棕胁秋沙鸭，俄勒冈州，美国 (© Eric Vogt/TANDEM Stills + Motion)</description>
-      <pubDate>2025-11-18</pubDate>
     </item>
   </channel>
 </rss>
