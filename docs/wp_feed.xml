@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2025-12-10</lastBuildDate>
+    <lastBuildDate>2025-12-11</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>从伦佐拉山口眺望珠穆朗玛峰日落时分的峰顶，尼泊尔 (© shoults/Alamy)</title>
+      <link>https://cn.bing.com/th?id=OHR.EverestGlow_ZH-CN4985720231_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.EverestGlow_ZH-CN4985720231_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.EverestGlow_ZH-CN4985720231_UHD.jpg" type="image/jpg"/>
+      <description>从伦佐拉山口眺望珠穆朗玛峰日落时分的峰顶，尼泊尔 (© shoults/Alamy)</description>
+      <pubDate>2025-12-11</pubDate>
+    </item>
     <item>
       <title>科尔多瓦清真寺大教堂的内部，安达卢西亚，西班牙 (© Elena Zolotova/Getty Images)</title>
       <link>https://cn.bing.com/th?id=OHR.CordobaCathedral_ZH-CN4603063077_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.LeshanBuddha_ZH-CN2804271540_UHD.jpg" type="image/jpg"/>
       <description>乐山大佛, 四川, 中国 (© www.anotherdayattheoffice.org/Getty Images)</description>
       <pubDate>2025-11-22</pubDate>
-    </item>
-    <item>
-      <title>罗伯特·摩西州立公园的港海豹, 长岛, 纽约, 美国 (© Vicki Jauron, Babylon and Beyond Photography/Getty Images)</title>
-      <link>https://cn.bing.com/th?id=OHR.SealWaving_ZH-CN2467723602_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.SealWaving_ZH-CN2467723602_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.SealWaving_ZH-CN2467723602_UHD.jpg" type="image/jpg"/>
-      <description>罗伯特·摩西州立公园的港海豹, 长岛, 纽约, 美国 (© Vicki Jauron, Babylon and Beyond Photography/Getty Images)</description>
-      <pubDate>2025-11-21</pubDate>
     </item>
   </channel>
 </rss>
