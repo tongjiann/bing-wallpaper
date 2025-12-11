@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2025-12-11</lastBuildDate>
+    <lastBuildDate>2025-12-12</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>有斑点的一品红 (© DigiPub/Getty Images)</title>
+      <link>https://cn.bing.com/th?id=OHR.SpeckledPoinsettia_ZH-CN3726763235_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.SpeckledPoinsettia_ZH-CN3726763235_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.SpeckledPoinsettia_ZH-CN3726763235_UHD.jpg" type="image/jpg"/>
+      <description>有斑点的一品红 (© DigiPub/Getty Images)</description>
+      <pubDate>2025-12-12</pubDate>
+    </item>
     <item>
       <title>从伦佐拉山口眺望珠穆朗玛峰日落时分的峰顶，尼泊尔 (© shoults/Alamy)</title>
       <link>https://cn.bing.com/th?id=OHR.EverestGlow_ZH-CN4985720231_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.MadgascarAmmonite_ZH-CN6497276091_UHD.jpg" type="image/jpg"/>
       <description>马达加斯加菊石化石 (© ThomasLENNE/Shutterstock)</description>
       <pubDate>2025-11-23</pubDate>
-    </item>
-    <item>
-      <title>乐山大佛, 四川, 中国 (© www.anotherdayattheoffice.org/Getty Images)</title>
-      <link>https://cn.bing.com/th?id=OHR.LeshanBuddha_ZH-CN2804271540_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.LeshanBuddha_ZH-CN2804271540_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.LeshanBuddha_ZH-CN2804271540_UHD.jpg" type="image/jpg"/>
-      <description>乐山大佛, 四川, 中国 (© www.anotherdayattheoffice.org/Getty Images)</description>
-      <pubDate>2025-11-22</pubDate>
     </item>
   </channel>
 </rss>
