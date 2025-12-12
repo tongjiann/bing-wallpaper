@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2025-12-12</lastBuildDate>
+    <lastBuildDate>2025-12-13</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>默塞德河, 优胜美地国家公园, 加利福尼亚, 美国 (© Ron and Patty Thomas/Getty Images)</title>
+      <link>https://cn.bing.com/th?id=OHR.YosemiteWinter_ZH-CN3824387818_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.YosemiteWinter_ZH-CN3824387818_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.YosemiteWinter_ZH-CN3824387818_UHD.jpg" type="image/jpg"/>
+      <description>默塞德河, 优胜美地国家公园, 加利福尼亚, 美国 (© Ron and Patty Thomas/Getty Images)</description>
+      <pubDate>2025-12-13</pubDate>
+    </item>
     <item>
       <title>有斑点的一品红 (© DigiPub/Getty Images)</title>
       <link>https://cn.bing.com/th?id=OHR.SpeckledPoinsettia_ZH-CN3726763235_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.GwailorFort_ZH-CN6731607002_UHD.jpg" type="image/jpg"/>
       <description>瓜廖尔堡, ‌中央邦, 印度 (© ImagesofIndia/Shutterstock)</description>
       <pubDate>2025-11-24</pubDate>
-    </item>
-    <item>
-      <title>马达加斯加菊石化石 (© ThomasLENNE/Shutterstock)</title>
-      <link>https://cn.bing.com/th?id=OHR.MadgascarAmmonite_ZH-CN6497276091_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.MadgascarAmmonite_ZH-CN6497276091_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.MadgascarAmmonite_ZH-CN6497276091_UHD.jpg" type="image/jpg"/>
-      <description>马达加斯加菊石化石 (© ThomasLENNE/Shutterstock)</description>
-      <pubDate>2025-11-23</pubDate>
     </item>
   </channel>
 </rss>
