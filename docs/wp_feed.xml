@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2025-12-13</lastBuildDate>
+    <lastBuildDate>2025-12-14</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>簇山雀栖息在松枝上, 马萨诸塞州, 美国 (© Tim Laman/NPL/Minden Pictures)</title>
+      <link>https://cn.bing.com/th?id=OHR.TuftedTitmouse_ZH-CN4154825372_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.TuftedTitmouse_ZH-CN4154825372_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.TuftedTitmouse_ZH-CN4154825372_UHD.jpg" type="image/jpg"/>
+      <description>簇山雀栖息在松枝上, 马萨诸塞州, 美国 (© Tim Laman/NPL/Minden Pictures)</description>
+      <pubDate>2025-12-14</pubDate>
+    </item>
     <item>
       <title>默塞德河, 优胜美地国家公园, 加利福尼亚, 美国 (© Ron and Patty Thomas/Getty Images)</title>
       <link>https://cn.bing.com/th?id=OHR.YosemiteWinter_ZH-CN3824387818_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.TreviFountain_ZH-CN6892299520_UHD.jpg" type="image/jpg"/>
       <description>罗马的特雷维喷泉, 意大利 (© Nico De Pasquale Photography/Getty Images)</description>
       <pubDate>2025-11-25</pubDate>
-    </item>
-    <item>
-      <title>瓜廖尔堡, ‌中央邦, 印度 (© ImagesofIndia/Shutterstock)</title>
-      <link>https://cn.bing.com/th?id=OHR.GwailorFort_ZH-CN6731607002_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.GwailorFort_ZH-CN6731607002_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.GwailorFort_ZH-CN6731607002_UHD.jpg" type="image/jpg"/>
-      <description>瓜廖尔堡, ‌中央邦, 印度 (© ImagesofIndia/Shutterstock)</description>
-      <pubDate>2025-11-24</pubDate>
     </item>
   </channel>
 </rss>
