@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2025-12-15</lastBuildDate>
+    <lastBuildDate>2025-12-16</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>圣诞市场上的手工小矮人 (© Veronika Seppanen/Shutterstock)</title>
+      <link>https://cn.bing.com/th?id=OHR.ChristmasGnomes_ZH-CN4405839101_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.ChristmasGnomes_ZH-CN4405839101_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.ChristmasGnomes_ZH-CN4405839101_UHD.jpg" type="image/jpg"/>
+      <description>圣诞市场上的手工小矮人 (© Veronika Seppanen/Shutterstock)</description>
+      <pubDate>2025-12-16</pubDate>
+    </item>
     <item>
       <title>斯皮格尔运河上的灯光装饰, 阿姆斯特丹, 荷兰 (© Amith Nag Photography/Getty Images)</title>
       <link>https://cn.bing.com/th?id=OHR.AmsterdamLights_ZH-CN4288146509_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.PierOfEastbourne2025_ZH-CN7178301269_UHD.jpg" type="image/jpg"/>
       <description>伊斯特本码头, 东萨塞克斯郡, 英格兰 (© Tolga_TEZCAN/Getty Images)</description>
       <pubDate>2025-11-27</pubDate>
-    </item>
-    <item>
-      <title>特拉蒙塔纳山脉的橄榄园, 马略卡岛, 巴利阿里群岛, 西班牙 (© cinoby/Getty Images)</title>
-      <link>https://cn.bing.com/th?id=OHR.OliveGrove_ZH-CN7054006944_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.OliveGrove_ZH-CN7054006944_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.OliveGrove_ZH-CN7054006944_UHD.jpg" type="image/jpg"/>
-      <description>特拉蒙塔纳山脉的橄榄园, 马略卡岛, 巴利阿里群岛, 西班牙 (© cinoby/Getty Images)</description>
-      <pubDate>2025-11-26</pubDate>
     </item>
   </channel>
 </rss>
