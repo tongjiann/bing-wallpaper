@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2025-12-16</lastBuildDate>
+    <lastBuildDate>2025-12-17</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>在诺森伯兰郡的欧亚红松鼠, 英格兰 (© Michael_Conrad/Getty Images)</title>
+      <link>https://cn.bing.com/th?id=OHR.FrostySquirrel_ZH-CN4613360783_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.FrostySquirrel_ZH-CN4613360783_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.FrostySquirrel_ZH-CN4613360783_UHD.jpg" type="image/jpg"/>
+      <description>在诺森伯兰郡的欧亚红松鼠, 英格兰 (© Michael_Conrad/Getty Images)</description>
+      <pubDate>2025-12-17</pubDate>
+    </item>
     <item>
       <title>圣诞市场上的手工小矮人 (© Veronika Seppanen/Shutterstock)</title>
       <link>https://cn.bing.com/th?id=OHR.ChristmasGnomes_ZH-CN4405839101_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.InvernoItalia_ZH-CN1329490862_UHD.jpg" type="image/jpg"/>
       <description>瓦尔·布兰德特, 布雷西亚, 伦巴第大区, 意大利 (© ClickAlps/Alamy)</description>
       <pubDate>2025-11-28</pubDate>
-    </item>
-    <item>
-      <title>伊斯特本码头, 东萨塞克斯郡, 英格兰 (© Tolga_TEZCAN/Getty Images)</title>
-      <link>https://cn.bing.com/th?id=OHR.PierOfEastbourne2025_ZH-CN7178301269_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.PierOfEastbourne2025_ZH-CN7178301269_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.PierOfEastbourne2025_ZH-CN7178301269_UHD.jpg" type="image/jpg"/>
-      <description>伊斯特本码头, 东萨塞克斯郡, 英格兰 (© Tolga_TEZCAN/Getty Images)</description>
-      <pubDate>2025-11-27</pubDate>
     </item>
   </channel>
 </rss>
