@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2025-12-22</lastBuildDate>
+    <lastBuildDate>2025-12-23</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>冬雪中的驯鹿，拉普兰德，芬兰 (© Roberto Moiola/Getty Images)</title>
+      <link>https://cn.bing.com/th?id=OHR.ReindeerFinland_ZH-CN6822163943_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.ReindeerFinland_ZH-CN6822163943_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.ReindeerFinland_ZH-CN6822163943_UHD.jpg" type="image/jpg"/>
+      <description>冬雪中的驯鹿，拉普兰德，芬兰 (© Roberto Moiola/Getty Images)</description>
+      <pubDate>2025-12-23</pubDate>
+    </item>
     <item>
       <title>法兰克福老桥，德国 (© diegograndi/Getty Images)</title>
       <link>https://cn.bing.com/th?id=OHR.FrankfurtAlteBruecke_ZH-CN6621478221_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.CheetahMound_ZH-CN1970221812_UHD.jpg" type="image/jpg"/>
       <description>马赛马拉国家保护区的猎豹, 纳罗克, 肯尼亚 (© Andy Rouse/naturepl.com)</description>
       <pubDate>2025-12-04</pubDate>
-    </item>
-    <item>
-      <title>日出时的沙丘鹤, ‌阿帕奇森林国家野生动物保护区, 新墨西哥州, 美国 (© Jack Dykinga/Minden Pictures)</title>
-      <link>https://cn.bing.com/th?id=OHR.BosqueCranes_ZH-CN1838488224_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.BosqueCranes_ZH-CN1838488224_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.BosqueCranes_ZH-CN1838488224_UHD.jpg" type="image/jpg"/>
-      <description>日出时的沙丘鹤, ‌阿帕奇森林国家野生动物保护区, 新墨西哥州, 美国 (© Jack Dykinga/Minden Pictures)</description>
-      <pubDate>2025-12-03</pubDate>
     </item>
   </channel>
 </rss>
