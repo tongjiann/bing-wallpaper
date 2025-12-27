@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2025-12-27</lastBuildDate>
+    <lastBuildDate>2025-12-28</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>马达加斯加的黑白环尾狐猴 (© Cyrielle Beaubois/Getty Images)</title>
+      <link>https://cn.bing.com/th?id=OHR.RuffedLemur_ZH-CN5636795490_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.RuffedLemur_ZH-CN5636795490_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.RuffedLemur_ZH-CN5636795490_UHD.jpg" type="image/jpg"/>
+      <description>马达加斯加的黑白环尾狐猴 (© Cyrielle Beaubois/Getty Images)</description>
+      <pubDate>2025-12-28</pubDate>
+    </item>
     <item>
       <title>苏必利尔湖沿岸的冰层，大马雷，明尼苏达州，美国 (© wanderluster/Getty Images)</title>
       <link>https://cn.bing.com/th?id=OHR.SuperiorIceMN_ZH-CN5339027344_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.CordobaCathedral_ZH-CN4603063077_UHD.jpg" type="image/jpg"/>
       <description>科尔多瓦清真寺大教堂的内部，安达卢西亚，西班牙 (© Elena Zolotova/Getty Images)</description>
       <pubDate>2025-12-10</pubDate>
-    </item>
-    <item>
-      <title>原驼，北角，瓦尔德斯半岛, 阿根廷 (© Sylvain Cordier/naturepl.com)</title>
-      <link>https://cn.bing.com/th?id=OHR.LlamaDay_ZH-CN2646855786_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.LlamaDay_ZH-CN2646855786_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.LlamaDay_ZH-CN2646855786_UHD.jpg" type="image/jpg"/>
-      <description>原驼，北角，瓦尔德斯半岛, 阿根廷 (© Sylvain Cordier/naturepl.com)</description>
-      <pubDate>2025-12-09</pubDate>
     </item>
   </channel>
 </rss>
