@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2025-12-28</lastBuildDate>
+    <lastBuildDate>2025-12-29</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>阿尼遗址的圣格雷戈里教堂，卡尔斯省，土耳其 (© Kenan Talas/Getty Images)</title>
+      <link>https://cn.bing.com/th?id=OHR.AniTurkey_ZH-CN5838141955_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.AniTurkey_ZH-CN5838141955_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.AniTurkey_ZH-CN5838141955_UHD.jpg" type="image/jpg"/>
+      <description>阿尼遗址的圣格雷戈里教堂，卡尔斯省，土耳其 (© Kenan Talas/Getty Images)</description>
+      <pubDate>2025-12-29</pubDate>
+    </item>
     <item>
       <title>马达加斯加的黑白环尾狐猴 (© Cyrielle Beaubois/Getty Images)</title>
       <link>https://cn.bing.com/th?id=OHR.RuffedLemur_ZH-CN5636795490_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.EverestGlow_ZH-CN4985720231_UHD.jpg" type="image/jpg"/>
       <description>从伦佐拉山口眺望珠穆朗玛峰日落时分的峰顶，尼泊尔 (© shoults/Alamy)</description>
       <pubDate>2025-12-11</pubDate>
-    </item>
-    <item>
-      <title>科尔多瓦清真寺大教堂的内部，安达卢西亚，西班牙 (© Elena Zolotova/Getty Images)</title>
-      <link>https://cn.bing.com/th?id=OHR.CordobaCathedral_ZH-CN4603063077_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.CordobaCathedral_ZH-CN4603063077_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.CordobaCathedral_ZH-CN4603063077_UHD.jpg" type="image/jpg"/>
-      <description>科尔多瓦清真寺大教堂的内部，安达卢西亚，西班牙 (© Elena Zolotova/Getty Images)</description>
-      <pubDate>2025-12-10</pubDate>
     </item>
   </channel>
 </rss>
