@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2025-12-30</lastBuildDate>
+    <lastBuildDate>2025-12-31</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>除夕夜，奥伯鲍姆桥，柏林，德国 (© spreephoto.de/Getty Images)</title>
+      <link>https://cn.bing.com/th?id=OHR.GermanyNewYear_ZH-CN9155122755_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.GermanyNewYear_ZH-CN9155122755_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.GermanyNewYear_ZH-CN9155122755_UHD.jpg" type="image/jpg"/>
+      <description>除夕夜，奥伯鲍姆桥，柏林，德国 (© spreephoto.de/Getty Images)</description>
+      <pubDate>2025-12-31</pubDate>
+    </item>
     <item>
       <title>晨光透过结霜的树木洒下，瑞典 (© Schon/Getty Images)</title>
       <link>https://cn.bing.com/th?id=OHR.SwedenSolstice_ZH-CN8975506700_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.YosemiteWinter_ZH-CN3824387818_UHD.jpg" type="image/jpg"/>
       <description>默塞德河, 优胜美地国家公园, 加利福尼亚, 美国 (© Ron and Patty Thomas/Getty Images)</description>
       <pubDate>2025-12-13</pubDate>
-    </item>
-    <item>
-      <title>有斑点的一品红 (© DigiPub/Getty Images)</title>
-      <link>https://cn.bing.com/th?id=OHR.SpeckledPoinsettia_ZH-CN3726763235_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.SpeckledPoinsettia_ZH-CN3726763235_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.SpeckledPoinsettia_ZH-CN3726763235_UHD.jpg" type="image/jpg"/>
-      <description>有斑点的一品红 (© DigiPub/Getty Images)</description>
-      <pubDate>2025-12-12</pubDate>
     </item>
   </channel>
 </rss>
