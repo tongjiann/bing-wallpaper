@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2026-01-01</lastBuildDate>
+    <lastBuildDate>2026-01-02</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>威尼斯鸟瞰图, 意大利 (© Clement Leonard/Getty Images)</title>
+      <link>https://cn.bing.com/th?id=OHR.VeniceView_ZH-CN3088407995_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.VeniceView_ZH-CN3088407995_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.VeniceView_ZH-CN3088407995_UHD.jpg" type="image/jpg"/>
+      <description>威尼斯鸟瞰图, 意大利 (© Clement Leonard/Getty Images)</description>
+      <pubDate>2026-01-02</pubDate>
+    </item>
     <item>
       <title>正在睡觉的北极狐 (© Chansak Joe/Getty Images)</title>
       <link>https://cn.bing.com/th?id=OHR.NewYearFox_ZH-CN9312618796_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.AmsterdamLights_ZH-CN4288146509_UHD.jpg" type="image/jpg"/>
       <description>斯皮格尔运河上的灯光装饰, 阿姆斯特丹, 荷兰 (© Amith Nag Photography/Getty Images)</description>
       <pubDate>2025-12-15</pubDate>
-    </item>
-    <item>
-      <title>簇山雀栖息在松枝上, 马萨诸塞州, 美国 (© Tim Laman/NPL/Minden Pictures)</title>
-      <link>https://cn.bing.com/th?id=OHR.TuftedTitmouse_ZH-CN4154825372_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.TuftedTitmouse_ZH-CN4154825372_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.TuftedTitmouse_ZH-CN4154825372_UHD.jpg" type="image/jpg"/>
-      <description>簇山雀栖息在松枝上, 马萨诸塞州, 美国 (© Tim Laman/NPL/Minden Pictures)</description>
-      <pubDate>2025-12-14</pubDate>
     </item>
   </channel>
 </rss>
