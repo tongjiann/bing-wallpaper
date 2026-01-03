@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2026-01-03</lastBuildDate>
+    <lastBuildDate>2026-01-04</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>国王山, 楚加奇山脉, 阿拉斯加, 美国 (© Chris Moore - Exploring Light Photography/TANDEM Stills + Motion)</title>
+      <link>https://cn.bing.com/th?id=OHR.KingMountain_ZH-CN0397508222_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.KingMountain_ZH-CN0397508222_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.KingMountain_ZH-CN0397508222_UHD.jpg" type="image/jpg"/>
+      <description>国王山, 楚加奇山脉, 阿拉斯加, 美国 (© Chris Moore - Exploring Light Photography/TANDEM Stills + Motion)</description>
+      <pubDate>2026-01-04</pubDate>
+    </item>
     <item>
       <title>劳特布隆嫩的施陶巴赫瀑布, 伯尔尼州, 瑞士 (© pongnathee kluaythong/Getty Images)</title>
       <link>https://cn.bing.com/th?id=OHR.LauterbrunnenValley_ZH-CN0118001217_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.FrostySquirrel_ZH-CN4613360783_UHD.jpg" type="image/jpg"/>
       <description>在诺森伯兰郡的欧亚红松鼠, 英格兰 (© Michael_Conrad/Getty Images)</description>
       <pubDate>2025-12-17</pubDate>
-    </item>
-    <item>
-      <title>圣诞市场上的手工小矮人 (© Veronika Seppanen/Shutterstock)</title>
-      <link>https://cn.bing.com/th?id=OHR.ChristmasGnomes_ZH-CN4405839101_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.ChristmasGnomes_ZH-CN4405839101_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.ChristmasGnomes_ZH-CN4405839101_UHD.jpg" type="image/jpg"/>
-      <description>圣诞市场上的手工小矮人 (© Veronika Seppanen/Shutterstock)</description>
-      <pubDate>2025-12-16</pubDate>
     </item>
   </channel>
 </rss>
