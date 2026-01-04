@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2026-01-04</lastBuildDate>
+    <lastBuildDate>2026-01-05</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>一群高角羚, 隆多洛齐野生动物保护区, 南非 (© Mint Images/Getty Images)</title>
+      <link>https://cn.bing.com/th?id=OHR.ImpalaRooibok_ZH-CN2307890154_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.ImpalaRooibok_ZH-CN2307890154_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.ImpalaRooibok_ZH-CN2307890154_UHD.jpg" type="image/jpg"/>
+      <description>一群高角羚, 隆多洛齐野生动物保护区, 南非 (© Mint Images/Getty Images)</description>
+      <pubDate>2026-01-05</pubDate>
+    </item>
     <item>
       <title>国王山, 楚加奇山脉, 阿拉斯加, 美国 (© Chris Moore - Exploring Light Photography/TANDEM Stills + Motion)</title>
       <link>https://cn.bing.com/th?id=OHR.KingMountain_ZH-CN0397508222_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.CathedralValley_ZH-CN5237441521_UHD.jpg" type="image/jpg"/>
       <description>太阳神庙，圆顶礁国家公园, 犹他州, 美国 (© Austin Cronnelly/TANDEM Stills + Motion)</description>
       <pubDate>2025-12-18</pubDate>
-    </item>
-    <item>
-      <title>在诺森伯兰郡的欧亚红松鼠, 英格兰 (© Michael_Conrad/Getty Images)</title>
-      <link>https://cn.bing.com/th?id=OHR.FrostySquirrel_ZH-CN4613360783_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.FrostySquirrel_ZH-CN4613360783_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.FrostySquirrel_ZH-CN4613360783_UHD.jpg" type="image/jpg"/>
-      <description>在诺森伯兰郡的欧亚红松鼠, 英格兰 (© Michael_Conrad/Getty Images)</description>
-      <pubDate>2025-12-17</pubDate>
     </item>
   </channel>
 </rss>
