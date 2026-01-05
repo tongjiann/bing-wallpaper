@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2026-01-05</lastBuildDate>
+    <lastBuildDate>2026-01-06</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>努克, 格陵兰 (© nevereverro/Getty Images)</title>
+      <link>https://cn.bing.com/th?id=OHR.NuukGreenland_ZH-CN2414771686_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.NuukGreenland_ZH-CN2414771686_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.NuukGreenland_ZH-CN2414771686_UHD.jpg" type="image/jpg"/>
+      <description>努克, 格陵兰 (© nevereverro/Getty Images)</description>
+      <pubDate>2026-01-06</pubDate>
+    </item>
     <item>
       <title>一群高角羚, 隆多洛齐野生动物保护区, 南非 (© Mint Images/Getty Images)</title>
       <link>https://cn.bing.com/th?id=OHR.ImpalaRooibok_ZH-CN2307890154_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.BormioItaly_ZH-CN5397313772_UHD.jpg" type="image/jpg"/>
       <description>博尔米奥的雪景，伦巴第大区，意大利 (© Roberto Moiola/Getty Images)</description>
       <pubDate>2025-12-19</pubDate>
-    </item>
-    <item>
-      <title>太阳神庙，圆顶礁国家公园, 犹他州, 美国 (© Austin Cronnelly/TANDEM Stills + Motion)</title>
-      <link>https://cn.bing.com/th?id=OHR.CathedralValley_ZH-CN5237441521_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.CathedralValley_ZH-CN5237441521_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.CathedralValley_ZH-CN5237441521_UHD.jpg" type="image/jpg"/>
-      <description>太阳神庙，圆顶礁国家公园, 犹他州, 美国 (© Austin Cronnelly/TANDEM Stills + Motion)</description>
-      <pubDate>2025-12-18</pubDate>
     </item>
   </channel>
 </rss>
