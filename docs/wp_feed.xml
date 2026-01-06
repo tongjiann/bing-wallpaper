@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2026-01-06</lastBuildDate>
+    <lastBuildDate>2026-01-07</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>拱门国家公园的北窗框景中的炮塔拱门, 犹他州, 美国 (© Jim Patterson/TANDEM Stills + Motion)</title>
+      <link>https://cn.bing.com/th?id=OHR.OldRockArch_ZH-CN2061140260_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.OldRockArch_ZH-CN2061140260_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.OldRockArch_ZH-CN2061140260_UHD.jpg" type="image/jpg"/>
+      <description>拱门国家公园的北窗框景中的炮塔拱门, 犹他州, 美国 (© Jim Patterson/TANDEM Stills + Motion)</description>
+      <pubDate>2026-01-07</pubDate>
+    </item>
     <item>
       <title>努克, 格陵兰 (© nevereverro/Getty Images)</title>
       <link>https://cn.bing.com/th?id=OHR.NuukGreenland_ZH-CN2414771686_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.StarLanterns_ZH-CN5598071900_UHD.jpg" type="image/jpg"/>
       <description>圣诞星形灯笼，德国 (© artas/Getty Images)</description>
       <pubDate>2025-12-20</pubDate>
-    </item>
-    <item>
-      <title>博尔米奥的雪景，伦巴第大区，意大利 (© Roberto Moiola/Getty Images)</title>
-      <link>https://cn.bing.com/th?id=OHR.BormioItaly_ZH-CN5397313772_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.BormioItaly_ZH-CN5397313772_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.BormioItaly_ZH-CN5397313772_UHD.jpg" type="image/jpg"/>
-      <description>博尔米奥的雪景，伦巴第大区，意大利 (© Roberto Moiola/Getty Images)</description>
-      <pubDate>2025-12-19</pubDate>
     </item>
   </channel>
 </rss>
