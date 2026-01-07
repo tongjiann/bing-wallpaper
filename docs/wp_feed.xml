@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2026-01-07</lastBuildDate>
+    <lastBuildDate>2026-01-08</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>椋鸟群在布莱顿西码头废墟上空盘旋, 英格兰 (© Philip Reeve/Photodisc/Getty Images)</title>
+      <link>https://cn.bing.com/th?id=OHR.StarlingBrighton2025_ZH-CN2775446092_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.StarlingBrighton2025_ZH-CN2775446092_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.StarlingBrighton2025_ZH-CN2775446092_UHD.jpg" type="image/jpg"/>
+      <description>椋鸟群在布莱顿西码头废墟上空盘旋, 英格兰 (© Philip Reeve/Photodisc/Getty Images)</description>
+      <pubDate>2026-01-08</pubDate>
+    </item>
     <item>
       <title>拱门国家公园的北窗框景中的炮塔拱门, 犹他州, 美国 (© Jim Patterson/TANDEM Stills + Motion)</title>
       <link>https://cn.bing.com/th?id=OHR.OldRockArch_ZH-CN2061140260_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.WintersolsticeY25_ZH-CN6462419684_UHD.jpg" type="image/jpg"/>
       <description>美丽的雾凇景色，大庆市，黑龙江省，中国 (© Dashu Xinganling/shutterstock)</description>
       <pubDate>2025-12-21</pubDate>
-    </item>
-    <item>
-      <title>圣诞星形灯笼，德国 (© artas/Getty Images)</title>
-      <link>https://cn.bing.com/th?id=OHR.StarLanterns_ZH-CN5598071900_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.StarLanterns_ZH-CN5598071900_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.StarLanterns_ZH-CN5598071900_UHD.jpg" type="image/jpg"/>
-      <description>圣诞星形灯笼，德国 (© artas/Getty Images)</description>
-      <pubDate>2025-12-20</pubDate>
     </item>
   </channel>
 </rss>
