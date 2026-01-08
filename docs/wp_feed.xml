@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2026-01-08</lastBuildDate>
+    <lastBuildDate>2026-01-09</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>缪尔树林国家保护区的巨型红杉树林, 加利福尼亚州, 美国 (© photo by canderson/Getty Images)</title>
+      <link>https://cn.bing.com/th?id=OHR.MuirWoodsMonument_ZH-CN2985538001_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.MuirWoodsMonument_ZH-CN2985538001_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.MuirWoodsMonument_ZH-CN2985538001_UHD.jpg" type="image/jpg"/>
+      <description>缪尔树林国家保护区的巨型红杉树林, 加利福尼亚州, 美国 (© photo by canderson/Getty Images)</description>
+      <pubDate>2026-01-09</pubDate>
+    </item>
     <item>
       <title>椋鸟群在布莱顿西码头废墟上空盘旋, 英格兰 (© Philip Reeve/Photodisc/Getty Images)</title>
       <link>https://cn.bing.com/th?id=OHR.StarlingBrighton2025_ZH-CN2775446092_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.FrankfurtAlteBruecke_ZH-CN6621478221_UHD.jpg" type="image/jpg"/>
       <description>法兰克福老桥，德国 (© diegograndi/Getty Images)</description>
       <pubDate>2025-12-22</pubDate>
-    </item>
-    <item>
-      <title>美丽的雾凇景色，大庆市，黑龙江省，中国 (© Dashu Xinganling/shutterstock)</title>
-      <link>https://cn.bing.com/th?id=OHR.WintersolsticeY25_ZH-CN6462419684_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.WintersolsticeY25_ZH-CN6462419684_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.WintersolsticeY25_ZH-CN6462419684_UHD.jpg" type="image/jpg"/>
-      <description>美丽的雾凇景色，大庆市，黑龙江省，中国 (© Dashu Xinganling/shutterstock)</description>
-      <pubDate>2025-12-21</pubDate>
     </item>
   </channel>
 </rss>
