@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2026-01-09</lastBuildDate>
+    <lastBuildDate>2026-01-10</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>日出时分，马特洪峰的倒影映照在斯特利湖中, 采尔马特, 瑞士 (© Andy Trowbridge/naturepl.com)</title>
+      <link>https://cn.bing.com/th?id=OHR.MatterhornSunrise_ZH-CN3171879631_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.MatterhornSunrise_ZH-CN3171879631_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.MatterhornSunrise_ZH-CN3171879631_UHD.jpg" type="image/jpg"/>
+      <description>日出时分，马特洪峰的倒影映照在斯特利湖中, 采尔马特, 瑞士 (© Andy Trowbridge/naturepl.com)</description>
+      <pubDate>2026-01-10</pubDate>
+    </item>
     <item>
       <title>缪尔树林国家保护区的巨型红杉树林, 加利福尼亚州, 美国 (© photo by canderson/Getty Images)</title>
       <link>https://cn.bing.com/th?id=OHR.MuirWoodsMonument_ZH-CN2985538001_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.ReindeerFinland_ZH-CN6822163943_UHD.jpg" type="image/jpg"/>
       <description>冬雪中的驯鹿，拉普兰德，芬兰 (© Roberto Moiola/Getty Images)</description>
       <pubDate>2025-12-23</pubDate>
-    </item>
-    <item>
-      <title>法兰克福老桥，德国 (© diegograndi/Getty Images)</title>
-      <link>https://cn.bing.com/th?id=OHR.FrankfurtAlteBruecke_ZH-CN6621478221_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.FrankfurtAlteBruecke_ZH-CN6621478221_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.FrankfurtAlteBruecke_ZH-CN6621478221_UHD.jpg" type="image/jpg"/>
-      <description>法兰克福老桥，德国 (© diegograndi/Getty Images)</description>
-      <pubDate>2025-12-22</pubDate>
     </item>
   </channel>
 </rss>
