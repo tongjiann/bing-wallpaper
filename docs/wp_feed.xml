@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2026-01-12</lastBuildDate>
+    <lastBuildDate>2026-01-13</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>克卢伊德谷, 威尔士 (© Valerie Blencowe/Getty Images)</title>
+      <link>https://cn.bing.com/th?id=OHR.WalesWinter_ZH-CN3692879767_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.WalesWinter_ZH-CN3692879767_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.WalesWinter_ZH-CN3692879767_UHD.jpg" type="image/jpg"/>
+      <description>克卢伊德谷, 威尔士 (© Valerie Blencowe/Getty Images)</description>
+      <pubDate>2026-01-13</pubDate>
+    </item>
     <item>
       <title>欧亚水獭和幼崽, 爱沙尼亚 (© Sven Zacek/naturepl.com)</title>
       <link>https://cn.bing.com/th?id=OHR.SnowOtters_ZH-CN3563991803_UHD.jpg</link>
@@ -155,14 +163,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.SantaGlobe_ZH-CN7032279153_UHD.jpg" type="image/jpeg"/>
       <enclosure url="https://cn.bing.com/th?id=OHR.SantaGlobe_ZH-CN7032279153_UHD.jpg" type="image/jpg"/>
       <description>海德堡圣诞市场上的雪球，德国 (© George Pachantouris/Getty Images)</description>
-      <pubDate>2025-12-25</pubDate>
-    </item>
-    <item>
-      <title>海德堡圣��市场上的雪球，德国 (© George Pachantouris/Getty Images)</title>
-      <link>https://cn.bing.com/th?id=OHR.SantaGlobe_ZH-CN7032279153_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.SantaGlobe_ZH-CN7032279153_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.SantaGlobe_ZH-CN7032279153_UHD.jpg" type="image/jpg"/>
-      <description>海德堡圣��市场上的雪球，德国 (© George Pachantouris/Getty Images)</description>
       <pubDate>2025-12-25</pubDate>
     </item>
   </channel>
