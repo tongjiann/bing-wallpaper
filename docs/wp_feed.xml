@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2026-01-13</lastBuildDate>
+    <lastBuildDate>2026-01-14</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>帕拉米蒂要塞的阶梯, 纳夫普利翁, 希腊 (© George Pachantouris/Getty Images)</title>
+      <link>https://cn.bing.com/th?id=OHR.PalamidiFortress_ZH-CN5420143053_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.PalamidiFortress_ZH-CN5420143053_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.PalamidiFortress_ZH-CN5420143053_UHD.jpg" type="image/jpg"/>
+      <description>帕拉米蒂要塞的阶梯, 纳夫普利翁, 希腊 (© George Pachantouris/Getty Images)</description>
+      <pubDate>2026-01-14</pubDate>
+    </item>
     <item>
       <title>克卢伊德谷, 威尔士 (© Valerie Blencowe/Getty Images)</title>
       <link>https://cn.bing.com/th?id=OHR.WalesWinter_ZH-CN3692879767_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.WiltshireDawn_ZH-CN2887906329_UHD.jpg" type="image/jpg"/>
       <description>索尔兹伯里大教堂，威尔特郡，英格兰 (© Julian Elliott Photography/Getty Images)</description>
       <pubDate>2025-12-26</pubDate>
-    </item>
-    <item>
-      <title>海德堡圣诞市场上的雪球，德国 (© George Pachantouris/Getty Images)</title>
-      <link>https://cn.bing.com/th?id=OHR.SantaGlobe_ZH-CN7032279153_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.SantaGlobe_ZH-CN7032279153_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.SantaGlobe_ZH-CN7032279153_UHD.jpg" type="image/jpg"/>
-      <description>海德堡圣诞市场上的雪球，德国 (© George Pachantouris/Getty Images)</description>
-      <pubDate>2025-12-25</pubDate>
     </item>
   </channel>
 </rss>
