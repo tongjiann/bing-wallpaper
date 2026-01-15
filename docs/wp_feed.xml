@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2026-01-15</lastBuildDate>
+    <lastBuildDate>2026-01-16</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>埃托沙国家公园的豹子，纳米比亚 (© Norbert Achtelik/Cavan Images)</title>
+      <link>https://cn.bing.com/th?id=OHR.EtoshaLeopard_ZH-CN6654006040_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.EtoshaLeopard_ZH-CN6654006040_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.EtoshaLeopard_ZH-CN6654006040_UHD.jpg" type="image/jpg"/>
+      <description>埃托沙国家公园的豹子，纳米比亚 (© Norbert Achtelik/Cavan Images)</description>
+      <pubDate>2026-01-16</pubDate>
+    </item>
     <item>
       <title>雷讷渔村, 挪威 (© Roberto Moiola/Cavan Images/SuperStock)</title>
       <link>https://cn.bing.com/th?id=OHR.ReineSunrise_ZH-CN6297586399_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.RuffedLemur_ZH-CN5636795490_UHD.jpg" type="image/jpg"/>
       <description>马达加斯加的黑白环尾狐猴 (© Cyrielle Beaubois/Getty Images)</description>
       <pubDate>2025-12-28</pubDate>
-    </item>
-    <item>
-      <title>苏必利尔湖沿岸的冰层，大马雷，明尼苏达州，美国 (© wanderluster/Getty Images)</title>
-      <link>https://cn.bing.com/th?id=OHR.SuperiorIceMN_ZH-CN5339027344_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.SuperiorIceMN_ZH-CN5339027344_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.SuperiorIceMN_ZH-CN5339027344_UHD.jpg" type="image/jpg"/>
-      <description>苏必利尔湖沿岸的冰层，大马雷，明尼苏达州，美国 (© wanderluster/Getty Images)</description>
-      <pubDate>2025-12-27</pubDate>
     </item>
   </channel>
 </rss>
