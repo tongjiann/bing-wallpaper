@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2026-01-16</lastBuildDate>
+    <lastBuildDate>2026-01-17</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>保罗圣方济圣殿，那不勒斯，意大利 (© javarman3/Getty Images)</title>
+      <link>https://cn.bing.com/th?id=OHR.NaplesBasilica_ZH-CN6888150174_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.NaplesBasilica_ZH-CN6888150174_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.NaplesBasilica_ZH-CN6888150174_UHD.jpg" type="image/jpg"/>
+      <description>保罗圣方济圣殿，那不勒斯，意大利 (© javarman3/Getty Images)</description>
+      <pubDate>2026-01-17</pubDate>
+    </item>
     <item>
       <title>埃托沙国家公园的豹子，纳米比亚 (© Norbert Achtelik/Cavan Images)</title>
       <link>https://cn.bing.com/th?id=OHR.EtoshaLeopard_ZH-CN6654006040_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.AniTurkey_ZH-CN5838141955_UHD.jpg" type="image/jpg"/>
       <description>阿尼遗址的圣格雷戈里教堂，卡尔斯省，土耳其 (© Kenan Talas/Getty Images)</description>
       <pubDate>2025-12-29</pubDate>
-    </item>
-    <item>
-      <title>马达加斯加的黑白环尾狐猴 (© Cyrielle Beaubois/Getty Images)</title>
-      <link>https://cn.bing.com/th?id=OHR.RuffedLemur_ZH-CN5636795490_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.RuffedLemur_ZH-CN5636795490_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.RuffedLemur_ZH-CN5636795490_UHD.jpg" type="image/jpg"/>
-      <description>马达加斯加的黑白环尾狐猴 (© Cyrielle Beaubois/Getty Images)</description>
-      <pubDate>2025-12-28</pubDate>
     </item>
   </channel>
 </rss>
