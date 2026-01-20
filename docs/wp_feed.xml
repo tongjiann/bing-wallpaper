@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2026-01-20</lastBuildDate>
+    <lastBuildDate>2026-01-21</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>欧亚红松鼠 (© Galina Jacyna/Getty Images)</title>
+      <link>https://cn.bing.com/th?id=OHR.BerrySquirrel_ZH-CN7382553646_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.BerrySquirrel_ZH-CN7382553646_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.BerrySquirrel_ZH-CN7382553646_UHD.jpg" type="image/jpg"/>
+      <description>欧亚红松鼠 (© Galina Jacyna/Getty Images)</description>
+      <pubDate>2026-01-21</pubDate>
+    </item>
     <item>
       <title>栖息在树枝上的北长尾山雀，大庆市，中国黑龙江省 (© Visual China Group/Getty Images)</title>
       <link>https://cn.bing.com/th?id=OHR.TheGreatColdY25_ZH-CN7239762815_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.VeniceView_ZH-CN3088407995_UHD.jpg" type="image/jpg"/>
       <description>威尼斯鸟瞰图, 意大利 (© Clement Leonard/Getty Images)</description>
       <pubDate>2026-01-02</pubDate>
-    </item>
-    <item>
-      <title>正在睡觉的北极狐 (© Chansak Joe/Getty Images)</title>
-      <link>https://cn.bing.com/th?id=OHR.NewYearFox_ZH-CN9312618796_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.NewYearFox_ZH-CN9312618796_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.NewYearFox_ZH-CN9312618796_UHD.jpg" type="image/jpg"/>
-      <description>正在睡觉的北极狐 (© Chansak Joe/Getty Images)</description>
-      <pubDate>2026-01-01</pubDate>
     </item>
   </channel>
 </rss>
