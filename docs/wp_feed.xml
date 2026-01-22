@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2026-01-22</lastBuildDate>
+    <lastBuildDate>2026-01-23</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>绵羊在雪地里吃草，冰岛 (© Christophe Lehenaff/Getty Images)</title>
+      <link>https://cn.bing.com/th?id=OHR.IcelandSheep_ZH-CN3931993073_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.IcelandSheep_ZH-CN3931993073_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.IcelandSheep_ZH-CN3931993073_UHD.jpg" type="image/jpg"/>
+      <description>绵羊在雪地里吃草，冰岛 (© Christophe Lehenaff/Getty Images)</description>
+      <pubDate>2026-01-23</pubDate>
+    </item>
     <item>
       <title>卡罗维瓦利，波西米亚，捷克共和国 (© Henryk Sadura/Getty Images)</title>
       <link>https://cn.bing.com/th?id=OHR.KarlovyVary_ZH-CN7585938362_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.KingMountain_ZH-CN0397508222_UHD.jpg" type="image/jpg"/>
       <description>国王山, 楚加奇山脉, 阿拉斯加, 美国 (© Chris Moore - Exploring Light Photography/TANDEM Stills + Motion)</description>
       <pubDate>2026-01-04</pubDate>
-    </item>
-    <item>
-      <title>劳特布隆嫩的施陶巴赫瀑布, 伯尔尼州, 瑞士 (© pongnathee kluaythong/Getty Images)</title>
-      <link>https://cn.bing.com/th?id=OHR.LauterbrunnenValley_ZH-CN0118001217_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.LauterbrunnenValley_ZH-CN0118001217_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.LauterbrunnenValley_ZH-CN0118001217_UHD.jpg" type="image/jpg"/>
-      <description>劳特布隆嫩的施陶巴赫瀑布, 伯尔尼州, 瑞士 (© pongnathee kluaythong/Getty Images)</description>
-      <pubDate>2026-01-03</pubDate>
     </item>
   </channel>
 </rss>
