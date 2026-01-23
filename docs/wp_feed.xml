@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2026-01-23</lastBuildDate>
+    <lastBuildDate>2026-01-24</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>阿尔卑斯山脉的安德马特小镇，瑞士 (© Xantana/Getty Images)</title>
+      <link>https://cn.bing.com/th?id=OHR.AndermattSwiss_ZH-CN4112824348_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.AndermattSwiss_ZH-CN4112824348_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.AndermattSwiss_ZH-CN4112824348_UHD.jpg" type="image/jpg"/>
+      <description>阿尔卑斯山脉的安德马特小镇，瑞士 (© Xantana/Getty Images)</description>
+      <pubDate>2026-01-24</pubDate>
+    </item>
     <item>
       <title>绵羊在雪地里吃草，冰岛 (© Christophe Lehenaff/Getty Images)</title>
       <link>https://cn.bing.com/th?id=OHR.IcelandSheep_ZH-CN3931993073_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.ImpalaRooibok_ZH-CN2307890154_UHD.jpg" type="image/jpg"/>
       <description>一群高角羚, 隆多洛齐野生动物保护区, 南非 (© Mint Images/Getty Images)</description>
       <pubDate>2026-01-05</pubDate>
-    </item>
-    <item>
-      <title>国王山, 楚加奇山脉, 阿拉斯加, 美国 (© Chris Moore - Exploring Light Photography/TANDEM Stills + Motion)</title>
-      <link>https://cn.bing.com/th?id=OHR.KingMountain_ZH-CN0397508222_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.KingMountain_ZH-CN0397508222_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.KingMountain_ZH-CN0397508222_UHD.jpg" type="image/jpg"/>
-      <description>国王山, 楚加奇山脉, 阿拉斯加, 美国 (© Chris Moore - Exploring Light Photography/TANDEM Stills + Motion)</description>
-      <pubDate>2026-01-04</pubDate>
     </item>
   </channel>
 </rss>
