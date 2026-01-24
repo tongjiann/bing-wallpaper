@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2026-01-24</lastBuildDate>
+    <lastBuildDate>2026-01-25</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>伯恩斯国家遗产公园，艾尔，南艾尔郡，苏格兰 (© Alister Firth/Alamy)</title>
+      <link>https://cn.bing.com/th?id=OHR.BurnsPark_ZH-CN4442772228_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.BurnsPark_ZH-CN4442772228_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.BurnsPark_ZH-CN4442772228_UHD.jpg" type="image/jpg"/>
+      <description>伯恩斯国家遗产公园，艾尔，南艾尔郡，苏格兰 (© Alister Firth/Alamy)</description>
+      <pubDate>2026-01-25</pubDate>
+    </item>
     <item>
       <title>阿尔卑斯山脉的安德马特小镇，瑞士 (© Xantana/Getty Images)</title>
       <link>https://cn.bing.com/th?id=OHR.AndermattSwiss_ZH-CN4112824348_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.NuukGreenland_ZH-CN2414771686_UHD.jpg" type="image/jpg"/>
       <description>努克, 格陵兰 (© nevereverro/Getty Images)</description>
       <pubDate>2026-01-06</pubDate>
-    </item>
-    <item>
-      <title>一群高角羚, 隆多洛齐野生动物保护区, 南非 (© Mint Images/Getty Images)</title>
-      <link>https://cn.bing.com/th?id=OHR.ImpalaRooibok_ZH-CN2307890154_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.ImpalaRooibok_ZH-CN2307890154_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.ImpalaRooibok_ZH-CN2307890154_UHD.jpg" type="image/jpg"/>
-      <description>一群高角羚, 隆多洛齐野生动物保护区, 南非 (© Mint Images/Getty Images)</description>
-      <pubDate>2026-01-05</pubDate>
     </item>
   </channel>
 </rss>
