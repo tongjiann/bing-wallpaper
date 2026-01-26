@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2026-01-26</lastBuildDate>
+    <lastBuildDate>2026-01-27</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>卷羽鹈鹕，凯尔基尼湖，希腊 (© Guy Edwardes/naturepl.com)</title>
+      <link>https://cn.bing.com/th?id=OHR.DalmationPelicans_ZH-CN5252732863_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.DalmationPelicans_ZH-CN5252732863_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.DalmationPelicans_ZH-CN5252732863_UHD.jpg" type="image/jpg"/>
+      <description>卷羽鹈鹕，凯尔基尼湖，希腊 (© Guy Edwardes/naturepl.com)</description>
+      <pubDate>2026-01-27</pubDate>
+    </item>
     <item>
       <title>新天鹅堡，巴伐利亚州，德国 (© www.fredconcha.com @ All Rights Reserved/Getty Images)</title>
       <link>https://cn.bing.com/th?id=OHR.NeuschwansteinWinter_ZH-CN4972014681_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.StarlingBrighton2025_ZH-CN2775446092_UHD.jpg" type="image/jpg"/>
       <description>椋鸟群在布莱顿西码头废墟上空盘旋, 英格兰 (© Philip Reeve/Photodisc/Getty Images)</description>
       <pubDate>2026-01-08</pubDate>
-    </item>
-    <item>
-      <title>拱门国家公园的北窗框景中的炮塔拱门, 犹他州, 美国 (© Jim Patterson/TANDEM Stills + Motion)</title>
-      <link>https://cn.bing.com/th?id=OHR.OldRockArch_ZH-CN2061140260_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.OldRockArch_ZH-CN2061140260_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.OldRockArch_ZH-CN2061140260_UHD.jpg" type="image/jpg"/>
-      <description>拱门国家公园的北窗框景中的炮塔拱门, 犹他州, 美国 (© Jim Patterson/TANDEM Stills + Motion)</description>
-      <pubDate>2026-01-07</pubDate>
     </item>
   </channel>
 </rss>
