@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2026-01-28</lastBuildDate>
+    <lastBuildDate>2026-01-29</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>密尔沃基市政厅的八层开放式中庭，威斯康星州，美国 (© lavin photography/Getty Images)</title>
+      <link>https://cn.bing.com/th?id=OHR.MilwaukeeHall_ZH-CN5779477975_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.MilwaukeeHall_ZH-CN5779477975_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.MilwaukeeHall_ZH-CN5779477975_UHD.jpg" type="image/jpg"/>
+      <description>密尔沃基市政厅的八层开放式中庭，威斯康星州，美国 (© lavin photography/Getty Images)</description>
+      <pubDate>2026-01-29</pubDate>
+    </item>
     <item>
       <title>旺格努伊国家公园，雷塔鲁克，新西兰 (© Matthew Micah Wright/Getty Images)</title>
       <link>https://cn.bing.com/th?id=OHR.WhanganuiPark_ZH-CN5664518836_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.MatterhornSunrise_ZH-CN3171879631_UHD.jpg" type="image/jpg"/>
       <description>日出时分，马特洪峰的倒影映照在斯特利湖中, 采尔马特, 瑞士 (© Andy Trowbridge/naturepl.com)</description>
       <pubDate>2026-01-10</pubDate>
-    </item>
-    <item>
-      <title>缪尔树林国家保护区的巨型红杉树林, 加利福尼亚州, 美国 (© photo by canderson/Getty Images)</title>
-      <link>https://cn.bing.com/th?id=OHR.MuirWoodsMonument_ZH-CN2985538001_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.MuirWoodsMonument_ZH-CN2985538001_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.MuirWoodsMonument_ZH-CN2985538001_UHD.jpg" type="image/jpg"/>
-      <description>缪尔树林国家保护区的巨型红杉树林, 加利福尼亚州, 美国 (© photo by canderson/Getty Images)</description>
-      <pubDate>2026-01-09</pubDate>
     </item>
   </channel>
 </rss>
