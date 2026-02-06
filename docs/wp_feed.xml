@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2026-02-06</lastBuildDate>
+    <lastBuildDate>2026-02-07</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>玻利维亚乌尤尼盐湖 (© Abstract Aerial Art/Getty Images)</title>
+      <link>https://cn.bing.com/th?id=OHR.SalarUyuni_ZH-CN4163237089_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.SalarUyuni_ZH-CN4163237089_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.SalarUyuni_ZH-CN4163237089_UHD.jpg" type="image/jpg"/>
+      <description>玻利维亚乌尤尼盐湖 (© Abstract Aerial Art/Getty Images)</description>
+      <pubDate>2026-02-07</pubDate>
+    </item>
     <item>
       <title>贾乌山口的拉古塞拉峰, 在科尔蒂纳丹佩佐附近, 意大利 (© Tomasz Podolski/Getty Images)</title>
       <link>https://cn.bing.com/th?id=OHR.GiauPass_ZH-CN3901214501_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.BubblesAbraham_ZH-CN7203734882_UHD.jpg" type="image/jpg"/>
       <description>亚伯拉罕湖冰封景象，艾伯塔省，加拿大 (© Luis F Arevalo/Getty Images)</description>
       <pubDate>2026-01-19</pubDate>
-    </item>
-    <item>
-      <title>白沙国家公园，新墨西哥州，美国 (© Francesco Carucci/Getty Images)</title>
-      <link>https://cn.bing.com/th?id=OHR.WhiteSandsNM_ZH-CN7070772772_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.WhiteSandsNM_ZH-CN7070772772_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.WhiteSandsNM_ZH-CN7070772772_UHD.jpg" type="image/jpg"/>
-      <description>白沙国家公园，新墨西哥州，美国 (© Francesco Carucci/Getty Images)</description>
-      <pubDate>2026-01-18</pubDate>
     </item>
   </channel>
 </rss>
