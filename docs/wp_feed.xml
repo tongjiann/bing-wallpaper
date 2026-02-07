@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2026-02-07</lastBuildDate>
+    <lastBuildDate>2026-02-08</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>科孚岛的夜晚, 希腊 (© whitewizzard/Getty Images)</title>
+      <link>https://cn.bing.com/th?id=OHR.CorfuGreece_ZH-CN4305970968_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.CorfuGreece_ZH-CN4305970968_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.CorfuGreece_ZH-CN4305970968_UHD.jpg" type="image/jpg"/>
+      <description>科孚岛的夜晚, 希腊 (© whitewizzard/Getty Images)</description>
+      <pubDate>2026-02-08</pubDate>
+    </item>
     <item>
       <title>玻利维亚乌尤尼盐湖 (© Abstract Aerial Art/Getty Images)</title>
       <link>https://cn.bing.com/th?id=OHR.SalarUyuni_ZH-CN4163237089_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.TheGreatColdY25_ZH-CN7239762815_UHD.jpg" type="image/jpg"/>
       <description>栖息在树枝上的北长尾山雀，大庆市，中国黑龙江省 (© Visual China Group/Getty Images)</description>
       <pubDate>2026-01-20</pubDate>
-    </item>
-    <item>
-      <title>亚伯拉罕湖冰封景象，艾伯塔省，加拿大 (© Luis F Arevalo/Getty Images)</title>
-      <link>https://cn.bing.com/th?id=OHR.BubblesAbraham_ZH-CN7203734882_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.BubblesAbraham_ZH-CN7203734882_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.BubblesAbraham_ZH-CN7203734882_UHD.jpg" type="image/jpg"/>
-      <description>亚伯拉罕湖冰封景象，艾伯塔省，加拿大 (© Luis F Arevalo/Getty Images)</description>
-      <pubDate>2026-01-19</pubDate>
     </item>
   </channel>
 </rss>
