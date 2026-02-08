@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2026-02-08</lastBuildDate>
+    <lastBuildDate>2026-02-09</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>阿穆尔豹猫，俄罗斯 (© Valeriy Maleev/naturepl.com)</title>
+      <link>https://cn.bing.com/th?id=OHR.LeopardCat_ZH-CN4431427444_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.LeopardCat_ZH-CN4431427444_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.LeopardCat_ZH-CN4431427444_UHD.jpg" type="image/jpg"/>
+      <description>阿穆尔豹猫，俄罗斯 (© Valeriy Maleev/naturepl.com)</description>
+      <pubDate>2026-02-09</pubDate>
+    </item>
     <item>
       <title>科孚岛的夜晚, 希腊 (© whitewizzard/Getty Images)</title>
       <link>https://cn.bing.com/th?id=OHR.CorfuGreece_ZH-CN4305970968_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.BerrySquirrel_ZH-CN7382553646_UHD.jpg" type="image/jpg"/>
       <description>欧亚红松鼠 (© Galina Jacyna/Getty Images)</description>
       <pubDate>2026-01-21</pubDate>
-    </item>
-    <item>
-      <title>栖息在树枝上的北长尾山雀，大庆市，中国黑龙江省 (© Visual China Group/Getty Images)</title>
-      <link>https://cn.bing.com/th?id=OHR.TheGreatColdY25_ZH-CN7239762815_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.TheGreatColdY25_ZH-CN7239762815_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.TheGreatColdY25_ZH-CN7239762815_UHD.jpg" type="image/jpg"/>
-      <description>栖息在树枝上的北长尾山雀，大庆市，中国黑龙江省 (© Visual China Group/Getty Images)</description>
-      <pubDate>2026-01-20</pubDate>
     </item>
   </channel>
 </rss>
