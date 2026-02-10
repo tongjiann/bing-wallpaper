@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2026-02-10</lastBuildDate>
+    <lastBuildDate>2026-02-11</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>死亡谷国家公园恶水盆地的盐滩, 加利福尼亚州, 美国 (© Jim Patterson/TANDEM Stills + Motion)</title>
+      <link>https://cn.bing.com/th?id=OHR.BadwaterFlats_ZH-CN4713617982_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.BadwaterFlats_ZH-CN4713617982_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.BadwaterFlats_ZH-CN4713617982_UHD.jpg" type="image/jpg"/>
+      <description>死亡谷国家公园恶水盆地的盐滩, 加利福尼亚州, 美国 (© Jim Patterson/TANDEM Stills + Motion)</description>
+      <pubDate>2026-02-11</pubDate>
+    </item>
     <item>
       <title>埃斯韦德拉岛和埃斯韦德拉内尔岛，伊维萨岛，西班牙 (© L. Apolli/Getty Images)</title>
       <link>https://cn.bing.com/th?id=OHR.IbizaIslets_ZH-CN4580106286_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.IcelandSheep_ZH-CN3931993073_UHD.jpg" type="image/jpg"/>
       <description>绵羊在雪地里吃草，冰岛 (© Christophe Lehenaff/Getty Images)</description>
       <pubDate>2026-01-23</pubDate>
-    </item>
-    <item>
-      <title>卡罗维瓦利，波西米亚，捷克共和国 (© Henryk Sadura/Getty Images)</title>
-      <link>https://cn.bing.com/th?id=OHR.KarlovyVary_ZH-CN7585938362_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.KarlovyVary_ZH-CN7585938362_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.KarlovyVary_ZH-CN7585938362_UHD.jpg" type="image/jpg"/>
-      <description>卡罗维瓦利，波西米亚，捷克共和国 (© Henryk Sadura/Getty Images)</description>
-      <pubDate>2026-01-22</pubDate>
     </item>
   </channel>
 </rss>
