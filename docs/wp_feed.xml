@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2026-02-11</lastBuildDate>
+    <lastBuildDate>2026-02-12</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>蓝脚鲣鸟，加拉帕戈斯群岛, 厄瓜多尔 (© Karine Aigner/TANDEM Stills + Motion)</title>
+      <link>https://cn.bing.com/th?id=OHR.DarwinBooby_ZH-CN4925779873_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.DarwinBooby_ZH-CN4925779873_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.DarwinBooby_ZH-CN4925779873_UHD.jpg" type="image/jpg"/>
+      <description>蓝脚鲣鸟，加拉帕戈斯群岛, 厄瓜多尔 (© Karine Aigner/TANDEM Stills + Motion)</description>
+      <pubDate>2026-02-12</pubDate>
+    </item>
     <item>
       <title>死亡谷国家公园恶水盆地的盐滩, 加利福尼��州, 美国 (© Jim Patterson/TANDEM Stills + Motion)</title>
       <link>https://cn.bing.com/th?id=OHR.BadwaterFlats_ZH-CN4713617982_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.BurnsPark_ZH-CN4442772228_UHD.jpg" type="image/jpg"/>
       <description>伯恩斯国家遗产公园，艾尔，南艾尔郡，苏格兰 (© Alister Firth/Alamy)</description>
       <pubDate>2026-01-25</pubDate>
-    </item>
-    <item>
-      <title>阿尔卑斯山脉的安德马特小镇，瑞士 (© Xantana/Getty Images)</title>
-      <link>https://cn.bing.com/th?id=OHR.AndermattSwiss_ZH-CN4112824348_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.AndermattSwiss_ZH-CN4112824348_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.AndermattSwiss_ZH-CN4112824348_UHD.jpg" type="image/jpg"/>
-      <description>阿尔卑斯山脉的安德马特小镇，瑞士 (© Xantana/Getty Images)</description>
-      <pubDate>2026-01-24</pubDate>
     </item>
   </channel>
 </rss>
