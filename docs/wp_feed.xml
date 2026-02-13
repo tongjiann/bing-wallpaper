@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2026-02-13</lastBuildDate>
+    <lastBuildDate>2026-02-14</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>荷包牡丹 (© Dorene Hookey/Cavan Images)</title>
+      <link>https://cn.bing.com/th?id=OHR.ValentineHearts_ZH-CN5332774664_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.ValentineHearts_ZH-CN5332774664_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.ValentineHearts_ZH-CN5332774664_UHD.jpg" type="image/jpg"/>
+      <description>荷包牡丹 (© Dorene Hookey/Cavan Images)</description>
+      <pubDate>2026-02-14</pubDate>
+    </item>
     <item>
       <title>连接老挝和泰国的第三座泰老友谊大桥 (© chaiyut samsuk/Getty Images)</title>
       <link>https://cn.bing.com/th?id=OHR.FriendshipBridge_ZH-CN5199165736_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.DalmationPelicans_ZH-CN5252732863_UHD.jpg" type="image/jpg"/>
       <description>卷羽鹈鹕，凯尔基尼湖，希腊 (© Guy Edwardes/naturepl.com)</description>
       <pubDate>2026-01-27</pubDate>
-    </item>
-    <item>
-      <title>新天鹅堡，巴伐利亚州，德国 (© www.fredconcha.com @ All Rights Reserved/Getty Images)</title>
-      <link>https://cn.bing.com/th?id=OHR.NeuschwansteinWinter_ZH-CN4972014681_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.NeuschwansteinWinter_ZH-CN4972014681_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.NeuschwansteinWinter_ZH-CN4972014681_UHD.jpg" type="image/jpg"/>
-      <description>新天鹅堡，巴伐利亚州，德国 (© www.fredconcha.com @ All Rights Reserved/Getty Images)</description>
-      <pubDate>2026-01-26</pubDate>
     </item>
   </channel>
 </rss>
