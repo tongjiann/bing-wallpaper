@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2026-02-16</lastBuildDate>
+    <lastBuildDate>2026-02-17</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>中国春节传统汉字“福” (© DuKai摄影师/Getty Images)</title>
+      <link>https://cn.bing.com/th?id=OHR.SpringFestivalY26_ZH-CN0228318064_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.SpringFestivalY26_ZH-CN0228318064_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.SpringFestivalY26_ZH-CN0228318064_UHD.jpg" type="image/jpg"/>
+      <description>中国春节传统汉字“福” (© DuKai摄影师/Getty Images)</description>
+      <pubDate>2026-02-17</pubDate>
+    </item>
     <item>
       <title>庆祝春节的龙形灯笼，中国西安 (© Pan Hong/Getty Images)</title>
       <link>https://cn.bing.com/th?id=OHR.ChineseNewYearEveY26_ZH-CN7770318975_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.StMichaelsCornwall_ZH-CN5878042411_UHD.jpg" type="image/jpg"/>
       <description>马拉齐翁的圣迈克尔山, 康沃尔郡, 英格兰 (© Baxter Bradford/robertharding/Getty Images)</description>
       <pubDate>2026-01-30</pubDate>
-    </item>
-    <item>
-      <title>密尔沃基市政厅的八层开放式中庭，威斯康星州，美国 (© lavin photography/Getty Images)</title>
-      <link>https://cn.bing.com/th?id=OHR.MilwaukeeHall_ZH-CN5779477975_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.MilwaukeeHall_ZH-CN5779477975_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.MilwaukeeHall_ZH-CN5779477975_UHD.jpg" type="image/jpg"/>
-      <description>密尔沃基市政厅的八层开放式中庭，威斯康星州，美国 (© lavin photography/Getty Images)</description>
-      <pubDate>2026-01-29</pubDate>
     </item>
   </channel>
 </rss>
