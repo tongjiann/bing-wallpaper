@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2026-02-18</lastBuildDate>
+    <lastBuildDate>2026-02-19</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>乌塔克莱夫海滩的“龙之眼”岩层，挪威 (© reisegraf/Getty Images)</title>
+      <link>https://cn.bing.com/th?id=OHR.DragonsEyeRock_ZH-CN6164478776_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.DragonsEyeRock_ZH-CN6164478776_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.DragonsEyeRock_ZH-CN6164478776_UHD.jpg" type="image/jpg"/>
+      <description>乌塔克莱夫海滩的“龙之眼”岩层，挪威 (© reisegraf/Getty Images)</description>
+      <pubDate>2026-02-19</pubDate>
+    </item>
     <item>
       <title>普氏野马 (© Nemyrivskyi Viacheslav/Getty Images)</title>
       <link>https://cn.bing.com/th?id=OHR.PrzewalskisHorse_ZH-CN5785609662_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.Olinda_ZH-CN6216385346_UHD.jpg" type="image/jpg"/>
       <description>奥林达的彩色房子, 巴西 (© Robert Pekar/Alamy)</description>
       <pubDate>2026-02-01</pubDate>
-    </item>
-    <item>
-      <title>平原斑马, 埃托沙国家公园, 纳米比亚 (© Mogens Trolle/Shutterstock)</title>
-      <link>https://cn.bing.com/th?id=OHR.EtoshaZebra_ZH-CN6068087794_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.EtoshaZebra_ZH-CN6068087794_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.EtoshaZebra_ZH-CN6068087794_UHD.jpg" type="image/jpg"/>
-      <description>平原斑马, 埃托沙国家公园, 纳米比亚 (© Mogens Trolle/Shutterstock)</description>
-      <pubDate>2026-01-31</pubDate>
     </item>
   </channel>
 </rss>
