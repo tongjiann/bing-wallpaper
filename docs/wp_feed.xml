@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2026-02-20</lastBuildDate>
+    <lastBuildDate>2026-02-21</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>一只红狐狸站在雪地里，大提顿国家公园，怀俄明州，美国 (© Radomir Jakubowski/naturepl.com)</title>
+      <link>https://cn.bing.com/th?id=OHR.TetonFox_ZH-CN9461948674_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.TetonFox_ZH-CN9461948674_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.TetonFox_ZH-CN9461948674_UHD.jpg" type="image/jpg"/>
+      <description>一只红狐狸站在雪地里，大提顿国家公园，怀俄明州，美国 (© Radomir Jakubowski/naturepl.com)</description>
+      <pubDate>2026-02-21</pubDate>
+    </item>
     <item>
       <title>约塞米蒂国家公园里的火瀑布，加利福尼亚州，美国 (© Jorge Villalba/Getty Images)</title>
       <link>https://cn.bing.com/th?id=OHR.AdamsFirefall_ZH-CN9409143565_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.FanetteIsland_ZH-CN6466809551_UHD.jpg" type="image/jpg"/>
       <description>翡翠湾和范内特岛, 太浩湖, 加利福尼亚州, 美国 (© Bill Stevenson/Cavan Images)</description>
       <pubDate>2026-02-03</pubDate>
-    </item>
-    <item>
-      <title>阿尔卑斯山土拨鼠, 霍赫陶恩国家公园, 奥地利 (© Raimund Linke/Getty Images)</title>
-      <link>https://cn.bing.com/th?id=OHR.AlpineMarmots_ZH-CN6323637910_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.AlpineMarmots_ZH-CN6323637910_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.AlpineMarmots_ZH-CN6323637910_UHD.jpg" type="image/jpg"/>
-      <description>阿尔卑斯山土拨鼠, 霍赫陶恩国家公园, 奥地利 (© Raimund Linke/Getty Images)</description>
-      <pubDate>2026-02-02</pubDate>
     </item>
   </channel>
 </rss>
