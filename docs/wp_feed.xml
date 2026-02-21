@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2026-02-21</lastBuildDate>
+    <lastBuildDate>2026-02-22</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>马姆托尔山，德比郡，英格兰 (© john finney photography/Getty Images)</title>
+      <link>https://cn.bing.com/th?id=OHR.MamTorSunrise_ZH-CN9698497298_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.MamTorSunrise_ZH-CN9698497298_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.MamTorSunrise_ZH-CN9698497298_UHD.jpg" type="image/jpg"/>
+      <description>马姆托尔山，德比郡，英格兰 (© john finney photography/Getty Images)</description>
+      <pubDate>2026-02-22</pubDate>
+    </item>
     <item>
       <title>一只红狐狸站在雪地里，大提顿国家公园，怀俄明州，美国 (© Radomir Jakubowski/naturepl.com)</title>
       <link>https://cn.bing.com/th?id=OHR.TetonFox_ZH-CN9461948674_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.BigGardenBirdwatch2026_ZH-CN6864628198_UHD.jpg" type="image/jpg"/>
       <description>雪中​​的红鸢 (© Carl Mckie/500px/Getty Images)</description>
       <pubDate>2026-02-04</pubDate>
-    </item>
-    <item>
-      <title>翡翠湾和范内特岛, 太浩湖, 加利福尼亚州, 美国 (© Bill Stevenson/Cavan Images)</title>
-      <link>https://cn.bing.com/th?id=OHR.FanetteIsland_ZH-CN6466809551_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.FanetteIsland_ZH-CN6466809551_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.FanetteIsland_ZH-CN6466809551_UHD.jpg" type="image/jpg"/>
-      <description>翡翠湾和范内特岛, 太浩湖, 加利福尼亚州, 美国 (© Bill Stevenson/Cavan Images)</description>
-      <pubDate>2026-02-03</pubDate>
     </item>
   </channel>
 </rss>
