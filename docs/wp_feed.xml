@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2026-02-23</lastBuildDate>
+    <lastBuildDate>2026-02-24</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>大天坑里的睡莲，图卢姆，墨西哥 (© Christian Vizl/Tandem Stills + Motion)</title>
+      <link>https://cn.bing.com/th?id=OHR.TulumLilies_ZH-CN0959403613_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.TulumLilies_ZH-CN0959403613_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.TulumLilies_ZH-CN0959403613_UHD.jpg" type="image/jpg"/>
+      <description>大天坑里的睡莲，图卢姆，墨西哥 (© Christian Vizl/Tandem Stills + Motion)</description>
+      <pubDate>2026-02-24</pubDate>
+    </item>
     <item>
       <title>大白鹭，上巴伐利亚州，德国 (© Konrad Wothe/naturepl.com)</title>
       <link>https://cn.bing.com/th?id=OHR.BavariaEgret_ZH-CN0521643213_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.GiauPass_ZH-CN3901214501_UHD.jpg" type="image/jpg"/>
       <description>贾乌山口的拉古塞拉峰, 在科尔蒂纳丹佩佐附近, 意大利 (© Tomasz Podolski/Getty Images)</description>
       <pubDate>2026-02-06</pubDate>
-    </item>
-    <item>
-      <title>戈佐岛上的盐田, 马耳他 (© Marius Roman/Getty Images)</title>
-      <link>https://cn.bing.com/th?id=OHR.MaltaSalt_ZH-CN7025158187_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.MaltaSalt_ZH-CN7025158187_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.MaltaSalt_ZH-CN7025158187_UHD.jpg" type="image/jpg"/>
-      <description>戈佐岛上的盐田, 马耳他 (© Marius Roman/Getty Images)</description>
-      <pubDate>2026-02-05</pubDate>
     </item>
   </channel>
 </rss>
