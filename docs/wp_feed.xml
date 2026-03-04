@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2026-03-04</lastBuildDate>
+    <lastBuildDate>2026-03-05</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>格雷梅的傍晚, 卡帕多西亚, 土耳其 (© ONNAJA/Getty Images)</title>
+      <link>https://cn.bing.com/th?id=OHR.GoremeTwilight_ZH-CN3731931947_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.GoremeTwilight_ZH-CN3731931947_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.GoremeTwilight_ZH-CN3731931947_UHD.jpg" type="image/jpg"/>
+      <description>格雷梅的傍晚, 卡帕多西亚, 土耳其 (© ONNAJA/Getty Images)</description>
+      <pubDate>2026-03-05</pubDate>
+    </item>
     <item>
       <title>紫番红花, 里拉七湖, 保加利亚 (© Maya Karkalicheva/Getty Images)</title>
       <link>https://cn.bing.com/th?id=OHR.RilaCrocuses_ZH-CN3650360951_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.ValentineHearts_ZH-CN5332774664_UHD.jpg" type="image/jpg"/>
       <description>荷包牡丹 (© Dorene Hookey/Cavan Images)</description>
       <pubDate>2026-02-14</pubDate>
-    </item>
-    <item>
-      <title>连接老挝和泰国的第三座泰老友谊大桥 (© chaiyut samsuk/Getty Images)</title>
-      <link>https://cn.bing.com/th?id=OHR.FriendshipBridge_ZH-CN5199165736_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.FriendshipBridge_ZH-CN5199165736_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.FriendshipBridge_ZH-CN5199165736_UHD.jpg" type="image/jpg"/>
-      <description>连接老挝和泰国的第三座泰老友谊大桥 (© chaiyut samsuk/Getty Images)</description>
-      <pubDate>2026-02-13</pubDate>
     </item>
   </channel>
 </rss>
