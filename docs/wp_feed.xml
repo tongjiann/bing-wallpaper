@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2026-03-05</lastBuildDate>
+    <lastBuildDate>2026-03-06</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>波浪住宅楼, 瓦埃勒, 丹麦 (© Frank Bach/Alamy)</title>
+      <link>https://cn.bing.com/th?id=OHR.WaveDenmark_ZH-CN8825888678_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.WaveDenmark_ZH-CN8825888678_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.WaveDenmark_ZH-CN8825888678_UHD.jpg" type="image/jpg"/>
+      <description>波浪住宅楼, 瓦埃勒, 丹麦 (© Frank Bach/Alamy)</description>
+      <pubDate>2026-03-06</pubDate>
+    </item>
     <item>
       <title>格雷梅的傍晚, 卡帕多西亚, 土耳其 (© ONNAJA/Getty Images)</title>
       <link>https://cn.bing.com/th?id=OHR.GoremeTwilight_ZH-CN3731931947_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.MontereyHumpbacks_ZH-CN5426789466_UHD.jpg" type="image/jpg"/>
       <description>蒙特雷湾的大翅鲸(座头鲸)，加利福尼亚州，美国 (© Kiliii Fish/Cavan Images)</description>
       <pubDate>2026-02-15</pubDate>
-    </item>
-    <item>
-      <title>荷包牡丹 (© Dorene Hookey/Cavan Images)</title>
-      <link>https://cn.bing.com/th?id=OHR.ValentineHearts_ZH-CN5332774664_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.ValentineHearts_ZH-CN5332774664_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.ValentineHearts_ZH-CN5332774664_UHD.jpg" type="image/jpg"/>
-      <description>荷包牡丹 (© Dorene Hookey/Cavan Images)</description>
-      <pubDate>2026-02-14</pubDate>
     </item>
   </channel>
 </rss>
