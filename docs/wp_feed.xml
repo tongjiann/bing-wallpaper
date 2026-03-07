@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2026-03-07</lastBuildDate>
+    <lastBuildDate>2026-03-08</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>乌尔姆市政厅的天文钟, 德国 (© Tomekbudujedomek/Getty Images)</title>
+      <link>https://cn.bing.com/th?id=OHR.UlmClock_ZH-CN9282560066_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.UlmClock_ZH-CN9282560066_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.UlmClock_ZH-CN9282560066_UHD.jpg" type="image/jpg"/>
+      <description>乌尔姆市政厅的天文钟, 德国 (© Tomekbudujedomek/Getty Images)</description>
+      <pubDate>2026-03-08</pubDate>
+    </item>
     <item>
       <title>布罗肯峰的日出, 哈尔茨国家公园, 德国 (© imageBROKER/AVTG/Getty Images)</title>
       <link>https://cn.bing.com/th?id=OHR.BrockenSunrise_ZH-CN4930790850_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.SpringFestivalY26_ZH-CN0228318064_UHD.jpg" type="image/jpg"/>
       <description>中国春节传统汉字“福” (© DuKai摄影师/Getty Images)</description>
       <pubDate>2026-02-17</pubDate>
-    </item>
-    <item>
-      <title>庆祝春节的龙形灯笼，中国西安 (© Pan Hong/Getty Images)</title>
-      <link>https://cn.bing.com/th?id=OHR.ChineseNewYearEveY26_ZH-CN7770318975_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.ChineseNewYearEveY26_ZH-CN7770318975_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.ChineseNewYearEveY26_ZH-CN7770318975_UHD.jpg" type="image/jpg"/>
-      <description>庆祝春节的龙形灯笼，中国西安 (© Pan Hong/Getty Images)</description>
-      <pubDate>2026-02-16</pubDate>
     </item>
   </channel>
 </rss>
