@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2026-03-09</lastBuildDate>
+    <lastBuildDate>2026-03-10</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>赫韦拉韦利尔的布拉赫维尔地热池, 冰岛 (© Juan Maria Coy Vergara/Getty Images)</title>
+      <link>https://cn.bing.com/th?id=OHR.SpringIceland_ZH-CN9545282898_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.SpringIceland_ZH-CN9545282898_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.SpringIceland_ZH-CN9545282898_UHD.jpg" type="image/jpg"/>
+      <description>赫韦拉韦利尔的布拉赫维尔地热池, 冰岛 (© Juan Maria Coy Vergara/Getty Images)</description>
+      <pubDate>2026-03-10</pubDate>
+    </item>
     <item>
       <title>在海滩上睡觉的灰海豹, 奥克尼群岛, 苏格兰 (© Andrew Mason/Minden Pictures)</title>
       <link>https://cn.bing.com/th?id=OHR.NappingSeal_ZH-CN9424683964_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.DragonsEyeRock_ZH-CN6164478776_UHD.jpg" type="image/jpg"/>
       <description>乌塔克莱夫海滩的“龙之眼”岩层，挪威 (© reisegraf/Getty Images)</description>
       <pubDate>2026-02-19</pubDate>
-    </item>
-    <item>
-      <title>普氏野马 (© Nemyrivskyi Viacheslav/Getty Images)</title>
-      <link>https://cn.bing.com/th?id=OHR.PrzewalskisHorse_ZH-CN5785609662_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.PrzewalskisHorse_ZH-CN5785609662_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.PrzewalskisHorse_ZH-CN5785609662_UHD.jpg" type="image/jpg"/>
-      <description>普氏野马 (© Nemyrivskyi Viacheslav/Getty Images)</description>
-      <pubDate>2026-02-18</pubDate>
     </item>
   </channel>
 </rss>
