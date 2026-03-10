@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2026-03-10</lastBuildDate>
+    <lastBuildDate>2026-03-11</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>盛开的桃树, 谢萨, 穆尔西亚, 西班牙 (© Juan Maria Coy Vergara/Getty Images)</title>
+      <link>https://cn.bing.com/th?id=OHR.PeachBloom_ZH-CN9660251274_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.PeachBloom_ZH-CN9660251274_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.PeachBloom_ZH-CN9660251274_UHD.jpg" type="image/jpg"/>
+      <description>盛开的桃树, 谢萨, 穆尔西亚, 西班牙 (© Juan Maria Coy Vergara/Getty Images)</description>
+      <pubDate>2026-03-11</pubDate>
+    </item>
     <item>
       <title>赫韦拉韦利尔的布拉赫维尔地热池, 冰岛 (© Juan Maria Coy Vergara/Getty Images)</title>
       <link>https://cn.bing.com/th?id=OHR.SpringIceland_ZH-CN9545282898_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.AdamsFirefall_ZH-CN9409143565_UHD.jpg" type="image/jpg"/>
       <description>约塞米蒂国家公园里的火瀑布，加利福尼亚州，美国 (© Jorge Villalba/Getty Images)</description>
       <pubDate>2026-02-20</pubDate>
-    </item>
-    <item>
-      <title>乌塔克莱夫海滩的“龙之眼”岩层，挪威 (© reisegraf/Getty Images)</title>
-      <link>https://cn.bing.com/th?id=OHR.DragonsEyeRock_ZH-CN6164478776_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.DragonsEyeRock_ZH-CN6164478776_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.DragonsEyeRock_ZH-CN6164478776_UHD.jpg" type="image/jpg"/>
-      <description>乌塔克莱夫海滩的“龙之眼”岩层，挪威 (© reisegraf/Getty Images)</description>
-      <pubDate>2026-02-19</pubDate>
     </item>
   </channel>
 </rss>
