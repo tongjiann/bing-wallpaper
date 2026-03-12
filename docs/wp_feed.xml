@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2026-03-12</lastBuildDate>
+    <lastBuildDate>2026-03-13</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>邦港圣母教堂拱顶，莱萨布勒多洛讷，法国 (© Helmut Meyer zur Capellen/Alamy)</title>
+      <link>https://cn.bing.com/th?id=OHR.VendeeVaults_ZH-CN9885568795_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.VendeeVaults_ZH-CN9885568795_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.VendeeVaults_ZH-CN9885568795_UHD.jpg" type="image/jpg"/>
+      <description>邦港圣母教堂拱顶，莱萨布勒多洛讷，法国 (© Helmut Meyer zur Capellen/Alamy)</description>
+      <pubDate>2026-03-13</pubDate>
+    </item>
     <item>
       <title>幼年日鳽在巢穴附近展示求偶行为, 厄瓜多尔 (© Andy Rouse/naturepl.com)</title>
       <link>https://cn.bing.com/th?id=OHR.SunbitternEcuador_ZH-CN9772788253_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.MamTorSunrise_ZH-CN9698497298_UHD.jpg" type="image/jpg"/>
       <description>马姆托尔山，德比郡，英格兰 (© john finney photography/Getty Images)</description>
       <pubDate>2026-02-22</pubDate>
-    </item>
-    <item>
-      <title>一只红狐狸站在雪地里，大提顿国家公园，怀俄明州，美国 (© Radomir Jakubowski/naturepl.com)</title>
-      <link>https://cn.bing.com/th?id=OHR.TetonFox_ZH-CN9461948674_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.TetonFox_ZH-CN9461948674_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.TetonFox_ZH-CN9461948674_UHD.jpg" type="image/jpg"/>
-      <description>一只红狐狸站在雪地里，大提顿国家公园，怀俄明州，美国 (© Radomir Jakubowski/naturepl.com)</description>
-      <pubDate>2026-02-21</pubDate>
     </item>
   </channel>
 </rss>
