@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2026-03-13</lastBuildDate>
+    <lastBuildDate>2026-03-14</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>兰扬石门，位于英格兰康沃尔郡的一座兰扬新石器时代石棚墓，英国 (© Helen Hotson/Alamy)</title>
+      <link>https://cn.bing.com/th?id=OHR.CornwallDolmen_ZH-CN0045468799_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.CornwallDolmen_ZH-CN0045468799_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.CornwallDolmen_ZH-CN0045468799_UHD.jpg" type="image/jpg"/>
+      <description>兰扬石门，位于英格兰康沃尔郡的一座兰扬新石器时代石棚墓，英国 (© Helen Hotson/Alamy)</description>
+      <pubDate>2026-03-14</pubDate>
+    </item>
     <item>
       <title>邦港圣母教堂拱顶，莱萨布勒多洛讷，法国 (© Helmut Meyer zur Capellen/Alamy)</title>
       <link>https://cn.bing.com/th?id=OHR.VendeeVaults_ZH-CN9885568795_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.BavariaEgret_ZH-CN0521643213_UHD.jpg" type="image/jpg"/>
       <description>大白鹭，上巴伐利亚州，德国 (© Konrad Wothe/naturepl.com)</description>
       <pubDate>2026-02-23</pubDate>
-    </item>
-    <item>
-      <title>马姆托尔山，德比郡，英格兰 (© john finney photography/Getty Images)</title>
-      <link>https://cn.bing.com/th?id=OHR.MamTorSunrise_ZH-CN9698497298_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.MamTorSunrise_ZH-CN9698497298_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.MamTorSunrise_ZH-CN9698497298_UHD.jpg" type="image/jpg"/>
-      <description>马姆托尔山，德比郡，英格兰 (© john finney photography/Getty Images)</description>
-      <pubDate>2026-02-22</pubDate>
     </item>
   </channel>
 </rss>
