@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2026-03-15</lastBuildDate>
+    <lastBuildDate>2026-03-16</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>正在吃竹子的大熊猫，中国 (© Entwicklungsknecht/Getty Images)</title>
+      <link>https://cn.bing.com/th?id=OHR.PandaForest_ZH-CN0545156080_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.PandaForest_ZH-CN0545156080_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.PandaForest_ZH-CN0545156080_UHD.jpg" type="image/jpg"/>
+      <description>正在吃竹子的大熊猫，中国 (© Entwicklungsknecht/Getty Images)</description>
+      <pubDate>2026-03-16</pubDate>
+    </item>
     <item>
       <title>太平洋沿岸国家公园保护区，温哥华岛，加拿大 (© EmilyNorton/Getty Images)</title>
       <link>https://cn.bing.com/th?id=OHR.PacificRimNP_ZH-CN0350089584_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.MendenhallCave_ZH-CN1850649760_UHD.jpg" type="image/jpg"/>
       <description>门登霍尔冰川的冰洞，阿拉斯加州，美国 (© Designpics/Adobe Stock)</description>
       <pubDate>2026-02-25</pubDate>
-    </item>
-    <item>
-      <title>大天坑里的睡莲，图卢姆，墨西哥 (© Christian Vizl/Tandem Stills + Motion)</title>
-      <link>https://cn.bing.com/th?id=OHR.TulumLilies_ZH-CN0959403613_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.TulumLilies_ZH-CN0959403613_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.TulumLilies_ZH-CN0959403613_UHD.jpg" type="image/jpg"/>
-      <description>大天坑里的睡莲，图卢姆，墨西哥 (© Christian Vizl/Tandem Stills + Motion)</description>
-      <pubDate>2026-02-24</pubDate>
     </item>
   </channel>
 </rss>
