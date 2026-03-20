@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2026-03-20</lastBuildDate>
+    <lastBuildDate>2026-03-21</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>莱泰亚森林，多瑙河三角洲，罗马尼亚 (© Wild Wonders of Europe/Widstrand/Nature Picture Library)</title>
+      <link>https://cn.bing.com/th?id=OHR.LeteaForest_ZH-CN4153496399_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.LeteaForest_ZH-CN4153496399_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.LeteaForest_ZH-CN4153496399_UHD.jpg" type="image/jpg"/>
+      <description>莱泰亚森林，多瑙河三角洲，罗马尼亚 (© Wild Wonders of Europe/Widstrand/Nature Picture Library)</description>
+      <pubDate>2026-03-21</pubDate>
+    </item>
     <item>
       <title>春日樱花，上海，中国 (© junyyeung/Getty Images)</title>
       <link>https://cn.bing.com/th?id=OHR.SpringEquinoxY26_ZH-CN7450181382_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.SamuiThailand_ZH-CN3323790951_UHD.jpg" type="image/jpg"/>
       <description>苏梅岛的港口和长尾船, 泰国 (© Foto2rich/Shutterstock)</description>
       <pubDate>2026-03-02</pubDate>
-    </item>
-    <item>
-      <title>伊维萨岛, 巴利阿里群岛, 西班牙 (© tokar/Shutterstock)</title>
-      <link>https://cn.bing.com/th?id=OHR.BalearesDay_ZH-CN5024902433_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.BalearesDay_ZH-CN5024902433_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.BalearesDay_ZH-CN5024902433_UHD.jpg" type="image/jpg"/>
-      <description>伊维萨岛, 巴利阿里群岛, 西班牙 (© tokar/Shutterstock)</description>
-      <pubDate>2026-03-01</pubDate>
     </item>
   </channel>
 </rss>
