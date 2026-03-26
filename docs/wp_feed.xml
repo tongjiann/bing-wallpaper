@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2026-03-26</lastBuildDate>
+    <lastBuildDate>2026-03-27</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>纽约市的无线电城音乐厅, 美国 (© Clarence Holmes Photography/Alamy)</title>
+      <link>https://cn.bing.com/th?id=OHR.RadioCityHall_ZH-CN5492649461_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.RadioCityHall_ZH-CN5492649461_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.RadioCityHall_ZH-CN5492649461_UHD.jpg" type="image/jpg"/>
+      <description>纽约市的无线电城音乐厅, 美国 (© Clarence Holmes Photography/Alamy)</description>
+      <pubDate>2026-03-27</pubDate>
+    </item>
     <item>
       <title>洛根溪吊桥，西海岸步道，加拿大 (© Tandem Stock/Adobe Stock)</title>
       <link>https://cn.bing.com/th?id=OHR.LoganCreek_ZH-CN5372283365_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.UlmClock_ZH-CN9282560066_UHD.jpg" type="image/jpg"/>
       <description>乌尔姆市政厅的天文钟, 德国 (© Tomekbudujedomek/Getty Images)</description>
       <pubDate>2026-03-08</pubDate>
-    </item>
-    <item>
-      <title>布罗肯峰的日出, 哈尔茨国家公园, 德国 (© imageBROKER/AVTG/Getty Images)</title>
-      <link>https://cn.bing.com/th?id=OHR.BrockenSunrise_ZH-CN4930790850_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.BrockenSunrise_ZH-CN4930790850_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.BrockenSunrise_ZH-CN4930790850_UHD.jpg" type="image/jpg"/>
-      <description>布罗肯峰的日出, 哈尔茨国家公园, 德国 (© imageBROKER/AVTG/Getty Images)</description>
-      <pubDate>2026-03-07</pubDate>
     </item>
   </channel>
 </rss>
