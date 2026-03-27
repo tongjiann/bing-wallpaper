@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2026-03-27</lastBuildDate>
+    <lastBuildDate>2026-03-28</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>非洲水牛, 恩戈罗恩戈罗火山口, 坦桑尼亚 (© jesuss8/500px/Getty Images)</title>
+      <link>https://cn.bing.com/th?id=OHR.CapeBuffalo_ZH-CN5591123662_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.CapeBuffalo_ZH-CN5591123662_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.CapeBuffalo_ZH-CN5591123662_UHD.jpg" type="image/jpg"/>
+      <description>非洲水牛, 恩戈罗恩戈罗火山口, 坦桑尼亚 (© jesuss8/500px/Getty Images)</description>
+      <pubDate>2026-03-28</pubDate>
+    </item>
     <item>
       <title>纽约市的无线电城音乐厅, 美国 (© Clarence Holmes Photography/Alamy)</title>
       <link>https://cn.bing.com/th?id=OHR.RadioCityHall_ZH-CN5492649461_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.NappingSeal_ZH-CN9424683964_UHD.jpg" type="image/jpg"/>
       <description>在海滩上睡觉的灰海豹, 奥克尼群岛, 苏格兰 (© Andrew Mason/Minden Pictures)</description>
       <pubDate>2026-03-09</pubDate>
-    </item>
-    <item>
-      <title>乌尔姆市政厅的天文钟, 德国 (© Tomekbudujedomek/Getty Images)</title>
-      <link>https://cn.bing.com/th?id=OHR.UlmClock_ZH-CN9282560066_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.UlmClock_ZH-CN9282560066_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.UlmClock_ZH-CN9282560066_UHD.jpg" type="image/jpg"/>
-      <description>乌尔姆市政厅的天文钟, 德国 (© Tomekbudujedomek/Getty Images)</description>
-      <pubDate>2026-03-08</pubDate>
     </item>
   </channel>
 </rss>
