@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2026-03-28</lastBuildDate>
+    <lastBuildDate>2026-03-29</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>佩吉角灯塔, 大西洋海岸, 新斯科舍省, 加拿大 (© Prashanth Bala/Shutterstock)</title>
+      <link>https://cn.bing.com/th?id=OHR.PeggysLighthouse_ZH-CN5730463973_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.PeggysLighthouse_ZH-CN5730463973_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.PeggysLighthouse_ZH-CN5730463973_UHD.jpg" type="image/jpg"/>
+      <description>佩吉角灯塔, 大西洋海岸, 新斯科舍省, 加拿大 (© Prashanth Bala/Shutterstock)</description>
+      <pubDate>2026-03-29</pubDate>
+    </item>
     <item>
       <title>非洲水牛, 恩戈罗恩戈罗火山口, 坦桑尼亚 (© jesuss8/500px/Getty Images)</title>
       <link>https://cn.bing.com/th?id=OHR.CapeBuffalo_ZH-CN5591123662_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.SpringIceland_ZH-CN9545282898_UHD.jpg" type="image/jpg"/>
       <description>赫韦拉韦利尔的布拉赫维尔地热池, 冰岛 (© Juan Maria Coy Vergara/Getty Images)</description>
       <pubDate>2026-03-10</pubDate>
-    </item>
-    <item>
-      <title>在海滩上睡觉的灰海豹, 奥克尼群岛, 苏格兰 (© Andrew Mason/Minden Pictures)</title>
-      <link>https://cn.bing.com/th?id=OHR.NappingSeal_ZH-CN9424683964_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.NappingSeal_ZH-CN9424683964_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.NappingSeal_ZH-CN9424683964_UHD.jpg" type="image/jpg"/>
-      <description>在海滩上睡觉的灰海豹, 奥克尼群岛, 苏格兰 (© Andrew Mason/Minden Pictures)</description>
-      <pubDate>2026-03-09</pubDate>
     </item>
   </channel>
 </rss>
