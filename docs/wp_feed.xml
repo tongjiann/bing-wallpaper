@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2026-03-29</lastBuildDate>
+    <lastBuildDate>2026-03-30</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>蓑羽鹤, 印度 (© Axel Gomille/Nature Picture Library)</title>
+      <link>https://cn.bing.com/th?id=OHR.IndiaCranes_ZH-CN5871338482_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.IndiaCranes_ZH-CN5871338482_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.IndiaCranes_ZH-CN5871338482_UHD.jpg" type="image/jpg"/>
+      <description>蓑羽鹤, 印度 (© Axel Gomille/Nature Picture Library)</description>
+      <pubDate>2026-03-30</pubDate>
+    </item>
     <item>
       <title>佩吉角灯塔, 大西洋海岸, 新斯科舍省, 加拿大 (© Prashanth Bala/Shutterstock)</title>
       <link>https://cn.bing.com/th?id=OHR.PeggysLighthouse_ZH-CN5730463973_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.PeachBloom_ZH-CN9660251274_UHD.jpg" type="image/jpg"/>
       <description>盛开的桃树, 谢萨, 穆尔西亚, 西班牙 (© Juan Maria Coy Vergara/Getty Images)</description>
       <pubDate>2026-03-11</pubDate>
-    </item>
-    <item>
-      <title>赫韦拉韦利尔的布拉赫维尔地热池, 冰岛 (© Juan Maria Coy Vergara/Getty Images)</title>
-      <link>https://cn.bing.com/th?id=OHR.SpringIceland_ZH-CN9545282898_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.SpringIceland_ZH-CN9545282898_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.SpringIceland_ZH-CN9545282898_UHD.jpg" type="image/jpg"/>
-      <description>赫韦拉韦利尔的布拉赫维尔地热池, 冰岛 (© Juan Maria Coy Vergara/Getty Images)</description>
-      <pubDate>2026-03-10</pubDate>
     </item>
   </channel>
 </rss>
