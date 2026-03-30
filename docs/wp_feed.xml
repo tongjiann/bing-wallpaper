@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2026-03-30</lastBuildDate>
+    <lastBuildDate>2026-03-31</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>天堂洞, 峰牙-格邦国家公园, ���南 (© Pakawat Thongcharoen/Getty Images)</title>
+      <link>https://cn.bing.com/th?id=OHR.ParadiseCave_ZH-CN6371627729_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.ParadiseCave_ZH-CN6371627729_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.ParadiseCave_ZH-CN6371627729_UHD.jpg" type="image/jpg"/>
+      <description>天堂洞, 峰牙-格邦国家公园, ���南 (© Pakawat Thongcharoen/Getty Images)</description>
+      <pubDate>2026-03-31</pubDate>
+    </item>
     <item>
       <title>蓑羽鹤, 印度 (© Axel Gomille/Nature Picture Library)</title>
       <link>https://cn.bing.com/th?id=OHR.IndiaCranes_ZH-CN5871338482_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.SunbitternEcuador_ZH-CN9772788253_UHD.jpg" type="image/jpg"/>
       <description>幼年日鳽在巢穴附近展示求偶行为, 厄瓜多尔 (© Andy Rouse/naturepl.com)</description>
       <pubDate>2026-03-12</pubDate>
-    </item>
-    <item>
-      <title>盛开的桃树, 谢萨, 穆尔西亚, 西班牙 (© Juan Maria Coy Vergara/Getty Images)</title>
-      <link>https://cn.bing.com/th?id=OHR.PeachBloom_ZH-CN9660251274_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.PeachBloom_ZH-CN9660251274_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.PeachBloom_ZH-CN9660251274_UHD.jpg" type="image/jpg"/>
-      <description>盛开的桃树, 谢萨, 穆尔西亚, 西班牙 (© Juan Maria Coy Vergara/Getty Images)</description>
-      <pubDate>2026-03-11</pubDate>
     </item>
   </channel>
 </rss>
