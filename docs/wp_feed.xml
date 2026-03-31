@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2026-03-31</lastBuildDate>
+    <lastBuildDate>2026-04-01</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>粉色牵牛花里的日本树蛙 (© Tetsuya Tanooka/Getty Images)</title>
+      <link>https://cn.bing.com/th?id=OHR.JapaneseTreeFrog_ZH-CN6467379766_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.JapaneseTreeFrog_ZH-CN6467379766_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.JapaneseTreeFrog_ZH-CN6467379766_UHD.jpg" type="image/jpg"/>
+      <description>粉色牵牛花里的日本树蛙 (© Tetsuya Tanooka/Getty Images)</description>
+      <pubDate>2026-04-01</pubDate>
+    </item>
     <item>
       <title>天堂洞, 峰牙-格邦国家公园, 越南 (© Pakawat Thongcharoen/Getty Images)</title>
       <link>https://cn.bing.com/th?id=OHR.ParadiseCave_ZH-CN6371627729_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.CornwallDolmen_ZH-CN0045468799_UHD.jpg" type="image/jpg"/>
       <description>兰扬石门，位于英格兰康沃尔郡的一座兰扬新石器时代石棚墓，英国 (© Helen Hotson/Alamy)</description>
       <pubDate>2026-03-14</pubDate>
-    </item>
-    <item>
-      <title>邦港圣母教堂拱顶，莱萨布勒多洛讷，法国 (© Helmut Meyer zur Capellen/Alamy)</title>
-      <link>https://cn.bing.com/th?id=OHR.VendeeVaults_ZH-CN9885568795_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.VendeeVaults_ZH-CN9885568795_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.VendeeVaults_ZH-CN9885568795_UHD.jpg" type="image/jpg"/>
-      <description>邦港圣母教堂拱顶，莱萨布勒多洛讷，法国 (© Helmut Meyer zur Capellen/Alamy)</description>
-      <pubDate>2026-03-13</pubDate>
     </item>
   </channel>
 </rss>
