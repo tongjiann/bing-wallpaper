@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2026-04-02</lastBuildDate>
+    <lastBuildDate>2026-04-03</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>阿姆布鲁大桥，阿姆斯特丹，荷兰 (© Alexander Spatari/Getty Images)</title>
+      <link>https://cn.bing.com/th?id=OHR.ArmbrugBridge_ZH-CN4600005169_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.ArmbrugBridge_ZH-CN4600005169_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.ArmbrugBridge_ZH-CN4600005169_UHD.jpg" type="image/jpg"/>
+      <description>阿姆布鲁大桥，阿姆斯特丹，荷兰 (© Alexander Spatari/Getty Images)</description>
+      <pubDate>2026-04-03</pubDate>
+    </item>
     <item>
       <title>野花绽放, 中央谷地, 加利福尼亚州, 美国 (© Jeff Lewis/Tandem Stills + Motion)</title>
       <link>https://cn.bing.com/th?id=OHR.WildflowerValley_ZH-CN7048300331_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.PandaForest_ZH-CN0545156080_UHD.jpg" type="image/jpg"/>
       <description>正在吃竹子的大熊猫，中国 (© Entwicklungsknecht/Getty Images)</description>
       <pubDate>2026-03-16</pubDate>
-    </item>
-    <item>
-      <title>太平洋沿岸国家公园保护区，温哥华岛，加拿大 (© EmilyNorton/Getty Images)</title>
-      <link>https://cn.bing.com/th?id=OHR.PacificRimNP_ZH-CN0350089584_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.PacificRimNP_ZH-CN0350089584_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.PacificRimNP_ZH-CN0350089584_UHD.jpg" type="image/jpg"/>
-      <description>太平洋沿岸国家公园保护区，温哥华岛，加拿大 (© EmilyNorton/Getty Images)</description>
-      <pubDate>2026-03-15</pubDate>
     </item>
   </channel>
 </rss>
