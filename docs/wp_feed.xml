@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2026-04-03</lastBuildDate>
+    <lastBuildDate>2026-04-04</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>求偶展示场上对峙的雄性黑琴鸡，爱沙尼亚 (© Sven Zacek/Nature Picture Library)</title>
+      <link>https://cn.bing.com/th?id=OHR.GrouseGuff_ZH-CN2647001885_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.GrouseGuff_ZH-CN2647001885_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.GrouseGuff_ZH-CN2647001885_UHD.jpg" type="image/jpg"/>
+      <description>求偶展示场上对峙的雄性黑琴鸡，爱沙尼亚 (© Sven Zacek/Nature Picture Library)</description>
+      <pubDate>2026-04-04</pubDate>
+    </item>
     <item>
       <title>阿姆布鲁大桥，阿姆斯特丹，荷兰 (© Alexander Spatari/Getty Images)</title>
       <link>https://cn.bing.com/th?id=OHR.ArmbrugBridge_ZH-CN4600005169_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.DonegalFort_ZH-CN0718842170_UHD.jpg" type="image/jpg"/>
       <description>艾利赫格里安南环形堡，多内加尔，爱尔兰 (© Lukassek/Getty Images)</description>
       <pubDate>2026-03-17</pubDate>
-    </item>
-    <item>
-      <title>正在吃竹子的大熊猫，中国 (© Entwicklungsknecht/Getty Images)</title>
-      <link>https://cn.bing.com/th?id=OHR.PandaForest_ZH-CN0545156080_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.PandaForest_ZH-CN0545156080_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.PandaForest_ZH-CN0545156080_UHD.jpg" type="image/jpg"/>
-      <description>正在吃竹子的大熊猫，中国 (© Entwicklungsknecht/Getty Images)</description>
-      <pubDate>2026-03-16</pubDate>
     </item>
   </channel>
 </rss>
