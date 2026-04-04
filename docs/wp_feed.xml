@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2026-04-04</lastBuildDate>
+    <lastBuildDate>2026-04-05</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>春天的雪钟花 (© klagyivik/Getty Images)</title>
+      <link>https://cn.bing.com/th?id=OHR.SpringSnowdrops_ZH-CN2933051747_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.SpringSnowdrops_ZH-CN2933051747_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.SpringSnowdrops_ZH-CN2933051747_UHD.jpg" type="image/jpg"/>
+      <description>春天的雪钟花 (© klagyivik/Getty Images)</description>
+      <pubDate>2026-04-05</pubDate>
+    </item>
     <item>
       <title>求偶展示场上对峙的雄性黑琴鸡，爱沙尼亚 (© Sven Zacek/Nature Picture Library)</title>
       <link>https://cn.bing.com/th?id=OHR.GrouseGuff_ZH-CN2647001885_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.PortlandBlossoms_ZH-CN0814501668_UHD.jpg" type="image/jpg"/>
       <description>汤姆·麦考尔滨水公园的樱花，波特兰，俄勒冈州，美国 (© Eric Vogt/Tandem Stills + Motion)</description>
       <pubDate>2026-03-18</pubDate>
-    </item>
-    <item>
-      <title>艾利赫格里安南环形堡，多内加尔，爱尔兰 (© Lukassek/Getty Images)</title>
-      <link>https://cn.bing.com/th?id=OHR.DonegalFort_ZH-CN0718842170_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.DonegalFort_ZH-CN0718842170_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.DonegalFort_ZH-CN0718842170_UHD.jpg" type="image/jpg"/>
-      <description>艾利赫格里安南环形堡，多内加尔，爱尔兰 (© Lukassek/Getty Images)</description>
-      <pubDate>2026-03-17</pubDate>
     </item>
   </channel>
 </rss>
