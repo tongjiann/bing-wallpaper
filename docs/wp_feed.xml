@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2026-04-07</lastBuildDate>
+    <lastBuildDate>2026-04-08</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>西雅图，华盛顿州，美国 (© Jim Patterson/Tandem Stills + Motion)</title>
+      <link>https://cn.bing.com/th?id=OHR.SeattleSunrise_ZH-CN2884575647_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.SeattleSunrise_ZH-CN2884575647_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.SeattleSunrise_ZH-CN2884575647_UHD.jpg" type="image/jpg"/>
+      <description>西雅图，华盛顿州，美国 (© Jim Patterson/Tandem Stills + Motion)</description>
+      <pubDate>2026-04-08</pubDate>
+    </item>
     <item>
       <title>河狸，德国 (© Andyworks/Getty Images)</title>
       <link>https://cn.bing.com/th?id=OHR.BeaverPortrait_ZH-CN4700069789_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.LeteaForest_ZH-CN4153496399_UHD.jpg" type="image/jpg"/>
       <description>莱泰亚森林，多瑙河三角洲，罗马尼亚 (© Wild Wonders of Europe/Widstrand/Nature Picture Library)</description>
       <pubDate>2026-03-21</pubDate>
-    </item>
-    <item>
-      <title>春日樱花，上海，中国 (© junyyeung/Getty Images)</title>
-      <link>https://cn.bing.com/th?id=OHR.SpringEquinoxY26_ZH-CN7450181382_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.SpringEquinoxY26_ZH-CN7450181382_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.SpringEquinoxY26_ZH-CN7450181382_UHD.jpg" type="image/jpg"/>
-      <description>春日樱花，上海，中国 (© junyyeung/Getty Images)</description>
-      <pubDate>2026-03-20</pubDate>
     </item>
   </channel>
 </rss>
