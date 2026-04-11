@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2026-04-11</lastBuildDate>
+    <lastBuildDate>2026-04-12</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>城市灯光在下方划过, 拍摄于国际空间站 (© NASA)</title>
+      <link>https://cn.bing.com/th?id=OHR.SpaceTrails_ZH-CN8377463217_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.SpaceTrails_ZH-CN8377463217_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.SpaceTrails_ZH-CN8377463217_UHD.jpg" type="image/jpg"/>
+      <description>城市灯光在下方划过, 拍摄于国际空间站 (© NASA)</description>
+      <pubDate>2026-04-12</pubDate>
+    </item>
     <item>
       <title>帕帕加约海滩, 兰萨罗特, 加那利群岛, 西班牙 (© Gavin Hellier/Getty Images)</title>
       <link>https://cn.bing.com/th?id=OHR.PlayaPapagayo_ZH-CN7708804019_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.ManateeSpring_ZH-CN5252847120_UHD.jpg" type="image/jpg"/>
       <description>淡水泉中的幼年海牛，水晶河，佛罗里达州，美国 (© Gregory Sweeney/Getty Images)</description>
       <pubDate>2026-03-25</pubDate>
-    </item>
-    <item>
-      <title>东湖樱花园的樱花，武汉，中国 (© Zhang Qiao/VCG/Getty Images)</title>
-      <link>https://cn.bing.com/th?id=OHR.WuhanCherryBlossom_ZH-CN1031985926_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.WuhanCherryBlossom_ZH-CN1031985926_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.WuhanCherryBlossom_ZH-CN1031985926_UHD.jpg" type="image/jpg"/>
-      <description>东湖樱花园的樱花，武汉，中国 (© Zhang Qiao/VCG/Getty Images)</description>
-      <pubDate>2026-03-24</pubDate>
     </item>
   </channel>
 </rss>
