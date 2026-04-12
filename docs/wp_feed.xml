@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2026-04-12</lastBuildDate>
+    <lastBuildDate>2026-04-13</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>安扎-博雷戈沙漠州立公园上空的银河, 加利福尼亚州, 美国 (© Kevin Key/Slworking)/Getty Images)</title>
+      <link>https://cn.bing.com/th?id=OHR.BorregoStars_ZH-CN8915519147_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.BorregoStars_ZH-CN8915519147_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.BorregoStars_ZH-CN8915519147_UHD.jpg" type="image/jpg"/>
+      <description>安扎-博雷戈沙漠州立公园上空的银河, 加利福尼亚州, 美国 (© Kevin Key/Slworking)/Getty Images)</description>
+      <pubDate>2026-04-13</pubDate>
+    </item>
     <item>
       <title>城市灯光在下方划过, 拍摄于国际空间站 (© NASA)</title>
       <link>https://cn.bing.com/th?id=OHR.SpaceTrails_ZH-CN8377463217_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.LoganCreek_ZH-CN5372283365_UHD.jpg" type="image/jpg"/>
       <description>洛根溪吊桥，西海岸步道，加拿大 (© Tandem Stock/Adobe Stock)</description>
       <pubDate>2026-03-26</pubDate>
-    </item>
-    <item>
-      <title>淡水泉中的幼年海牛，水晶河，佛罗里达州，美国 (© Gregory Sweeney/Getty Images)</title>
-      <link>https://cn.bing.com/th?id=OHR.ManateeSpring_ZH-CN5252847120_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.ManateeSpring_ZH-CN5252847120_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.ManateeSpring_ZH-CN5252847120_UHD.jpg" type="image/jpg"/>
-      <description>淡水泉中的幼年海牛，水晶河，佛罗里达州，美国 (© Gregory Sweeney/Getty Images)</description>
-      <pubDate>2026-03-25</pubDate>
     </item>
   </channel>
 </rss>
