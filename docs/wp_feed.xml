@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2026-04-14</lastBuildDate>
+    <lastBuildDate>2026-04-15</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>光之采石场的文森特·梵高展览, 莱博德普罗旺斯, 法国 (© Patrick Aventurier/Getty Images)</title>
+      <link>https://cn.bing.com/th?id=OHR.VanGoghFields_ZH-CN3495668941_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.VanGoghFields_ZH-CN3495668941_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.VanGoghFields_ZH-CN3495668941_UHD.jpg" type="image/jpg"/>
+      <description>光之采石场的文森特·梵高展览, 莱博德普罗旺斯, 法国 (© Patrick Aventurier/Getty Images)</description>
+      <pubDate>2026-04-15</pubDate>
+    </item>
     <item>
       <title>海葵中的普通小丑鱼, 拉贾安帕特群岛, 印度尼西亚 (© Magnus Lundgren/Nature Picture Library)</title>
       <link>https://cn.bing.com/th?id=OHR.OcellarisClownfish_ZH-CN9362948727_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.CapeBuffalo_ZH-CN5591123662_UHD.jpg" type="image/jpg"/>
       <description>非洲水牛, 恩戈罗恩戈罗火山口, 坦桑尼亚 (© jesuss8/500px/Getty Images)</description>
       <pubDate>2026-03-28</pubDate>
-    </item>
-    <item>
-      <title>纽约市的无线电城音乐厅, 美国 (© Clarence Holmes Photography/Alamy)</title>
-      <link>https://cn.bing.com/th?id=OHR.RadioCityHall_ZH-CN5492649461_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.RadioCityHall_ZH-CN5492649461_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.RadioCityHall_ZH-CN5492649461_UHD.jpg" type="image/jpg"/>
-      <description>纽约市的无线电城音乐厅, 美国 (© Clarence Holmes Photography/Alamy)</description>
-      <pubDate>2026-03-27</pubDate>
     </item>
   </channel>
 </rss>
