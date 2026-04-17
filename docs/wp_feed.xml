@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2026-04-17</lastBuildDate>
+    <lastBuildDate>2026-04-18</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>摩艾石像采石场，拉诺拉拉库，复活节岛，智利 (© Gavin Hellier/Alamy)</title>
+      <link>https://cn.bing.com/th?id=OHR.MaoiStatues_ZH-CN3219447748_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.MaoiStatues_ZH-CN3219447748_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.MaoiStatues_ZH-CN3219447748_UHD.jpg" type="image/jpg"/>
+      <description>摩艾石像采石场，拉诺拉拉库，复活节岛，智利 (© Gavin Hellier/Alamy)</description>
+      <pubDate>2026-04-18</pubDate>
+    </item>
     <item>
       <title>灰头狐蝠母亲携幼崽，雅拉湾国家公园，澳大利亚 (© Doug Gimesy/Nature Picture Library)</title>
       <link>https://cn.bing.com/th?id=OHR.FlyingFoxMom_ZH-CN2913012516_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.ParadiseCave_ZH-CN6371627729_UHD.jpg" type="image/jpg"/>
       <description>天堂洞, 峰牙-格邦国家公园, ���南 (© Pakawat Thongcharoen/Getty Images)</description>
       <pubDate>2026-03-31</pubDate>
-    </item>
-    <item>
-      <title>蓑羽鹤, 印度 (© Axel Gomille/Nature Picture Library)</title>
-      <link>https://cn.bing.com/th?id=OHR.IndiaCranes_ZH-CN5871338482_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.IndiaCranes_ZH-CN5871338482_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.IndiaCranes_ZH-CN5871338482_UHD.jpg" type="image/jpg"/>
-      <description>蓑羽鹤, 印度 (© Axel Gomille/Nature Picture Library)</description>
-      <pubDate>2026-03-30</pubDate>
     </item>
   </channel>
 </rss>
