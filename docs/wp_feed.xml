@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2026-04-18</lastBuildDate>
+    <lastBuildDate>2026-04-19</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>镜面海滩，塞古罗港，巴伊亚州，巴西 (© Marcelo Nacinovic/Getty Images)</title>
+      <link>https://cn.bing.com/th?id=OHR.TranBA_ZH-CN3467060262_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.TranBA_ZH-CN3467060262_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.TranBA_ZH-CN3467060262_UHD.jpg" type="image/jpg"/>
+      <description>镜面海滩，塞古罗港，巴伊亚州，巴西 (© Marcelo Nacinovic/Getty Images)</description>
+      <pubDate>2026-04-19</pubDate>
+    </item>
     <item>
       <title>摩艾石像采石场，拉诺拉拉库，复活节岛，智利 (© Gavin Hellier/Alamy)</title>
       <link>https://cn.bing.com/th?id=OHR.MaoiStatues_ZH-CN3219447748_UHD.jpg</link>
@@ -155,14 +163,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.ParadiseCave_ZH-CN6371627729_UHD.jpg" type="image/jpeg"/>
       <enclosure url="https://cn.bing.com/th?id=OHR.ParadiseCave_ZH-CN6371627729_UHD.jpg" type="image/jpg"/>
       <description>天堂洞, 峰牙-格邦国家公园, 越南 (© Pakawat Thongcharoen/Getty Images)</description>
-      <pubDate>2026-03-31</pubDate>
-    </item>
-    <item>
-      <title>天堂洞, 峰牙-格邦国家公园, ���南 (© Pakawat Thongcharoen/Getty Images)</title>
-      <link>https://cn.bing.com/th?id=OHR.ParadiseCave_ZH-CN6371627729_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.ParadiseCave_ZH-CN6371627729_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.ParadiseCave_ZH-CN6371627729_UHD.jpg" type="image/jpg"/>
-      <description>天堂洞, 峰牙-格邦国家公园, ���南 (© Pakawat Thongcharoen/Getty Images)</description>
       <pubDate>2026-03-31</pubDate>
     </item>
   </channel>
