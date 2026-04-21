@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2026-04-21</lastBuildDate>
+    <lastBuildDate>2026-04-22</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>阿拉姆-佩德亚自然保护区，塔尔图县，爱沙尼亚 (© Sven Zacek/Nature Picture Library)</title>
+      <link>https://cn.bing.com/th?id=OHR.TartuEstonia_ZH-CN5477370206_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.TartuEstonia_ZH-CN5477370206_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.TartuEstonia_ZH-CN5477370206_UHD.jpg" type="image/jpg"/>
+      <description>阿拉姆-佩德亚自然保护区，塔尔图县，爱沙尼亚 (© Sven Zacek/Nature Picture Library)</description>
+      <pubDate>2026-04-22</pubDate>
+    </item>
     <item>
       <title>西欧刺猬，法国 (© Klein &amp; Hubert/Nature Picture Library)</title>
       <link>https://cn.bing.com/th?id=OHR.SpringHedgehog_ZH-CN5232922916_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.ArmbrugBridge_ZH-CN4600005169_UHD.jpg" type="image/jpg"/>
       <description>阿姆布鲁大桥，阿姆斯特丹，荷兰 (© Alexander Spatari/Getty Images)</description>
       <pubDate>2026-04-03</pubDate>
-    </item>
-    <item>
-      <title>野花绽放, 中央谷地, 加利福尼亚州, 美国 (© Jeff Lewis/Tandem Stills + Motion)</title>
-      <link>https://cn.bing.com/th?id=OHR.WildflowerValley_ZH-CN7048300331_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.WildflowerValley_ZH-CN7048300331_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.WildflowerValley_ZH-CN7048300331_UHD.jpg" type="image/jpg"/>
-      <description>野花绽放, 中央谷地, 加利福尼亚州, 美国 (© Jeff Lewis/Tandem Stills + Motion)</description>
-      <pubDate>2026-04-02</pubDate>
     </item>
   </channel>
 </rss>
