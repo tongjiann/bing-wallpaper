@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2026-04-22</lastBuildDate>
+    <lastBuildDate>2026-04-23</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>安妮·海瑟薇的小屋与花园，埃文河畔斯特拉特，英格兰 (© David Steele/Shutterstock)</title>
+      <link>https://cn.bing.com/th?id=OHR.HathawayCottage_ZH-CN5558945636_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.HathawayCottage_ZH-CN5558945636_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.HathawayCottage_ZH-CN5558945636_UHD.jpg" type="image/jpg"/>
+      <description>安妮·海瑟薇的小屋与花园，埃文河畔斯特拉特，英格兰 (© David Steele/Shutterstock)</description>
+      <pubDate>2026-04-23</pubDate>
+    </item>
     <item>
       <title>阿拉姆-佩德亚自然保护区，塔尔图县，爱沙尼亚 (© Sven Zacek/Nature Picture Library)</title>
       <link>https://cn.bing.com/th?id=OHR.TartuEstonia_ZH-CN5477370206_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.GrouseGuff_ZH-CN2647001885_UHD.jpg" type="image/jpg"/>
       <description>求偶展示场上对峙的雄性黑琴鸡，爱沙尼亚 (© Sven Zacek/Nature Picture Library)</description>
       <pubDate>2026-04-04</pubDate>
-    </item>
-    <item>
-      <title>阿姆布鲁大桥，阿姆斯特丹，荷兰 (© Alexander Spatari/Getty Images)</title>
-      <link>https://cn.bing.com/th?id=OHR.ArmbrugBridge_ZH-CN4600005169_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.ArmbrugBridge_ZH-CN4600005169_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.ArmbrugBridge_ZH-CN4600005169_UHD.jpg" type="image/jpg"/>
-      <description>阿姆布鲁大桥，阿姆斯特丹，荷兰 (© Alexander Spatari/Getty Images)</description>
-      <pubDate>2026-04-03</pubDate>
     </item>
   </channel>
 </rss>
