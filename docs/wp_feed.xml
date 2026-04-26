@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2026-04-26</lastBuildDate>
+    <lastBuildDate>2026-04-27</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>维托里奥·埃马努埃莱二世拱廊的玻璃穹顶, 米兰, 意大利 (© PhillipMinnis/Getty Images)</title>
+      <link>https://cn.bing.com/th?id=OHR.MilanGalleria_ZH-CN6060869879_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.MilanGalleria_ZH-CN6060869879_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.MilanGalleria_ZH-CN6060869879_UHD.jpg" type="image/jpg"/>
+      <description>维托里奥·埃马努埃莱二世拱廊的玻璃穹顶, 米兰, 意大利 (© PhillipMinnis/Getty Images)</description>
+      <pubDate>2026-04-27</pubDate>
+    </item>
     <item>
       <title>粉红色的苹果花, 阿维拉海滩, 加利福尼亚州, 美国 (© Mimi Ditchie Photography/Getty Images)</title>
       <link>https://cn.bing.com/th?id=OHR.AppleBlossoms_ZH-CN5887711928_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.SeattleSunrise_ZH-CN2884575647_UHD.jpg" type="image/jpg"/>
       <description>西雅图，华盛顿州，美国 (© Jim Patterson/Tandem Stills + Motion)</description>
       <pubDate>2026-04-08</pubDate>
-    </item>
-    <item>
-      <title>河狸，德国 (© Andyworks/Getty Images)</title>
-      <link>https://cn.bing.com/th?id=OHR.BeaverPortrait_ZH-CN4700069789_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.BeaverPortrait_ZH-CN4700069789_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.BeaverPortrait_ZH-CN4700069789_UHD.jpg" type="image/jpg"/>
-      <description>河狸，德国 (© Andyworks/Getty Images)</description>
-      <pubDate>2026-04-07</pubDate>
     </item>
   </channel>
 </rss>
