@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2026-04-27</lastBuildDate>
+    <lastBuildDate>2026-04-28</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>眼镜熊在树上休息, 厄瓜多尔 (© Andy Rouse/Nature Picture Library)</title>
+      <link>https://cn.bing.com/th?id=OHR.AndeanBear_ZH-CN6152330738_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.AndeanBear_ZH-CN6152330738_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.AndeanBear_ZH-CN6152330738_UHD.jpg" type="image/jpg"/>
+      <description>眼镜熊在树上休息, 厄瓜多尔 (© Andy Rouse/Nature Picture Library)</description>
+      <pubDate>2026-04-28</pubDate>
+    </item>
     <item>
       <title>维托里奥·埃马努埃莱二世拱廊的玻璃穹顶, 米兰, 意大利 (© PhillipMinnis/Getty Images)</title>
       <link>https://cn.bing.com/th?id=OHR.MilanGalleria_ZH-CN6060869879_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.WalesWaterfall_ZH-CN3175091833_UHD.jpg" type="image/jpg"/>
       <description>雪落瀑布，布雷肯比肯斯国家公园，威尔士 (© Guy Edwardes/Nature Picture Library)</description>
       <pubDate>2026-04-09</pubDate>
-    </item>
-    <item>
-      <title>西雅图，华盛顿州，美国 (© Jim Patterson/Tandem Stills + Motion)</title>
-      <link>https://cn.bing.com/th?id=OHR.SeattleSunrise_ZH-CN2884575647_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.SeattleSunrise_ZH-CN2884575647_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.SeattleSunrise_ZH-CN2884575647_UHD.jpg" type="image/jpg"/>
-      <description>西雅图，华盛顿州，美国 (© Jim Patterson/Tandem Stills + Motion)</description>
-      <pubDate>2026-04-08</pubDate>
     </item>
   </channel>
 </rss>
