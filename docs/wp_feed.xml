@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2026-04-29</lastBuildDate>
+    <lastBuildDate>2026-04-30</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>葡萄风信子和郁金香, 库肯霍夫花园, 利塞, 荷兰 (© Martin Ruegner/Getty Images)</title>
+      <link>https://cn.bing.com/th?id=OHR.DutchTulips_ZH-CN6394892537_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.DutchTulips_ZH-CN6394892537_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.DutchTulips_ZH-CN6394892537_UHD.jpg" type="image/jpg"/>
+      <description>葡萄风信子和郁金香, 库肯霍夫花园, 利塞, 荷兰 (© Martin Ruegner/Getty Images)</description>
+      <pubDate>2026-04-30</pubDate>
+    </item>
     <item>
       <title>塔霍河岸边的贝伦塔, 里斯本, 葡萄牙 (© f9photos/Getty Images)</title>
       <link>https://cn.bing.com/th?id=OHR.BelemTowerBank_ZH-CN6235906597_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.PlayaPapagayo_ZH-CN7708804019_UHD.jpg" type="image/jpg"/>
       <description>帕帕加约海滩, 兰萨罗特, 加那利群岛, 西班牙 (© Gavin Hellier/Getty Images)</description>
       <pubDate>2026-04-11</pubDate>
-    </item>
-    <item>
-      <title>卡鲁拉国家公园的两只幼年赤狐, 爱沙尼亚 (© Sven Zacek/Nature Picture Library)</title>
-      <link>https://cn.bing.com/th?id=OHR.FoxSiblings_ZH-CN8133856518_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.FoxSiblings_ZH-CN8133856518_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.FoxSiblings_ZH-CN8133856518_UHD.jpg" type="image/jpg"/>
-      <description>卡鲁拉国家公园的两只幼年赤狐, 爱沙尼亚 (© Sven Zacek/Nature Picture Library)</description>
-      <pubDate>2026-04-10</pubDate>
     </item>
   </channel>
 </rss>
