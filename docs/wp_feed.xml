@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2026-04-30</lastBuildDate>
+    <lastBuildDate>2026-05-01</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>中国的长城 (© aphotostory/Getty Images)</title>
+      <link>https://cn.bing.com/th?id=OHR.MayLaborDayY26_ZH-CN7554485395_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.MayLaborDayY26_ZH-CN7554485395_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.MayLaborDayY26_ZH-CN7554485395_UHD.jpg" type="image/jpg"/>
+      <description>中国的长城 (© aphotostory/Getty Images)</description>
+      <pubDate>2026-05-01</pubDate>
+    </item>
     <item>
       <title>葡萄风信子和郁金香, 库肯霍夫花园, 利塞, 荷兰 (© Martin Ruegner/Getty Images)</title>
       <link>https://cn.bing.com/th?id=OHR.DutchTulips_ZH-CN6394892537_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.SpaceTrails_ZH-CN8377463217_UHD.jpg" type="image/jpg"/>
       <description>城市灯光在下方划过, 拍摄于国际空间站 (© NASA)</description>
       <pubDate>2026-04-12</pubDate>
-    </item>
-    <item>
-      <title>帕帕加约海滩, 兰萨罗特, 加那利群岛, 西班牙 (© Gavin Hellier/Getty Images)</title>
-      <link>https://cn.bing.com/th?id=OHR.PlayaPapagayo_ZH-CN7708804019_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.PlayaPapagayo_ZH-CN7708804019_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.PlayaPapagayo_ZH-CN7708804019_UHD.jpg" type="image/jpg"/>
-      <description>帕帕加约海滩, 兰萨罗特, 加那利群岛, 西班牙 (© Gavin Hellier/Getty Images)</description>
-      <pubDate>2026-04-11</pubDate>
     </item>
   </channel>
 </rss>
