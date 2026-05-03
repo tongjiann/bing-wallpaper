@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2026-05-03</lastBuildDate>
+    <lastBuildDate>2026-05-04</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>乌莱德·索尔坦克萨尔，塔塔温区，突尼斯南部 (© Dark_Eni/Getty Images Plus)</title>
+      <link>https://cn.bing.com/th?id=OHR.KsarOuledSoltane_ZH-CN3569810663_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.KsarOuledSoltane_ZH-CN3569810663_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.KsarOuledSoltane_ZH-CN3569810663_UHD.jpg" type="image/jpg"/>
+      <description>乌莱德·索尔坦克萨尔，塔塔温区，突尼斯南部 (© Dark_Eni/Getty Images Plus)</description>
+      <pubDate>2026-05-04</pubDate>
+    </item>
     <item>
       <title>萨瓦纳草原的树上睡觉的豹子，马���马拉国家保护区，肯尼亚 (© Klein &amp; Hubert/Nature Picture Library)</title>
       <link>https://cn.bing.com/th?id=OHR.MasaiLeopard_ZH-CN3406483238_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.SkagitTulips_ZH-CN4234324174_UHD.jpg" type="image/jpg"/>
       <description>斯卡吉特谷地郁金香花田, 华盛顿, 美国 (© Alan Majchrowicz/Getty Images)</description>
       <pubDate>2026-04-16</pubDate>
-    </item>
-    <item>
-      <title>光之采石场的文森特·梵高展览, 莱博德普罗旺斯, 法国 (© Patrick Aventurier/Getty Images)</title>
-      <link>https://cn.bing.com/th?id=OHR.VanGoghFields_ZH-CN3495668941_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.VanGoghFields_ZH-CN3495668941_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.VanGoghFields_ZH-CN3495668941_UHD.jpg" type="image/jpg"/>
-      <description>光之采石场的文森特·梵高展览, 莱博德普罗旺斯, 法国 (© Patrick Aventurier/Getty Images)</description>
-      <pubDate>2026-04-15</pubDate>
     </item>
   </channel>
 </rss>
