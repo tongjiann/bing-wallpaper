@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2026-05-05</lastBuildDate>
+    <lastBuildDate>2026-05-06</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>平原上空的雷暴，保加利亚 (© Revolu7ion93/Getty Images)</title>
+      <link>https://cn.bing.com/th?id=OHR.BulgariaPlains_ZH-CN3853985252_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.BulgariaPlains_ZH-CN3853985252_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.BulgariaPlains_ZH-CN3853985252_UHD.jpg" type="image/jpg"/>
+      <description>平原上空的雷暴，保加利亚 (© Revolu7ion93/Getty Images)</description>
+      <pubDate>2026-05-06</pubDate>
+    </item>
     <item>
       <title>莲花与莲花植株 (© real444/Getty Images)</title>
       <link>https://cn.bing.com/th?id=OHR.BeginningofSummerY26_ZH-CN7628545617_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.MaoiStatues_ZH-CN3219447748_UHD.jpg" type="image/jpg"/>
       <description>摩艾石像采石场，拉诺拉拉库，复活节岛，智利 (© Gavin Hellier/Alamy)</description>
       <pubDate>2026-04-18</pubDate>
-    </item>
-    <item>
-      <title>灰头狐蝠母亲携幼崽，雅拉湾国家公园，澳大利亚 (© Doug Gimesy/Nature Picture Library)</title>
-      <link>https://cn.bing.com/th?id=OHR.FlyingFoxMom_ZH-CN2913012516_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.FlyingFoxMom_ZH-CN2913012516_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.FlyingFoxMom_ZH-CN2913012516_UHD.jpg" type="image/jpg"/>
-      <description>灰头狐蝠母亲携幼崽，雅拉湾国家公园，澳大利亚 (© Doug Gimesy/Nature Picture Library)</description>
-      <pubDate>2026-04-17</pubDate>
     </item>
   </channel>
 </rss>
