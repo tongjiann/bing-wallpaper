@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2026-05-07</lastBuildDate>
+    <lastBuildDate>2026-05-08</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>撒丁岛母驴和幼崽, 法国 (© Klein &amp; Hubert/Nature Picture Library)</title>
+      <link>https://cn.bing.com/th?id=OHR.SardinianDonkey_ZH-CN0758031524_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.SardinianDonkey_ZH-CN0758031524_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.SardinianDonkey_ZH-CN0758031524_UHD.jpg" type="image/jpg"/>
+      <description>撒丁岛母驴和幼崽, 法国 (© Klein &amp; Hubert/Nature Picture Library)</description>
+      <pubDate>2026-05-08</pubDate>
+    </item>
     <item>
       <title>科法国家野生动物保护区，亚利桑那州，美国 (© Denis Tangney Jr/Getty Images)</title>
       <link>https://cn.bing.com/th?id=OHR.Kofa_ZH-CN0584573563_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.SunsetKiva_ZH-CN3978606378_UHD.jpg" type="image/jpg"/>
       <description>夕阳下的峡谷地国家公园，莫阿布，犹他州，美国 (© Jason Hatfield/Tandem Stills + Motion)</description>
       <pubDate>2026-04-20</pubDate>
-    </item>
-    <item>
-      <title>镜面海滩，塞古罗港，巴伊亚州，巴西 (© Marcelo Nacinovic/Getty Images)</title>
-      <link>https://cn.bing.com/th?id=OHR.TranBA_ZH-CN3467060262_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.TranBA_ZH-CN3467060262_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.TranBA_ZH-CN3467060262_UHD.jpg" type="image/jpg"/>
-      <description>镜面海滩，塞古罗港，巴伊亚州，巴西 (© Marcelo Nacinovic/Getty Images)</description>
-      <pubDate>2026-04-19</pubDate>
     </item>
   </channel>
 </rss>
