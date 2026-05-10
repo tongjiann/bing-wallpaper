@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2026-05-10</lastBuildDate>
+    <lastBuildDate>2026-05-11</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>从上方俯瞰大堡礁, 昆士兰州, 澳大利亚 (© Francesco Riccardo Iacomino/Getty Images)</title>
+      <link>https://cn.bing.com/th?id=OHR.QueenslandReef_ZH-CN1138150002_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.QueenslandReef_ZH-CN1138150002_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.QueenslandReef_ZH-CN1138150002_UHD.jpg" type="image/jpg"/>
+      <description>从上方俯瞰大堡礁, 昆士兰州, 澳大利亚 (© Francesco Riccardo Iacomino/Getty Images)</description>
+      <pubDate>2026-05-11</pubDate>
+    </item>
     <item>
       <title>北极熊妈妈和幼崽在瓦普斯克国家公园玩耍, 马尼托巴省, 加拿大 (© Hao Jiang/Getty Images)</title>
       <link>https://cn.bing.com/th?id=OHR.MotherCub_ZH-CN0999123163_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.HathawayCottage_ZH-CN5558945636_UHD.jpg" type="image/jpg"/>
       <description>安妮·海瑟薇的小屋与花园，埃文河畔斯特拉特，英格兰 (© David Steele/Shutterstock)</description>
       <pubDate>2026-04-23</pubDate>
-    </item>
-    <item>
-      <title>阿拉姆-佩德亚自然保护区，塔尔图县，爱沙尼亚 (© Sven Zacek/Nature Picture Library)</title>
-      <link>https://cn.bing.com/th?id=OHR.TartuEstonia_ZH-CN5477370206_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.TartuEstonia_ZH-CN5477370206_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.TartuEstonia_ZH-CN5477370206_UHD.jpg" type="image/jpg"/>
-      <description>阿拉姆-佩德亚自然保护区，塔尔图县，爱沙尼亚 (© Sven Zacek/Nature Picture Library)</description>
-      <pubDate>2026-04-22</pubDate>
     </item>
   </channel>
 </rss>
