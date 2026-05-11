@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2026-05-11</lastBuildDate>
+    <lastBuildDate>2026-05-12</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>北极海鹦, 威尔士 (© FLPA/Alamy)</title>
+      <link>https://cn.bing.com/th?id=OHR.Fratercula_ZH-CN1239275412_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.Fratercula_ZH-CN1239275412_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.Fratercula_ZH-CN1239275412_UHD.jpg" type="image/jpg"/>
+      <description>北极海鹦, 威尔士 (© FLPA/Alamy)</description>
+      <pubDate>2026-05-12</pubDate>
+    </item>
     <item>
       <title>从上方俯瞰大堡礁, 昆士兰州, 澳大利亚 (© Francesco Riccardo Iacomino/Getty Images)</title>
       <link>https://cn.bing.com/th?id=OHR.QueenslandReef_ZH-CN1138150002_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.SlashPine_ZH-CN5629388290_UHD.jpg" type="image/jpg"/>
       <description>湿地松和锯棕榈组成的森林吊床, 大沼泽地国家公园, 佛罗里达, 美国 (© Mary Liz Austin/Alamy)</description>
       <pubDate>2026-04-24</pubDate>
-    </item>
-    <item>
-      <title>安妮·海瑟薇的小屋与花园，埃文河畔斯特拉特，英格兰 (© David Steele/Shutterstock)</title>
-      <link>https://cn.bing.com/th?id=OHR.HathawayCottage_ZH-CN5558945636_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.HathawayCottage_ZH-CN5558945636_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.HathawayCottage_ZH-CN5558945636_UHD.jpg" type="image/jpg"/>
-      <description>安妮·海瑟薇的小屋与花园，埃文河畔斯特拉特，英格兰 (© David Steele/Shutterstock)</description>
-      <pubDate>2026-04-23</pubDate>
     </item>
   </channel>
 </rss>
