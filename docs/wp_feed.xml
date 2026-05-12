@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2026-05-12</lastBuildDate>
+    <lastBuildDate>2026-05-13</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>拱门与银河, 阿拉巴马山, 内华达山脉, 加利福尼亚州, 美国 (© Tim Fitzharris/Minden Pictures)</title>
+      <link>https://cn.bing.com/th?id=OHR.AlabamaHills_ZH-CN1387018045_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.AlabamaHills_ZH-CN1387018045_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.AlabamaHills_ZH-CN1387018045_UHD.jpg" type="image/jpg"/>
+      <description>拱门与银河, 阿拉巴马山, 内华达山脉, 加利福尼亚州, 美国 (© Tim Fitzharris/Minden Pictures)</description>
+      <pubDate>2026-05-13</pubDate>
+    </item>
     <item>
       <title>北极海鹦, 威尔士 (© FLPA/Alamy)</title>
       <link>https://cn.bing.com/th?id=OHR.Fratercula_ZH-CN1239275412_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.GalapagosPenguins_ZH-CN5791845489_UHD.jpg" type="image/jpg"/>
       <description>加拉帕戈斯企鹅游泳, 加拉帕戈斯群岛, 厄瓜多尔 (© Henley Spiers/Nature Picture Library)</description>
       <pubDate>2026-04-25</pubDate>
-    </item>
-    <item>
-      <title>湿地松和锯棕榈组成的森林吊床, 大沼泽地国家公园, 佛罗里达, 美国 (© Mary Liz Austin/Alamy)</title>
-      <link>https://cn.bing.com/th?id=OHR.SlashPine_ZH-CN5629388290_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.SlashPine_ZH-CN5629388290_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.SlashPine_ZH-CN5629388290_UHD.jpg" type="image/jpg"/>
-      <description>湿地松和锯棕榈组成的森林吊床, 大沼泽地国家公园, 佛罗里达, 美国 (© Mary Liz Austin/Alamy)</description>
-      <pubDate>2026-04-24</pubDate>
     </item>
   </channel>
 </rss>
