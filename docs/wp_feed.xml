@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2026-05-14</lastBuildDate>
+    <lastBuildDate>2026-05-15</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>一群抹香鲸, 印度洋 (© Tony Wu/Nature Picture Library)</title>
+      <link>https://cn.bing.com/th?id=OHR.EndangeredWhales_ZH-CN4053106967_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.EndangeredWhales_ZH-CN4053106967_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.EndangeredWhales_ZH-CN4053106967_UHD.jpg" type="image/jpg"/>
+      <description>一群抹香鲸, 印度洋 (© Tony Wu/Nature Picture Library)</description>
+      <pubDate>2026-05-15</pubDate>
+    </item>
     <item>
       <title>中世纪古镇皮蒂利亚诺, 托斯卡纳, 意大利 (© bluejayphoto/Getty Images Plus)</title>
       <link>https://cn.bing.com/th?id=OHR.Pitigliano_ZH-CN1509921892_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.MilanGalleria_ZH-CN6060869879_UHD.jpg" type="image/jpg"/>
       <description>维托里奥·埃马努埃莱二世拱廊的玻璃穹顶, 米兰, 意大利 (© PhillipMinnis/Getty Images)</description>
       <pubDate>2026-04-27</pubDate>
-    </item>
-    <item>
-      <title>粉红色的苹果花, 阿维拉海滩, 加利福尼亚州, 美国 (© Mimi Ditchie Photography/Getty Images)</title>
-      <link>https://cn.bing.com/th?id=OHR.AppleBlossoms_ZH-CN5887711928_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.AppleBlossoms_ZH-CN5887711928_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.AppleBlossoms_ZH-CN5887711928_UHD.jpg" type="image/jpg"/>
-      <description>粉红色的苹果花, 阿维拉海滩, 加利福尼亚州, 美国 (© Mimi Ditchie Photography/Getty Images)</description>
-      <pubDate>2026-04-26</pubDate>
     </item>
   </channel>
 </rss>
