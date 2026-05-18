@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2026-05-18</lastBuildDate>
+    <lastBuildDate>2026-05-19</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>福门托尔灯塔, 马略卡, 巴利阿里群岛, 西班牙 (© Allard Schager/Getty Images)</title>
+      <link>https://cn.bing.com/th?id=OHR.SpainLighthouse_ZH-CN6024263415_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.SpainLighthouse_ZH-CN6024263415_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.SpainLighthouse_ZH-CN6024263415_UHD.jpg" type="image/jpg"/>
+      <description>福门托尔灯塔, 马略卡, 巴利阿里群岛, 西班牙 (© Allard Schager/Getty Images)</description>
+      <pubDate>2026-05-19</pubDate>
+    </item>
     <item>
       <title>伦敦自然历史博物馆, 英格兰 (© Colm Keating/Tandem Stills + Motion)</title>
       <link>https://cn.bing.com/th?id=OHR.MuseumLondon_ZH-CN5602977820_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.MayLaborDayY26_ZH-CN7554485395_UHD.jpg" type="image/jpg"/>
       <description>中国的长城 (© aphotostory/Getty Images)</description>
       <pubDate>2026-05-01</pubDate>
-    </item>
-    <item>
-      <title>葡萄风信子和郁金香, 库肯霍夫花园, 利塞, 荷兰 (© Martin Ruegner/Getty Images)</title>
-      <link>https://cn.bing.com/th?id=OHR.DutchTulips_ZH-CN6394892537_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.DutchTulips_ZH-CN6394892537_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.DutchTulips_ZH-CN6394892537_UHD.jpg" type="image/jpg"/>
-      <description>葡萄风信子和郁金香, 库肯霍夫花园, 利塞, 荷兰 (© Martin Ruegner/Getty Images)</description>
-      <pubDate>2026-04-30</pubDate>
     </item>
   </channel>
 </rss>
