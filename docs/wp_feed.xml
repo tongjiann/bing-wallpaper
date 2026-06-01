@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2026-06-01</lastBuildDate>
+    <lastBuildDate>2026-06-02</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>穿越西台吉乃尔湖的公路，青海省，中国 (© Kaicheng Xu/Getty Images)</title>
+      <link>https://cn.bing.com/th?id=OHR.Qinghai_ZH-CN9899656327_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.Qinghai_ZH-CN9899656327_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.Qinghai_ZH-CN9899656327_UHD.jpg" type="image/jpg"/>
+      <description>穿越西台吉乃尔湖的公路，青海省，中国 (© Kaicheng Xu/Getty Images)</description>
+      <pubDate>2026-06-02</pubDate>
+    </item>
     <item>
       <title>巴勒莫暮色下的天际线，西西里岛，意大利 (© Sean Pavone/Getty Images)</title>
       <link>https://cn.bing.com/th?id=OHR.OlivaPalermo_ZH-CN9639920195_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.Pitigliano_ZH-CN1509921892_UHD.jpg" type="image/jpg"/>
       <description>中世纪古镇皮蒂利亚诺, 托斯卡纳, 意大利 (© bluejayphoto/Getty Images Plus)</description>
       <pubDate>2026-05-14</pubDate>
-    </item>
-    <item>
-      <title>拱门与银河, 阿拉巴马山, 内华达山脉, 加利福尼亚州, 美国 (© Tim Fitzharris/Minden Pictures)</title>
-      <link>https://cn.bing.com/th?id=OHR.AlabamaHills_ZH-CN1387018045_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.AlabamaHills_ZH-CN1387018045_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.AlabamaHills_ZH-CN1387018045_UHD.jpg" type="image/jpg"/>
-      <description>拱门与银河, 阿拉巴马山, 内华达山脉, 加利福尼亚州, 美国 (© Tim Fitzharris/Minden Pictures)</description>
-      <pubDate>2026-05-13</pubDate>
     </item>
   </channel>
 </rss>
