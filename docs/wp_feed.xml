@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2026-06-02</lastBuildDate>
+    <lastBuildDate>2026-06-03</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>骑行者，巴德纳斯雷亚莱斯自然公园与生物圈保护区，纳瓦拉，西班牙 (© Artur Debat/Getty Images)</title>
+      <link>https://cn.bing.com/th?id=OHR.BardenasReales_ZH-CN0480548935_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.BardenasReales_ZH-CN0480548935_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.BardenasReales_ZH-CN0480548935_UHD.jpg" type="image/jpg"/>
+      <description>骑行者，巴德纳斯雷亚莱斯自然公园与生物圈保护区，纳瓦拉，西班牙 (© Artur Debat/Getty Images)</description>
+      <pubDate>2026-06-03</pubDate>
+    </item>
     <item>
       <title>穿越西台吉乃尔湖的公路，青海省，中国 (© Kaicheng Xu/Getty Images)</title>
       <link>https://cn.bing.com/th?id=OHR.Qinghai_ZH-CN7745288142_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.SmithRockPark_ZH-CN4210144402_UHD.jpg" type="image/jpg"/>
       <description>史密斯岩州立公园, 俄勒冈州, 美国 (© Alex Ratson/Getty Images)</description>
       <pubDate>2026-05-16</pubDate>
-    </item>
-    <item>
-      <title>一群抹香鲸, 印度洋 (© Tony Wu/Nature Picture Library)</title>
-      <link>https://cn.bing.com/th?id=OHR.EndangeredWhales_ZH-CN4053106967_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.EndangeredWhales_ZH-CN4053106967_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.EndangeredWhales_ZH-CN4053106967_UHD.jpg" type="image/jpg"/>
-      <description>一群抹香鲸, 印度洋 (© Tony Wu/Nature Picture Library)</description>
-      <pubDate>2026-05-15</pubDate>
     </item>
   </channel>
 </rss>
