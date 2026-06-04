@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2026-06-04</lastBuildDate>
+    <lastBuildDate>2026-06-05</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>从斯基尔夫山俯瞰拉帕达伦河三角洲, 萨雷克国家公园, 拉波尼亚, 瑞典拉普兰 (© Robert Haasmann/Getty Images)</title>
+      <link>https://cn.bing.com/th?id=OHR.WedLapland_ZH-CN2365942547_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.WedLapland_ZH-CN2365942547_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.WedLapland_ZH-CN2365942547_UHD.jpg" type="image/jpg"/>
+      <description>从斯基尔夫山俯瞰拉帕达伦河三角洲, 萨雷克国家公园, 拉波尼亚, 瑞典拉普兰 (© Robert Haasmann/Getty Images)</description>
+      <pubDate>2026-06-05</pubDate>
+    </item>
     <item>
       <title>梳理羽毛的雪鹭，佛罗里达州中部，美国 (© Donald M. Jones/Minden Pictures)</title>
       <link>https://cn.bing.com/th?id=OHR.PreeningEgret_ZH-CN2216012708_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.MuseumLondon_ZH-CN5602977820_UHD.jpg" type="image/jpg"/>
       <description>伦敦自然历史博物馆, 英格兰 (© Colm Keating/Tandem Stills + Motion)</description>
       <pubDate>2026-05-18</pubDate>
-    </item>
-    <item>
-      <title>仙纳度国家公园的玳瑁峰, 弗吉尼亚州, 美国 (© John Baggaley/Getty Images)</title>
-      <link>https://cn.bing.com/th?id=OHR.ShenandoahSunset_ZH-CN4399136794_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.ShenandoahSunset_ZH-CN4399136794_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.ShenandoahSunset_ZH-CN4399136794_UHD.jpg" type="image/jpg"/>
-      <description>仙纳度国家公园的玳瑁峰, 弗吉尼亚州, 美国 (© John Baggaley/Getty Images)</description>
-      <pubDate>2026-05-17</pubDate>
     </item>
   </channel>
 </rss>
