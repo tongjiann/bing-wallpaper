@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2026-06-07</lastBuildDate>
+    <lastBuildDate>2026-06-08</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>在海洋中游动的狮鬃水母 (© Alexander Semenov Images/Shutterstock)</title>
+      <link>https://cn.bing.com/th?id=OHR.Cyanea_ZH-CN3858079050_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.Cyanea_ZH-CN3858079050_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.Cyanea_ZH-CN3858079050_UHD.jpg" type="image/jpg"/>
+      <description>在海洋中游动的狮鬃水母 (© Alexander Semenov Images/Shutterstock)</description>
+      <pubDate>2026-06-08</pubDate>
+    </item>
     <item>
       <title>邓塞弗里克城堡遗址, 安特里姆郡, 北爱尔兰 (© Krzysztof Rogalski/Getty Images)</title>
       <link>https://cn.bing.com/th?id=OHR.DunseverickCastle2026_ZH-CN3036266326_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.SichuanTea_ZH-CN6703437873_UHD.jpg" type="image/jpg"/>
       <description>四川省的茶梯田, 中国 (© lzf/Shutterstock)</description>
       <pubDate>2026-05-21</pubDate>
-    </item>
-    <item>
-      <title>熊蜂在授粉, 伍斯特, 英格兰 (© SimonEastwood87/Shutterstock)</title>
-      <link>https://cn.bing.com/th?id=OHR.BumbleBee_ZH-CN6429376340_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.BumbleBee_ZH-CN6429376340_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.BumbleBee_ZH-CN6429376340_UHD.jpg" type="image/jpg"/>
-      <description>熊蜂在授粉, 伍斯特, 英格兰 (© SimonEastwood87/Shutterstock)</description>
-      <pubDate>2026-05-20</pubDate>
     </item>
   </channel>
 </rss>
