@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2026-06-08</lastBuildDate>
+    <lastBuildDate>2026-06-09</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>韦尔纳扎, 五渔村, 利古里亚, 意大利 (© Kelly Cheng/Getty Images)</title>
+      <link>https://cn.bing.com/th?id=OHR.CTNPVernazza_ZH-CN3971102271_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.CTNPVernazza_ZH-CN3971102271_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.CTNPVernazza_ZH-CN3971102271_UHD.jpg" type="image/jpg"/>
+      <description>韦尔纳扎, 五渔村, 利古里亚, 意大利 (© Kelly Cheng/Getty Images)</description>
+      <pubDate>2026-06-09</pubDate>
+    </item>
     <item>
       <title>在海洋中游动的狮鬃水母 (© Alexander Semenov Images/Shutterstock)</title>
       <link>https://cn.bing.com/th?id=OHR.Cyanea_ZH-CN3858079050_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.KauehiAtollLagoon_ZH-CN9552036080_UHD.jpg" type="image/jpg"/>
       <description>埃希环礁，土阿莫土群岛，法属波利尼西亚 (© WaterFrame_dpr/Alamy)</description>
       <pubDate>2026-05-22</pubDate>
-    </item>
-    <item>
-      <title>四川省的茶梯田, 中国 (© lzf/Shutterstock)</title>
-      <link>https://cn.bing.com/th?id=OHR.SichuanTea_ZH-CN6703437873_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.SichuanTea_ZH-CN6703437873_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.SichuanTea_ZH-CN6703437873_UHD.jpg" type="image/jpg"/>
-      <description>四川省的茶梯田, 中国 (© lzf/Shutterstock)</description>
-      <pubDate>2026-05-21</pubDate>
     </item>
   </channel>
 </rss>
