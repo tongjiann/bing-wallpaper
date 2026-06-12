@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2026-06-12</lastBuildDate>
+    <lastBuildDate>2026-06-13</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>落日，恶地国家公园，南达科他州，美国 (© Troy Harrison/Getty Images)</title>
+      <link>https://cn.bing.com/th?id=OHR.BadSunset_ZH-CN9050997938_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.BadSunset_ZH-CN9050997938_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.BadSunset_ZH-CN9050997938_UHD.jpg" type="image/jpg"/>
+      <description>落日，恶地国家公园，南达科他州，美国 (© Troy Harrison/Getty Images)</description>
+      <pubDate>2026-06-13</pubDate>
+    </item>
     <item>
       <title>黄喉蜂虎，格拉萨莱马山自然公园，加的斯，西班牙 (© Andres M. Dominguez/Nature Picture Library)</title>
       <link>https://cn.bing.com/th?id=OHR.SpainBeeEater_ZH-CN4424052851_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.LupineBloom_ZH-CN7639721663_UHD.jpg" type="image/jpg"/>
       <description>盛开的羽扇豆，北加利福尼亚州，美国 (© Jeffrey Lewis/Tandem Stills + Motion)</description>
       <pubDate>2026-05-26</pubDate>
-    </item>
-    <item>
-      <title>从风之宫殿俯瞰斋浦尔市景，拉贾斯坦邦，印度 (© byheaven/Getty Images)</title>
-      <link>https://cn.bing.com/th?id=OHR.HawaMahal2026_ZH-CN7233246545_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.HawaMahal2026_ZH-CN7233246545_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.HawaMahal2026_ZH-CN7233246545_UHD.jpg" type="image/jpg"/>
-      <description>从风之宫殿俯瞰斋浦尔市景，拉贾斯坦邦，印度 (© byheaven/Getty Images)</description>
-      <pubDate>2026-05-25</pubDate>
     </item>
   </channel>
 </rss>
