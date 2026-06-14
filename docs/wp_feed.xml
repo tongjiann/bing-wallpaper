@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2026-06-14</lastBuildDate>
+    <lastBuildDate>2026-06-15</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>大烟山国家公园，田纳西州，美国 (© Mint Images/Getty Images)</title>
+      <link>https://cn.bing.com/th?id=OHR.ParkEstd_ZH-CN3419035151_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.ParkEstd_ZH-CN3419035151_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.ParkEstd_ZH-CN3419035151_UHD.jpg" type="image/jpg"/>
+      <description>大烟山国家公园，田纳西州，美国 (© Mint Images/Getty Images)</description>
+      <pubDate>2026-06-15</pubDate>
+    </item>
     <item>
       <title>绿头鸭 (© Philippe Paternolli/Getty Images)</title>
       <link>https://cn.bing.com/th?id=OHR.DuckPond_ZH-CN1683101997_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.HwaesongFortress_ZH-CN8225341972_UHD.jpg" type="image/jpg"/>
       <description>华城堡的古城墙，水原，韩国 (© aomam/Getty Images)</description>
       <pubDate>2026-05-28</pubDate>
-    </item>
-    <item>
-      <title>海獭，霍默卡奇马克湾，阿拉斯加州，美国 (© roclwyr/Getty Images)</title>
-      <link>https://cn.bing.com/th?id=OHR.OtterDay_ZH-CN7735013625_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.OtterDay_ZH-CN7735013625_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.OtterDay_ZH-CN7735013625_UHD.jpg" type="image/jpg"/>
-      <description>海獭，霍默卡奇马克湾，阿拉斯加州，美国 (© roclwyr/Getty Images)</description>
-      <pubDate>2026-05-27</pubDate>
     </item>
   </channel>
 </rss>
