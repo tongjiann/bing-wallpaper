@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2026-06-17</lastBuildDate>
+    <lastBuildDate>2026-06-18</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>萨克赛瓦曼遗址俯瞰图，库斯科，秘鲁 (© Creative-Family/Getty Images Plus)</title>
+      <link>https://cn.bing.com/th?id=OHR.Saqsaywaman_ZH-CN2584038469_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.Saqsaywaman_ZH-CN2584038469_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.Saqsaywaman_ZH-CN2584038469_UHD.jpg" type="image/jpg"/>
+      <description>萨克赛瓦曼遗址俯瞰图，库斯科，秘鲁 (© Creative-Family/Getty Images Plus)</description>
+      <pubDate>2026-06-18</pubDate>
+    </item>
     <item>
       <title>特雷莫拉公路在圣哥达山口，艾罗洛，瑞士 (© Sandro Bisaro/Getty Images)</title>
       <link>https://cn.bing.com/th?id=OHR.TremolaRoad_ZH-CN8810749250_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.EvergladesWetlands_ZH-CN9515366484_UHD.jpg" type="image/jpg"/>
       <description>大沼泽地国家公园航拍景观，佛罗里达州，美国 (© Tetra Images/Getty Images)</description>
       <pubDate>2026-05-31</pubDate>
-    </item>
-    <item>
-      <title>平原斑马幼崽，埃托沙国家公园，纳米比亚 (© Sharon Heald/Nature Picture Library)</title>
-      <link>https://cn.bing.com/th?id=OHR.EquusQuagga_ZH-CN9323988132_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.EquusQuagga_ZH-CN9323988132_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.EquusQuagga_ZH-CN9323988132_UHD.jpg" type="image/jpg"/>
-      <description>平原斑马幼崽，埃托沙国家公园，纳米比亚 (© Sharon Heald/Nature Picture Library)</description>
-      <pubDate>2026-05-30</pubDate>
     </item>
   </channel>
 </rss>
