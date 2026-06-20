@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2026-06-20</lastBuildDate>
+    <lastBuildDate>2026-06-21</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>企鹅爸爸正在检查蛋的情况 (© McDonald Wildlife Photography Inc./Getty Images)</title>
+      <link>https://cn.bing.com/th?id=OHR.EggDad_ZH-CN6045387630_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.EggDad_ZH-CN6045387630_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.EggDad_ZH-CN6045387630_UHD.jpg" type="image/jpg"/>
+      <description>企鹅爸爸正在检查蛋的情况 (© McDonald Wildlife Photography Inc./Getty Images)</description>
+      <pubDate>2026-06-21</pubDate>
+    </item>
     <item>
       <title>漂浮在南极半岛西部海域的拱形冰山, 南大洋 (© Steven Kazlowski/Nature Picture Library)</title>
       <link>https://cn.bing.com/th?id=OHR.ArchedIceberg_ZH-CN2698040371_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.PreeningEgret_ZH-CN2216012708_UHD.jpg" type="image/jpg"/>
       <description>梳理羽毛的雪鹭，佛罗里达州中部，美国 (© Donald M. Jones/Minden Pictures)</description>
       <pubDate>2026-06-04</pubDate>
-    </item>
-    <item>
-      <title>骑行者，巴德纳斯雷亚莱斯自然公园与生物圈保护区，纳瓦拉，西班牙 (© Artur Debat/Getty Images)</title>
-      <link>https://cn.bing.com/th?id=OHR.BardenasReales_ZH-CN0480548935_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.BardenasReales_ZH-CN0480548935_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.BardenasReales_ZH-CN0480548935_UHD.jpg" type="image/jpg"/>
-      <description>骑行者，巴德纳斯雷亚莱斯自然公园与生物圈保护区，纳瓦拉，西班牙 (© Artur Debat/Getty Images)</description>
-      <pubDate>2026-06-03</pubDate>
     </item>
   </channel>
 </rss>
