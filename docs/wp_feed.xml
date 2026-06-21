@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2026-06-21</lastBuildDate>
+    <lastBuildDate>2026-06-22</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>奎诺尔特雨林, 奥林匹克国家公园, 华盛顿州, 美国 (© Chris Moore/Tandem Stills + Motion)</title>
+      <link>https://cn.bing.com/th?id=OHR.QuinaultFerns_ZH-CN6696428927_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.QuinaultFerns_ZH-CN6696428927_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.QuinaultFerns_ZH-CN6696428927_UHD.jpg" type="image/jpg"/>
+      <description>奎诺尔特雨林, 奥林匹克国家公园, 华盛顿州, 美国 (© Chris Moore/Tandem Stills + Motion)</description>
+      <pubDate>2026-06-22</pubDate>
+    </item>
     <item>
       <title>企鹅爸爸正在检查蛋的情况 (© McDonald Wildlife Photography Inc./Getty Images)</title>
       <link>https://cn.bing.com/th?id=OHR.EggDad_ZH-CN6045387630_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.WedLapland_ZH-CN2365942547_UHD.jpg" type="image/jpg"/>
       <description>从斯基尔夫山俯瞰拉帕达伦河三角洲, 萨雷克国家公园, 拉波尼亚, 瑞典拉普兰 (© Robert Haasmann/Getty Images)</description>
       <pubDate>2026-06-05</pubDate>
-    </item>
-    <item>
-      <title>梳理羽毛的雪鹭，佛罗里达州中部，美国 (© Donald M. Jones/Minden Pictures)</title>
-      <link>https://cn.bing.com/th?id=OHR.PreeningEgret_ZH-CN2216012708_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.PreeningEgret_ZH-CN2216012708_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.PreeningEgret_ZH-CN2216012708_UHD.jpg" type="image/jpg"/>
-      <description>梳理羽毛的雪鹭，佛罗里达州中部，美国 (© Donald M. Jones/Minden Pictures)</description>
-      <pubDate>2026-06-04</pubDate>
     </item>
   </channel>
 </rss>
