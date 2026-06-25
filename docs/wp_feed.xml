@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2026-06-25</lastBuildDate>
+    <lastBuildDate>2026-06-26</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>泰晤士河, 伦敦, 英格兰 (© Daniel Lange/Getty Images)</title>
+      <link>https://cn.bing.com/th?id=OHR.ThamesSummer_ZH-CN5292532714_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.ThamesSummer_ZH-CN5292532714_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.ThamesSummer_ZH-CN5292532714_UHD.jpg" type="image/jpg"/>
+      <description>泰晤士河, 伦敦, 英格兰 (© Daniel Lange/Getty Images)</description>
+      <pubDate>2026-06-26</pubDate>
+    </item>
     <item>
       <title>布鲁塞尔大广场上的建筑群, 比利时 (© Vladislav Zolotov/Getty Images Plus)</title>
       <link>https://cn.bing.com/th?id=OHR.GrandPlace_ZH-CN8806496436_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.CTNPVernazza_ZH-CN3971102271_UHD.jpg" type="image/jpg"/>
       <description>韦尔纳扎, 五渔村, 利古里亚, 意大利 (© Kelly Cheng/Getty Images)</description>
       <pubDate>2026-06-09</pubDate>
-    </item>
-    <item>
-      <title>在海洋中游动的狮鬃水母 (© Alexander Semenov Images/Shutterstock)</title>
-      <link>https://cn.bing.com/th?id=OHR.Cyanea_ZH-CN3858079050_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.Cyanea_ZH-CN3858079050_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.Cyanea_ZH-CN3858079050_UHD.jpg" type="image/jpg"/>
-      <description>在海洋中游动的狮鬃水母 (© Alexander Semenov Images/Shutterstock)</description>
-      <pubDate>2026-06-08</pubDate>
     </item>
   </channel>
 </rss>
