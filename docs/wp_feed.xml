@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2026-06-27</lastBuildDate>
+    <lastBuildDate>2026-06-28</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>温德盖特山口附近的巨柱仙人掌, 麦克道尔山脉, 亚利桑那州, 美国 (© Eric Mischke/Getty Images)</title>
+      <link>https://cn.bing.com/th?id=OHR.SaguaroSun_ZH-CN5820504732_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.SaguaroSun_ZH-CN5820504732_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.SaguaroSun_ZH-CN5820504732_UHD.jpg" type="image/jpg"/>
+      <description>温德盖特山口附近的巨柱仙人掌, 麦克道尔山脉, 亚利桑那州, 美国 (© Eric Mischke/Getty Images)</description>
+      <pubDate>2026-06-28</pubDate>
+    </item>
     <item>
       <title>博尼亚德海滩上的漂流木, 亨廷岛, 南卡罗来纳州, 美国 (© Frances/Adobe Stock)</title>
       <link>https://cn.bing.com/th?id=OHR.BoneyardBeach_ZH-CN5540590570_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.Limpets_ZH-CN4991771513_UHD.jpg" type="image/jpg"/>
       <description>退潮时裸露在乌尔萨海滩海岸上的帽贝, 葡萄牙 (© Theo Bosboom/Nature Picture Library)</description>
       <pubDate>2026-06-11</pubDate>
-    </item>
-    <item>
-      <title>赫瑙萨波鲁尔火山口, 菲亚拉巴克自然保护区, 兰德曼纳劳加尔, 冰岛 (© Juan Maria Coy Vergara/Getty Images)</title>
-      <link>https://cn.bing.com/th?id=OHR.Hnausapollur_ZH-CN4075343976_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.Hnausapollur_ZH-CN4075343976_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.Hnausapollur_ZH-CN4075343976_UHD.jpg" type="image/jpg"/>
-      <description>赫瑙萨波鲁尔火山口, 菲亚拉巴克自然保护区, 兰德曼纳劳加尔, 冰岛 (© Juan Maria Coy Vergara/Getty Images)</description>
-      <pubDate>2026-06-10</pubDate>
     </item>
   </channel>
 </rss>
