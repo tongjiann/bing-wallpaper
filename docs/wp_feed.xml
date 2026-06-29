@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2026-06-29</lastBuildDate>
+    <lastBuildDate>2026-06-30</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>马赛马拉国家保护区日落时分的长颈鹿, 肯尼亚 (© danm/Getty Images)</title>
+      <link>https://cn.bing.com/th?id=OHR.MasaiGiraffe_ZH-CN1665123897_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.MasaiGiraffe_ZH-CN1665123897_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.MasaiGiraffe_ZH-CN1665123897_UHD.jpg" type="image/jpg"/>
+      <description>马赛马拉国家保护区日落时分的长颈鹿, 肯尼亚 (© danm/Getty Images)</description>
+      <pubDate>2026-06-30</pubDate>
+    </item>
     <item>
       <title>波拉波拉岛及其泻湖, 南太平洋, 法属波利尼西亚 (© Frederick Millett/Shutterstock)</title>
       <link>https://cn.bing.com/th?id=OHR.BoraBoraLagoon_ZH-CN9234363590_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.BadSunset_ZH-CN9050997938_UHD.jpg" type="image/jpg"/>
       <description>落日，恶地国家公园，南达科他州，美国 (© Troy Harrison/Getty Images)</description>
       <pubDate>2026-06-13</pubDate>
-    </item>
-    <item>
-      <title>黄喉蜂虎，格拉萨莱马山自然公园，加的斯，西班牙 (© Andres M. Dominguez/Nature Picture Library)</title>
-      <link>https://cn.bing.com/th?id=OHR.SpainBeeEater_ZH-CN4424052851_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.SpainBeeEater_ZH-CN4424052851_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.SpainBeeEater_ZH-CN4424052851_UHD.jpg" type="image/jpg"/>
-      <description>黄喉蜂虎，格拉萨莱马山自然公园，加的斯，西班牙 (© Andres M. Dominguez/Nature Picture Library)</description>
-      <pubDate>2026-06-12</pubDate>
     </item>
   </channel>
 </rss>
