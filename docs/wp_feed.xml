@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2026-06-30</lastBuildDate>
+    <lastBuildDate>2026-07-01</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>地牢省立公园, 纽芬兰和拉布拉多省, 加拿大 (© Kaitlyn McLachlan/Getty Images)</title>
+      <link>https://cn.bing.com/th?id=OHR.DungeonPark_ZH-CN9544093701_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.DungeonPark_ZH-CN9544093701_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.DungeonPark_ZH-CN9544093701_UHD.jpg" type="image/jpg"/>
+      <description>地牢省立公园, 纽芬兰和拉布拉多省, 加拿大 (© Kaitlyn McLachlan/Getty Images)</description>
+      <pubDate>2026-07-01</pubDate>
+    </item>
     <item>
       <title>马赛马拉国家保护区日落时分的长颈鹿, 肯尼亚 (© danm/Getty Images)</title>
       <link>https://cn.bing.com/th?id=OHR.MasaiGiraffe_ZH-CN1665123897_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.DuckPond_ZH-CN1683101997_UHD.jpg" type="image/jpg"/>
       <description>绿头鸭 (© Philippe Paternolli/Getty Images)</description>
       <pubDate>2026-06-14</pubDate>
-    </item>
-    <item>
-      <title>落日，恶地国家公园，南达科他州，美国 (© Troy Harrison/Getty Images)</title>
-      <link>https://cn.bing.com/th?id=OHR.BadSunset_ZH-CN9050997938_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.BadSunset_ZH-CN9050997938_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.BadSunset_ZH-CN9050997938_UHD.jpg" type="image/jpg"/>
-      <description>落日，恶地国家公园，南达科他州，美国 (© Troy Harrison/Getty Images)</description>
-      <pubDate>2026-06-13</pubDate>
     </item>
   </channel>
 </rss>
