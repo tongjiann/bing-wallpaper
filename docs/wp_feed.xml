@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2026-07-05</lastBuildDate>
+    <lastBuildDate>2026-07-06</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>锡拉库萨的日落，西西里岛，意大利 (© Balate Dorin/Getty Images)</title>
+      <link>https://cn.bing.com/th?id=OHR.SyracuseItaly_ZH-CN1001695972_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.SyracuseItaly_ZH-CN1001695972_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.SyracuseItaly_ZH-CN1001695972_UHD.jpg" type="image/jpg"/>
+      <description>锡拉库萨的日落，西西里岛，意大利 (© Balate Dorin/Getty Images)</description>
+      <pubDate>2026-07-06</pubDate>
+    </item>
     <item>
       <title>瓦朗索勒高原的薰衣草行，普罗旺斯，法国 (© Robert Harding/Shutterstock)</title>
       <link>https://cn.bing.com/th?id=OHR.LavenderRows_ZH-CN0676810895_UHD.jpg</link>
@@ -155,14 +163,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.Saqsaywaman_ZH-CN2584038469_UHD.jpg" type="image/jpeg"/>
       <enclosure url="https://cn.bing.com/th?id=OHR.Saqsaywaman_ZH-CN2584038469_UHD.jpg" type="image/jpg"/>
       <description>���克赛瓦曼遗址俯瞰图，库斯科，秘鲁 (© Creative-Family/Getty Images Plus)</description>
-      <pubDate>2026-06-18</pubDate>
-    </item>
-    <item>
-      <title>萨克赛瓦曼遗址俯瞰图，库斯科，秘鲁 (© Creative-Family/Getty Images Plus)</title>
-      <link>https://cn.bing.com/th?id=OHR.Saqsaywaman_ZH-CN2584038469_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.Saqsaywaman_ZH-CN2584038469_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.Saqsaywaman_ZH-CN2584038469_UHD.jpg" type="image/jpg"/>
-      <description>萨克赛瓦曼遗址俯瞰图，库斯科，秘鲁 (© Creative-Family/Getty Images Plus)</description>
       <pubDate>2026-06-18</pubDate>
     </item>
   </channel>
