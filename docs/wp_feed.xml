@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2026-07-09</lastBuildDate>
+    <lastBuildDate>2026-07-10</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>陆地与海洋的鸟瞰图，维多利亚州，澳大利亚 (© Nearmap/Getty Images)</title>
+      <link>https://cn.bing.com/th?id=OHR.VictoriaBeach_ZH-CN8892195426_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.VictoriaBeach_ZH-CN8892195426_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.VictoriaBeach_ZH-CN8892195426_UHD.jpg" type="image/jpg"/>
+      <description>陆地与海洋的鸟瞰图，维多利亚州，澳大利亚 (© Nearmap/Getty Images)</description>
+      <pubDate>2026-07-10</pubDate>
+    </item>
     <item>
       <title>在沙巴的水稻田，老街，越南 (© Anujak Jaimook/Getty Images)</title>
       <link>https://cn.bing.com/th?id=OHR.SapaVietnam_ZH-CN2178893672_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.EggDad_ZH-CN6045387630_UHD.jpg" type="image/jpg"/>
       <description>企鹅爸爸正在检查蛋的情况 (© McDonald Wildlife Photography Inc./Getty Images)</description>
       <pubDate>2026-06-21</pubDate>
-    </item>
-    <item>
-      <title>漂浮在南极半岛西部海域的拱形冰山, 南大洋 (© Steven Kazlowski/Nature Picture Library)</title>
-      <link>https://cn.bing.com/th?id=OHR.ArchedIceberg_ZH-CN2698040371_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.ArchedIceberg_ZH-CN2698040371_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.ArchedIceberg_ZH-CN2698040371_UHD.jpg" type="image/jpg"/>
-      <description>漂浮在南极半岛西部海域的拱形冰山, 南大洋 (© Steven Kazlowski/Nature Picture Library)</description>
-      <pubDate>2026-06-20</pubDate>
     </item>
   </channel>
 </rss>
