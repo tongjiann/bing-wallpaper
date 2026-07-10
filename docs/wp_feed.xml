@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2026-07-10</lastBuildDate>
+    <lastBuildDate>2026-07-11</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>圣古斯坦港, 欧赖, 布列塔尼, 法国 (© Rolf E. Staerk/Shutterstock)</title>
+      <link>https://cn.bing.com/th?id=OHR.AurayBrittany_ZH-CN5549157888_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.AurayBrittany_ZH-CN5549157888_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.AurayBrittany_ZH-CN5549157888_UHD.jpg" type="image/jpg"/>
+      <description>圣古斯坦港, 欧赖, 布列塔尼, 法国 (© Rolf E. Staerk/Shutterstock)</description>
+      <pubDate>2026-07-11</pubDate>
+    </item>
     <item>
       <title>陆地与海洋的鸟瞰图，维多利亚州，澳大利亚 (© Nearmap/Getty Images)</title>
       <link>https://cn.bing.com/th?id=OHR.VictoriaBeach_ZH-CN8892195426_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.QuinaultFerns_ZH-CN6696428927_UHD.jpg" type="image/jpg"/>
       <description>奎诺尔特雨林, 奥林匹克国家公园, 华盛顿州, 美国 (© Chris Moore/Tandem Stills + Motion)</description>
       <pubDate>2026-06-22</pubDate>
-    </item>
-    <item>
-      <title>企鹅爸爸正在检查蛋的情况 (© McDonald Wildlife Photography Inc./Getty Images)</title>
-      <link>https://cn.bing.com/th?id=OHR.EggDad_ZH-CN6045387630_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.EggDad_ZH-CN6045387630_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.EggDad_ZH-CN6045387630_UHD.jpg" type="image/jpg"/>
-      <description>企鹅爸爸正在检查蛋的情况 (© McDonald Wildlife Photography Inc./Getty Images)</description>
-      <pubDate>2026-06-21</pubDate>
     </item>
   </channel>
 </rss>
