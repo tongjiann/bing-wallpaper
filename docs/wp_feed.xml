@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2026-07-11</lastBuildDate>
+    <lastBuildDate>2026-07-12</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>卡塔丁森林和水域国家纪念地，缅因州，美国 (© Cavan Images/Offset/Shutterstock)</title>
+      <link>https://cn.bing.com/th?id=OHR.KatahdinWWNM_ZH-CN5496444375_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.KatahdinWWNM_ZH-CN5496444375_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.KatahdinWWNM_ZH-CN5496444375_UHD.jpg" type="image/jpg"/>
+      <description>卡塔丁森林和水域国家纪念地，缅因州，美国 (© Cavan Images/Offset/Shutterstock)</description>
+      <pubDate>2026-07-12</pubDate>
+    </item>
     <item>
       <title>圣古斯坦港, 欧赖, 布列塔尼, 法国 (© Rolf E. Staerk/Shutterstock)</title>
       <link>https://cn.bing.com/th?id=OHR.AurayBrittany_ZH-CN5549157888_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.Fujisan_ZH-CN7203975085_UHD.jpg" type="image/jpg"/>
       <description>本州岛上的富士山, 日本 (© phutthiseth thongtae/Getty Images)</description>
       <pubDate>2026-06-23</pubDate>
-    </item>
-    <item>
-      <title>奎诺尔特雨林, 奥林匹克国家公园, 华盛顿州, 美国 (© Chris Moore/Tandem Stills + Motion)</title>
-      <link>https://cn.bing.com/th?id=OHR.QuinaultFerns_ZH-CN6696428927_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.QuinaultFerns_ZH-CN6696428927_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.QuinaultFerns_ZH-CN6696428927_UHD.jpg" type="image/jpg"/>
-      <description>奎诺尔特雨林, 奥林匹克国家公园, 华盛顿州, 美国 (© Chris Moore/Tandem Stills + Motion)</description>
-      <pubDate>2026-06-22</pubDate>
     </item>
   </channel>
 </rss>
