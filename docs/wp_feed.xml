@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2026-07-12</lastBuildDate>
+    <lastBuildDate>2026-07-13</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>羚羊峡谷，纳瓦霍族保留地，亚利桑那州，美国 (© Mark Skalny/Getty Images)</title>
+      <link>https://cn.bing.com/th?id=OHR.NavajoSandstone_ZH-CN5009673011_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.NavajoSandstone_ZH-CN5009673011_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.NavajoSandstone_ZH-CN5009673011_UHD.jpg" type="image/jpg"/>
+      <description>羚羊峡谷，纳瓦霍族保留地，亚利桑那州，美国 (© Mark Skalny/Getty Images)</description>
+      <pubDate>2026-07-13</pubDate>
+    </item>
     <item>
       <title>卡塔丁森林和水域国家纪念地，缅因州，美国 (© Cavan Images/Offset/Shutterstock)</title>
       <link>https://cn.bing.com/th?id=OHR.KatahdinWWNM_ZH-CN5496444375_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.BFPollin_ZH-CN7654067396_UHD.jpg" type="image/jpg"/>
       <description>蝴蝶正在黄花上授粉 (© lzh/Getty Images)</description>
       <pubDate>2026-06-24</pubDate>
-    </item>
-    <item>
-      <title>本州岛上的富士山, 日本 (© phutthiseth thongtae/Getty Images)</title>
-      <link>https://cn.bing.com/th?id=OHR.Fujisan_ZH-CN7203975085_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.Fujisan_ZH-CN7203975085_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.Fujisan_ZH-CN7203975085_UHD.jpg" type="image/jpg"/>
-      <description>本州岛上的富士山, 日本 (© phutthiseth thongtae/Getty Images)</description>
-      <pubDate>2026-06-23</pubDate>
     </item>
   </channel>
 </rss>
