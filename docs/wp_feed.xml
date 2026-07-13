@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2026-07-13</lastBuildDate>
+    <lastBuildDate>2026-07-14</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>柠檬鲨幼崽在红树林中，伊柳塞拉岛，巴哈马 (© Shane Gross/Nature Picture Library)</title>
+      <link>https://cn.bing.com/th?id=OHR.LemonShark_ZH-CN4650331008_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.LemonShark_ZH-CN4650331008_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.LemonShark_ZH-CN4650331008_UHD.jpg" type="image/jpg"/>
+      <description>柠檬鲨幼崽在红树林中，伊柳塞拉岛，巴哈马 (© Shane Gross/Nature Picture Library)</description>
+      <pubDate>2026-07-14</pubDate>
+    </item>
     <item>
       <title>羚羊峡谷，纳瓦霍族保留地，亚利桑那州，美国 (© Mark Skalny/Getty Images)</title>
       <link>https://cn.bing.com/th?id=OHR.NavajoSandstone_ZH-CN5009673011_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.GrandPlace_ZH-CN8806496436_UHD.jpg" type="image/jpg"/>
       <description>布鲁塞尔大广场上的建筑群, 比利时 (© Vladislav Zolotov/Getty Images Plus)</description>
       <pubDate>2026-06-25</pubDate>
-    </item>
-    <item>
-      <title>蝴蝶正在黄花上授粉 (© lzh/Getty Images)</title>
-      <link>https://cn.bing.com/th?id=OHR.BFPollin_ZH-CN7654067396_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.BFPollin_ZH-CN7654067396_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.BFPollin_ZH-CN7654067396_UHD.jpg" type="image/jpg"/>
-      <description>蝴蝶正在黄花上授粉 (© lzh/Getty Images)</description>
-      <pubDate>2026-06-24</pubDate>
     </item>
   </channel>
 </rss>
