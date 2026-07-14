@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2026-07-14</lastBuildDate>
+    <lastBuildDate>2026-07-15</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>玛丽湖，约翰·缪尔荒野（毕晓普附近），加利福尼亚州，美国 (© Steve Dunleavy/Getty Images)</title>
+      <link>https://cn.bing.com/th?id=OHR.MarieLake_ZH-CN4927917413_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.MarieLake_ZH-CN4927917413_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.MarieLake_ZH-CN4927917413_UHD.jpg" type="image/jpg"/>
+      <description>玛丽湖，约翰·缪尔荒野（毕晓普附近），加利福尼亚州，美国 (© Steve Dunleavy/Getty Images)</description>
+      <pubDate>2026-07-15</pubDate>
+    </item>
     <item>
       <title>柠檬鲨幼崽在红树林中，伊柳塞拉岛，巴哈马 (© Shane Gross/Nature Picture Library)</title>
       <link>https://cn.bing.com/th?id=OHR.LemonShark_ZH-CN4650331008_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.ThamesSummer_ZH-CN5292532714_UHD.jpg" type="image/jpg"/>
       <description>泰晤士河, 伦敦, 英格兰 (© Daniel Lange/Getty Images)</description>
       <pubDate>2026-06-26</pubDate>
-    </item>
-    <item>
-      <title>布鲁塞尔大广场上的建筑群, 比利时 (© Vladislav Zolotov/Getty Images Plus)</title>
-      <link>https://cn.bing.com/th?id=OHR.GrandPlace_ZH-CN8806496436_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.GrandPlace_ZH-CN8806496436_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.GrandPlace_ZH-CN8806496436_UHD.jpg" type="image/jpg"/>
-      <description>布鲁塞尔大广场上的建筑群, 比利时 (© Vladislav Zolotov/Getty Images Plus)</description>
-      <pubDate>2026-06-25</pubDate>
     </item>
   </channel>
 </rss>
