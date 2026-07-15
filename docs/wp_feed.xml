@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2026-07-15</lastBuildDate>
+    <lastBuildDate>2026-07-16</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>海军码头，芝加哥，伊利诺伊州，美国 (© Christopher.F Photography/Getty Images)</title>
+      <link>https://cn.bing.com/th?id=OHR.NavyPier_ZH-CN4649271588_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.NavyPier_ZH-CN4649271588_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.NavyPier_ZH-CN4649271588_UHD.jpg" type="image/jpg"/>
+      <description>海军码头，芝加哥，伊利诺伊州，美国 (© Christopher.F Photography/Getty Images)</description>
+      <pubDate>2026-07-16</pubDate>
+    </item>
     <item>
       <title>玛丽湖，约翰·缪尔荒野（毕晓普附近），加利福尼亚州，美国 (© Steve Dunleavy/Getty Images)</title>
       <link>https://cn.bing.com/th?id=OHR.MarieLake_ZH-CN4927917413_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.BoneyardBeach_ZH-CN5540590570_UHD.jpg" type="image/jpg"/>
       <description>博尼亚德海滩上的漂流木, 亨廷岛, 南卡罗来纳州, 美国 (© Frances/Adobe Stock)</description>
       <pubDate>2026-06-27</pubDate>
-    </item>
-    <item>
-      <title>泰晤士河, 伦敦, 英格兰 (© Daniel Lange/Getty Images)</title>
-      <link>https://cn.bing.com/th?id=OHR.ThamesSummer_ZH-CN5292532714_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.ThamesSummer_ZH-CN5292532714_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.ThamesSummer_ZH-CN5292532714_UHD.jpg" type="image/jpg"/>
-      <description>泰晤士河, 伦敦, 英格兰 (© Daniel Lange/Getty Images)</description>
-      <pubDate>2026-06-26</pubDate>
     </item>
   </channel>
 </rss>
