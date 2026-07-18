@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2026-07-18</lastBuildDate>
+    <lastBuildDate>2026-07-19</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>不同亚种的家燕聚在一起休息 (© Oscar Dominguez/Tandem Stills + Motion)</title>
+      <link>https://cn.bing.com/th?id=OHR.HirundoRustica_ZH-CN2798518247_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.HirundoRustica_ZH-CN2798518247_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.HirundoRustica_ZH-CN2798518247_UHD.jpg" type="image/jpg"/>
+      <description>不同亚种的家燕聚在一起休息 (© Oscar Dominguez/Tandem Stills + Motion)</description>
+      <pubDate>2026-07-19</pubDate>
+    </item>
     <item>
       <title>恶魔桥在克罗姆劳杜鹃花公园，萨克森州，德国 (© Mike Mareen/Getty Images)</title>
       <link>https://cn.bing.com/th?id=OHR.DevilsBridge_ZH-CN2164982440_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.MasaiGiraffe_ZH-CN1665123897_UHD.jpg" type="image/jpg"/>
       <description>马赛马拉国家保护区日落时分的长颈鹿, 肯尼亚 (© danm/Getty Images)</description>
       <pubDate>2026-06-30</pubDate>
-    </item>
-    <item>
-      <title>波拉波拉岛及其泻湖, 南太平洋, 法属波利尼西亚 (© Frederick Millett/Shutterstock)</title>
-      <link>https://cn.bing.com/th?id=OHR.BoraBoraLagoon_ZH-CN9234363590_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.BoraBoraLagoon_ZH-CN9234363590_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.BoraBoraLagoon_ZH-CN9234363590_UHD.jpg" type="image/jpg"/>
-      <description>波拉波拉岛及其泻湖, 南太平洋, 法属波利尼西亚 (© Frederick Millett/Shutterstock)</description>
-      <pubDate>2026-06-29</pubDate>
     </item>
   </channel>
 </rss>
