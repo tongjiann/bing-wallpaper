@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2026-07-19</lastBuildDate>
+    <lastBuildDate>2026-07-20</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>月球与地球由阿耳忒弥斯2号机组人员拍摄 (© NASA)</title>
+      <link>https://cn.bing.com/th?id=OHR.Artemis_ZH-CN3540365575_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.Artemis_ZH-CN3540365575_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.Artemis_ZH-CN3540365575_UHD.jpg" type="image/jpg"/>
+      <description>月球与地球由阿耳忒弥斯2号机组人员拍摄 (© NASA)</description>
+      <pubDate>2026-07-20</pubDate>
+    </item>
     <item>
       <title>不同亚种的家燕聚在一起休息 (© Oscar Dominguez/Tandem Stills + Motion)</title>
       <link>https://cn.bing.com/th?id=OHR.HirundoRustica_ZH-CN2798518247_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.DungeonPark_ZH-CN9544093701_UHD.jpg" type="image/jpg"/>
       <description>地牢省立公园, 纽芬兰和拉布拉多省, 加拿大 (© Kaitlyn McLachlan/Getty Images)</description>
       <pubDate>2026-07-01</pubDate>
-    </item>
-    <item>
-      <title>马赛马拉国家保护区日落时分的长颈鹿, 肯尼亚 (© danm/Getty Images)</title>
-      <link>https://cn.bing.com/th?id=OHR.MasaiGiraffe_ZH-CN1665123897_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.MasaiGiraffe_ZH-CN1665123897_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.MasaiGiraffe_ZH-CN1665123897_UHD.jpg" type="image/jpg"/>
-      <description>马赛马拉国家保护区日落时分的长颈鹿, 肯尼亚 (© danm/Getty Images)</description>
-      <pubDate>2026-06-30</pubDate>
     </item>
   </channel>
 </rss>
