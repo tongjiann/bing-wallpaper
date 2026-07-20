@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2026-07-20</lastBuildDate>
+    <lastBuildDate>2026-07-21</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>圣卡塔琳娜拱门，安提瓜，危地马拉 (© Filippo Maria Bianchi/Getty Images)</title>
+      <link>https://cn.bing.com/th?id=OHR.SantaCatalina_ZH-CN6223370790_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.SantaCatalina_ZH-CN6223370790_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.SantaCatalina_ZH-CN6223370790_UHD.jpg" type="image/jpg"/>
+      <description>圣卡塔琳娜拱门，安提瓜，危地马拉 (© Filippo Maria Bianchi/Getty Images)</description>
+      <pubDate>2026-07-21</pubDate>
+    </item>
     <item>
       <title>月球与地球由阿耳忒弥斯2号机组人员拍摄 (© NASA)</title>
       <link>https://cn.bing.com/th?id=OHR.Artemis_ZH-CN3540365575_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.TempleEsna_ZH-CN9834689523_UHD.jpg" type="image/jpg"/>
       <description>埃斯纳神庙穹顶天花板, 埃及 (© Nick Brundle Photography/Getty Images)</description>
       <pubDate>2026-07-02</pubDate>
-    </item>
-    <item>
-      <title>地牢省立公园, 纽芬兰和拉布拉多省, 加拿大 (© Kaitlyn McLachlan/Getty Images)</title>
-      <link>https://cn.bing.com/th?id=OHR.DungeonPark_ZH-CN9544093701_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.DungeonPark_ZH-CN9544093701_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.DungeonPark_ZH-CN9544093701_UHD.jpg" type="image/jpg"/>
-      <description>地牢省立公园, 纽芬兰和拉布拉多省, 加拿大 (© Kaitlyn McLachlan/Getty Images)</description>
-      <pubDate>2026-07-01</pubDate>
     </item>
   </channel>
 </rss>
