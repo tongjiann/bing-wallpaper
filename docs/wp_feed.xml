@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2026-07-21</lastBuildDate>
+    <lastBuildDate>2026-07-22</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>珊瑚礁与海滩在拉贾安帕特，印度尼西亚 (© SergeUWPhoto/Shutterstock)</title>
+      <link>https://cn.bing.com/th?id=OHR.CoralAwareness_ZH-CN1621627126_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.CoralAwareness_ZH-CN1621627126_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.CoralAwareness_ZH-CN1621627126_UHD.jpg" type="image/jpg"/>
+      <description>珊瑚礁与海滩在拉贾安帕特，印度尼西亚 (© SergeUWPhoto/Shutterstock)</description>
+      <pubDate>2026-07-22</pubDate>
+    </item>
     <item>
       <title>圣卡塔琳娜拱门，安提瓜，危地马拉 (© Filippo Maria Bianchi/Getty Images)</title>
       <link>https://cn.bing.com/th?id=OHR.SantaCatalina_ZH-CN6223370790_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.FirefliesJapan_ZH-CN0071253415_UHD.jpg" type="image/jpg"/>
       <description>小溪上方的萤火虫，冈山县，日本 (© tdub303/Getty Images)</description>
       <pubDate>2026-07-03</pubDate>
-    </item>
-    <item>
-      <title>埃斯纳神庙穹顶天花板, 埃及 (© Nick Brundle Photography/Getty Images)</title>
-      <link>https://cn.bing.com/th?id=OHR.TempleEsna_ZH-CN9834689523_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.TempleEsna_ZH-CN9834689523_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.TempleEsna_ZH-CN9834689523_UHD.jpg" type="image/jpg"/>
-      <description>埃斯纳神庙穹顶天花板, 埃及 (© Nick Brundle Photography/Getty Images)</description>
-      <pubDate>2026-07-02</pubDate>
     </item>
   </channel>
 </rss>
