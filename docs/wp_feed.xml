@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2026-07-23</lastBuildDate>
+    <lastBuildDate>2026-07-24</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>美洲红鹳群在伊莎贝拉岛，加拉帕戈斯群岛，厄瓜多尔 (© Tui De Roy/Nature Picture Library)</title>
+      <link>https://cn.bing.com/th?id=OHR.GalapagosFlamingos_ZH-CN1152519387_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.GalapagosFlamingos_ZH-CN1152519387_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.GalapagosFlamingos_ZH-CN1152519387_UHD.jpg" type="image/jpg"/>
+      <description>美洲红鹳群在伊莎贝拉岛，加拉帕戈斯群岛，厄瓜多尔 (© Tui De Roy/Nature Picture Library)</description>
+      <pubDate>2026-07-24</pubDate>
+    </item>
     <item>
       <title>粉红色大丽花 (© Harald Biebel/Getty Images)</title>
       <link>https://cn.bing.com/th?id=OHR.PinkDahlia_ZH-CN2259107800_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.LavenderRows_ZH-CN0676810895_UHD.jpg" type="image/jpg"/>
       <description>瓦朗索勒高原的薰衣草行，普罗旺斯，法国 (© Robert Harding/Shutterstock)</description>
       <pubDate>2026-07-05</pubDate>
-    </item>
-    <item>
-      <title>凯泽斯堡，阿尔萨斯，法国 (© Federica Gentile/Getty Images)</title>
-      <link>https://cn.bing.com/th?id=OHR.KaysersbergVillage_ZH-CN0445080679_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.KaysersbergVillage_ZH-CN0445080679_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.KaysersbergVillage_ZH-CN0445080679_UHD.jpg" type="image/jpg"/>
-      <description>凯泽斯堡，阿尔萨斯，法国 (© Federica Gentile/Getty Images)</description>
-      <pubDate>2026-07-04</pubDate>
     </item>
   </channel>
 </rss>
