@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2026-07-24</lastBuildDate>
+    <lastBuildDate>2026-07-25</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>大教堂海滩，加利西亚，西班牙 (© Tui De Roy/Amazing Aerial Agency/Abobe Stock)</title>
+      <link>https://cn.bing.com/th?id=OHR.GaliciaBeach_ZH-CN1246611659_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.GaliciaBeach_ZH-CN1246611659_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.GaliciaBeach_ZH-CN1246611659_UHD.jpg" type="image/jpg"/>
+      <description>大教堂海滩，加利西亚，西班牙 (© Tui De Roy/Amazing Aerial Agency/Abobe Stock)</description>
+      <pubDate>2026-07-25</pubDate>
+    </item>
     <item>
       <title>美洲红鹳群在伊莎贝拉岛，加拉帕戈斯群岛，厄瓜多尔 (© Tui De Roy/Nature Picture Library)</title>
       <link>https://cn.bing.com/th?id=OHR.GalapagosFlamingos_ZH-CN1152519387_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.SyracuseItaly_ZH-CN1001695972_UHD.jpg" type="image/jpg"/>
       <description>锡拉库萨的日落，西西里岛，意大利 (© Balate Dorin/Getty Images)</description>
       <pubDate>2026-07-06</pubDate>
-    </item>
-    <item>
-      <title>瓦朗索勒高原的薰衣草行，普罗旺斯，法国 (© Robert Harding/Shutterstock)</title>
-      <link>https://cn.bing.com/th?id=OHR.LavenderRows_ZH-CN0676810895_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.LavenderRows_ZH-CN0676810895_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.LavenderRows_ZH-CN0676810895_UHD.jpg" type="image/jpg"/>
-      <description>瓦朗索勒高原的薰衣草行，普罗旺斯，法国 (© Robert Harding/Shutterstock)</description>
-      <pubDate>2026-07-05</pubDate>
     </item>
   </channel>
 </rss>
