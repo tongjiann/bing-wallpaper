@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2026-07-25</lastBuildDate>
+    <lastBuildDate>2026-07-26</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>红树上的日出在小猪群岛，洪都拉斯 (© Mac Stone/Tandem Stills + Motion)</title>
+      <link>https://cn.bing.com/th?id=OHR.RedMangroveSunrise_ZH-CN7940335392_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.RedMangroveSunrise_ZH-CN7940335392_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.RedMangroveSunrise_ZH-CN7940335392_UHD.jpg" type="image/jpg"/>
+      <description>红树上的日出在小猪群岛，洪都拉斯 (© Mac Stone/Tandem Stills + Motion)</description>
+      <pubDate>2026-07-26</pubDate>
+    </item>
     <item>
       <title>大教堂海滩，加利西亚，西班牙 (© Tui De Roy/Amazing Aerial Agency/Abobe Stock)</title>
       <link>https://cn.bing.com/th?id=OHR.GaliciaBeach_ZH-CN1246611659_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.MountainToucanOrchids_ZH-CN1400221431_UHD.jpg" type="image/jpg"/>
       <description>板嘴山巨嘴鸟与兰花，厄瓜多尔 (© Murray Cooper/Minden Pictures)</description>
       <pubDate>2026-07-07</pubDate>
-    </item>
-    <item>
-      <title>锡拉库萨的日落，西西里岛，意大利 (© Balate Dorin/Getty Images)</title>
-      <link>https://cn.bing.com/th?id=OHR.SyracuseItaly_ZH-CN1001695972_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.SyracuseItaly_ZH-CN1001695972_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.SyracuseItaly_ZH-CN1001695972_UHD.jpg" type="image/jpg"/>
-      <description>锡拉库萨的日落，西西里岛，意大利 (© Balate Dorin/Getty Images)</description>
-      <pubDate>2026-07-06</pubDate>
     </item>
   </channel>
 </rss>
