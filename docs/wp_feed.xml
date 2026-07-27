@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2026-07-27</lastBuildDate>
+    <lastBuildDate>2026-07-28</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>一片海藻林在安纳卡帕岛附近，海峡群岛国家公园，加利福尼亚州，美国 (© Ian Shive/Tandem Stills + Motion)</title>
+      <link>https://cn.bing.com/th?id=OHR.ChannelKelp_ZH-CN8732903732_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.ChannelKelp_ZH-CN8732903732_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.ChannelKelp_ZH-CN8732903732_UHD.jpg" type="image/jpg"/>
+      <description>一片海藻林在安纳卡帕岛附近，海峡群岛国家公园，加利福尼亚州，美国 (© Ian Shive/Tandem Stills + Motion)</description>
+      <pubDate>2026-07-28</pubDate>
+    </item>
     <item>
       <title>蒂芙尼穹顶，芝加哥文化中心，伊利诺伊州，美国 (© Felix Lipov/Shutterstock)</title>
       <link>https://cn.bing.com/th?id=OHR.ChicagoTiffany_ZH-CN9860688834_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.SapaVietnam_ZH-CN2178893672_UHD.jpg" type="image/jpg"/>
       <description>在沙巴的水稻田，老街，越南 (© Anujak Jaimook/Getty Images)</description>
       <pubDate>2026-07-09</pubDate>
-    </item>
-    <item>
-      <title>阿蒂特兰湖的日出，危地马拉 (© shayes17/Getty Images)</title>
-      <link>https://cn.bing.com/th?id=OHR.LakeAtitlan_ZH-CN1920221893_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.LakeAtitlan_ZH-CN1920221893_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.LakeAtitlan_ZH-CN1920221893_UHD.jpg" type="image/jpg"/>
-      <description>阿蒂特兰湖的日出，危地马拉 (© shayes17/Getty Images)</description>
-      <pubDate>2026-07-08</pubDate>
     </item>
   </channel>
 </rss>
