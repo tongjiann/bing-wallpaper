@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2026-07-28</lastBuildDate>
+    <lastBuildDate>2026-07-29</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>孟加拉虎一家在兰坦博尔国家公园，拉贾斯坦邦，印度 (© Archna Singh/Shutterstock)</title>
+      <link>https://cn.bing.com/th?id=OHR.TigerFamily_ZH-CN9064744163_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.TigerFamily_ZH-CN9064744163_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.TigerFamily_ZH-CN9064744163_UHD.jpg" type="image/jpg"/>
+      <description>孟加拉虎一家在兰坦博尔国家公园，拉贾斯坦邦，印度 (© Archna Singh/Shutterstock)</description>
+      <pubDate>2026-07-29</pubDate>
+    </item>
     <item>
       <title>一片海藻林在安纳卡帕岛附近，海峡群岛国家公园，加利福尼亚州，美国 (© Ian Shive/Tandem Stills + Motion)</title>
       <link>https://cn.bing.com/th?id=OHR.ChannelKelp_ZH-CN8732903732_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.VictoriaBeach_ZH-CN8892195426_UHD.jpg" type="image/jpg"/>
       <description>陆地与海洋的鸟瞰图，维多利亚州，澳大利亚 (© Nearmap/Getty Images)</description>
       <pubDate>2026-07-10</pubDate>
-    </item>
-    <item>
-      <title>在沙巴的水稻田，老街，越南 (© Anujak Jaimook/Getty Images)</title>
-      <link>https://cn.bing.com/th?id=OHR.SapaVietnam_ZH-CN2178893672_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.SapaVietnam_ZH-CN2178893672_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.SapaVietnam_ZH-CN2178893672_UHD.jpg" type="image/jpg"/>
-      <description>在沙巴的水稻田，老街，越南 (© Anujak Jaimook/Getty Images)</description>
-      <pubDate>2026-07-09</pubDate>
     </item>
   </channel>
 </rss>
