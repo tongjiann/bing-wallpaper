@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2026-07-31</lastBuildDate>
+    <lastBuildDate>2026-08-01</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>大批熔岩流涌入大洋，大岛，夏威夷州，美国 (© Ken McCurdy/Getty Images)</title>
+      <link>https://cn.bing.com/th?id=OHR.HawaiiLava_ZH-CN3257621771_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.HawaiiLava_ZH-CN3257621771_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.HawaiiLava_ZH-CN3257621771_UHD.jpg" type="image/jpg"/>
+      <description>大批熔岩流涌入大洋，大岛，夏威夷州，美国 (© Ken McCurdy/Getty Images)</description>
+      <pubDate>2026-08-01</pubDate>
+    </item>
     <item>
       <title>鸟瞰弗吉尼亚爬山虎步道，达马斯克斯，弗吉尼亚州，美国 (© Eifel Kreutz/Getty Images)</title>
       <link>https://cn.bing.com/th?id=OHR.VirginiaTrail_ZH-CN2299501599_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.NavajoSandstone_ZH-CN5009673011_UHD.jpg" type="image/jpg"/>
       <description>羚羊峡谷，纳瓦霍族保留地，亚利桑那州，美国 (© Mark Skalny/Getty Images)</description>
       <pubDate>2026-07-13</pubDate>
-    </item>
-    <item>
-      <title>卡塔丁森林和水域国家纪念地，缅因州，美国 (© Cavan Images/Offset/Shutterstock)</title>
-      <link>https://cn.bing.com/th?id=OHR.KatahdinWWNM_ZH-CN5496444375_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.KatahdinWWNM_ZH-CN5496444375_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.KatahdinWWNM_ZH-CN5496444375_UHD.jpg" type="image/jpg"/>
-      <description>卡塔丁森林和水域国家纪念地，缅因州，美国 (© Cavan Images/Offset/Shutterstock)</description>
-      <pubDate>2026-07-12</pubDate>
     </item>
   </channel>
 </rss>
