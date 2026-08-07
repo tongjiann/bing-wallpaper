@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2026-08-07</lastBuildDate>
+    <lastBuildDate>2026-08-08</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>蒂斯河畔斯托克顿无限桥，英格兰 (© Bahadir Yeniceri/Shutterstock)</title>
+      <link>https://cn.bing.com/th?id=OHR.StocktonInfinity_ZH-CN5941379745_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.StocktonInfinity_ZH-CN5941379745_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.StocktonInfinity_ZH-CN5941379745_UHD.jpg" type="image/jpg"/>
+      <description>蒂斯河畔斯托克顿无限桥，英格兰 (© Bahadir Yeniceri/Shutterstock)</description>
+      <pubDate>2026-08-08</pubDate>
+    </item>
     <item>
       <title>圣胡安岛石灰窑灯塔，华盛顿州，美国 (© Edmund Lowe Photography/Shutterstock)</title>
       <link>https://cn.bing.com/th?id=OHR.LimeKiln_ZH-CN5664152522_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.Artemis_ZH-CN3540365575_UHD.jpg" type="image/jpg"/>
       <description>月球与地球由阿耳忒弥斯2号机组人员拍摄 (© NASA)</description>
       <pubDate>2026-07-20</pubDate>
-    </item>
-    <item>
-      <title>不同亚种的家燕聚在一起休息 (© Oscar Dominguez/Tandem Stills + Motion)</title>
-      <link>https://cn.bing.com/th?id=OHR.HirundoRustica_ZH-CN2798518247_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.HirundoRustica_ZH-CN2798518247_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.HirundoRustica_ZH-CN2798518247_UHD.jpg" type="image/jpg"/>
-      <description>不同亚种的家燕聚在一起休息 (© Oscar Dominguez/Tandem Stills + Motion)</description>
-      <pubDate>2026-07-19</pubDate>
     </item>
   </channel>
 </rss>
