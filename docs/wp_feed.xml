@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2026-08-11</lastBuildDate>
+    <lastBuildDate>2026-08-12</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>安博塞利国家公园的非洲草原象群，卡贾多郡，肯尼亚 (© Ibrahim Suha Derbent/Getty Images)</title>
+      <link>https://cn.bing.com/th?id=OHR.ElephantDay_ZH-CN8350171749_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.ElephantDay_ZH-CN8350171749_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.ElephantDay_ZH-CN8350171749_UHD.jpg" type="image/jpg"/>
+      <description>安博塞利国家公园的非洲草原象群，卡贾多郡，肯尼亚 (© Ibrahim Suha Derbent/Getty Images)</description>
+      <pubDate>2026-08-12</pubDate>
+    </item>
     <item>
       <title>哥本哈根新港运河沿岸的彩色房屋，首都大区，丹麦 (© emicristea/Getty Images)</title>
       <link>https://cn.bing.com/th?id=OHR.ColorfulCop_ZH-CN8015611442_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.GalapagosFlamingos_ZH-CN1152519387_UHD.jpg" type="image/jpg"/>
       <description>美洲红鹳群在伊莎贝拉岛，加拉帕戈斯群岛，厄瓜多尔 (© Tui De Roy/Nature Picture Library)</description>
       <pubDate>2026-07-24</pubDate>
-    </item>
-    <item>
-      <title>粉红色大丽花 (© Harald Biebel/Getty Images)</title>
-      <link>https://cn.bing.com/th?id=OHR.PinkDahlia_ZH-CN2259107800_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.PinkDahlia_ZH-CN2259107800_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.PinkDahlia_ZH-CN2259107800_UHD.jpg" type="image/jpg"/>
-      <description>粉红色大丽花 (© Harald Biebel/Getty Images)</description>
-      <pubDate>2026-07-23</pubDate>
     </item>
   </channel>
 </rss>
