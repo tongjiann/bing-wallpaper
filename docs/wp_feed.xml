@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2026-08-19</lastBuildDate>
+    <lastBuildDate>2026-08-20</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>林恩运河中浮出水面的虎鲸，奇尔卡特山脉附近，阿拉斯加州，美国 (© John Hyde/Alamy)</title>
+      <link>https://cn.bing.com/th?id=OHR.LynnCanalOrca_ZH-CN0719217908_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.LynnCanalOrca_ZH-CN0719217908_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.LynnCanalOrca_ZH-CN0719217908_UHD.jpg" type="image/jpg"/>
+      <description>林恩运河中浮出水面的虎鲸，奇尔卡特山脉附近，阿拉斯加州，美国 (© John Hyde/Alamy)</description>
+      <pubDate>2026-08-20</pubDate>
+    </item>
     <item>
       <title>怀特克利夫公园，西温哥华，加拿大 (© Aolin Chen/Getty Images)</title>
       <link>https://cn.bing.com/th?id=OHR.WhyteCliffP_ZH-CN0573407830_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.HawaiiLava_ZH-CN3257621771_UHD.jpg" type="image/jpg"/>
       <description>大批熔岩流涌入大洋，大岛，夏威夷州，美国 (© Ken McCurdy/Getty Images)</description>
       <pubDate>2026-08-01</pubDate>
-    </item>
-    <item>
-      <title>鸟瞰弗吉尼亚爬山虎步道，达马斯克斯，弗吉尼亚州，美国 (© Eifel Kreutz/Getty Images)</title>
-      <link>https://cn.bing.com/th?id=OHR.VirginiaTrail_ZH-CN2299501599_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.VirginiaTrail_ZH-CN2299501599_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.VirginiaTrail_ZH-CN2299501599_UHD.jpg" type="image/jpg"/>
-      <description>鸟瞰弗吉尼亚爬山虎步道，达马斯克斯，弗吉尼亚州，美国 (© Eifel Kreutz/Getty Images)</description>
-      <pubDate>2026-07-31</pubDate>
     </item>
   </channel>
 </rss>
