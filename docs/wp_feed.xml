@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2026-08-20</lastBuildDate>
+    <lastBuildDate>2026-08-21</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>尤利尔山口蜿蜒的公路，瑞士 (© Westend61/Getty Images)</title>
+      <link>https://cn.bing.com/th?id=OHR.JulierPass_ZH-CN3064797820_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.JulierPass_ZH-CN3064797820_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.JulierPass_ZH-CN3064797820_UHD.jpg" type="image/jpg"/>
+      <description>尤利尔山口蜿蜒的公路，瑞士 (© Westend61/Getty Images)</description>
+      <pubDate>2026-08-21</pubDate>
+    </item>
     <item>
       <title>林恩运河中浮出水面的虎鲸，奇尔卡特山脉附近，阿拉斯加州，美国 (© John Hyde/Alamy)</title>
       <link>https://cn.bing.com/th?id=OHR.LynnCanalOrca_ZH-CN0719217908_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.HelsinkiBlue_ZH-CN3961551568_UHD.jpg" type="image/jpg"/>
       <description>马尔萨什洛克港口五彩斑斓的渔船，马耳他 (© Klubovy/Getty Images)</description>
       <pubDate>2026-08-02</pubDate>
-    </item>
-    <item>
-      <title>大批熔岩流涌入大洋，大岛，夏威夷州，美国 (© Ken McCurdy/Getty Images)</title>
-      <link>https://cn.bing.com/th?id=OHR.HawaiiLava_ZH-CN3257621771_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.HawaiiLava_ZH-CN3257621771_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.HawaiiLava_ZH-CN3257621771_UHD.jpg" type="image/jpg"/>
-      <description>大批熔岩流涌入大洋，大岛，夏威夷州，美国 (© Ken McCurdy/Getty Images)</description>
-      <pubDate>2026-08-01</pubDate>
     </item>
   </channel>
 </rss>
