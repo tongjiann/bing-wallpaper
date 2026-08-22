@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2026-08-22</lastBuildDate>
+    <lastBuildDate>2026-08-23</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>在处暑时节的村庄田野与寺庙佛塔，江阴市，江苏省，中国 (© jia yu/Getty Images)</title>
+      <link>https://cn.bing.com/th?id=OHR.EndofHeatY26_ZH-CN8936468848_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.EndofHeatY26_ZH-CN8936468848_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.EndofHeatY26_ZH-CN8936468848_UHD.jpg" type="image/jpg"/>
+      <description>在处暑时节的村庄田野与寺庙佛塔，江阴市，江苏省，中国 (© jia yu/Getty Images)</description>
+      <pubDate>2026-08-23</pubDate>
+    </item>
     <item>
       <title>普通蓝灰蝶，德文郡，英格兰 (© Ross Hoddinott/Nature Picture Library)</title>
       <link>https://cn.bing.com/th?id=OHR.CommonBlue_ZH-CN8521430009_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.AdorableOwlet_ZH-CN6929234033_UHD.jpg" type="image/jpg"/>
       <description>佛罗里达穴鸮幼鸟，开普科拉尔，佛罗里达州，美国 (© mlorenzphotography/Getty Images)</description>
       <pubDate>2026-08-04</pubDate>
-    </item>
-    <item>
-      <title>马尔萨什洛克港口五彩斑斓的渔船，马耳他 (© Klubovy/Getty Images)</title>
-      <link>https://cn.bing.com/th?id=OHR.BoatsMalta_ZH-CN4708255775_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.BoatsMalta_ZH-CN4708255775_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.BoatsMalta_ZH-CN4708255775_UHD.jpg" type="image/jpg"/>
-      <description>马尔萨什洛克港口五彩斑斓的渔船，马耳他 (© Klubovy/Getty Images)</description>
-      <pubDate>2026-08-03</pubDate>
     </item>
   </channel>
 </rss>
