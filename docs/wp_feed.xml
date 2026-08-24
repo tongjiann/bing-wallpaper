@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2026-08-24</lastBuildDate>
+    <lastBuildDate>2026-08-25</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>红木国家与州立公园的日出，加利福尼亚州，美国 (© HadelProductions/Getty Images)</title>
+      <link>https://cn.bing.com/th?id=OHR.RedwoodPark_ZH-CN9513051062_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.RedwoodPark_ZH-CN9513051062_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.RedwoodPark_ZH-CN9513051062_UHD.jpg" type="image/jpg"/>
+      <description>红木国家与州立公园的日出，加利福尼亚州，美国 (© HadelProductions/Getty Images)</description>
+      <pubDate>2026-08-25</pubDate>
+    </item>
     <item>
       <title>布鲁克林大桥，纽约市，美国 (© shayes17/Getty Images)</title>
       <link>https://cn.bing.com/th?id=OHR.BKBridge_ZH-CN3870511222_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.MaraCrossing_ZH-CN8816902094_UHD.jpg" type="image/jpg"/>
       <description>马赛马拉迁徙的角马群横渡马拉河, 肯尼亚 (© Manoj Shah/Getty Images)</description>
       <pubDate>2026-08-06</pubDate>
-    </item>
-    <item>
-      <title>非斯皇宫装饰华丽的大门，摩洛哥 (© cgst26/Shutterstock)</title>
-      <link>https://cn.bing.com/th?id=OHR.FezMorocco_ZH-CN7662339428_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.FezMorocco_ZH-CN7662339428_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.FezMorocco_ZH-CN7662339428_UHD.jpg" type="image/jpg"/>
-      <description>非斯皇宫装饰华丽的大门，摩洛哥 (© cgst26/Shutterstock)</description>
-      <pubDate>2026-08-05</pubDate>
     </item>
   </channel>
 </rss>
