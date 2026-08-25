@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2026-08-25</lastBuildDate>
+    <lastBuildDate>2026-08-26</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>基尔丘山上空的极光，冰岛 (© Cavan Images/Alamy)</title>
+      <link>https://cn.bing.com/th?id=OHR.AurorasIceland_ZH-CN9781322454_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.AurorasIceland_ZH-CN9781322454_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.AurorasIceland_ZH-CN9781322454_UHD.jpg" type="image/jpg"/>
+      <description>基尔丘山上空的极光，冰岛 (© Cavan Images/Alamy)</description>
+      <pubDate>2026-08-26</pubDate>
+    </item>
     <item>
       <title>红木国家与州立公园的日出，加利福尼亚州，美国 (© HadelProductions/Getty Images)</title>
       <link>https://cn.bing.com/th?id=OHR.RedwoodPark_ZH-CN9513051062_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.LimeKiln_ZH-CN5664152522_UHD.jpg" type="image/jpg"/>
       <description>圣胡安岛石灰窑灯塔，华盛顿州，美国 (© Edmund Lowe Photography/Shutterstock)</description>
       <pubDate>2026-08-07</pubDate>
-    </item>
-    <item>
-      <title>马赛马拉迁徙的角马群横渡马拉河, 肯尼亚 (© Manoj Shah/Getty Images)</title>
-      <link>https://cn.bing.com/th?id=OHR.MaraCrossing_ZH-CN8816902094_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.MaraCrossing_ZH-CN8816902094_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.MaraCrossing_ZH-CN8816902094_UHD.jpg" type="image/jpg"/>
-      <description>马赛马拉迁徙的角马群横渡马拉河, 肯尼亚 (© Manoj Shah/Getty Images)</description>
-      <pubDate>2026-08-06</pubDate>
     </item>
   </channel>
 </rss>
