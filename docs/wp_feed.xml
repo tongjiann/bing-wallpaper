@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2026-08-29</lastBuildDate>
+    <lastBuildDate>2026-08-30</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>鲸鲨与黄金鲹，极乐鸟湾，西巴布亚，印度尼西亚 (© Pete Oxford/Nature Picture Library)</title>
+      <link>https://cn.bing.com/th?id=OHR.YellowShark_ZH-CN1570569826_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.YellowShark_ZH-CN1570569826_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.YellowShark_ZH-CN1570569826_UHD.jpg" type="image/jpg"/>
+      <description>鲸鲨与黄金鲹，极乐鸟湾，西巴布亚，印度尼西亚 (© Pete Oxford/Nature Picture Library)</description>
+      <pubDate>2026-08-30</pubDate>
+    </item>
     <item>
       <title>冲浪者航拍图，圣卡塔琳娜州，巴西 (© Wonderful Nature/Shutterstock)</title>
       <link>https://cn.bing.com/th?id=OHR.SantaCatarina_ZH-CN4170292043_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.ColorfulCop_ZH-CN8015611442_UHD.jpg" type="image/jpg"/>
       <description>哥本哈根新港运河沿岸的彩色房屋，首都大区，丹麦 (© emicristea/Getty Images)</description>
       <pubDate>2026-08-11</pubDate>
-    </item>
-    <item>
-      <title>约书亚树国家公园，加利福尼亚州，美国 (© JJ Landscapes/Getty Images)</title>
-      <link>https://cn.bing.com/th?id=OHR.SandPath_ZH-CN7820825668_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.SandPath_ZH-CN7820825668_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.SandPath_ZH-CN7820825668_UHD.jpg" type="image/jpg"/>
-      <description>约书亚树国家公园，加利福尼亚州，美国 (© JJ Landscapes/Getty Images)</description>
-      <pubDate>2026-08-10</pubDate>
     </item>
   </channel>
 </rss>
