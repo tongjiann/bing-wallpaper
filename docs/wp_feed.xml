@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2026-09-01</lastBuildDate>
+    <lastBuildDate>2026-09-02</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>传统海滩小屋，索思沃尔德，萨福克遗产海岸，英格兰 (© stevendocwra/Getty Images)</title>
+      <link>https://cn.bing.com/th?id=OHR.SuffolkHuts_ZH-CN2463818981_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.SuffolkHuts_ZH-CN2463818981_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.SuffolkHuts_ZH-CN2463818981_UHD.jpg" type="image/jpg"/>
+      <description>传统海滩小屋，索思沃尔德，萨福克遗产海岸，英格兰 (© stevendocwra/Getty Images)</description>
+      <pubDate>2026-09-02</pubDate>
+    </item>
     <item>
       <title>马鬃小皮伞，白俄罗斯 (© Máté/Nature Picture Library)</title>
       <link>https://cn.bing.com/th?id=OHR.HorseHairShroom_ZH-CN2241458451_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.WildlifeCrossingPoland_ZH-CN9439167246_UHD.jpg" type="image/jpg"/>
       <description>扎克舒夫附近的野生动物通道，波兰 (© bbsferrari/Getty Images)</description>
       <pubDate>2026-08-14</pubDate>
-    </item>
-    <item>
-      <title>泰德天文台上空的英仙座流星，加那利群岛，西班牙 (© Westend61/Getty Images)</title>
-      <link>https://cn.bing.com/th?id=OHR.PerseidasTenerife_ZH-CN8520379683_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.PerseidasTenerife_ZH-CN8520379683_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.PerseidasTenerife_ZH-CN8520379683_UHD.jpg" type="image/jpg"/>
-      <description>泰德天文台上空的英仙座流星，加那利群岛，西班牙 (© Westend61/Getty Images)</description>
-      <pubDate>2026-08-13</pubDate>
     </item>
   </channel>
 </rss>
