@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2026-09-02</lastBuildDate>
+    <lastBuildDate>2026-09-03</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>郊狼丘，朱红悬崖国家纪念区，亚利桑那州，美国 (© James Hager/Getty Images)</title>
+      <link>https://cn.bing.com/th?id=OHR.AZWilderness_ZH-CN2664566131_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.AZWilderness_ZH-CN2664566131_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.AZWilderness_ZH-CN2664566131_UHD.jpg" type="image/jpg"/>
+      <description>郊狼丘，朱红悬崖国家纪念区，亚利桑那州，美国 (© James Hager/Getty Images)</description>
+      <pubDate>2026-09-03</pubDate>
+    </item>
     <item>
       <title>传统海滩小屋，索思沃尔德，萨福克遗产海岸，英格兰 (© stevendocwra/Getty Images)</title>
       <link>https://cn.bing.com/th?id=OHR.SuffolkHuts_ZH-CN2463818981_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.ValleyDreams_ZH-CN9689713135_UHD.jpg" type="image/jpg"/>
       <description>圣胡安县阿什斯利帕荒野地的奇岩柱，新墨西哥州，美国 (© Westend61/Getty Images)</description>
       <pubDate>2026-08-15</pubDate>
-    </item>
-    <item>
-      <title>扎克舒夫附近的野生动物通道，波兰 (© bbsferrari/Getty Images)</title>
-      <link>https://cn.bing.com/th?id=OHR.WildlifeCrossingPoland_ZH-CN9439167246_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.WildlifeCrossingPoland_ZH-CN9439167246_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.WildlifeCrossingPoland_ZH-CN9439167246_UHD.jpg" type="image/jpg"/>
-      <description>扎克舒夫附近的野生动物通道，波兰 (© bbsferrari/Getty Images)</description>
-      <pubDate>2026-08-14</pubDate>
     </item>
   </channel>
 </rss>
