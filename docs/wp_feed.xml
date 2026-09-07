@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2026-09-07</lastBuildDate>
+    <lastBuildDate>2026-09-08</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>东米恩南唐斯国家公园谷物田中的山毛榉树，汉普郡，英格兰 (© Guy Edwardes/Minden Pictures)</title>
+      <link>https://cn.bing.com/th?id=OHR.BeechEngland_ZH-CN1807343872_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.BeechEngland_ZH-CN1807343872_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.BeechEngland_ZH-CN1807343872_UHD.jpg" type="image/jpg"/>
+      <description>东米恩南唐斯国家公园谷物田中的山毛榉树，汉普郡，英格兰 (© Guy Edwardes/Minden Pictures)</description>
+      <pubDate>2026-09-08</pubDate>
+    </item>
     <item>
       <title>老市政厅，班贝格，德国 (© SCStock/Getty Images)</title>
       <link>https://cn.bing.com/th?id=OHR.BambergTownhall_ZH-CN1407954732_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.LynnCanalOrca_ZH-CN0719217908_UHD.jpg" type="image/jpg"/>
       <description>林恩运河中浮出水面的虎鲸，奇尔卡特山脉附近，阿拉斯加州，美国 (© John Hyde/Alamy)</description>
       <pubDate>2026-08-20</pubDate>
-    </item>
-    <item>
-      <title>怀特克利夫公园，西温哥华，加拿大 (© Aolin Chen/Getty Images)</title>
-      <link>https://cn.bing.com/th?id=OHR.WhyteCliffP_ZH-CN0573407830_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.WhyteCliffP_ZH-CN0573407830_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.WhyteCliffP_ZH-CN0573407830_UHD.jpg" type="image/jpg"/>
-      <description>怀特克利夫公园，西温哥华，加拿大 (© Aolin Chen/Getty Images)</description>
-      <pubDate>2026-08-19</pubDate>
     </item>
   </channel>
 </rss>
