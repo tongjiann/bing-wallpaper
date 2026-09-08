@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2026-09-08</lastBuildDate>
+    <lastBuildDate>2026-09-09</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>安科拉附近的加比特凯尼海滩，卡纳塔克邦，印度 (© Amith Nag Photography/Getty Images)</title>
+      <link>https://cn.bing.com/th?id=OHR.GabitKeni_ZH-CN2314122948_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.GabitKeni_ZH-CN2314122948_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.GabitKeni_ZH-CN2314122948_UHD.jpg" type="image/jpg"/>
+      <description>安科拉附近的加比特凯尼海滩，卡纳塔克邦，印度 (© Amith Nag Photography/Getty Images)</description>
+      <pubDate>2026-09-09</pubDate>
+    </item>
     <item>
       <title>东米恩南唐斯国家公园谷物田中的山毛榉树，汉普郡，英格兰 (© Guy Edwardes/Minden Pictures)</title>
       <link>https://cn.bing.com/th?id=OHR.BeechEngland_ZH-CN1807343872_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.JulierPass_ZH-CN3064797820_UHD.jpg" type="image/jpg"/>
       <description>尤利尔山口蜿蜒的公路，瑞士 (© Westend61/Getty Images)</description>
       <pubDate>2026-08-21</pubDate>
-    </item>
-    <item>
-      <title>林恩运河中浮出水面的虎鲸，奇尔卡特山脉附近，阿拉斯加州，美国 (© John Hyde/Alamy)</title>
-      <link>https://cn.bing.com/th?id=OHR.LynnCanalOrca_ZH-CN0719217908_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.LynnCanalOrca_ZH-CN0719217908_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.LynnCanalOrca_ZH-CN0719217908_UHD.jpg" type="image/jpg"/>
-      <description>林恩运河中浮出水面的虎鲸，奇尔卡特山脉附近，阿拉斯加州，美国 (© John Hyde/Alamy)</description>
-      <pubDate>2026-08-20</pubDate>
     </item>
   </channel>
 </rss>
