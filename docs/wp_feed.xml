@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2026-09-11</lastBuildDate>
+    <lastBuildDate>2026-09-12</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>墨西哥近海围猎沙丁鱼饵球的加州海狮，太平洋 (© Henley Spiers/Nature Picture Library)</title>
+      <link>https://cn.bing.com/th?id=OHR.SardineBait_ZH-CN3256234033_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.SardineBait_ZH-CN3256234033_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.SardineBait_ZH-CN3256234033_UHD.jpg" type="image/jpg"/>
+      <description>墨西哥近海围猎沙丁鱼饵球的加州海狮，太平洋 (© Henley Spiers/Nature Picture Library)</description>
+      <pubDate>2026-09-12</pubDate>
+    </item>
     <item>
       <title>滨海自由城，法国里维埃拉，法国 (© StockByM/Getty Images)</title>
       <link>https://cn.bing.com/th?id=OHR.FrenchRivieraVillage_ZH-CN2888811422_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.BKBridge_ZH-CN3870511222_UHD.jpg" type="image/jpg"/>
       <description>布鲁克林大桥，纽约市，美国 (© shayes17/Getty Images)</description>
       <pubDate>2026-08-24</pubDate>
-    </item>
-    <item>
-      <title>在处暑时节的村庄田野与寺庙佛塔，江阴市，江苏省，中国 (© jia yu/Getty Images)</title>
-      <link>https://cn.bing.com/th?id=OHR.EndofHeatY26_ZH-CN8936468848_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.EndofHeatY26_ZH-CN8936468848_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.EndofHeatY26_ZH-CN8936468848_UHD.jpg" type="image/jpg"/>
-      <description>在处暑时节的村庄田野与寺庙佛塔，江阴市，江苏省，中国 (© jia yu/Getty Images)</description>
-      <pubDate>2026-08-23</pubDate>
     </item>
   </channel>
 </rss>
