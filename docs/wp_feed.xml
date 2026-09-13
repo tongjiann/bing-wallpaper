@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2026-09-13</lastBuildDate>
+    <lastBuildDate>2026-09-14</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>地肤田，中国 (© lingqi xie/Getty Images)</title>
+      <link>https://cn.bing.com/th?id=OHR.KochiaChina_ZH-CN4719995421_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.KochiaChina_ZH-CN4719995421_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.KochiaChina_ZH-CN4719995421_UHD.jpg" type="image/jpg"/>
+      <description>地肤田，中国 (© lingqi xie/Getty Images)</description>
+      <pubDate>2026-09-14</pubDate>
+    </item>
     <item>
       <title>米苏里纳群峰，多洛米蒂山脉，威尼托大区，意大利 (© Vithun Khamsong/Getty Images)</title>
       <link>https://cn.bing.com/th?id=OHR.MisurinaPeak_ZH-CN3877105161_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.AurorasIceland_ZH-CN9781322454_UHD.jpg" type="image/jpg"/>
       <description>基尔丘山上空的极光，冰岛 (© Cavan Images/Alamy)</description>
       <pubDate>2026-08-26</pubDate>
-    </item>
-    <item>
-      <title>红木国家与州立公园的日出，加利福尼亚州，美国 (© HadelProductions/Getty Images)</title>
-      <link>https://cn.bing.com/th?id=OHR.RedwoodPark_ZH-CN9513051062_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.RedwoodPark_ZH-CN9513051062_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.RedwoodPark_ZH-CN9513051062_UHD.jpg" type="image/jpg"/>
-      <description>红木国家与州立公园的日出，加利福尼亚州，美国 (© HadelProductions/Getty Images)</description>
-      <pubDate>2026-08-25</pubDate>
     </item>
   </channel>
 </rss>
