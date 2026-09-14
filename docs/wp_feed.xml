@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2026-09-14</lastBuildDate>
+    <lastBuildDate>2026-09-15</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>红绿金刚鹦鹉 (© markes51/Getty Images)</title>
+      <link>https://cn.bing.com/th?id=OHR.RedMacawsFlight_ZH-CN5045822113_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.RedMacawsFlight_ZH-CN5045822113_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.RedMacawsFlight_ZH-CN5045822113_UHD.jpg" type="image/jpg"/>
+      <description>红绿金刚鹦鹉 (© markes51/Getty Images)</description>
+      <pubDate>2026-09-15</pubDate>
+    </item>
     <item>
       <title>地肤田，中国 (© lingqi xie/Getty Images)</title>
       <link>https://cn.bing.com/th?id=OHR.KochiaChina_ZH-CN4719995421_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.LakeMagadi_ZH-CN0601527009_UHD.jpg" type="image/jpg"/>
       <description>日出时的小红鹳群，马加迪湖，肯尼亚 (© Denis-Huot/Nature Picture Library)</description>
       <pubDate>2026-08-27</pubDate>
-    </item>
-    <item>
-      <title>基尔丘山上空的极光，冰岛 (© Cavan Images/Alamy)</title>
-      <link>https://cn.bing.com/th?id=OHR.AurorasIceland_ZH-CN9781322454_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.AurorasIceland_ZH-CN9781322454_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.AurorasIceland_ZH-CN9781322454_UHD.jpg" type="image/jpg"/>
-      <description>基尔丘山上空的极光，冰岛 (© Cavan Images/Alamy)</description>
-      <pubDate>2026-08-26</pubDate>
     </item>
   </channel>
 </rss>
