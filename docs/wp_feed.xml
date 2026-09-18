@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2026-09-18</lastBuildDate>
+    <lastBuildDate>2026-09-19</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>阿尔卑斯长号演奏者，巴伐利亚州，德国 (© U. J. Alexander/Shutterstock)</title>
+      <link>https://cn.bing.com/th?id=OHR.AlphornBavaria_ZH-CN5896237112_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.AlphornBavaria_ZH-CN5896237112_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.AlphornBavaria_ZH-CN5896237112_UHD.jpg" type="image/jpg"/>
+      <description>阿尔卑斯长号演奏者，巴伐利亚州，德国 (© U. J. Alexander/Shutterstock)</description>
+      <pubDate>2026-09-19</pubDate>
+    </item>
     <item>
       <title>温纳茨山口，峰区国家公园，英格兰 (© Daniel_Kay/Getty Images)</title>
       <link>https://cn.bing.com/th?id=OHR.WinnatsPassPeak_ZH-CN4443458412_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.SamarkandCeiling_ZH-CN1818913296_UHD.jpg" type="image/jpg"/>
       <description>雷吉斯坦广场的建筑细节，撒马尔罕，乌兹别克斯坦 (© Piero M. Bianchi/Getty Images)</description>
       <pubDate>2026-08-31</pubDate>
-    </item>
-    <item>
-      <title>鲸鲨与黄金鲹，极乐鸟湾，西巴布亚，印度尼西亚 (© Pete Oxford/Nature Picture Library)</title>
-      <link>https://cn.bing.com/th?id=OHR.YellowShark_ZH-CN1570569826_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.YellowShark_ZH-CN1570569826_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.YellowShark_ZH-CN1570569826_UHD.jpg" type="image/jpg"/>
-      <description>鲸鲨与黄金鲹，极乐鸟湾，西巴布亚，印度尼西亚 (© Pete Oxford/Nature Picture Library)</description>
-      <pubDate>2026-08-30</pubDate>
     </item>
   </channel>
 </rss>
