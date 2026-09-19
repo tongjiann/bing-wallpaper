@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2026-09-19</lastBuildDate>
+    <lastBuildDate>2026-09-20</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>日落时分的埃菲尔铁塔，巴黎，法国 (© Alexander Spatari/Getty Images)</title>
+      <link>https://cn.bing.com/th?id=OHR.ParisSunset_ZH-CN6050686638_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.ParisSunset_ZH-CN6050686638_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.ParisSunset_ZH-CN6050686638_UHD.jpg" type="image/jpg"/>
+      <description>日落时分的埃菲尔铁塔，巴黎，法国 (© Alexander Spatari/Getty Images)</description>
+      <pubDate>2026-09-20</pubDate>
+    </item>
     <item>
       <title>阿尔卑斯长号演奏者，巴伐利亚州，德国 (© U. J. Alexander/Shutterstock)</title>
       <link>https://cn.bing.com/th?id=OHR.AlphornBavaria_ZH-CN5896237112_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.HorseHairShroom_ZH-CN2241458451_UHD.jpg" type="image/jpg"/>
       <description>马鬃小皮伞，白俄罗斯 (© Máté/Nature Picture Library)</description>
       <pubDate>2026-09-01</pubDate>
-    </item>
-    <item>
-      <title>雷吉斯坦广场的建筑细节，撒马尔罕，乌兹别克斯坦 (© Piero M. Bianchi/Getty Images)</title>
-      <link>https://cn.bing.com/th?id=OHR.SamarkandCeiling_ZH-CN1818913296_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.SamarkandCeiling_ZH-CN1818913296_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.SamarkandCeiling_ZH-CN1818913296_UHD.jpg" type="image/jpg"/>
-      <description>雷吉斯坦广场的建筑细节，撒马尔罕，乌兹别克斯坦 (© Piero M. Bianchi/Getty Images)</description>
-      <pubDate>2026-08-31</pubDate>
     </item>
   </channel>
 </rss>
