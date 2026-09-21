@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2026-09-21</lastBuildDate>
+    <lastBuildDate>2026-09-22</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>瓜兹曼山口附近的秋日山杨林，犹他州，美国 (© Danita Delimont/Shutterstock)</title>
+      <link>https://cn.bing.com/th?id=OHR.FallAspens_ZH-CN7235054933_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.FallAspens_ZH-CN7235054933_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.FallAspens_ZH-CN7235054933_UHD.jpg" type="image/jpg"/>
+      <description>瓜兹曼山口附近的秋日山杨林，犹他州，美国 (© Danita Delimont/Shutterstock)</description>
+      <pubDate>2026-09-22</pubDate>
+    </item>
     <item>
       <title>正在梳理皮毛的海獭，蒙特雷湾，加利福尼亚州，美国 (© Suzi Eszterhas/Minden Pictures)</title>
       <link>https://cn.bing.com/th?id=OHR.GroomingOtter_ZH-CN6969472572_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.AZWilderness_ZH-CN2664566131_UHD.jpg" type="image/jpg"/>
       <description>郊狼丘，朱红悬崖国家纪念区，亚利桑那州，美国 (© James Hager/Getty Images)</description>
       <pubDate>2026-09-03</pubDate>
-    </item>
-    <item>
-      <title>传统海滩小屋，索思沃尔德，萨福克遗产海岸，英格兰 (© stevendocwra/Getty Images)</title>
-      <link>https://cn.bing.com/th?id=OHR.SuffolkHuts_ZH-CN2463818981_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.SuffolkHuts_ZH-CN2463818981_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.SuffolkHuts_ZH-CN2463818981_UHD.jpg" type="image/jpg"/>
-      <description>传统海滩小屋，索思沃尔德，萨福克遗产海岸，英格兰 (© stevendocwra/Getty Images)</description>
-      <pubDate>2026-09-02</pubDate>
     </item>
   </channel>
 </rss>
