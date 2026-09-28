@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2026-09-28</lastBuildDate>
+    <lastBuildDate>2026-09-29</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>卡西洛夫河冰川融水滋养的湛蓝河水，阿拉斯加州，美国 (© jared lloyd/Getty Images)</title>
+      <link>https://cn.bing.com/th?id=OHR.KasilofRiver_ZH-CN2394091052_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.KasilofRiver_ZH-CN2394091052_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.KasilofRiver_ZH-CN2394091052_UHD.jpg" type="image/jpg"/>
+      <description>卡西洛夫河冰川融水滋养的湛蓝河水，阿拉斯加州，美国 (© jared lloyd/Getty Images)</description>
+      <pubDate>2026-09-29</pubDate>
+    </item>
     <item>
       <title>斋浦尔附近琥珀堡内的 Sattais Katcheri 大厅，拉贾斯坦邦，印度 (© R.M. Nunes/Getty Images)</title>
       <link>https://cn.bing.com/th?id=OHR.AmberHall_ZH-CN1223127100_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.FrenchRivieraVillage_ZH-CN2888811422_UHD.jpg" type="image/jpg"/>
       <description>滨海自由城，法国里维埃拉，法国 (© StockByM/Getty Images)</description>
       <pubDate>2026-09-11</pubDate>
-    </item>
-    <item>
-      <title>奥尔韦拉航拍图，安达卢西亚，西班牙 (© Marco Bottigelli/Getty Images)</title>
-      <link>https://cn.bing.com/th?id=OHR.Olvera_ZH-CN2727093856_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.Olvera_ZH-CN2727093856_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.Olvera_ZH-CN2727093856_UHD.jpg" type="image/jpg"/>
-      <description>奥尔韦拉航拍图，安达卢西亚，西班牙 (© Marco Bottigelli/Getty Images)</description>
-      <pubDate>2026-09-10</pubDate>
     </item>
   </channel>
 </rss>
