@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2026-09-29</lastBuildDate>
+    <lastBuildDate>2026-09-30</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>雄性文须雀，诺福克郡，英格兰 (© Andrew Sproule/Shutterstock)</title>
+      <link>https://cn.bing.com/th?id=OHR.BeardReedling_ZH-CN2750632320_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.BeardReedling_ZH-CN2750632320_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.BeardReedling_ZH-CN2750632320_UHD.jpg" type="image/jpg"/>
+      <description>雄性文须雀，诺福克郡，英格兰 (© Andrew Sproule/Shutterstock)</description>
+      <pubDate>2026-09-30</pubDate>
+    </item>
     <item>
       <title>卡西洛夫河冰川融水滋养的湛蓝河水，阿拉斯加州，美国 (© jared lloyd/Getty Images)</title>
       <link>https://cn.bing.com/th?id=OHR.KasilofRiver_ZH-CN2394091052_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.SardineBait_ZH-CN3256234033_UHD.jpg" type="image/jpg"/>
       <description>墨西哥近海围猎沙丁鱼饵球的加州海狮，太平洋 (© Henley Spiers/Nature Picture Library)</description>
       <pubDate>2026-09-12</pubDate>
-    </item>
-    <item>
-      <title>滨海自由城，法国里维埃拉，法国 (© StockByM/Getty Images)</title>
-      <link>https://cn.bing.com/th?id=OHR.FrenchRivieraVillage_ZH-CN2888811422_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.FrenchRivieraVillage_ZH-CN2888811422_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.FrenchRivieraVillage_ZH-CN2888811422_UHD.jpg" type="image/jpg"/>
-      <description>滨海自由城，法国里维埃拉，法国 (© StockByM/Getty Images)</description>
-      <pubDate>2026-09-11</pubDate>
     </item>
   </channel>
 </rss>
