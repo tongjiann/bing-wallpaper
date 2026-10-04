@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2026-10-04</lastBuildDate>
+    <lastBuildDate>2026-10-05</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>南极洲的阿德利企鹅 (© Otto Plantema/Minden Pictures)</title>
+      <link>https://cn.bing.com/th?id=OHR.AdelieTeacher_ZH-CN2201820679_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.AdelieTeacher_ZH-CN2201820679_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.AdelieTeacher_ZH-CN2201820679_UHD.jpg" type="image/jpg"/>
+      <description>南极洲的阿德利企鹅 (© Otto Plantema/Minden Pictures)</description>
+      <pubDate>2026-10-05</pubDate>
+    </item>
     <item>
       <title>阿尔忒弥斯1号月球火箭，39B发射台，肯尼迪航天中心，佛罗里达州，2022年6月15日 (© EVA MARIE UZCATEGUI/Getty Images)</title>
       <link>https://cn.bing.com/th?id=OHR.ArtemisRocket_ZH-CN1768541365_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.WinnatsPassPeak_ZH-CN4443458412_UHD.jpg" type="image/jpg"/>
       <description>温纳茨山口，峰区国家公园，英格兰 (© Daniel_Kay/Getty Images)</description>
       <pubDate>2026-09-18</pubDate>
-    </item>
-    <item>
-      <title>桑特奈葡萄酒产区葡萄园中的索林风车，伯恩丘，勃艮第，法国 (© Marco Bottigelli/Getty Images)</title>
-      <link>https://cn.bing.com/th?id=OHR.Santenay_ZH-CN5676942384_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.Santenay_ZH-CN5676942384_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.Santenay_ZH-CN5676942384_UHD.jpg" type="image/jpg"/>
-      <description>桑特奈葡萄酒产区葡萄园中的索林风车，伯恩丘，勃艮第，法国 (© Marco Bottigelli/Getty Images)</description>
-      <pubDate>2026-09-17</pubDate>
     </item>
   </channel>
 </rss>
