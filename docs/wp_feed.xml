@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2026-10-07</lastBuildDate>
+    <lastBuildDate>2026-10-08</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>印度洋马约特岛，一只呈防御姿态的章鱼 (© Gabriel Barathieu/Minden Pictures)</title>
+      <link>https://cn.bing.com/th?id=OHR.MayotteOctopus_ZH-CN2837659998_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.MayotteOctopus_ZH-CN2837659998_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.MayotteOctopus_ZH-CN2837659998_UHD.jpg" type="image/jpg"/>
+      <description>印度洋马约特岛，一只呈防御姿态的章鱼 (© Gabriel Barathieu/Minden Pictures)</description>
+      <pubDate>2026-10-08</pubDate>
+    </item>
     <item>
       <title>覆满苔藓的岩石，英国格洛斯特郡谜林，迪恩森林，格洛斯特郡，英格兰 (© Fulcanelli_AOS/Getty Images)</title>
       <link>https://cn.bing.com/th?id=OHR.ForestofDean_ZH-CN2654753621_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.GroomingOtter_ZH-CN6969472572_UHD.jpg" type="image/jpg"/>
       <description>正在梳理皮毛的海獭，蒙特雷湾，加利福尼亚州，美国 (© Suzi Eszterhas/Minden Pictures)</description>
       <pubDate>2026-09-21</pubDate>
-    </item>
-    <item>
-      <title>日落时分的埃菲尔铁塔，巴黎，法国 (© Alexander Spatari/Getty Images)</title>
-      <link>https://cn.bing.com/th?id=OHR.ParisSunset_ZH-CN6050686638_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.ParisSunset_ZH-CN6050686638_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.ParisSunset_ZH-CN6050686638_UHD.jpg" type="image/jpg"/>
-      <description>日落时分的埃菲尔铁塔，巴黎，法国 (© Alexander Spatari/Getty Images)</description>
-      <pubDate>2026-09-20</pubDate>
     </item>
   </channel>
 </rss>
