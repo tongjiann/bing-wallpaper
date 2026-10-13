@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2026-10-13</lastBuildDate>
+    <lastBuildDate>2026-10-14</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>侏罗纪时期的菊石化石 (© J Nemchinova/Getty Images)</title>
+      <link>https://cn.bing.com/th?id=OHR.AmmoniteFossils_ZH-CN5825251327_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.AmmoniteFossils_ZH-CN5825251327_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.AmmoniteFossils_ZH-CN5825251327_UHD.jpg" type="image/jpg"/>
+      <description>侏罗纪时期的菊石化石 (© J Nemchinova/Getty Images)</description>
+      <pubDate>2026-10-14</pubDate>
+    </item>
     <item>
       <title>普利特维采湖群国家公园，克罗地亚 (© Jan Wlodarczyk/Alamy)</title>
       <link>https://cn.bing.com/th?id=OHR.PlitviceAutumn_ZH-CN5646237897_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.DecoCrab_ZH-CN0973306994_UHD.jpg" type="image/jpg"/>
       <description>海笔上的装饰蟹，科莫多国家公园，印度尼西亚 (© Alex Mustard/Nature Picture Library)</description>
       <pubDate>2026-09-27</pubDate>
-    </item>
-    <item>
-      <title>熊耳国家纪念区附近的雪松台地和骡子角，犹他州，美国 (© Jeff Clay/Tandem Stills + Motion)</title>
-      <link>https://cn.bing.com/th?id=OHR.BearsEars_ZH-CN0496897450_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.BearsEars_ZH-CN0496897450_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.BearsEars_ZH-CN0496897450_UHD.jpg" type="image/jpg"/>
-      <description>熊耳国家纪念区附近的雪松台地和骡子角，犹他州，美国 (© Jeff Clay/Tandem Stills + Motion)</description>
-      <pubDate>2026-09-26</pubDate>
     </item>
   </channel>
 </rss>
