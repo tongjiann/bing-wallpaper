@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2026-10-15</lastBuildDate>
+    <lastBuildDate>2026-10-16</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>斯奈费尔斯山，里奇韦附近的圣胡安山脉，科罗拉多州，美国 (© lightphoto/Getty Images)</title>
+      <link>https://cn.bing.com/th?id=OHR.SneffelsAutumn_ZH-CN3002661429_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.SneffelsAutumn_ZH-CN3002661429_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.SneffelsAutumn_ZH-CN3002661429_UHD.jpg" type="image/jpg"/>
+      <description>斯奈费尔斯山，里奇韦附近的圣胡安山脉，科罗拉多州，美国 (© lightphoto/Getty Images)</description>
+      <pubDate>2026-10-16</pubDate>
+    </item>
     <item>
       <title>弗罗茨瓦夫集市广场景观，摄自女巫桥，弗罗茨瓦夫，波兰 (© Piotr Mitelski/Shutterstock)</title>
       <link>https://cn.bing.com/th?id=OHR.WroclawPoland_ZH-CN6042428292_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.AmberHall_ZH-CN1223127100_UHD.jpg" type="image/jpg"/>
       <description>斋浦尔附近琥珀堡内的 Sattais Katcheri 大厅，拉贾斯坦邦，印度 (© R.M. Nunes/Getty Images)</description>
       <pubDate>2026-09-28</pubDate>
-    </item>
-    <item>
-      <title>海笔上的装饰���，科莫多国家公园，印度尼西亚 (© Alex Mustard/Nature Picture Library)</title>
-      <link>https://cn.bing.com/th?id=OHR.DecoCrab_ZH-CN0973306994_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.DecoCrab_ZH-CN0973306994_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.DecoCrab_ZH-CN0973306994_UHD.jpg" type="image/jpg"/>
-      <description>海笔上的装饰���，科莫多国家公园，印度尼西亚 (© Alex Mustard/Nature Picture Library)</description>
-      <pubDate>2026-09-27</pubDate>
     </item>
   </channel>
 </rss>
