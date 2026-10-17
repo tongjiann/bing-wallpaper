@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2026-10-17</lastBuildDate>
+    <lastBuildDate>2026-10-18</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>多巴达恩城堡，兰贝里斯，斯诺登尼亚国家公园，威尔士 (© joe daniel price/Getty Images)</title>
+      <link>https://cn.bing.com/th?id=OHR.DolbadarnWales_ZH-CN3649667806_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.DolbadarnWales_ZH-CN3649667806_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.DolbadarnWales_ZH-CN3649667806_UHD.jpg" type="image/jpg"/>
+      <description>多巴达恩城堡，兰贝里斯，斯诺登尼亚国家公园，威尔士 (© joe daniel price/Getty Images)</description>
+      <pubDate>2026-10-18</pubDate>
+    </item>
     <item>
       <title>肖维岩洞艺术作品等比例复制品，瓦隆蓬达尔克，法国 (© Audrey Poree/Alamy)</title>
       <link>https://cn.bing.com/th?id=OHR.ChauvetPaintingsFrance_ZH-CN3150703955_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.BeardReedling_ZH-CN2750632320_UHD.jpg" type="image/jpg"/>
       <description>雄性文须雀，诺福克郡，英格兰 (© Andrew Sproule/Shutterstock)</description>
       <pubDate>2026-09-30</pubDate>
-    </item>
-    <item>
-      <title>卡西洛夫河冰川融水滋养的湛蓝河水，阿拉斯加州，美国 (© jared lloyd/Getty Images)</title>
-      <link>https://cn.bing.com/th?id=OHR.KasilofRiver_ZH-CN2394091052_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.KasilofRiver_ZH-CN2394091052_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.KasilofRiver_ZH-CN2394091052_UHD.jpg" type="image/jpg"/>
-      <description>卡西洛夫河冰川融水滋养的湛蓝河水，阿拉斯加州，美国 (© jared lloyd/Getty Images)</description>
-      <pubDate>2026-09-29</pubDate>
     </item>
   </channel>
 </rss>
