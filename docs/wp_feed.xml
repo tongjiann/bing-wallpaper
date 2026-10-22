@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2026-10-22</lastBuildDate>
+    <lastBuildDate>2026-10-23</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>两只灰狼，黄石国家公园，怀俄明州，美国 (© John Morrison/Getty Images)</title>
+      <link>https://cn.bing.com/th?id=OHR.YellowstoneWolves_ZH-CN6767268961_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.YellowstoneWolves_ZH-CN6767268961_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.YellowstoneWolves_ZH-CN6767268961_UHD.jpg" type="image/jpg"/>
+      <description>两只灰狼，黄石国家公园，怀俄明州，美国 (© John Morrison/Getty Images)</description>
+      <pubDate>2026-10-23</pubDate>
+    </item>
     <item>
       <title>内藏山国立公园的秋景，韩国 (© Twenty47studio/Getty Images)</title>
       <link>https://cn.bing.com/th?id=OHR.NaejangsanNP_ZH-CN6538893004_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.ArtemisRocket_ZH-CN1768541365_UHD.jpg" type="image/jpg"/>
       <description>阿尔忒弥斯1号月球火箭，39B发射台，肯尼迪航天中心，佛罗里达州，2022年6月15日 (© EVA MARIE UZCATEGUI/Getty Images)</description>
       <pubDate>2026-10-04</pubDate>
-    </item>
-    <item>
-      <title>美国阿拉斯加州克拉克湖国家公园和自然保护区银鲑溪中的棕熊 (© Danny Green/Nature Picture Library)</title>
-      <link>https://cn.bing.com/th?id=OHR.GrizzlySwim_ZH-CN1005455737_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.GrizzlySwim_ZH-CN1005455737_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.GrizzlySwim_ZH-CN1005455737_UHD.jpg" type="image/jpg"/>
-      <description>美国阿拉斯加州克拉克湖国家公园和自然保护区银鲑溪中的棕熊 (© Danny Green/Nature Picture Library)</description>
-      <pubDate>2026-10-03</pubDate>
     </item>
   </channel>
 </rss>
