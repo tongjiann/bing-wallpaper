@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2026-10-26</lastBuildDate>
+    <lastBuildDate>2026-10-27</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>秋叶缤纷的池杉林，乔治亚州，美国 (© Chris Moore/Getty Images)</title>
+      <link>https://cn.bing.com/th?id=OHR.PondCypress_ZH-CN9472607734_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.PondCypress_ZH-CN9472607734_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.PondCypress_ZH-CN9472607734_UHD.jpg" type="image/jpg"/>
+      <description>秋叶缤纷的池杉林，乔治亚州，美国 (© Chris Moore/Getty Images)</description>
+      <pubDate>2026-10-27</pubDate>
+    </item>
     <item>
       <title>秋日瀑布，西托沃附近，普罗夫迪夫州，保加利亚 (© Nadya85/Getty Images)</title>
       <link>https://cn.bing.com/th?id=OHR.SitovoWaterfall_ZH-CN8495214046_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.MayotteOctopus_ZH-CN2837659998_UHD.jpg" type="image/jpg"/>
       <description>印度洋马约特岛，一只呈防御姿态的章鱼 (© Gabriel Barathieu/Minden Pictures)</description>
       <pubDate>2026-10-08</pubDate>
-    </item>
-    <item>
-      <title>覆满苔藓的岩石，英国格洛斯特郡谜林，迪恩森林，格洛斯特郡，英格兰 (© Fulcanelli_AOS/Getty Images)</title>
-      <link>https://cn.bing.com/th?id=OHR.ForestofDean_ZH-CN2654753621_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.ForestofDean_ZH-CN2654753621_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.ForestofDean_ZH-CN2654753621_UHD.jpg" type="image/jpg"/>
-      <description>覆满苔藓的岩石，英国格洛斯特郡谜林，迪恩森林，格洛斯特郡，英格兰 (© Fulcanelli_AOS/Getty Images)</description>
-      <pubDate>2026-10-07</pubDate>
     </item>
   </channel>
 </rss>
