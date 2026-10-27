@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2026-10-27</lastBuildDate>
+    <lastBuildDate>2026-10-28</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>库涅季采山城堡，波希米亚，捷克 (© Marek Saroch/Alamy)</title>
+      <link>https://cn.bing.com/th?id=OHR.KuneticeCastle_ZH-CN8895858920_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.KuneticeCastle_ZH-CN8895858920_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.KuneticeCastle_ZH-CN8895858920_UHD.jpg" type="image/jpg"/>
+      <description>库涅季采山城堡，波希米亚，捷克 (© Marek Saroch/Alamy)</description>
+      <pubDate>2026-10-28</pubDate>
+    </item>
     <item>
       <title>秋叶缤纷的池杉林，乔治亚州，美国 (© Chris Moore/Getty Images)</title>
       <link>https://cn.bing.com/th?id=OHR.PondCypress_ZH-CN9472607734_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.IlesSanguinaires_ZH-CN3149346035_UHD.jpg" type="image/jpg"/>
       <description>桑吉奈尔群岛景观，摄自科西嘉岛，法国 (© Francesco Riccardo Iacomino/Getty Images)</description>
       <pubDate>2026-10-09</pubDate>
-    </item>
-    <item>
-      <title>印度洋马约特岛，一只呈防御姿态的章鱼 (© Gabriel Barathieu/Minden Pictures)</title>
-      <link>https://cn.bing.com/th?id=OHR.MayotteOctopus_ZH-CN2837659998_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.MayotteOctopus_ZH-CN2837659998_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.MayotteOctopus_ZH-CN2837659998_UHD.jpg" type="image/jpg"/>
-      <description>印度洋马约特岛，一只呈防御姿态的章鱼 (© Gabriel Barathieu/Minden Pictures)</description>
-      <pubDate>2026-10-08</pubDate>
     </item>
   </channel>
 </rss>
