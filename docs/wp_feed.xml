@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2026-10-28</lastBuildDate>
+    <lastBuildDate>2026-10-29</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>立石，埃夫伯里，威尔特郡，英格兰 (© George W Johnson/Getty Images)</title>
+      <link>https://cn.bing.com/th?id=OHR.AveburyStones_ZH-CN9127100951_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.AveburyStones_ZH-CN9127100951_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.AveburyStones_ZH-CN9127100951_UHD.jpg" type="image/jpg"/>
+      <description>立石，埃夫伯里，威尔特郡，英格兰 (© George W Johnson/Getty Images)</description>
+      <pubDate>2026-10-29</pubDate>
+    </item>
     <item>
       <title>库涅季采山城堡，波希米亚，捷克 (© Marek Saroch/Alamy)</title>
       <link>https://cn.bing.com/th?id=OHR.KuneticeCastle_ZH-CN8895858920_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.CormorantsFlight_ZH-CN0770863330_UHD.jpg" type="image/jpg"/>
       <description>蒙特雷湾上空的双冠鸬鹚，加利福尼亚州，美国 (© Hiroya Minakuchi/Minden Pictures)</description>
       <pubDate>2026-10-10</pubDate>
-    </item>
-    <item>
-      <title>桑吉奈尔群岛景观，摄自科西嘉岛，法国 (© Francesco Riccardo Iacomino/Getty Images)</title>
-      <link>https://cn.bing.com/th?id=OHR.IlesSanguinaires_ZH-CN3149346035_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.IlesSanguinaires_ZH-CN3149346035_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.IlesSanguinaires_ZH-CN3149346035_UHD.jpg" type="image/jpg"/>
-      <description>桑吉奈尔群岛景观，摄自科西嘉岛，法国 (© Francesco Riccardo Iacomino/Getty Images)</description>
-      <pubDate>2026-10-09</pubDate>
     </item>
   </channel>
 </rss>
