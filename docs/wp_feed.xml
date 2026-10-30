@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2026-10-30</lastBuildDate>
+    <lastBuildDate>2026-10-31</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>圣巴尔多禄茂教堂，法兰克福，德国 (© AlxeyPnferov/Getty Images)</title>
+      <link>https://cn.bing.com/th?id=OHR.FrankfurtHalloween_ZH-CN5998782698_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.FrankfurtHalloween_ZH-CN5998782698_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.FrankfurtHalloween_ZH-CN5998782698_UHD.jpg" type="image/jpg"/>
+      <description>圣巴尔多禄茂教堂，法兰克福，德国 (© AlxeyPnferov/Getty Images)</description>
+      <pubDate>2026-10-31</pubDate>
+    </item>
     <item>
       <title>沙丘鹤，博斯克德尔阿帕奇国家野生动物保护区，新墨西哥州，美国 (© Terry St.Louis/Getty Images)</title>
       <link>https://cn.bing.com/th?id=OHR.AutumnCranes_ZH-CN5772055404_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.MumblesSwansea2026_ZH-CN5419531039_UHD.jpg" type="image/jpg"/>
       <description>曼布尔斯码头，斯旺西，威尔士 (© Helen Hotson/Shutterstock)</description>
       <pubDate>2026-10-12</pubDate>
-    </item>
-    <item>
-      <title>格莱德溪磨坊，巴布科克州立公园，西弗吉尼亚州，美国 (© dszc/Getty Images)</title>
-      <link>https://cn.bing.com/th?id=OHR.BabcockSP_ZH-CN5266848536_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.BabcockSP_ZH-CN5266848536_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.BabcockSP_ZH-CN5266848536_UHD.jpg" type="image/jpg"/>
-      <description>格莱德溪磨坊，巴布科克州立公园，西弗吉尼亚州，美国 (© dszc/Getty Images)</description>
-      <pubDate>2026-10-11</pubDate>
     </item>
   </channel>
 </rss>
