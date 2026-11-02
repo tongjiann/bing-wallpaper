@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2026-11-02</lastBuildDate>
+    <lastBuildDate>2026-11-03</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>布莱埃斯湖，法内斯-塞内斯-布莱埃斯湖自然公园，多洛米蒂山脉，意大利 (© leonid_tit/Getty Images)</title>
+      <link>https://cn.bing.com/th?id=OHR.AlpineBraies_ZH-CN7307997866_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.AlpineBraies_ZH-CN7307997866_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.AlpineBraies_ZH-CN7307997866_UHD.jpg" type="image/jpg"/>
+      <description>布莱埃斯湖，法内斯-塞内斯-布莱埃斯湖自然公园，多洛米蒂山脉，意大利 (© leonid_tit/Getty Images)</description>
+      <pubDate>2026-11-03</pubDate>
+    </item>
     <item>
       <title>北极熊和幼崽，哈得孙湾畔，马尼托巴省，加拿大 (© Danita Delimont/Adobe Stock)</title>
       <link>https://cn.bing.com/th?id=OHR.HudsonBear_ZH-CN6630706907_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.WroclawPoland_ZH-CN6042428292_UHD.jpg" type="image/jpg"/>
       <description>弗罗茨瓦夫集市广场景观，摄自女巫桥，弗罗茨瓦夫，波兰 (© Piotr Mitelski/Shutterstock)</description>
       <pubDate>2026-10-15</pubDate>
-    </item>
-    <item>
-      <title>侏罗纪时期的菊石化石 (© J Nemchinova/Getty Images)</title>
-      <link>https://cn.bing.com/th?id=OHR.AmmoniteFossils_ZH-CN5825251327_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.AmmoniteFossils_ZH-CN5825251327_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.AmmoniteFossils_ZH-CN5825251327_UHD.jpg" type="image/jpg"/>
-      <description>侏罗纪时期的菊石化石 (© J Nemchinova/Getty Images)</description>
-      <pubDate>2026-10-14</pubDate>
     </item>
   </channel>
 </rss>
