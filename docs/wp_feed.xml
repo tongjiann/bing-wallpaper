@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2026-11-04</lastBuildDate>
+    <lastBuildDate>2026-11-05</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>石墙边的木制翻越梯，黑岩，湖区，英格兰 (© Alex Treadway/Getty Images)</title>
+      <link>https://cn.bing.com/th?id=OHR.StileCrossing_ZH-CN9811465935_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.StileCrossing_ZH-CN9811465935_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.StileCrossing_ZH-CN9811465935_UHD.jpg" type="image/jpg"/>
+      <description>石墙边的木制翻越梯，黑岩，湖区，英格兰 (© Alex Treadway/Getty Images)</description>
+      <pubDate>2026-11-05</pubDate>
+    </item>
     <item>
       <title>五彩落羽杉间划船的人们，宣城，安徽省，中国 (© Jackal Pan/Getty Images)</title>
       <link>https://cn.bing.com/th?id=OHR.AutumnChina_ZH-CN7665959692_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.ChauvetPaintingsFrance_ZH-CN3150703955_UHD.jpg" type="image/jpg"/>
       <description>肖维岩洞艺术作品等比例复制品，瓦隆蓬达尔克，法国 (© Audrey Poree/Alamy)</description>
       <pubDate>2026-10-17</pubDate>
-    </item>
-    <item>
-      <title>斯奈费尔斯山，里奇韦附近的圣胡安山脉，科罗拉多州，美国 (© lightphoto/Getty Images)</title>
-      <link>https://cn.bing.com/th?id=OHR.SneffelsAutumn_ZH-CN3002661429_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.SneffelsAutumn_ZH-CN3002661429_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.SneffelsAutumn_ZH-CN3002661429_UHD.jpg" type="image/jpg"/>
-      <description>斯奈费尔斯山，里奇韦附近的圣胡安山脉，科罗拉多州，美国 (© lightphoto/Getty Images)</description>
-      <pubDate>2026-10-16</pubDate>
     </item>
   </channel>
 </rss>
