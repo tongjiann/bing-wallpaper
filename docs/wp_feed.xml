@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2026-11-07</lastBuildDate>
+    <lastBuildDate>2026-11-08</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>排灯节灯笼，孟买，马哈拉施特拉邦，印度 (© Dinodia Photo/Getty Images)</title>
+      <link>https://cn.bing.com/th?id=OHR.DiwaliLamps_ZH-CN2462894749_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.DiwaliLamps_ZH-CN2462894749_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.DiwaliLamps_ZH-CN2462894749_UHD.jpg" type="image/jpg"/>
+      <description>排灯节灯笼，孟买，马哈拉施特拉邦，印度 (© Dinodia Photo/Getty Images)</description>
+      <pubDate>2026-11-08</pubDate>
+    </item>
     <item>
       <title>草原上的一头野牛，西奥多·罗斯福国家公园，北达科他州，美国 (© Tandem Stock/Adobe Stock)</title>
       <link>https://cn.bing.com/th?id=OHR.DakotaBison_ZH-CN2302503868_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.BrownSloth_ZH-CN5776383136_UHD.jpg" type="image/jpg"/>
       <description>褐喉三趾树懒，塔拉曼卡旧港，哥斯达黎加 (© Suzi Eszterhas/Minden Pictures)</description>
       <pubDate>2026-10-20</pubDate>
-    </item>
-    <item>
-      <title>大运河，威尼斯，意大利 (© Juan Romero/Cavan Images)</title>
-      <link>https://cn.bing.com/th?id=OHR.VeniceSunrise_ZH-CN5251815339_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.VeniceSunrise_ZH-CN5251815339_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.VeniceSunrise_ZH-CN5251815339_UHD.jpg" type="image/jpg"/>
-      <description>大运河，威尼斯，意大利 (© Juan Romero/Cavan Images)</description>
-      <pubDate>2026-10-19</pubDate>
     </item>
   </channel>
 </rss>
