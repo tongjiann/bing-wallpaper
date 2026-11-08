@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2026-11-08</lastBuildDate>
+    <lastBuildDate>2026-11-09</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>特里亚纳历史街区，塞维利亚，西班牙 (© Andrzej Rostek/Getty Images)</title>
+      <link>https://cn.bing.com/th?id=OHR.TrianaSpain_ZH-CN6329291776_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.TrianaSpain_ZH-CN6329291776_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.TrianaSpain_ZH-CN6329291776_UHD.jpg" type="image/jpg"/>
+      <description>特里亚纳历史街区，塞维利亚，西班牙 (© Andrzej Rostek/Getty Images)</description>
+      <pubDate>2026-11-09</pubDate>
+    </item>
     <item>
       <title>排灯节灯笼，孟买，马哈拉施特拉邦，印度 (© Dinodia Photo/Getty Images)</title>
       <link>https://cn.bing.com/th?id=OHR.DiwaliLamps_ZH-CN2462894749_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.VietnamBridge_ZH-CN6134321119_UHD.jpg" type="image/jpg"/>
       <description>香江上的阮潢桥，顺化，越南 (© VU PHAM VAN/Getty Images)</description>
       <pubDate>2026-10-21</pubDate>
-    </item>
-    <item>
-      <title>褐喉三趾树懒，塔拉曼卡旧港，哥斯达黎加 (© Suzi Eszterhas/Minden Pictures)</title>
-      <link>https://cn.bing.com/th?id=OHR.BrownSloth_ZH-CN5776383136_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.BrownSloth_ZH-CN5776383136_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.BrownSloth_ZH-CN5776383136_UHD.jpg" type="image/jpg"/>
-      <description>褐喉三趾树懒，塔拉曼卡旧港，哥斯达黎加 (© Suzi Eszterhas/Minden Pictures)</description>
-      <pubDate>2026-10-20</pubDate>
     </item>
   </channel>
 </rss>
