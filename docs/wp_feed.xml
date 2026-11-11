@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2026-11-11</lastBuildDate>
+    <lastBuildDate>2026-11-12</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>北窗，拱门国家公园，莫阿布，犹他州，美国 (© lightphoto/Getty Images)</title>
+      <link>https://cn.bing.com/th?id=OHR.NorthWindow_ZH-CN6734579353_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.NorthWindow_ZH-CN6734579353_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.NorthWindow_ZH-CN6734579353_UHD.jpg" type="image/jpg"/>
+      <description>北窗，拱门国家公园，莫阿布，犹他州，美国 (© lightphoto/Getty Images)</description>
+      <pubDate>2026-11-12</pubDate>
+    </item>
     <item>
       <title>大西洋森林，巴西 (© FG Trade/Getty Images)</title>
       <link>https://cn.bing.com/th?id=OHR.Atlantica_ZH-CN6593995386_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.PortugueseLibrary_ZH-CN7096893027_UHD.jpg" type="image/jpg"/>
       <description>皇家葡萄牙语阅览室，里约热内卢，巴西 (© Antonio Salaverry/Shutterstock)</description>
       <pubDate>2026-10-24</pubDate>
-    </item>
-    <item>
-      <title>两只灰狼，黄石国家公园，怀俄明州，美国 (© John Morrison/Getty Images)</title>
-      <link>https://cn.bing.com/th?id=OHR.YellowstoneWolves_ZH-CN6767268961_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.YellowstoneWolves_ZH-CN6767268961_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.YellowstoneWolves_ZH-CN6767268961_UHD.jpg" type="image/jpg"/>
-      <description>两只灰狼，黄石国家公园，怀俄明州，美国 (© John Morrison/Getty Images)</description>
-      <pubDate>2026-10-23</pubDate>
     </item>
   </channel>
 </rss>
