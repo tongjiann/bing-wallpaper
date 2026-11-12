@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2026-11-12</lastBuildDate>
+    <lastBuildDate>2026-11-13</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>亚伯拉罕湖，艾伯塔省，加拿大 (© Guang Cao/Getty Images)</title>
+      <link>https://cn.bing.com/th?id=OHR.AbrahamCanada_ZH-CN0344365912_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.AbrahamCanada_ZH-CN0344365912_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.AbrahamCanada_ZH-CN0344365912_UHD.jpg" type="image/jpg"/>
+      <description>亚伯拉罕湖，艾伯塔省，加拿大 (© Guang Cao/Getty Images)</description>
+      <pubDate>2026-11-13</pubDate>
+    </item>
     <item>
       <title>北窗，拱门国家公园，莫阿布，犹他州，美国 (© lightphoto/Getty Images)</title>
       <link>https://cn.bing.com/th?id=OHR.NorthWindow_ZH-CN6734579353_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.MaligneFest_ZH-CN8343066766_UHD.jpg" type="image/jpg"/>
       <description>玛琳湖，贾斯珀国家公园，艾伯塔省，加拿大 (© Andrey Popov/Getty Images)</description>
       <pubDate>2026-10-25</pubDate>
-    </item>
-    <item>
-      <title>皇家葡萄牙语阅览室，里约热内卢，巴西 (© Antonio Salaverry/Shutterstock)</title>
-      <link>https://cn.bing.com/th?id=OHR.PortugueseLibrary_ZH-CN7096893027_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.PortugueseLibrary_ZH-CN7096893027_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.PortugueseLibrary_ZH-CN7096893027_UHD.jpg" type="image/jpg"/>
-      <description>皇家葡萄牙语阅览室，里约热内卢，巴西 (© Antonio Salaverry/Shutterstock)</description>
-      <pubDate>2026-10-24</pubDate>
     </item>
   </channel>
 </rss>
