@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2026-11-16</lastBuildDate>
+    <lastBuildDate>2026-11-17</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>雪松林步道，冰川国家公园，蒙大拿州，美国 (© DBushue Photography/Getty Images)</title>
+      <link>https://cn.bing.com/th?id=OHR.TrailCedars_ZH-CN2670680285_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.TrailCedars_ZH-CN2670680285_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.TrailCedars_ZH-CN2670680285_UHD.jpg" type="image/jpg"/>
+      <description>雪松林步道，冰川国家公园，蒙大拿州，美国 (© DBushue Photography/Getty Images)</description>
+      <pubDate>2026-11-17</pubDate>
+    </item>
     <item>
       <title>美国新墨西哥州吉拉悬崖民居国家纪念地 (© Chiara Salvadori/Getty Images)</title>
       <link>https://cn.bing.com/th?id=OHR.GilaCliff_ZH-CN2393001519_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.AveburyStones_ZH-CN9127100951_UHD.jpg" type="image/jpg"/>
       <description>立石，埃夫伯里，威尔特郡，英格兰 (© George W Johnson/Getty Images)</description>
       <pubDate>2026-10-29</pubDate>
-    </item>
-    <item>
-      <title>库涅季采山城堡，波希米亚，捷克 (© Marek Saroch/Alamy)</title>
-      <link>https://cn.bing.com/th?id=OHR.KuneticeCastle_ZH-CN8895858920_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.KuneticeCastle_ZH-CN8895858920_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.KuneticeCastle_ZH-CN8895858920_UHD.jpg" type="image/jpg"/>
-      <description>库涅季采山城堡，波希米亚，捷克 (© Marek Saroch/Alamy)</description>
-      <pubDate>2026-10-28</pubDate>
     </item>
   </channel>
 </rss>
