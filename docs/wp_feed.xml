@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2026-11-19</lastBuildDate>
+    <lastBuildDate>2026-11-20</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>正在潜水的座头鲸，挪威北部特罗姆斯的克瓦尔岛 (© Espen Bergersen/Minden Pictures)</title>
+      <link>https://cn.bing.com/th?id=OHR.Megaptera_ZH-CN3361807823_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.Megaptera_ZH-CN3361807823_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.Megaptera_ZH-CN3361807823_UHD.jpg" type="image/jpg"/>
+      <description>正在潜水的座头鲸，挪威北部特罗姆斯的克瓦尔岛 (© Espen Bergersen/Minden Pictures)</description>
+      <pubDate>2026-11-20</pubDate>
+    </item>
     <item>
       <title>雕塑《知识之躯》，由豪梅·普兰萨创作，位于德国法兰克福的法兰克福歌德大学 (© Todamo/Shutterstock)</title>
       <link>https://cn.bing.com/th?id=OHR.KnowledgeSculpture_ZH-CN3168800853_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.SchwarzwaldAutumn_ZH-CN6323627599_UHD.jpg" type="image/jpg"/>
       <description>黑森林，巴登-符腾堡州，德国 (© Britus/Getty Images)</description>
       <pubDate>2026-11-01</pubDate>
-    </item>
-    <item>
-      <title>圣巴尔多禄茂教堂，法兰克福，德国 (© AlxeyPnferov/Getty Images)</title>
-      <link>https://cn.bing.com/th?id=OHR.FrankfurtHalloween_ZH-CN5998782698_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.FrankfurtHalloween_ZH-CN5998782698_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.FrankfurtHalloween_ZH-CN5998782698_UHD.jpg" type="image/jpg"/>
-      <description>圣巴尔多禄茂教堂，法兰克福，德国 (© AlxeyPnferov/Getty Images)</description>
-      <pubDate>2026-10-31</pubDate>
     </item>
   </channel>
 </rss>
