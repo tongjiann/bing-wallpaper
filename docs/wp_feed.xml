@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2026-11-22</lastBuildDate>
+    <lastBuildDate>2026-11-23</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>蕨类植物的卷曲嫩叶 (© Reza Saputra/Getty Images)</title>
+      <link>https://cn.bing.com/th?id=OHR.FibonacciFern_ZH-CN3882237848_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.FibonacciFern_ZH-CN3882237848_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.FibonacciFern_ZH-CN3882237848_UHD.jpg" type="image/jpg"/>
+      <description>蕨类植物的卷曲嫩叶 (© Reza Saputra/Getty Images)</description>
+      <pubDate>2026-11-23</pubDate>
+    </item>
     <item>
       <title>西班牙坎塔布里亚自治区的圣胡斯塔隐修院与小教堂 (© Tramont_ana/Getty Images)</title>
       <link>https://cn.bing.com/th?id=OHR.JustaHermitage_ZH-CN3751022621_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.AutumnChina_ZH-CN7665959692_UHD.jpg" type="image/jpg"/>
       <description>五彩落羽杉间划船的人们，宣城，安徽省，中国 (© Jackal Pan/Getty Images)</description>
       <pubDate>2026-11-04</pubDate>
-    </item>
-    <item>
-      <title>布莱埃斯湖，法内斯-塞内斯-布莱埃斯湖自然公园，多洛米蒂山脉，意大利 (© leonid_tit/Getty Images)</title>
-      <link>https://cn.bing.com/th?id=OHR.AlpineBraies_ZH-CN7307997866_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.AlpineBraies_ZH-CN7307997866_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.AlpineBraies_ZH-CN7307997866_UHD.jpg" type="image/jpg"/>
-      <description>布莱埃斯湖，法内斯-塞内斯-布莱埃斯湖自然公园，多洛米蒂山脉，意大利 (© leonid_tit/Getty Images)</description>
-      <pubDate>2026-11-03</pubDate>
     </item>
   </channel>
 </rss>
