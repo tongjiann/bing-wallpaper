@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2026-11-23</lastBuildDate>
+    <lastBuildDate>2026-11-24</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>红松鼠，凯恩戈姆斯国家公园，苏格兰高地 (© Scotland: The Big Picture/Minden Pictures)</title>
+      <link>https://cn.bing.com/th?id=OHR.CairngormsSquirrel_ZH-CN0941302869_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.CairngormsSquirrel_ZH-CN0941302869_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.CairngormsSquirrel_ZH-CN0941302869_UHD.jpg" type="image/jpg"/>
+      <description>红松鼠，凯恩戈姆斯国家公园，苏格兰高地 (© Scotland: The Big Picture/Minden Pictures)</description>
+      <pubDate>2026-11-24</pubDate>
+    </item>
     <item>
       <title>蕨类植物的卷曲嫩叶 (© Reza Saputra/Getty Images)</title>
       <link>https://cn.bing.com/th?id=OHR.FibonacciFern_ZH-CN3882237848_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.StileCrossing_ZH-CN9811465935_UHD.jpg" type="image/jpg"/>
       <description>石墙边的木制翻越梯，黑岩，湖区，英格兰 (© Alex Treadway/Getty Images)</description>
       <pubDate>2026-11-05</pubDate>
-    </item>
-    <item>
-      <title>五彩落羽杉间划船的人们，宣城，安徽省，中国 (© Jackal Pan/Getty Images)</title>
-      <link>https://cn.bing.com/th?id=OHR.AutumnChina_ZH-CN7665959692_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.AutumnChina_ZH-CN7665959692_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.AutumnChina_ZH-CN7665959692_UHD.jpg" type="image/jpg"/>
-      <description>五彩落羽杉间划船的人们，宣城，安徽省，中国 (© Jackal Pan/Getty Images)</description>
-      <pubDate>2026-11-04</pubDate>
     </item>
   </channel>
 </rss>
