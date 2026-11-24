@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2026-11-24</lastBuildDate>
+    <lastBuildDate>2026-11-25</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>日落观景点，布莱斯峡谷国家公园，犹他州 (© Colin D. Young/Alamy)</title>
+      <link>https://cn.bing.com/th?id=OHR.SunsetPoint_ZH-CN5737034685_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.SunsetPoint_ZH-CN5737034685_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.SunsetPoint_ZH-CN5737034685_UHD.jpg" type="image/jpg"/>
+      <description>日落观景点，布莱斯峡谷国家公园，犹他州 (© Colin D. Young/Alamy)</description>
+      <pubDate>2026-11-25</pubDate>
+    </item>
     <item>
       <title>红松鼠，凯恩戈姆斯国家公园，苏格兰高地 (© Scotland: The Big Picture/Minden Pictures)</title>
       <link>https://cn.bing.com/th?id=OHR.CairngormsSquirrel_ZH-CN0941302869_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.PipiwaiTrail_ZH-CN1811194311_UHD.jpg" type="image/jpg"/>
       <description>竹林，皮皮维小径，哈莱亚卡拉国家公园，毛伊岛，夏威夷州，美国 (© MNStudio/Getty Images)</description>
       <pubDate>2026-11-06</pubDate>
-    </item>
-    <item>
-      <title>石墙边的木制翻越梯，黑岩，湖区，英格兰 (© Alex Treadway/Getty Images)</title>
-      <link>https://cn.bing.com/th?id=OHR.StileCrossing_ZH-CN9811465935_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.StileCrossing_ZH-CN9811465935_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.StileCrossing_ZH-CN9811465935_UHD.jpg" type="image/jpg"/>
-      <description>石墙边的木制翻越梯，黑岩，湖区，英格兰 (© Alex Treadway/Getty Images)</description>
-      <pubDate>2026-11-05</pubDate>
     </item>
   </channel>
 </rss>
