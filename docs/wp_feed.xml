@@ -3,8 +3,16 @@
   <channel>
     <title>近30日Bing超高清壁纸</title>
     <link>https://cn.bing.com</link>
-    <lastBuildDate>2026-11-27</lastBuildDate>
+    <lastBuildDate>2026-11-28</lastBuildDate>
     <description>Latest Bing Wallpapers</description>
+    <item>
+      <title>捷克布拉格老城区与伏尔塔瓦河 (© Lara_Uhryn/Getty Images)</title>
+      <link>https://cn.bing.com/th?id=OHR.VltavaPrague_ZH-CN9898139716_UHD.jpg</link>
+      <enclosure url="https://cn.bing.com/th?id=OHR.VltavaPrague_ZH-CN9898139716_UHD.jpg" type="image/jpeg"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.VltavaPrague_ZH-CN9898139716_UHD.jpg" type="image/jpg"/>
+      <description>捷克布拉格老城区与伏尔塔瓦河 (© Lara_Uhryn/Getty Images)</description>
+      <pubDate>2026-11-28</pubDate>
+    </item>
     <item>
       <title>夕阳下的孤峰，鲍威尔湖脸峡谷，犹他州，美国 (© Jeff Foott/Minden)</title>
       <link>https://cn.bing.com/th?id=OHR.FaceCanyon_ZH-CN9505064248_UHD.jpg</link>
@@ -156,14 +164,6 @@
       <enclosure url="https://cn.bing.com/th?id=OHR.TrianaSpain_ZH-CN6329291776_UHD.jpg" type="image/jpg"/>
       <description>特里亚纳历史街区，塞维利亚，西班牙 (© Andrzej Rostek/Getty Images)</description>
       <pubDate>2026-11-09</pubDate>
-    </item>
-    <item>
-      <title>排灯节灯笼，孟买，马哈拉施特拉邦，印度 (© Dinodia Photo/Getty Images)</title>
-      <link>https://cn.bing.com/th?id=OHR.DiwaliLamps_ZH-CN2462894749_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.DiwaliLamps_ZH-CN2462894749_UHD.jpg" type="image/jpeg"/>
-      <enclosure url="https://cn.bing.com/th?id=OHR.DiwaliLamps_ZH-CN2462894749_UHD.jpg" type="image/jpg"/>
-      <description>排灯节灯笼，孟买，马哈拉施特拉邦，印度 (© Dinodia Photo/Getty Images)</description>
-      <pubDate>2026-11-08</pubDate>
     </item>
   </channel>
 </rss>
